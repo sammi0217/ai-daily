@@ -2,242 +2,508 @@
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>AI 日報</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=VT323&family=Noto+Sans+TC:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Noto+Sans+TC:wght@400;500;700&display=swap');
 
-* { margin:0; padding:0; box-sizing:border-box; }
+/* ── RESET ── */
+* { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color: transparent; }
+
+:root {
+  --mac-grey: #c0c0c0;
+  --mac-dark: #555555;
+  --mac-white: #ffffff;
+  --mac-black: #000000;
+  --mac-blue: #000080;
+  --mac-bg: #e0e0e0;
+  --mac-hover: #b8d4f0;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+html, body { height: 100%; overflow: hidden; }
 
 body {
-  background: #c0c0c0;
+  background: var(--mac-bg);
   font-family: 'Noto Sans TC', 'Chicago', Geneva, sans-serif;
-  font-size: 12px;
-  min-height: 100vh;
-  cursor: default;
-  user-select: none;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+}
+
+/* ── MAC BEVEL MIXINS ── */
+.bevel-out {
+  border-top: 2px solid var(--mac-white);
+  border-left: 2px solid var(--mac-white);
+  border-right: 2px solid var(--mac-dark);
+  border-bottom: 2px solid var(--mac-dark);
+}
+.bevel-in {
+  border-top: 1px solid var(--mac-dark);
+  border-left: 1px solid var(--mac-dark);
+  border-right: 1px solid var(--mac-white);
+  border-bottom: 1px solid var(--mac-white);
 }
 
 /* ── MENU BAR ── */
 .menubar {
-  background: #ffffff;
-  border-bottom: 1px solid #000;
+  background: var(--mac-white);
+  border-bottom: 1px solid var(--mac-black);
   display: flex;
   align-items: center;
-  padding: 0 6px;
-  height: 20px;
-  position: sticky;
-  top: 0;
-  z-index: 200;
-  gap: 0;
+  padding: 0 8px;
+  height: 24px;
+  flex-shrink: 0;
+  z-index: 100;
+  gap: 4px;
 }
+.menu-logo { font-size: 16px; cursor: pointer; }
 .menu-item {
-  padding: 1px 8px;
+  padding: 2px 8px;
   font-size: 12px;
   font-weight: bold;
   cursor: pointer;
+  border-radius: 0;
+}
+.menu-item:active { background: var(--mac-blue); color: #fff; }
+.menubar-clock { margin-left: auto; font-size: 11px; color: #333; }
+
+/* ── MAIN LAYOUT ── */
+.app-body {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+/* ── LIST PANEL ── */
+.list-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--mac-bg);
+  min-width: 0;
+}
+
+/* Masthead */
+.masthead {
+  background: var(--mac-white);
+  border-bottom: 2px solid var(--mac-black);
+  padding: 10px 14px 8px;
+  flex-shrink: 0;
+}
+.masthead-row { display: flex; align-items: flex-end; justify-content: space-between; }
+.masthead-title {
+  font-family: 'VT323', monospace;
+  font-size: 44px;
+  line-height: 1;
+  letter-spacing: -2px;
+  color: #000;
+}
+.masthead-date { font-size: 10px; color: #666; text-align: right; line-height: 1.6; }
+.masthead-sub { font-size: 10px; color: #999; margin-top: 2px; }
+
+/* Toolbar */
+.toolbar {
+  background: var(--mac-grey);
+  border-bottom: 1px solid #888;
+  padding: 5px 8px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.toolbar-btn {
+  background: var(--mac-grey);
+  border-top: 1px solid var(--mac-white);
+  border-left: 1px solid var(--mac-white);
+  border-right: 1px solid var(--mac-dark);
+  border-bottom: 1px solid var(--mac-dark);
+  padding: 4px 10px;
+  font-size: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  white-space: nowrap;
+  font-family: 'Noto Sans TC', sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
+}
+.toolbar-btn .count-badge {
+  background: #888;
+  color: #fff;
+  font-size: 9px;
+  font-weight: bold;
+  padding: 0 4px;
+  border-radius: 2px;
+  line-height: 14px;
+}
+.toolbar-btn:active, .toolbar-btn.active {
+  border-top: 1px solid var(--mac-dark);
+  border-left: 1px solid var(--mac-dark);
+  border-right: 1px solid var(--mac-white);
+  border-bottom: 1px solid var(--mac-white);
+  background: #aaa;
+}
+.toolbar-btn.active .count-badge { background: var(--mac-blue); }
+.toolbar-sep { width: 1px; height: 20px; background: #888; margin: 0 2px; border-right: 1px solid var(--mac-white); }
+.refresh-btn { margin-left: auto; font-size: 14px; cursor: pointer; padding: 4px 6px; line-height: 1; }
+.refresh-btn:active { opacity: 0.5; }
+
+/* ── SHARED GRID (header + rows) ── */
+/* Desktop: 圖示 | 標題 | 來源 | 分類 | 時間 */
+/* Mobile:  圖示 | 標題 | 分類+時間 */
+.col-headers,
+.article-row {
+  display: grid;
+  grid-template-columns: 34px 1fr 90px 46px 56px;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+/* Column Headers */
+.col-headers {
+  border-bottom: 1px solid #000;
+  background: var(--mac-grey);
+  flex-shrink: 0;
+}
+.col-hdr {
+  padding: 3px 6px;
+  font-size: 10px;
+  font-weight: bold;
+  border-right: 1px solid #888;
+  white-space: nowrap;
+  overflow: hidden;
   line-height: 18px;
+}
+.col-hdr:last-child { border-right: none; }
+
+/* Article List */
+.article-list {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background: #e8e8e8;
+}
+
+.article-row {
+  cursor: pointer;
+  min-height: 52px;
+  align-items: stretch;
+  transition: background 0.05s;
+}
+.article-row:nth-child(even) { background: rgba(255,255,255,0.35); }
+.article-row:active { background: var(--mac-hover); }
+.article-row.selected { background: var(--mac-blue); color: #fff; }
+
+/* Grid cells */
+.row-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  border-right: 1px solid #ccc;
+  padding: 4px 2px;
+}
+.row-title-cell {
+  padding: 6px 7px;
+  border-right: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0;
+}
+.row-title {
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.row-source-cell {
+  padding: 4px 6px;
+  border-right: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+  color: #666;
+  overflow: hidden;
+}
+.row-source-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
-.menu-item:hover { background: #000080; color: #fff; }
-.menubar-clock { margin-left: auto; font-size: 11px; padding: 0 8px; }
+.article-row.selected .row-source-cell { color: #aaaaff; }
 
-/* ── DESKTOP ── */
-.desktop { padding: 10px; display: flex; flex-direction: column; gap: 8px; }
-
-/* ── BEVEL WINDOW ── */
-.window {
-  background: #c0c0c0;
-  border-top: 2px solid #ffffff;
-  border-left: 2px solid #ffffff;
-  border-right: 2px solid #555555;
-  border-bottom: 2px solid #555555;
+.row-cat-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid #ccc;
+  padding: 4px;
 }
+.row-cat {
+  font-size: 9px;
+  font-weight: bold;
+  padding: 2px 5px;
+  border-radius: 2px;
+  white-space: nowrap;
+  text-align: center;
+}
+.cat-ai { background: #800000; color: #fff; }
+.cat-ux { background: #000080; color: #fff; }
+.cat-tech { background: #006400; color: #fff; }
+.article-row.selected .cat-ai,
+.article-row.selected .cat-ux,
+.article-row.selected .cat-tech { background: rgba(255,255,255,0.25); }
 
-/* ── TITLE BAR ── */
-.titlebar {
+.row-time-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+}
+.row-time { font-size: 10px; color: #888; text-align: center; white-space: nowrap; }
+.article-row.selected .row-time { color: #aaaaff; }
+
+/* ── DETAIL PANEL (Desktop sidebar) ── */
+.detail-panel {
+  width: 380px;
+  flex-shrink: 0;
+  display: none;
+  flex-direction: column;
+  border-left: 3px solid #000;
+  background: var(--mac-grey);
+  overflow: hidden;
+}
+.detail-titlebar {
   height: 22px;
   display: flex;
   align-items: center;
-  padding: 0 4px;
+  padding: 0 6px;
   gap: 4px;
-  position: relative;
-  overflow: hidden;
   border-bottom: 1px solid #000;
+  flex-shrink: 0;
   background: repeating-linear-gradient(
-    90deg,
-    #000000 0px, #000000 1px,
-    #ffffff 1px, #ffffff 3px
+    90deg, #000 0px, #000 1px, #fff 1px, #fff 3px
   );
+  position: relative;
 }
-.titlebar-btn {
-  width: 13px; height: 13px;
-  background: #c0c0c0;
+.detail-titlebar-btn {
+  width: 14px; height: 14px;
+  background: var(--mac-grey);
   border-top: 1px solid #fff;
   border-left: 1px solid #fff;
   border-right: 1px solid #555;
   border-bottom: 1px solid #555;
-  cursor: pointer;
-  flex-shrink: 0;
-  font-size: 9px;
+  font-size: 10px;
   display: flex; align-items: center; justify-content: center;
-  z-index: 1;
+  cursor: pointer; z-index: 1; flex-shrink: 0;
 }
-.titlebar-btn:active { border-color: #555 #fff #fff #555; }
-.titlebar-title {
+.detail-titlebar-btn:active { border-color: #555 #fff #fff #555; }
+.detail-titlebar-label {
   position: absolute; left: 50%; transform: translateX(-50%);
-  background: #c0c0c0;
+  background: var(--mac-grey);
   padding: 1px 10px;
   font-size: 11px; font-weight: bold;
   white-space: nowrap; z-index: 1;
 }
-
-/* ── TOOLBAR ── */
-.toolbar {
-  border-bottom: 1px solid #000;
-  display: flex; align-items: center;
-  padding: 4px 6px; gap: 4px;
-  background: #c0c0c0; flex-wrap: wrap;
-}
-.toolbar-btn {
-  background: #c0c0c0;
-  border-top: 1px solid #fff;
-  border-left: 1px solid #fff;
-  border-right: 1px solid #555;
-  border-bottom: 1px solid #555;
-  padding: 2px 10px;
-  font-size: 11px; font-weight: bold;
-  cursor: pointer; white-space: nowrap;
-  font-family: 'Noto Sans TC', sans-serif;
-}
-.toolbar-btn:active, .toolbar-btn.active {
-  border-top: 1px solid #555;
-  border-left: 1px solid #555;
-  border-right: 1px solid #fff;
-  border-bottom: 1px solid #fff;
-  background: #aaaaaa;
-}
-.toolbar-sep { width: 1px; height: 18px; background: #888; margin: 0 3px; border-right: 1px solid #fff; }
-
-/* ── LIST VIEW ── */
-.list-header {
-  display: grid;
-  grid-template-columns: 24px 1fr 110px 55px 65px;
-  border-bottom: 1px solid #000;
-  background: #c0c0c0;
-}
-.list-header-cell {
-  padding: 2px 5px; font-size: 11px; font-weight: bold;
-  border-right: 1px solid #888;
-  white-space: nowrap; overflow: hidden;
-}
-.list-header-cell:last-child { border-right: none; }
-
-.article-row {
-  display: grid;
-  grid-template-columns: 24px 1fr 110px 55px 65px;
-  border-bottom: 1px solid #d0d0d0;
-  cursor: pointer; align-items: start;
-}
-.article-row:nth-child(even) { background: rgba(255,255,255,0.3); }
-.article-row:hover { background: #b8d4f0; }
-.article-row.selected { background: #000080; color: #fff; }
-
-.col-icon { padding: 3px 4px; font-size: 13px; text-align: center; border-right: 1px solid #d0d0d0; }
-.col-title { padding: 3px 5px; font-size: 11px; font-weight: bold; border-right: 1px solid #d0d0d0; line-height: 1.4; }
-.col-source { padding: 3px 5px; font-size: 10px; border-right: 1px solid #d0d0d0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.col-cat { padding: 3px 5px; font-size: 10px; font-weight: bold; border-right: 1px solid #d0d0d0; }
-.col-time { padding: 3px 5px; font-size: 10px; white-space: nowrap; }
-.article-row.selected .col-source,
-.article-row.selected .col-time { color: #aaaaff; }
-.tag-ai { color: #800000; }
-.tag-ux { color: #000080; }
-.tag-tech { color: #006400; }
-.article-row.selected .tag-ai,
-.article-row.selected .tag-ux,
-.article-row.selected .tag-tech { color: #ffffff; }
-
-/* ── MASTHEAD ── */
-.masthead-inner {
-  padding: 10px 14px;
-  display: flex; align-items: center; justify-content: space-between;
-  border-bottom: 1px solid #000;
+.detail-content {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 14px;
   background: #fff;
 }
-.masthead-title {
-  font-family: 'VT323', monospace;
-  font-size: 48px; line-height: 1;
-  letter-spacing: -3px; color: #000;
+.detail-empty {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: #999;
+  font-size: 12px;
+  text-align: center;
 }
-.masthead-sub { font-size: 10px; color: #666; margin-top: 2px; }
-.masthead-meta { text-align: right; font-size: 10px; line-height: 1.8; color: #555; }
-
-/* ── DETAIL PANEL ── */
-.detail-inner {
-  padding: 12px 14px;
-  background: #fff;
-  border-top: 1px solid #ccc;
-}
-.detail-headline { font-size: 14px; font-weight: bold; margin-bottom: 8px; line-height: 1.4; }
-.detail-deck { font-size: 11px; line-height: 1.8; color: #333; margin-bottom: 10px; }
-.detail-meta { font-size: 10px; color: #888; display: flex; gap: 16px; margin-bottom: 8px; flex-wrap: wrap; }
+.detail-empty-icon { font-size: 40px; opacity: 0.3; }
+.detail-headline { font-size: 15px; font-weight: bold; line-height: 1.5; margin-bottom: 10px; color: #000; }
+.detail-deck { font-size: 12px; line-height: 1.8; color: #444; margin-bottom: 12px; }
+.detail-meta-row { font-size: 10px; color: #999; display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; }
+.detail-divider { height: 1px; background: #ddd; margin: 10px 0; }
 .mac-btn {
   display: inline-block;
-  padding: 3px 16px;
-  background: #c0c0c0;
-  border-top: 1px solid #fff;
-  border-left: 1px solid #fff;
-  border-right: 1px solid #555;
-  border-bottom: 1px solid #555;
-  font-size: 11px; font-weight: bold;
+  padding: 6px 18px;
+  background: var(--mac-grey);
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  border-right: 2px solid var(--mac-dark);
+  border-bottom: 2px solid var(--mac-dark);
+  font-size: 12px; font-weight: bold;
   text-decoration: none; color: #000;
-  cursor: pointer; font-family: 'Noto Sans TC', sans-serif;
+  cursor: pointer;
+  font-family: 'Noto Sans TC', sans-serif;
+  margin-right: 6px;
 }
 .mac-btn:active { border-color: #555 #fff #fff #555; }
 
-/* ── PROGRESS DIALOG ── */
-.overlay { position: fixed; inset: 0; z-index: 250; display: none; }
-.overlay.visible { display: block; }
-.progress-dialog {
-  position: fixed; top: 50%; left: 50%;
-  transform: translate(-50%, -50%);
-  width: 300px; z-index: 300;
+/* ── MOBILE BOTTOM SHEET ── */
+.sheet-overlay {
   display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 150;
+  background: rgba(0,0,0,0.4);
 }
-.progress-dialog.visible { display: block; }
-.progress-content { padding: 12px 14px; background: #c0c0c0; border-bottom: 1px solid #000; }
-.progress-label { font-size: 11px; margin-bottom: 6px; text-align: center; }
+.sheet-overlay.open { display: block; }
+
+.bottom-sheet {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 200;
+  max-height: 82dvh;
+  display: flex;
+  flex-direction: column;
+  transform: translateY(100%);
+  transition: transform 0.28s cubic-bezier(0.34, 1.02, 0.64, 1);
+  /* Mac bevel on top/sides */
+  border-top: 3px solid var(--mac-white);
+  border-left: 3px solid var(--mac-white);
+  border-right: 3px solid var(--mac-dark);
+  background: var(--mac-grey);
+  padding-bottom: var(--safe-bottom);
+}
+.bottom-sheet.open { transform: translateY(0); }
+
+.sheet-handle-area {
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 6px;
+  gap: 8px;
+  cursor: pointer;
+  border-bottom: 1px solid #000;
+  flex-shrink: 0;
+  position: relative;
+  background: repeating-linear-gradient(
+    90deg, #000 0px, #000 1px, #fff 1px, #fff 3px
+  );
+}
+.sheet-handle-btn {
+  width: 14px; height: 14px;
+  background: var(--mac-grey);
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+  font-size: 10px;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; z-index: 1;
+}
+.sheet-source-label {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  background: var(--mac-grey);
+  padding: 1px 10px;
+  font-size: 11px; font-weight: bold;
+  white-space: nowrap; overflow: hidden; max-width: 160px;
+  text-overflow: ellipsis;
+  z-index: 1;
+}
+
+.sheet-body {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 16px;
+  background: #fff;
+}
+
+/* ── PROGRESS DIALOG ── */
+.progress-overlay {
+  display: none;
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.3);
+  z-index: 400;
+  align-items: center;
+  justify-content: center;
+}
+.progress-overlay.visible { display: flex; }
+.progress-box {
+  width: 280px;
+  background: var(--mac-grey);
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #555;
+  border-bottom: 2px solid #555;
+}
+.progress-title-bar {
+  height: 22px;
+  display: flex; align-items: center; justify-content: center;
+  border-bottom: 1px solid #000;
+  background: repeating-linear-gradient(90deg, #000 0px, #000 1px, #fff 1px, #fff 3px);
+}
+.progress-title-label {
+  background: var(--mac-grey);
+  padding: 1px 10px;
+  font-size: 11px; font-weight: bold;
+}
+.progress-body { padding: 14px 16px 16px; }
+.progress-label { font-size: 11px; text-align: center; margin-bottom: 8px; }
 .progress-track {
   background: #fff;
   border-top: 1px solid #555;
   border-left: 1px solid #555;
   border-right: 1px solid #fff;
   border-bottom: 1px solid #fff;
-  height: 16px; overflow: hidden;
+  height: 18px; overflow: hidden;
 }
 .progress-fill {
-  height: 100%;
-  width: 0%;
-  background: repeating-linear-gradient(
-    90deg, #000080 0px, #000080 8px, #4040b0 8px, #4040b0 16px
-  );
-  transition: width 0.25s;
+  height: 100%; width: 0%;
+  background: repeating-linear-gradient(90deg, #000080 0px, #000080 8px, #4040c0 8px, #4040c0 16px);
+  transition: width 0.3s;
 }
-.progress-status { font-size: 10px; text-align: center; margin-top: 6px; color: #555; }
+.progress-status { font-size: 10px; text-align: center; margin-top: 6px; color: #666; }
+
+/* ── EMPTY / ERROR STATES ── */
+.list-empty {
+  padding: 50px 20px;
+  text-align: center;
+  color: #888;
+  font-size: 12px;
+  line-height: 2;
+}
 
 /* ── SCROLLBAR ── */
-::-webkit-scrollbar { width: 16px; }
-::-webkit-scrollbar-track { background: #c0c0c0; border-left: 1px solid #000; }
+::-webkit-scrollbar { width: 14px; }
+::-webkit-scrollbar-track { background: var(--mac-grey); border-left: 1px solid #999; }
 ::-webkit-scrollbar-thumb {
-  background: #c0c0c0;
-  border-top: 1px solid #fff; border-left: 1px solid #fff;
-  border-right: 1px solid #555; border-bottom: 1px solid #555;
+  background: var(--mac-grey);
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
 }
 
-/* ── RESPONSIVE ── */
-@media (max-width: 600px) {
-  .list-header, .article-row { grid-template-columns: 24px 1fr 80px 45px; }
-  .col-time { display: none; }
+/* ── DESKTOP LAYOUT ── */
+@media (min-width: 700px) {
+  .detail-panel { display: flex; }
+  .sheet-overlay, .bottom-sheet { display: none !important; }
+  /* 確保列表欄位不被 detail panel 壓縮 */
+  .list-panel { min-width: 320px; }
+}
+/* ── MOBILE LAYOUT ── */
+@media (max-width: 699px) {
+  /* 手機隱藏「來源」「時間」欄 → 3 欄: icon | 標題 | 分類 */
+  .col-headers,
+  .article-row { grid-template-columns: 38px 1fr 52px; }
+  #hdr-source, .row-source-cell,
+  #hdr-time, .row-time-cell { display: none; }
   .masthead-title { font-size: 36px; }
 }
 </style>
@@ -246,176 +512,197 @@ body {
 
 <!-- MENU BAR -->
 <div class="menubar">
-  <div class="menu-item">🍎</div>
-  <div class="menu-item">檔案</div>
-  <div class="menu-item">顯示</div>
-  <div class="menu-item">說明</div>
-  <div class="menubar-clock" id="clock">00:00</div>
+  <span class="menu-logo">🍎</span>
+  <span class="menu-item">檔案</span>
+  <span class="menu-item">顯示</span>
+  <span class="menu-item">說明</span>
+  <span class="menubar-clock" id="clock">00:00</span>
 </div>
 
-<!-- DESKTOP -->
-<div class="desktop">
+<!-- APP BODY -->
+<div class="app-body">
 
-  <!-- MASTHEAD -->
-  <div class="window">
-    <div class="titlebar">
-      <div class="titlebar-btn">■</div>
-      <div class="titlebar-btn">□</div>
-      <div class="titlebar-title">AI 日報</div>
-    </div>
-    <div class="masthead-inner">
-      <div>
+  <!-- LIST PANEL -->
+  <div class="list-panel">
+
+    <!-- Masthead -->
+    <div class="masthead">
+      <div class="masthead-row">
         <div class="masthead-title">AI 日報</div>
-        <div class="masthead-sub">Global AI & UX Intelligence · Daily Digest</div>
+        <div class="masthead-date" id="mastheadDate">載入中...</div>
       </div>
-      <div class="masthead-meta" id="mastheadMeta">載入中...</div>
-    </div>
-  </div>
-
-  <!-- NEWS WINDOW -->
-  <div class="window">
-    <div class="titlebar">
-      <div class="titlebar-btn">■</div>
-      <div class="titlebar-btn">□</div>
-      <div class="titlebar-title" id="windowTitle">新聞列表</div>
+      <div class="masthead-sub">Global AI · UX · Tech · Daily Digest</div>
     </div>
 
+    <!-- Toolbar -->
     <div class="toolbar">
-      <button class="toolbar-btn active" data-filter="all" onclick="setFilter('all',this)">📋 全部</button>
-      <button class="toolbar-btn" data-filter="ai" onclick="setFilter('ai',this)">🤖 AI 動態</button>
-      <button class="toolbar-btn" data-filter="ux" onclick="setFilter('ux',this)">🎨 UX 設計</button>
-      <button class="toolbar-btn" data-filter="tech" onclick="setFilter('tech',this)">💻 科技</button>
+      <button class="toolbar-btn active" data-filter="all" onclick="setFilter('all',this)">
+        📋 全部 <span class="count-badge" id="cnt-all">0</span>
+      </button>
+      <button class="toolbar-btn" data-filter="ai" onclick="setFilter('ai',this)">
+        🤖 AI <span class="count-badge" id="cnt-ai">0</span>
+      </button>
+      <button class="toolbar-btn" data-filter="ux" onclick="setFilter('ux',this)">
+        🎨 UX <span class="count-badge" id="cnt-ux">0</span>
+      </button>
+      <button class="toolbar-btn" data-filter="tech" onclick="setFilter('tech',this)">
+        💻 科技 <span class="count-badge" id="cnt-tech">0</span>
+      </button>
       <div class="toolbar-sep"></div>
-      <button class="toolbar-btn" onclick="loadNews()">↻ 重新整理</button>
-      <span style="margin-left:auto; font-size:10px; color:#555;" id="countLabel"></span>
+      <span class="refresh-btn" onclick="loadNews()" title="重新整理">↻</span>
     </div>
 
-    <div class="list-header">
-      <div class="list-header-cell"> </div>
-      <div class="list-header-cell">標題</div>
-      <div class="list-header-cell">來源</div>
-      <div class="list-header-cell">分類</div>
-      <div class="list-header-cell">時間</div>
+    <!-- Column Headers: 圖示 | 標題 | 來源 | 分類 | 時間 -->
+    <div class="col-headers">
+      <div class="col-hdr" style="text-align:center"> </div>
+      <div class="col-hdr">標題</div>
+      <div class="col-hdr" id="hdr-source">來源</div>
+      <div class="col-hdr" style="text-align:center">分類</div>
+      <div class="col-hdr" style="text-align:center" id="hdr-time">時間</div>
     </div>
 
-    <div id="articleList" style="max-height:320px; overflow-y:auto; background:#e8e8e8;">
-      <div style="padding:40px; text-align:center; font-size:11px; color:#666;">載入中...</div>
+    <!-- Article List -->
+    <div class="article-list" id="articleList">
+      <div class="list-empty">載入中...</div>
+    </div>
+
+  </div><!-- /list-panel -->
+
+  <!-- DETAIL PANEL (Desktop only) -->
+  <div class="detail-panel" id="detailPanel">
+    <div class="detail-titlebar">
+      <div class="detail-titlebar-btn" onclick="closeDesktopDetail()">■</div>
+      <div class="detail-titlebar-btn">□</div>
+      <div class="detail-titlebar-label" id="detailPanelTitle">詳情</div>
+    </div>
+    <div class="detail-content" id="detailContent">
+      <div class="detail-empty">
+        <div class="detail-empty-icon">📰</div>
+        <div>點選左側文章<br>查看詳細內容</div>
+      </div>
     </div>
   </div>
 
-  <!-- DETAIL WINDOW -->
-  <div class="window" id="detailWindow" style="display:none;">
-    <div class="titlebar">
-      <div class="titlebar-btn" onclick="closeDetail()">■</div>
-      <div class="titlebar-btn">□</div>
-      <div class="titlebar-title" id="detailWinTitle">文章詳情</div>
-    </div>
-    <div class="detail-inner">
-      <div class="detail-headline" id="detailHeadline"></div>
-      <div class="detail-deck" id="detailDeck"></div>
-      <div class="detail-meta" id="detailMeta"></div>
-      <a class="mac-btn" id="detailLink" href="#" target="_blank">開啟原文 →</a>
-      &nbsp;
-      <button class="mac-btn" onclick="closeDetail()">關閉</button>
-    </div>
-  </div>
+</div><!-- /app-body -->
 
+<!-- MOBILE BOTTOM SHEET -->
+<div class="sheet-overlay" id="sheetOverlay" onclick="closeSheet()"></div>
+<div class="bottom-sheet" id="bottomSheet">
+  <div class="sheet-handle-area" onclick="closeSheet()">
+    <div class="sheet-handle-btn">■</div>
+    <div class="sheet-handle-btn">□</div>
+    <div class="sheet-source-label" id="sheetSourceLabel">詳情</div>
+  </div>
+  <div class="sheet-body" id="sheetBody"></div>
 </div>
 
 <!-- PROGRESS DIALOG -->
-<div class="overlay" id="overlay"></div>
-<div class="progress-dialog window" id="progressDialog">
-  <div class="titlebar">
-    <div class="titlebar-title">正在連線到伺服器...</div>
-  </div>
-  <div class="progress-content">
-    <div class="progress-label" id="progressLabel">準備中...</div>
-    <div class="progress-track">
-      <div class="progress-fill" id="progressFill"></div>
+<div class="progress-overlay" id="progressOverlay">
+  <div class="progress-box">
+    <div class="progress-title-bar">
+      <span class="progress-title-label">正在連線到伺服器...</span>
     </div>
-    <div class="progress-status" id="progressStatus">請稍候</div>
+    <div class="progress-body">
+      <div class="progress-label" id="progressLabel">準備中...</div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+      <div class="progress-status" id="progressStatus">請稍候</div>
+    </div>
   </div>
 </div>
 
 <script>
-const NEWS_JSON_URL = 'https://raw.githubusercontent.com/sammi0217/ai-daily/main/news.json';
+const NEWS_URL = 'https://raw.githubusercontent.com/sammi0217/ai-daily/main/news.json';
 
 const DEMO = [
-  { headline: "OpenAI Releases GPT-4o With Real-Time Vision and Voice", deck: "The latest multimodal model can see, hear, and respond in real-time during video calls, recognizing facial expressions and emotional cues.", source: "TechCrunch", category: "ai", url: "https://techcrunch.com", pubDate: new Date(Date.now()-3600000).toISOString() },
-  { headline: "Meta Releases Llama 3.1 405B — Largest Open-Source LLM to Date", deck: "Meta's 405B parameter model is now freely available for commercial use, approaching GPT-4 performance on reasoning tasks.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-7200000).toISOString() },
-  { headline: "5 AI Chatbot UX Patterns That Actually Work in 2026", deck: "After studying 120 enterprise deployments, NN/g identifies the most effective patterns for AI interfaces.", source: "Nielsen Norman Group", category: "ux", url: "https://nngroup.com", pubDate: new Date(Date.now()-10800000).toISOString() },
-  { headline: "72% of AI Product Failures Stem from UX Problems, Not Technology", deck: "A new report reveals most AI product failures arise from users failing to form accurate mental models.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-14400000).toISOString() },
-  { headline: "Google DeepMind AlphaFold 3 Extends Beyond Proteins to DNA", deck: "The third generation predicts interactions between DNA, RNA, and drug molecules.", source: "MIT Tech Review", category: "ai", url: "https://technologyreview.com", pubDate: new Date(Date.now()-18000000).toISOString() },
-  { headline: "The Shift from Command Input to Intent Prediction in Mobile AI", deck: "A new paradigm moves away from typing commands toward systems that predict intent from context.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-21600000).toISOString() },
-  { headline: "Anthropic Claude 3.5 Sonnet Tops Coding Benchmarks Against GPT-4o", deck: "Claude 3.5 Sonnet outperforms GPT-4o on complex multi-file coding tasks across major benchmarks.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-25200000).toISOString() },
-  { headline: "Designing AI Onboarding That Builds Accurate Mental Models", deck: "Users who complete structured AI onboarding are 3x less likely to abandon the product within 30 days.", source: "Nielsen Norman Group", category: "ux", url: "https://nngroup.com", pubDate: new Date(Date.now()-28800000).toISOString() }
+  { headline: "OpenAI Releases GPT-4o With Real-Time Vision and Voice", deck: "The latest multimodal model can see, hear, and respond in real-time during video calls, recognizing facial expressions and emotional cues in context.", source: "TechCrunch", category: "ai", url: "https://techcrunch.com", pubDate: new Date(Date.now()-3600000).toISOString() },
+  { headline: "Meta Releases Llama 3.1 405B — Largest Open-Source LLM to Date", deck: "Meta's 405B parameter model is now freely available for commercial use, approaching GPT-4 performance on reasoning tasks while remaining open source.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-7200000).toISOString() },
+  { headline: "5 AI Chatbot UX Patterns That Actually Work in 2026", deck: "After studying 120 enterprise deployments, NN/g identifies the most effective conversational UI patterns for enterprise AI products.", source: "Nielsen Norman Group", category: "ux", url: "https://nngroup.com", pubDate: new Date(Date.now()-10800000).toISOString() },
+  { headline: "72% of AI Product Failures Stem from UX Problems, Not Technology", deck: "A new Stanford report reveals most AI product failures arise from users failing to form accurate mental models of how the system works.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-14400000).toISOString() },
+  { headline: "Google DeepMind AlphaFold 3 Extends Beyond Proteins to DNA", deck: "The third generation predicts interactions between DNA, RNA, and small drug molecules, opening a new era for drug discovery pipelines.", source: "MIT Tech Review", category: "ai", url: "https://technologyreview.com", pubDate: new Date(Date.now()-18000000).toISOString() },
+  { headline: "The Shift from Command Input to Intent Prediction in Mobile AI", deck: "A new UX paradigm moves away from typing commands toward systems that predict intent from behavioral context and ambient signals.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-21600000).toISOString() },
+  { headline: "Anthropic Claude 3.5 Sonnet Tops Coding Benchmarks Against GPT-4o", deck: "Claude 3.5 Sonnet outperforms GPT-4o on complex multi-file coding tasks across HumanEval, SWE-bench, and internal Anthropic benchmarks.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-25200000).toISOString() },
+  { headline: "WWDC 2026: Apple Announces On-Device LLM for iOS 20", deck: "Apple's homegrown LLM runs entirely on-device, promising full privacy for AI features like smart reply, summarization, and document Q&A.", source: "9to5Mac", category: "tech", url: "https://9to5mac.com", pubDate: new Date(Date.now()-28800000).toISOString() },
+  { headline: "Figma AI Adds One-Click Design Critique With Heuristics Scoring", deck: "The new AI critique tool evaluates designs against Nielsen's 10 heuristics and provides actionable suggestions within the Figma canvas.", source: "Fast Company", category: "ux", url: "https://fastcompany.com", pubDate: new Date(Date.now()-32400000).toISOString() },
+  { headline: "NVIDIA Blackwell Ultra GPUs Begin Mass Shipment to Data Centers", deck: "NVIDIA's next-gen GPU architecture promises 4x the inference throughput per watt over Hopper, targeting LLM serving at scale.", source: "Wired", category: "tech", url: "https://wired.com", pubDate: new Date(Date.now()-36000000).toISOString() },
 ];
 
 let allNews = [], filtered = [], activeFilter = 'all';
+let isMobile = () => window.innerWidth < 700;
 
-// Clock
+// ── Clock ──
 function tick() {
-  const now = new Date();
+  const n = new Date();
   document.getElementById('clock').textContent =
-    String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+    String(n.getHours()).padStart(2,'0') + ':' + String(n.getMinutes()).padStart(2,'0');
 }
 setInterval(tick, 1000); tick();
 
+// ── Relative time ──
 function relTime(s) {
   if (!s) return '';
   const d = (Date.now() - new Date(s)) / 1000;
+  if (d < 60) return '剛才';
   if (d < 3600) return Math.floor(d/60) + '分前';
   if (d < 86400) return Math.floor(d/3600) + '時前';
   return Math.floor(d/86400) + '天前';
 }
-
 function fmtDate(d) {
   const D = ['日','一','二','三','四','五','六'];
   return `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()} 星期${D[d.getDay()]}`;
 }
 
-// Progress
-function showProgress(cb) {
-  const pd = document.getElementById('progressDialog');
-  const ov = document.getElementById('overlay');
+// ── Progress ──
+function showProgress() {
+  document.getElementById('progressOverlay').classList.add('visible');
   const fill = document.getElementById('progressFill');
   const label = document.getElementById('progressLabel');
   const status = document.getElementById('progressStatus');
-  pd.classList.add('visible'); ov.classList.add('visible');
   fill.style.width = '0%';
-
-  const steps = [[15,'連接伺服器...'],[45,'取得新聞資料...'],[75,'整理文章...'],[100,'完成！']];
+  const steps = [[15,'連接伺服器...'],[45,'取得新聞資料...'],[80,'整理文章...'],[100,'完成！']];
   let i = 0;
-  const iv = setInterval(() => {
-    if (i < steps.length) {
-      fill.style.width = steps[i][0] + '%';
-      label.textContent = steps[i][1];
-      status.textContent = steps[i][0] + '%';
-      i++;
-    } else {
-      clearInterval(iv);
-      setTimeout(() => {
-        pd.classList.remove('visible');
-        ov.classList.remove('visible');
-        cb();
-      }, 200);
-    }
-  }, 280);
+  return new Promise(resolve => {
+    const iv = setInterval(() => {
+      if (i < steps.length) {
+        fill.style.width = steps[i][0] + '%';
+        label.textContent = steps[i][1];
+        status.textContent = steps[i][0] + '%';
+        i++;
+      } else {
+        clearInterval(iv);
+        setTimeout(() => {
+          document.getElementById('progressOverlay').classList.remove('visible');
+          resolve();
+        }, 300);
+      }
+    }, 280);
+  });
 }
 
+// ── Load News ──
 async function loadNews() {
-  showProgress(async () => {
-    try {
-      const r = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
-      const d = await r.json();
-      allNews = d.articles || [];
-    } catch(e) { allNews = DEMO; }
+  closeSheet();
+  const progress = showProgress();
+  let data = [];
+  try {
+    const r = await fetch(NEWS_URL + '?t=' + Date.now());
+    const d = await r.json();
+    data = d.articles || [];
+  } catch(e) { data = DEMO; }
+  await progress;
+  allNews = data;
 
-    const now = new Date();
-    document.getElementById('mastheadMeta').innerHTML =
-      fmtDate(now) + '<br>共 ' + allNews.length + ' 則報導';
-    applyFilter();
-  });
+  // Update counts
+  const counts = { all: allNews.length, ai: 0, ux: 0, tech: 0 };
+  allNews.forEach(n => { if (counts[n.category] !== undefined) counts[n.category]++; });
+  document.getElementById('cnt-all').textContent = counts.all;
+  document.getElementById('cnt-ai').textContent = counts.ai;
+  document.getElementById('cnt-ux').textContent = counts.ux;
+  document.getElementById('cnt-tech').textContent = counts.tech;
+
+  const now = new Date();
+  document.getElementById('mastheadDate').innerHTML = fmtDate(now) + '<br>共 ' + allNews.length + ' 則';
+
+  applyFilter();
 }
 
 function setFilter(f, btn) {
@@ -423,52 +710,95 @@ function setFilter(f, btn) {
   document.querySelectorAll('.toolbar-btn[data-filter]').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   applyFilter();
+  closeSheet();
 }
 
 function applyFilter() {
   filtered = activeFilter === 'all' ? allNews : allNews.filter(n => n.category === activeFilter);
-  document.getElementById('countLabel').textContent = '共 ' + filtered.length + ' 則';
-  document.getElementById('windowTitle').textContent =
-    activeFilter === 'all' ? '全部新聞' : activeFilter === 'ai' ? 'AI 動態' : activeFilter === 'ux' ? 'UX 設計' : '科技';
   renderList();
-  closeDetail();
 }
 
 function renderList() {
   const el = document.getElementById('articleList');
   if (!filtered.length) {
-    el.innerHTML = '<div style="padding:40px;text-align:center;font-size:11px;color:#666">— 沒有資料 —</div>';
+    el.innerHTML = '<div class="list-empty">— 沒有資料 —</div>';
     return;
   }
-  el.innerHTML = filtered.map((a, i) => `
-    <div class="article-row" ondblclick="openUrl('${a.url}')" onclick="selectRow(${i}, this)">
-      <div class="col-icon">${a.category === 'ux' ? '🎨' : a.category === 'tech' ? '💻' : '🤖'}</div>
-      <div class="col-title">${a.headline}</div>
-      <div class="col-source">${a.source}</div>
-      <div class="col-cat ${a.category === 'ux' ? 'tag-ux' : a.category === 'tech' ? 'tag-tech' : 'tag-ai'}">${a.category === 'ux' ? 'UX' : a.category === 'tech' ? 'TECH' : 'AI'}</div>
-      <div class="col-time">${relTime(a.pubDate)}</div>
-    </div>`).join('');
+  el.innerHTML = filtered.map((a, i) => {
+    const icon = a.category === 'ux' ? '🎨' : a.category === 'tech' ? '💻' : '🤖';
+    const catLabel = a.category === 'ux' ? 'UX' : a.category === 'tech' ? 'TECH' : 'AI';
+    const catCls = 'cat-' + a.category;
+    return `<div class="article-row" onclick="selectArticle(${i}, this)">
+      <div class="row-icon">${icon}</div>
+      <div class="row-title-cell">
+        <div class="row-title">${escHtml(a.headline)}</div>
+      </div>
+      <div class="row-source-cell">
+        <span class="row-source-text">${escHtml(a.source)}</span>
+      </div>
+      <div class="row-cat-cell">
+        <span class="row-cat ${catCls}">${catLabel}</span>
+      </div>
+      <div class="row-time-cell">
+        <span class="row-time">${relTime(a.pubDate)}</span>
+      </div>
+    </div>`;
+  }).join('');
 }
 
-function selectRow(i, el) {
+function escHtml(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function buildDetailHtml(a) {
+  const catLabel = a.category === 'ux' ? 'UX 設計' : a.category === 'tech' ? '科技' : 'AI 動態';
+  return `
+    <div class="detail-headline">${escHtml(a.headline)}</div>
+    <div class="detail-meta-row">
+      <span>📡 ${escHtml(a.source)}</span>
+      <span>🏷 ${catLabel}</span>
+      <span>🕐 ${relTime(a.pubDate)}</span>
+    </div>
+    <div class="detail-divider"></div>
+    <div class="detail-deck">${escHtml(a.deck || '（此文章無摘要）')}</div>
+    <div class="detail-divider"></div>
+    <a class="mac-btn" href="${a.url}" target="_blank" rel="noopener">開啟原文 →</a>
+  `;
+}
+
+function selectArticle(i, rowEl) {
   document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
-  el.classList.add('selected');
+  rowEl.classList.add('selected');
   const a = filtered[i];
-  document.getElementById('detailWindow').style.display = 'block';
-  document.getElementById('detailWinTitle').textContent = a.source;
-  document.getElementById('detailHeadline').textContent = a.headline;
-  document.getElementById('detailDeck').textContent = a.deck || '（無摘要）';
-  document.getElementById('detailMeta').innerHTML =
-    `<span>來源：${a.source}</span><span>分類：${a.category === 'ux' ? 'UX 設計' : a.category === 'tech' ? '科技' : 'AI 動態'}</span><span>${relTime(a.pubDate)}</span>`;
-  document.getElementById('detailLink').href = a.url;
+
+  if (isMobile()) {
+    // Show bottom sheet
+    document.getElementById('sheetSourceLabel').textContent = a.source;
+    document.getElementById('sheetBody').innerHTML = buildDetailHtml(a);
+    document.getElementById('sheetOverlay').classList.add('open');
+    document.getElementById('bottomSheet').classList.add('open');
+  } else {
+    // Show desktop sidebar
+    document.getElementById('detailPanelTitle').textContent = a.source;
+    document.getElementById('detailContent').innerHTML = buildDetailHtml(a);
+  }
 }
 
-function closeDetail() {
-  document.getElementById('detailWindow').style.display = 'none';
+function closeSheet() {
+  document.getElementById('sheetOverlay').classList.remove('open');
+  document.getElementById('bottomSheet').classList.remove('open');
   document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
 }
 
-function openUrl(url) { window.open(url, '_blank'); }
+function closeDesktopDetail() {
+  document.getElementById('detailContent').innerHTML = `
+    <div class="detail-empty">
+      <div class="detail-empty-icon">📰</div>
+      <div>點選左側文章<br>查看詳細內容</div>
+    </div>`;
+  document.getElementById('detailPanelTitle').textContent = '詳情';
+  document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
+}
 
 loadNews();
 </script>
