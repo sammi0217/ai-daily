@@ -4,737 +4,469 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI 日報</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Noto+Sans+TC:wght@300;400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root {
-  --bg:      #0d0d0d;
-  --bg2:     #141414;
-  --bg3:     #1c1c1c;
-  --border:  #2a2a2a;
-  --border2: #333;
-  --text:    #e8e6e0;
-  --text2:   #9a9690;
-  --text3:   #555;
-  --red:     #c0392b;
-  --blue:    #2c7be5;
-  --green:   #27ae60;
-  --gold:    #c9a84c;
-}
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Noto+Sans+TC:wght@400;700&display=swap');
 
 * { margin:0; padding:0; box-sizing:border-box; }
-html { scroll-behavior: smooth; }
 
 body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'Noto Sans TC', sans-serif;
+  background: #c0c0c0;
+  font-family: 'Noto Sans TC', 'Chicago', Geneva, sans-serif;
+  font-size: 12px;
   min-height: 100vh;
+  cursor: default;
+  user-select: none;
 }
 
-/* ── MASTHEAD ── */
-.masthead {
-  border-bottom: 1px solid var(--border2);
-  padding: 28px 40px 20px;
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  align-items: end;
-  gap: 16px;
-}
-
-.masthead-left {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.1em;
-  line-height: 1.8;
-}
-
-.masthead-center {
-  text-align: center;
-}
-
-.newspaper-name {
-  font-family: 'Playfair Display', serif;
-  font-size: clamp(48px, 8vw, 88px);
-  font-weight: 900;
-  letter-spacing: -0.03em;
-  color: var(--text);
-  line-height: 1;
-  display: block;
-}
-
-.masthead-rule {
-  width: 100%;
-  height: 1px;
-  background: var(--border2);
-  margin: 10px 0 6px;
-}
-
-.masthead-sub {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 9px;
-  letter-spacing: 0.3em;
-  color: var(--text3);
-  text-transform: uppercase;
-}
-
-.masthead-right {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.1em;
-  line-height: 1.8;
-  text-align: right;
-}
-
-.live-dot {
-  display: inline-block;
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--green);
-  box-shadow: 0 0 6px var(--green);
-  animation: blink 2s infinite;
-  vertical-align: middle;
-  margin-right: 4px;
-}
-
-@keyframes blink {
-  0%,100% { opacity:1; }
-  50% { opacity:0.3; }
-}
-
-/* ── NAV ── */
-.nav-bar {
-  border-bottom: 1px solid var(--border);
+/* ── MENU BAR ── */
+.menubar {
+  background: #ffffff;
+  border-bottom: 1px solid #000;
   display: flex;
   align-items: center;
-  padding: 0 40px;
+  padding: 0 6px;
+  height: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 200;
   gap: 0;
-  overflow-x: auto;
-  scrollbar-width: none;
-  background: var(--bg2);
 }
-.nav-bar::-webkit-scrollbar { display:none; }
-
-.nav-item {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  padding: 12px 20px;
+.menu-item {
+  padding: 1px 8px;
+  font-size: 12px;
+  font-weight: bold;
   cursor: pointer;
+  line-height: 18px;
   white-space: nowrap;
-  color: var(--text3);
-  border-bottom: 2px solid transparent;
-  transition: all 0.15s;
 }
-.nav-item:hover { color: var(--text2); }
-.nav-item.active { color: var(--text); border-bottom-color: var(--red); }
+.menu-item:hover { background: #000080; color: #fff; }
+.menubar-clock { margin-left: auto; font-size: 11px; padding: 0 8px; }
 
-.nav-spacer { flex: 1; }
+/* ── DESKTOP ── */
+.desktop { padding: 10px; display: flex; flex-direction: column; gap: 8px; }
 
-.nav-date {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.05em;
+/* ── BEVEL WINDOW ── */
+.window {
+  background: #c0c0c0;
+  border-top: 2px solid #ffffff;
+  border-left: 2px solid #ffffff;
+  border-right: 2px solid #555555;
+  border-bottom: 2px solid #555555;
 }
 
-/* ── STATUS BAR ── */
-.status-bar {
-  background: var(--bg3);
-  border-bottom: 1px solid var(--border);
-  padding: 8px 40px;
+/* ── TITLE BAR ── */
+.titlebar {
+  height: 22px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.status-text {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.05em;
-}
-
-.refresh-btn {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  letter-spacing: 0.08em;
-  padding: 5px 14px;
-  border: 1px solid var(--border2);
-  background: transparent;
-  color: var(--text2);
-  cursor: pointer;
-  transition: all 0.15s;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-.refresh-btn:hover { border-color: var(--red); color: var(--red); }
-.refresh-btn:disabled { opacity: 0.3; cursor: not-allowed; }
-
-/* ── MAIN LAYOUT ── */
-.content {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 32px 40px;
-}
-
-/* ── SECTION HEADER ── */
-.section-header {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin-bottom: 24px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid var(--border2);
-}
-
-.section-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 22px;
-  font-weight: 700;
-  color: var(--text);
-}
-
-.section-line { flex: 1; height: 1px; background: var(--border); }
-
-.section-count {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  letter-spacing: 0.1em;
-}
-
-/* ── FEATURED ARTICLE ── */
-.featured-article {
-  border: 1px solid var(--border2);
-  padding: 28px 32px;
-  margin-bottom: 2px;
-  background: var(--bg2);
-  cursor: pointer;
-  transition: all 0.2s;
+  padding: 0 4px;
+  gap: 4px;
   position: relative;
   overflow: hidden;
-  animation: fadeUp 0.4s ease both;
+  border-bottom: 1px solid #000;
+  background: repeating-linear-gradient(
+    90deg,
+    #000000 0px, #000000 1px,
+    #ffffff 1px, #ffffff 3px
+  );
 }
-
-.featured-article::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 3px;
-  background: var(--red);
-}
-
-.featured-article:hover {
-  background: var(--bg3);
-  border-color: var(--border2);
-}
-
-/* ── ARTICLE GRID ── */
-.article-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2px;
-  margin-bottom: 48px;
-}
-
-.article-card {
-  border: 1px solid var(--border);
-  padding: 20px;
-  background: var(--bg2);
+.titlebar-btn {
+  width: 13px; height: 13px;
+  background: #c0c0c0;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
   cursor: pointer;
-  transition: all 0.2s;
-  animation: fadeUp 0.4s ease both;
-}
-
-.article-card:hover {
-  background: var(--bg3);
-  border-color: var(--border2);
-}
-
-@keyframes fadeUp {
-  from { opacity:0; transform: translateY(8px); }
-  to   { opacity:1; transform: translateY(0); }
-}
-
-/* ── ARTICLE CONTENT ── */
-.article-kicker {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 9px;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  margin-bottom: 10px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.kicker-ai   { color: var(--red); }
-.kicker-ux   { color: var(--blue); }
-
-.kicker-dot {
-  width: 4px; height: 4px;
-  border-radius: 50%;
-  background: currentColor;
-}
-
-.article-headline {
-  font-family: 'Playfair Display', serif;
-  font-weight: 700;
-  line-height: 1.25;
-  color: var(--text);
-  margin-bottom: 10px;
-  transition: color 0.15s;
-}
-
-.article-headline.large { font-size: clamp(20px, 2.5vw, 30px); }
-.article-headline.medium { font-size: 17px; }
-.article-headline.small  { font-size: 15px; }
-
-.article-card:hover .article-headline,
-.featured-article:hover .article-headline { color: #fff; }
-
-.article-deck {
-  font-size: 13px;
-  color: var(--text2);
-  line-height: 1.75;
-  margin-bottom: 14px;
-  font-weight: 300;
-}
-
-.article-meta {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-}
-
-.meta-left {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 9px;
-  color: var(--text3);
-  letter-spacing: 0.05em;
-  flex: 1;
-  min-width: 0;
-}
-
-.meta-source {
-  color: var(--text2);
-  font-weight: 500;
-  white-space: nowrap;
-}
-
-.meta-sep { color: var(--border2); }
-
-.meta-time { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-
-.read-link {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 9px;
-  color: var(--text3);
-  text-decoration: none;
-  letter-spacing: 0.08em;
-  white-space: nowrap;
-  transition: color 0.15s;
   flex-shrink: 0;
+  font-size: 9px;
+  display: flex; align-items: center; justify-content: center;
+  z-index: 1;
 }
-.read-link:hover { color: var(--red); }
-
-/* ── LOADING ── */
-.loading-wrap {
-  padding: 80px 40px;
-  text-align: center;
-}
-
-.spinner {
-  width: 28px; height: 28px;
-  border: 2px solid var(--border2);
-  border-top-color: var(--red);
-  border-radius: 50%;
-  animation: spin 0.8s linear infinite;
-  margin: 0 auto 16px;
+.titlebar-btn:active { border-color: #555 #fff #fff #555; }
+.titlebar-title {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  background: #c0c0c0;
+  padding: 1px 10px;
+  font-size: 11px; font-weight: bold;
+  white-space: nowrap; z-index: 1;
 }
 
-@keyframes spin { to { transform: rotate(360deg); } }
-
-.loading-text {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 11px;
-  color: var(--text3);
-  letter-spacing: 0.1em;
+/* ── TOOLBAR ── */
+.toolbar {
+  border-bottom: 1px solid #000;
+  display: flex; align-items: center;
+  padding: 4px 6px; gap: 4px;
+  background: #c0c0c0; flex-wrap: wrap;
 }
-
-/* ── FOOTER ── */
-footer {
-  border-top: 1px solid var(--border);
-  padding: 24px 40px;
-  margin-top: 40px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 12px;
+.toolbar-btn {
+  background: #c0c0c0;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+  padding: 2px 10px;
+  font-size: 11px; font-weight: bold;
+  cursor: pointer; white-space: nowrap;
+  font-family: 'Noto Sans TC', sans-serif;
 }
-
-.footer-text {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10px;
-  color: var(--text3);
-  line-height: 1.8;
-  letter-spacing: 0.05em;
+.toolbar-btn:active, .toolbar-btn.active {
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  background: #aaaaaa;
 }
+.toolbar-sep { width: 1px; height: 18px; background: #888; margin: 0 3px; border-right: 1px solid #fff; }
 
-/* ── STAGGER ── */
-.article-card:nth-child(1) { animation-delay: 0.05s; }
-.article-card:nth-child(2) { animation-delay: 0.10s; }
-.article-card:nth-child(3) { animation-delay: 0.15s; }
-.article-card:nth-child(4) { animation-delay: 0.20s; }
-.article-card:nth-child(5) { animation-delay: 0.25s; }
-.article-card:nth-child(6) { animation-delay: 0.30s; }
+/* ── LIST VIEW ── */
+.list-header {
+  display: grid;
+  grid-template-columns: 24px 1fr 110px 55px 65px;
+  border-bottom: 1px solid #000;
+  background: #c0c0c0;
+}
+.list-header-cell {
+  padding: 2px 5px; font-size: 11px; font-weight: bold;
+  border-right: 1px solid #888;
+  white-space: nowrap; overflow: hidden;
+}
+.list-header-cell:last-child { border-right: none; }
+
+.article-row {
+  display: grid;
+  grid-template-columns: 24px 1fr 110px 55px 65px;
+  border-bottom: 1px solid #d0d0d0;
+  cursor: pointer; align-items: start;
+}
+.article-row:nth-child(even) { background: rgba(255,255,255,0.3); }
+.article-row:hover { background: #b8d4f0; }
+.article-row.selected { background: #000080; color: #fff; }
+
+.col-icon { padding: 3px 4px; font-size: 13px; text-align: center; border-right: 1px solid #d0d0d0; }
+.col-title { padding: 3px 5px; font-size: 11px; font-weight: bold; border-right: 1px solid #d0d0d0; line-height: 1.4; }
+.col-source { padding: 3px 5px; font-size: 10px; border-right: 1px solid #d0d0d0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.col-cat { padding: 3px 5px; font-size: 10px; font-weight: bold; border-right: 1px solid #d0d0d0; }
+.col-time { padding: 3px 5px; font-size: 10px; white-space: nowrap; }
+.article-row.selected .col-source,
+.article-row.selected .col-time { color: #aaaaff; }
+.tag-ai { color: #800000; }
+.tag-ux { color: #000080; }
+.article-row.selected .tag-ai,
+.article-row.selected .tag-ux { color: #ffffff; }
+
+/* ── MASTHEAD ── */
+.masthead-inner {
+  padding: 10px 14px;
+  display: flex; align-items: center; justify-content: space-between;
+  border-bottom: 1px solid #000;
+  background: #fff;
+}
+.masthead-title {
+  font-family: 'VT323', monospace;
+  font-size: 48px; line-height: 1;
+  letter-spacing: -3px; color: #000;
+}
+.masthead-sub { font-size: 10px; color: #666; margin-top: 2px; }
+.masthead-meta { text-align: right; font-size: 10px; line-height: 1.8; color: #555; }
+
+/* ── DETAIL PANEL ── */
+.detail-inner {
+  padding: 12px 14px;
+  background: #fff;
+  border-top: 1px solid #ccc;
+}
+.detail-headline { font-size: 14px; font-weight: bold; margin-bottom: 8px; line-height: 1.4; }
+.detail-deck { font-size: 11px; line-height: 1.8; color: #333; margin-bottom: 10px; }
+.detail-meta { font-size: 10px; color: #888; display: flex; gap: 16px; margin-bottom: 8px; flex-wrap: wrap; }
+.mac-btn {
+  display: inline-block;
+  padding: 3px 16px;
+  background: #c0c0c0;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+  font-size: 11px; font-weight: bold;
+  text-decoration: none; color: #000;
+  cursor: pointer; font-family: 'Noto Sans TC', sans-serif;
+}
+.mac-btn:active { border-color: #555 #fff #fff #555; }
+
+/* ── PROGRESS DIALOG ── */
+.overlay { position: fixed; inset: 0; z-index: 250; display: none; }
+.overlay.visible { display: block; }
+.progress-dialog {
+  position: fixed; top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px; z-index: 300;
+  display: none;
+}
+.progress-dialog.visible { display: block; }
+.progress-content { padding: 12px 14px; background: #c0c0c0; border-bottom: 1px solid #000; }
+.progress-label { font-size: 11px; margin-bottom: 6px; text-align: center; }
+.progress-track {
+  background: #fff;
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  height: 16px; overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: repeating-linear-gradient(
+    90deg, #000080 0px, #000080 8px, #4040b0 8px, #4040b0 16px
+  );
+  transition: width 0.25s;
+}
+.progress-status { font-size: 10px; text-align: center; margin-top: 6px; color: #555; }
+
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar { width: 16px; }
+::-webkit-scrollbar-track { background: #c0c0c0; border-left: 1px solid #000; }
+::-webkit-scrollbar-thumb {
+  background: #c0c0c0;
+  border-top: 1px solid #fff; border-left: 1px solid #fff;
+  border-right: 1px solid #555; border-bottom: 1px solid #555;
+}
 
 /* ── RESPONSIVE ── */
-@media (max-width: 900px) {
-  .masthead { grid-template-columns: 1fr; text-align: center; padding: 20px; }
-  .masthead-left, .masthead-right { display: none; }
-  .content, .nav-bar, .status-bar, footer { padding-left: 16px; padding-right: 16px; }
-  .article-grid { grid-template-columns: 1fr; }
-  .featured-article { padding: 20px; }
-}
-
 @media (max-width: 600px) {
-  .article-grid { grid-template-columns: 1fr; }
+  .list-header, .article-row { grid-template-columns: 24px 1fr 80px 45px; }
+  .col-time { display: none; }
+  .masthead-title { font-size: 36px; }
 }
 </style>
 </head>
 <body>
 
-<!-- MASTHEAD -->
-<div class="masthead">
-  <div class="masthead-left" id="mastheadLeft">
-    AI · UX · TECHNOLOGY<br>
-    DAILY INTELLIGENCE
-  </div>
-  <div class="masthead-center">
-    <span class="newspaper-name">AI 日報</span>
-    <div class="masthead-rule"></div>
-    <div class="masthead-sub">Global AI & UX Intelligence</div>
-  </div>
-  <div class="masthead-right" id="mastheadRight">
-    載入中...
-  </div>
+<!-- MENU BAR -->
+<div class="menubar">
+  <div class="menu-item">🍎</div>
+  <div class="menu-item">檔案</div>
+  <div class="menu-item">顯示</div>
+  <div class="menu-item">說明</div>
+  <div class="menubar-clock" id="clock">00:00</div>
 </div>
 
-<!-- NAV -->
-<div class="nav-bar">
-  <div class="nav-item active" data-filter="all">全部</div>
-  <div class="nav-item" data-filter="ai">AI 動態</div>
-  <div class="nav-item" data-filter="ux">UX 設計</div>
-  <div class="nav-spacer"></div>
-  <div class="nav-date" id="navDate"></div>
+<!-- DESKTOP -->
+<div class="desktop">
+
+  <!-- MASTHEAD -->
+  <div class="window">
+    <div class="titlebar">
+      <div class="titlebar-btn">■</div>
+      <div class="titlebar-btn">□</div>
+      <div class="titlebar-title">AI 日報</div>
+    </div>
+    <div class="masthead-inner">
+      <div>
+        <div class="masthead-title">AI 日報</div>
+        <div class="masthead-sub">Global AI & UX Intelligence · Daily Digest</div>
+      </div>
+      <div class="masthead-meta" id="mastheadMeta">載入中...</div>
+    </div>
+  </div>
+
+  <!-- NEWS WINDOW -->
+  <div class="window">
+    <div class="titlebar">
+      <div class="titlebar-btn">■</div>
+      <div class="titlebar-btn">□</div>
+      <div class="titlebar-title" id="windowTitle">新聞列表</div>
+    </div>
+
+    <div class="toolbar">
+      <button class="toolbar-btn active" data-filter="all" onclick="setFilter('all',this)">📋 全部</button>
+      <button class="toolbar-btn" data-filter="ai" onclick="setFilter('ai',this)">🤖 AI 動態</button>
+      <button class="toolbar-btn" data-filter="ux" onclick="setFilter('ux',this)">🎨 UX 設計</button>
+      <div class="toolbar-sep"></div>
+      <button class="toolbar-btn" onclick="loadNews()">↻ 重新整理</button>
+      <span style="margin-left:auto; font-size:10px; color:#555;" id="countLabel"></span>
+    </div>
+
+    <div class="list-header">
+      <div class="list-header-cell"> </div>
+      <div class="list-header-cell">標題</div>
+      <div class="list-header-cell">來源</div>
+      <div class="list-header-cell">分類</div>
+      <div class="list-header-cell">時間</div>
+    </div>
+
+    <div id="articleList" style="max-height:320px; overflow-y:auto; background:#e8e8e8;">
+      <div style="padding:40px; text-align:center; font-size:11px; color:#666;">載入中...</div>
+    </div>
+  </div>
+
+  <!-- DETAIL WINDOW -->
+  <div class="window" id="detailWindow" style="display:none;">
+    <div class="titlebar">
+      <div class="titlebar-btn" onclick="closeDetail()">■</div>
+      <div class="titlebar-btn">□</div>
+      <div class="titlebar-title" id="detailWinTitle">文章詳情</div>
+    </div>
+    <div class="detail-inner">
+      <div class="detail-headline" id="detailHeadline"></div>
+      <div class="detail-deck" id="detailDeck"></div>
+      <div class="detail-meta" id="detailMeta"></div>
+      <a class="mac-btn" id="detailLink" href="#" target="_blank">開啟原文 →</a>
+      &nbsp;
+      <button class="mac-btn" onclick="closeDetail()">關閉</button>
+    </div>
+  </div>
+
 </div>
 
-<!-- STATUS BAR -->
-<div class="status-bar">
-  <span class="status-text" id="statusText">
-    <span class="live-dot"></span> 載入中...
-  </span>
-  <button class="refresh-btn" id="refreshBtn" onclick="loadNews()">
-    <span id="refreshIcon">↻</span> 重新整理
-  </button>
-</div>
-
-<!-- CONTENT -->
-<div class="content" id="mainContent">
-  <div class="loading-wrap">
-    <div class="spinner"></div>
-    <div class="loading-text">FETCHING TODAY'S SIGNALS...</div>
+<!-- PROGRESS DIALOG -->
+<div class="overlay" id="overlay"></div>
+<div class="progress-dialog window" id="progressDialog">
+  <div class="titlebar">
+    <div class="titlebar-title">正在連線到伺服器...</div>
+  </div>
+  <div class="progress-content">
+    <div class="progress-label" id="progressLabel">準備中...</div>
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <div class="progress-status" id="progressStatus">請稍候</div>
   </div>
 </div>
-
-<!-- FOOTER -->
-<footer>
-  <div class="footer-text">
-    AI 日報 · 資料來源：TechCrunch · The Verge · UX Collective · Nielsen Norman Group<br>
-    每日自動更新 · 由 n8n 驅動
-  </div>
-  <div class="footer-text" id="footerTime"></div>
-</footer>
 
 <script>
-// =============================================
-// AI 日報 v3
-// 從 GitHub 讀取 news.json，或使用示範資料
-// =============================================
-
-// ★ 部署後把這裡換成你的 GitHub raw URL
-// 例如：https://raw.githubusercontent.com/你的帳號/ai-daily/main/news.json
 const NEWS_JSON_URL = 'https://raw.githubusercontent.com/sammi0217/ai-daily/main/news.json';
 
-const DEMO_NEWS = [
-  {
-    headline: "OpenAI Releases GPT-4o With Real-Time Vision and Voice",
-    deck: "The latest multimodal model can see, hear, and respond in real-time during video calls, recognizing facial expressions and emotional cues. Researchers say this marks a pivotal shift toward ambient AI assistants.",
-    source: "TechCrunch",
-    category: "ai",
-    url: "https://techcrunch.com",
-    pubDate: "2026-03-12T08:00:00Z"
-  },
-  {
-    headline: "Meta Releases Llama 3.1 405B — Largest Open-Source LLM to Date",
-    deck: "Meta's 405B parameter model is now freely available for commercial use. Early benchmarks show it approaching GPT-4 performance on reasoning tasks while remaining fully open-source.",
-    source: "The Verge",
-    category: "ai",
-    url: "https://theverge.com",
-    pubDate: "2026-03-12T06:30:00Z"
-  },
-  {
-    headline: "Google DeepMind AlphaFold 3 Extends Beyond Proteins to DNA and Small Molecules",
-    deck: "The third generation of AlphaFold predicts interactions between DNA, RNA, and drug molecules — potentially cutting years off drug discovery timelines.",
-    source: "MIT Technology Review",
-    category: "ai",
-    url: "https://technologyreview.com",
-    pubDate: "2026-03-12T05:00:00Z"
-  },
-  {
-    headline: "5 AI Chatbot UX Patterns That Actually Work in 2026",
-    deck: "After studying 120 enterprise deployments, NN/g identifies the most effective patterns: progressive capability disclosure, graceful failure states, confidence indicators, undo mechanisms, and seamless human handoffs.",
-    source: "Nielsen Norman Group",
-    category: "ux",
-    url: "https://nngroup.com",
-    pubDate: "2026-03-12T04:00:00Z"
-  },
-  {
-    headline: "72% of AI Product Failures Stem from UX Problems, Not Technology",
-    deck: "A new report analyzing 50 AI product failures reveals that most issues arise from users failing to form accurate mental models of AI capabilities — not from the underlying technology itself.",
-    source: "UX Collective",
-    category: "ux",
-    url: "https://uxdesign.cc",
-    pubDate: "2026-03-12T03:30:00Z"
-  },
-  {
-    headline: "Anthropic Claude 3.5 Sonnet Tops Coding Benchmarks Against GPT-4o",
-    deck: "In evaluations across HumanEval and SWE-bench, Claude 3.5 Sonnet outperforms GPT-4o on complex multi-file tasks. Anthropic credits improvements in long-context reasoning.",
-    source: "The Verge",
-    category: "ai",
-    url: "https://theverge.com",
-    pubDate: "2026-03-12T02:00:00Z"
-  },
-  {
-    headline: "The Shift from Command Input to Intent Prediction in Mobile AI UI",
-    deck: "A new paradigm in mobile AI interfaces moves away from users typing commands toward systems that predict intent from context. Context-aware UI is becoming the design priority across major tech companies.",
-    source: "UX Collective",
-    category: "ux",
-    url: "https://uxdesign.cc",
-    pubDate: "2026-03-11T22:00:00Z"
-  },
-  {
-    headline: "Apple Intelligence Deep Dive: How iPhone's On-Device AI Protects Privacy",
-    deck: "A technical analysis reveals Apple Intelligence uses a 3B parameter on-device model for private tasks, with hardware enclaves preventing data extraction even from Apple's own cloud servers.",
-    source: "TechCrunch",
-    category: "ai",
-    url: "https://techcrunch.com",
-    pubDate: "2026-03-11T20:00:00Z"
-  },
-  {
-    headline: "Designing AI Onboarding That Builds Accurate Mental Models",
-    deck: "New research shows that users who go through structured AI onboarding are 3x less likely to abandon the product within 30 days. The key is calibrating expectations before the first interaction.",
-    source: "Nielsen Norman Group",
-    category: "ux",
-    url: "https://nngroup.com",
-    pubDate: "2026-03-11T18:00:00Z"
-  }
+const DEMO = [
+  { headline: "OpenAI Releases GPT-4o With Real-Time Vision and Voice", deck: "The latest multimodal model can see, hear, and respond in real-time during video calls, recognizing facial expressions and emotional cues.", source: "TechCrunch", category: "ai", url: "https://techcrunch.com", pubDate: new Date(Date.now()-3600000).toISOString() },
+  { headline: "Meta Releases Llama 3.1 405B — Largest Open-Source LLM to Date", deck: "Meta's 405B parameter model is now freely available for commercial use, approaching GPT-4 performance on reasoning tasks.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-7200000).toISOString() },
+  { headline: "5 AI Chatbot UX Patterns That Actually Work in 2026", deck: "After studying 120 enterprise deployments, NN/g identifies the most effective patterns for AI interfaces.", source: "Nielsen Norman Group", category: "ux", url: "https://nngroup.com", pubDate: new Date(Date.now()-10800000).toISOString() },
+  { headline: "72% of AI Product Failures Stem from UX Problems, Not Technology", deck: "A new report reveals most AI product failures arise from users failing to form accurate mental models.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-14400000).toISOString() },
+  { headline: "Google DeepMind AlphaFold 3 Extends Beyond Proteins to DNA", deck: "The third generation predicts interactions between DNA, RNA, and drug molecules.", source: "MIT Tech Review", category: "ai", url: "https://technologyreview.com", pubDate: new Date(Date.now()-18000000).toISOString() },
+  { headline: "The Shift from Command Input to Intent Prediction in Mobile AI", deck: "A new paradigm moves away from typing commands toward systems that predict intent from context.", source: "UX Collective", category: "ux", url: "https://uxdesign.cc", pubDate: new Date(Date.now()-21600000).toISOString() },
+  { headline: "Anthropic Claude 3.5 Sonnet Tops Coding Benchmarks Against GPT-4o", deck: "Claude 3.5 Sonnet outperforms GPT-4o on complex multi-file coding tasks across major benchmarks.", source: "The Verge", category: "ai", url: "https://theverge.com", pubDate: new Date(Date.now()-25200000).toISOString() },
+  { headline: "Designing AI Onboarding That Builds Accurate Mental Models", deck: "Users who complete structured AI onboarding are 3x less likely to abandon the product within 30 days.", source: "Nielsen Norman Group", category: "ux", url: "https://nngroup.com", pubDate: new Date(Date.now()-28800000).toISOString() }
 ];
 
-let allNews = [];
-let activeFilter = 'all';
-let isLoading = false;
+let allNews = [], filtered = [], activeFilter = 'all';
 
-// Format relative time
-function relativeTime(dateStr) {
-  if (!dateStr) return '';
-  const diff = (Date.now() - new Date(dateStr)) / 1000;
-  if (diff < 3600)  return `${Math.floor(diff/60)} 分鐘前`;
-  if (diff < 86400) return `${Math.floor(diff/3600)} 小時前`;
-  return `${Math.floor(diff/86400)} 天前`;
+// Clock
+function tick() {
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+}
+setInterval(tick, 1000); tick();
+
+function relTime(s) {
+  if (!s) return '';
+  const d = (Date.now() - new Date(s)) / 1000;
+  if (d < 3600) return Math.floor(d/60) + '分前';
+  if (d < 86400) return Math.floor(d/3600) + '時前';
+  return Math.floor(d/86400) + '天前';
 }
 
-// Format date
-function formatDate(d) {
-  const days = ['日','一','二','三','四','五','六'];
-  return `${d.getFullYear()} 年 ${d.getMonth()+1} 月 ${d.getDate()} 日 · 星期${days[d.getDay()]}`;
+function fmtDate(d) {
+  const D = ['日','一','二','三','四','五','六'];
+  return `${d.getFullYear()}/${d.getMonth()+1}/${d.getDate()} 星期${D[d.getDay()]}`;
 }
 
-// Get filtered news
-function getFiltered() {
-  if (activeFilter === 'all') return allNews;
-  return allNews.filter(n => n.category === activeFilter);
+// Progress
+function showProgress(cb) {
+  const pd = document.getElementById('progressDialog');
+  const ov = document.getElementById('overlay');
+  const fill = document.getElementById('progressFill');
+  const label = document.getElementById('progressLabel');
+  const status = document.getElementById('progressStatus');
+  pd.classList.add('visible'); ov.classList.add('visible');
+  fill.style.width = '0%';
+
+  const steps = [[15,'連接伺服器...'],[45,'取得新聞資料...'],[75,'整理文章...'],[100,'完成！']];
+  let i = 0;
+  const iv = setInterval(() => {
+    if (i < steps.length) {
+      fill.style.width = steps[i][0] + '%';
+      label.textContent = steps[i][1];
+      status.textContent = steps[i][0] + '%';
+      i++;
+    } else {
+      clearInterval(iv);
+      setTimeout(() => {
+        pd.classList.remove('visible');
+        ov.classList.remove('visible');
+        cb();
+      }, 200);
+    }
+  }, 280);
 }
 
-// Render
-function render() {
-  const filtered = getFiltered();
-  const content = document.getElementById('mainContent');
+async function loadNews() {
+  showProgress(async () => {
+    try {
+      const r = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
+      const d = await r.json();
+      allNews = d.articles || [];
+    } catch(e) { allNews = DEMO; }
 
-  if (filtered.length === 0) {
-    content.innerHTML = `
-      <div class="loading-wrap">
-        <div class="loading-text">— NO SIGNALS —</div>
-      </div>`;
+    const now = new Date();
+    document.getElementById('mastheadMeta').innerHTML =
+      fmtDate(now) + '<br>共 ' + allNews.length + ' 則報導';
+    applyFilter();
+  });
+}
+
+function setFilter(f, btn) {
+  activeFilter = f;
+  document.querySelectorAll('.toolbar-btn[data-filter]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  applyFilter();
+}
+
+function applyFilter() {
+  filtered = activeFilter === 'all' ? allNews : allNews.filter(n => n.category === activeFilter);
+  document.getElementById('countLabel').textContent = '共 ' + filtered.length + ' 則';
+  document.getElementById('windowTitle').textContent =
+    activeFilter === 'all' ? '全部新聞' : activeFilter === 'ai' ? 'AI 動態' : 'UX 設計';
+  renderList();
+  closeDetail();
+}
+
+function renderList() {
+  const el = document.getElementById('articleList');
+  if (!filtered.length) {
+    el.innerHTML = '<div style="padding:40px;text-align:center;font-size:11px;color:#666">— 沒有資料 —</div>';
     return;
   }
-
-  const featured = filtered[0];
-  const rest = filtered.slice(1);
-
-  // Category label
-  const kicker = (cat) => `
-    <div class="article-kicker kicker-${cat}">
-      <span class="kicker-dot"></span>
-      ${cat === 'ai' ? 'AI 動態' : 'UX 設計'}
-    </div>`;
-
-  // Featured
-  let html = `
-    <div class="featured-article" onclick="window.open('${featured.url}','_blank')">
-      ${kicker(featured.category)}
-      <div class="article-headline large">${featured.headline}</div>
-      <div class="article-deck">${featured.deck}</div>
-      <div class="article-meta">
-        <div class="meta-left">
-          <span class="meta-source">${featured.source}</span>
-          <span class="meta-sep">·</span>
-          <span class="meta-time">${relativeTime(featured.pubDate)}</span>
-        </div>
-        <a class="read-link" href="${featured.url}" target="_blank" onclick="event.stopPropagation()">READ FULL →</a>
-      </div>
-    </div>`;
-
-  // Section header
-  const aiCount = filtered.filter(n=>n.category==='ai').length;
-  const uxCount = filtered.filter(n=>n.category==='ux').length;
-
-  if (activeFilter === 'all') {
-    // AI section
-    const aiNews = rest.filter(n => n.category === 'ai');
-    const uxNews = rest.filter(n => n.category === 'ux');
-
-    if (aiNews.length > 0) {
-      html += `
-        <div class="section-header" style="margin-top:40px">
-          <div class="section-title">AI 動態</div>
-          <div class="section-line"></div>
-          <div class="section-count">${aiCount} SIGNALS</div>
-        </div>
-        <div class="article-grid">
-          ${aiNews.map(a => articleCard(a)).join('')}
-        </div>`;
-    }
-
-    if (uxNews.length > 0) {
-      html += `
-        <div class="section-header">
-          <div class="section-title">UX 設計</div>
-          <div class="section-line"></div>
-          <div class="section-count">${uxCount} SIGNALS</div>
-        </div>
-        <div class="article-grid">
-          ${uxNews.map(a => articleCard(a)).join('')}
-        </div>`;
-    }
-  } else {
-    html += `<div class="article-grid" style="margin-top:2px">
-      ${rest.map(a => articleCard(a)).join('')}
-    </div>`;
-  }
-
-  content.innerHTML = html;
-  document.getElementById('statusText').innerHTML =
-    `<span class="live-dot"></span> 共 ${filtered.length} 則報導`;
+  el.innerHTML = filtered.map((a, i) => `
+    <div class="article-row" ondblclick="openUrl('${a.url}')" onclick="selectRow(${i}, this)">
+      <div class="col-icon">${a.category === 'ux' ? '🎨' : '🤖'}</div>
+      <div class="col-title">${a.headline}</div>
+      <div class="col-source">${a.source}</div>
+      <div class="col-cat ${a.category === 'ux' ? 'tag-ux' : 'tag-ai'}">${a.category.toUpperCase()}</div>
+      <div class="col-time">${relTime(a.pubDate)}</div>
+    </div>`).join('');
 }
 
-function articleCard(a) {
-  return `
-    <div class="article-card" onclick="window.open('${a.url}','_blank')">
-      <div class="article-kicker kicker-${a.category}">
-        <span class="kicker-dot"></span>
-        ${a.category === 'ai' ? 'AI 動態' : 'UX 設計'}
-      </div>
-      <div class="article-headline medium">${a.headline}</div>
-      <div class="article-deck">${a.deck}</div>
-      <div class="article-meta">
-        <div class="meta-left">
-          <span class="meta-source">${a.source}</span>
-          <span class="meta-sep">·</span>
-          <span class="meta-time">${relativeTime(a.pubDate)}</span>
-        </div>
-        <a class="read-link" href="${a.url}" target="_blank" onclick="event.stopPropagation()">READ →</a>
-      </div>
-    </div>`;
+function selectRow(i, el) {
+  document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
+  el.classList.add('selected');
+  const a = filtered[i];
+  document.getElementById('detailWindow').style.display = 'block';
+  document.getElementById('detailWinTitle').textContent = a.source;
+  document.getElementById('detailHeadline').textContent = a.headline;
+  document.getElementById('detailDeck').textContent = a.deck || '（無摘要）';
+  document.getElementById('detailMeta').innerHTML =
+    `<span>來源：${a.source}</span><span>分類：${a.category === 'ux' ? 'UX 設計' : 'AI 動態'}</span><span>${relTime(a.pubDate)}</span>`;
+  document.getElementById('detailLink').href = a.url;
 }
 
-// Load news
-async function loadNews() {
-  if (isLoading) return;
-  isLoading = true;
-
-  const btn = document.getElementById('refreshBtn');
-  const icon = document.getElementById('refreshIcon');
-  btn.disabled = true;
-  icon.style.cssText = 'display:inline-block; animation: spin 0.8s linear infinite';
-
-  document.getElementById('mainContent').innerHTML = `
-    <div class="loading-wrap">
-      <div class="spinner"></div>
-      <div class="loading-text">FETCHING SIGNALS...</div>
-    </div>`;
-
-  try {
-    if (NEWS_JSON_URL) {
-      const res = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
-      const data = await res.json();
-      allNews = data.articles || [];
-    } else {
-      // 示範資料
-      await new Promise(r => setTimeout(r, 600));
-      allNews = DEMO_NEWS;
-    }
-  } catch(e) {
-    allNews = DEMO_NEWS;
-  }
-
-  // Update masthead
-  const now = new Date();
-  document.getElementById('mastheadRight').innerHTML =
-    `${formatDate(now)}<br>第 ${Math.floor((now - new Date('2025-01-01'))/86400000)} 號`;
-  document.getElementById('navDate').textContent = formatDate(now);
-  document.getElementById('footerTime').textContent =
-    `更新於 ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
-
-  render();
-
-  btn.disabled = false;
-  icon.style.cssText = '';
-  isLoading = false;
+function closeDetail() {
+  document.getElementById('detailWindow').style.display = 'none';
+  document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
 }
 
-// Nav filter
-document.querySelectorAll('.nav-item[data-filter]').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('.nav-item[data-filter]').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    activeFilter = btn.dataset.filter;
-    render();
-  });
-});
+function openUrl(url) { window.open(url, '_blank'); }
 
-// Init
 loadNews();
 </script>
 </body>
