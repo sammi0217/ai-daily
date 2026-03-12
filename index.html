@@ -490,8 +490,48 @@ body {
   border-bottom: 1px solid #555;
 }
 
-/* ── DESKTOP LAYOUT ── */
+/* ── RESIZE DIVIDER (Desktop only) ── */
+.resize-divider {
+  display: none;           /* hidden on mobile */
+  width: 7px;
+  flex-shrink: 0;
+  background: #c0c0c0;
+  border-left: 2px solid #555;
+  border-right: 2px solid #fff;
+  cursor: col-resize;
+  position: relative;
+  z-index: 10;
+  user-select: none;
+  align-items: center;
+  justify-content: center;
+}
+.resize-divider:hover,
+.resize-divider.dragging {
+  background: #a0a0a0;
+  border-left-color: #333;
+}
+.resize-handle-dots {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  pointer-events: none;
+}
+.resize-handle-dots span {
+  display: block;
+  width: 3px;
+  height: 3px;
+  background: #888;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+}
+
 @media (min-width: 700px) {
+  .resize-divider { display: flex; }
+}
+
   .detail-panel { display: flex; }
   .sheet-overlay, .bottom-sheet { display: none !important; }
   /* 確保列表欄位不被 detail panel 壓縮 */
@@ -567,6 +607,14 @@ body {
     </div>
 
   </div><!-- /list-panel -->
+
+  <!-- RESIZABLE DIVIDER (Desktop only) -->
+  <div class="resize-divider" id="resizeDivider">
+    <div class="resize-handle-dots">
+      <span></span><span></span><span></span>
+      <span></span><span></span><span></span>
+    </div>
+  </div>
 
   <!-- DETAIL PANEL (Desktop only) -->
   <div class="detail-panel" id="detailPanel">
@@ -799,6 +847,81 @@ function closeDesktopDetail() {
   document.getElementById('detailPanelTitle').textContent = '詳情';
   document.querySelectorAll('.article-row').forEach(r => r.classList.remove('selected'));
 }
+
+// ── Resizable divider ──
+(function() {
+  const divider = document.getElementById('resizeDivider');
+  const listPanel = document.querySelector('.list-panel');
+  const detailPanel = document.getElementById('detailPanel');
+  const appBody = document.querySelector('.app-body');
+
+  let dragging = false;
+  let startX = 0;
+  let startListW = 0;
+
+  divider.addEventListener('mousedown', e => {
+    if (window.innerWidth < 700) return;
+    dragging = true;
+    startX = e.clientX;
+    startListW = listPanel.getBoundingClientRect().width;
+    divider.classList.add('dragging');
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+    e.preventDefault();
+  });
+
+  document.addEventListener('mousemove', e => {
+    if (!dragging) return;
+    const totalW = appBody.getBoundingClientRect().width;
+    const dividerW = 7;
+    const delta = e.clientX - startX;
+    const newListW = Math.min(
+      Math.max(startListW + delta, 200),   // min list width 200px
+      totalW - dividerW - 260              // min detail width 260px
+    );
+    listPanel.style.flex = 'none';
+    listPanel.style.width = newListW + 'px';
+    detailPanel.style.width = (totalW - newListW - dividerW) + 'px';
+  });
+
+  document.addEventListener('mouseup', () => {
+    if (!dragging) return;
+    dragging = false;
+    divider.classList.remove('dragging');
+    document.body.style.cursor = '';
+    document.body.style.userSelect = '';
+  });
+
+  // Touch support
+  divider.addEventListener('touchstart', e => {
+    if (window.innerWidth < 700) return;
+    dragging = true;
+    startX = e.touches[0].clientX;
+    startListW = listPanel.getBoundingClientRect().width;
+    divider.classList.add('dragging');
+    e.preventDefault();
+  }, { passive: false });
+
+  document.addEventListener('touchmove', e => {
+    if (!dragging) return;
+    const totalW = appBody.getBoundingClientRect().width;
+    const dividerW = 7;
+    const delta = e.touches[0].clientX - startX;
+    const newListW = Math.min(
+      Math.max(startListW + delta, 200),
+      totalW - dividerW - 260
+    );
+    listPanel.style.flex = 'none';
+    listPanel.style.width = newListW + 'px';
+    detailPanel.style.width = (totalW - newListW - dividerW) + 'px';
+  }, { passive: false });
+
+  document.addEventListener('touchend', () => {
+    if (!dragging) return;
+    dragging = false;
+    divider.classList.remove('dragging');
+  });
+})();
 
 loadNews();
 </script>
