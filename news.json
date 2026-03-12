@@ -1,150 +1,166 @@
 {
-  "generated_at": "2026-03-12T06:46:44.185Z",
-  "count": 18,
+  "generated_at": "2026-03-12T06:54:15.948Z",
+  "count": 20,
   "articles": [
     {
-      "headline": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
-      "deck": "AI chats generate simple UI elements to gather context, reduce typing and memory load, and produce more useful, personalized results.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/genui-buttons-and-checkboxes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
+      "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "deck": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "pubDate": "Wed, 11 Mar 2026 23:35:03 +0000"
     },
     {
-      "headline": "Statistical Significance Isn’t the Same as Practical Significance",
-      "deck": "Statistical significance helps establish whether a result is reliable, while practical significance helps determine whether it is worth acting on.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/practical-significance/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
+      "headline": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "deck": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000"
     },
     {
-      "headline": "UX Conference July Announced (Jul 6 - Jul 14)",
-      "deck": "Take up to 3 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. July 6 - July 14, 2026 ",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/training/july-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 04:16:50 +0000"
+      "headline": "Zendesk acquires agentic customer service startup Forethought",
+      "deck": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "pubDate": "Wed, 11 Mar 2026 22:41:27 +0000"
     },
     {
-      "headline": "GenAI for Complex Questions, Search for Critical Facts",
-      "deck": "Users choose AI to explore and synthesize information; but they rely on traditional search when accuracy and trust are critical.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-search-infoseeking/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
+      "headline": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+      "deck": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "pubDate": "Wed, 11 Mar 2026 22:00:05 +0000"
     },
     {
-      "headline": "Project Postmortems for UX Teams: Learning from Success and Failure",
-      "deck": "Although postmortems are one of the most powerful learning tools in product development, most teams haven't yet discovered how to use them effectively.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ux-postmortems/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
+      "headline": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "deck": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "pubDate": "Wed, 11 Mar 2026 21:40:49 +0000"
     },
     {
-      "headline": "Designing Useful Smart Home Notifications",
-      "deck": "Smart-home notifications should be timely, relevant, specific, and personalized to avoid overwhelming users and causing distrust or disengagement.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/smart-home-notifications/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
+      "headline": "Replit snags $9B valuation 6 months after hitting $3B",
+      "deck": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "pubDate": "Wed, 11 Mar 2026 18:52:52 +0000"
     },
     {
-      "headline": "Tracking Adoption of Research Recommendations: The Recommendation-Adoption Score",
-      "deck": "Use the RAS (Recommendation-Adoption Score) to track how much research value reaches your user.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/recommendation-adoption-score/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
+      "headline": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "deck": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000"
     },
     {
-      "headline": "UX Conference May Announced (May 11 - May 22)",
-      "deck": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. May 11 - May 22, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/training/may/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Wed, 18 Feb 2026 08:19:30 +0000"
+      "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "deck": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "pubDate": "Wed, 11 Mar 2026 16:12:02 +0000"
     },
     {
-      "headline": "UX Research with Minors: Consent vs. Assent",
-      "deck": "When conducting UX research with minors, you must obtain consent from a parent or legal guardian and assent from the minor participant.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/research-minors-consent/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
+      "headline": "Meta’s Moltbook deal points to a future built around AI agents",
+      "deck": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
+      "pubDate": "Wed, 11 Mar 2026 15:11:31 +0000"
     },
     {
-      "headline": "What UX Consulting Clients Expect in the Age of AI",
-      "deck": "Clients still seek strong judgment and critical thinking, research rigor, and respect for real-world and user constraints from UX consultants.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ux-consulting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
+      "headline": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "deck": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
+      "pubDate": "Wed, 11 Mar 2026 14:48:30 +0000"
     },
     {
-      "headline": "How AI Literacy Shapes GenAI Use",
-      "deck": "Using generative AI often doesn’t mean using it well. AI literacy requires both prompt fluency and the ability to assess outputs.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-literacy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
+      "headline": "Canopii looks to succeed where past indoor farms have not",
+      "deck": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "pubDate": "Wed, 11 Mar 2026 14:00:00 +0000"
     },
     {
-      "headline": "Your Design System Needs an Enforcer",
-      "deck": "Although design systems promise consistency, most still fail without someone actively enforcing the rules and making teams follow them.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/design-system-enforcer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
+      "headline": "Google brings Gemini in Chrome to India",
+      "deck": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, K",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "pubDate": "Wed, 11 Mar 2026 02:30:00 +0000"
     },
     {
-      "headline": "AI-Moderated Interviews: If, When, and How to Use Them",
-      "deck": "AI interviews offer faster feedback at scale, but they're not a replacement for in-depth, human-led semistructured interviews.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-interviewers/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
+      "headline": "Amazon launches its healthcare AI assistant on its website and app",
+      "deck": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "pubDate": "Tue, 10 Mar 2026 20:10:06 +0000"
     },
     {
-      "headline": "Demand Accuracy in Your AI Tools: Lessons from Baymard Institute",
-      "deck": "Most AI-powered tools for UX lack reliability and accountability in their outputs. Demand transparency and proven accuracy, or don't buy it.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/baymard-ai-tool-accuracy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
+      "headline": "AI-powered apps struggle with long-term retention, new report shows",
+      "deck": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+      "pubDate": "Tue, 10 Mar 2026 18:42:33 +0000"
     },
     {
-      "headline": "User Panels 101",
-      "deck": "A well-built internal user panel saves time, reduces costs, and strengthens your organization’s connection to real users.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/user-panels-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
+      "headline": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "deck": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+      "pubDate": "Tue, 10 Mar 2026 17:51:25 +0000"
     },
     {
-      "headline": "Why So Many Info Tips Are Bad (and How to Make Them Better)",
-      "deck": "Information tips can clarify complex UIs, but they should not hide essential information, trigger redundant information, or disrupt the current workflow.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/info-tips-bad/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
+      "headline": "AgentMail raises $6M to build an email service for AI agents",
+      "deck": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+      "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000"
     },
     {
-      "headline": "Job Opening: UX Design Assistant (Remote, World-Wide; Europe Based)",
-      "deck": "We’re looking for a talented UX design assistant to join the team. Applications due February 6, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
+      "headline": "Thinking Machines Lab inks massive compute deal with Nvidia",
+      "deck": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+      "pubDate": "Tue, 10 Mar 2026 15:08:39 +0000"
     },
     {
-      "headline": "Job Opening: Social Media Design Assistant (Remote, World-Wide; Europe Based)",
-      "deck": "We’re looking for a talented social media design assistant to join the team. Applications due February 6, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/news/item/job-opening-social-media-design-assistant-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
+      "headline": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+      "deck": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+      "pubDate": "Tue, 10 Mar 2026 14:58:29 +0000"
+    },
+    {
+      "headline": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+      "deck": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+      "pubDate": "Tue, 10 Mar 2026 14:34:24 +0000"
+    },
+    {
+      "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+      "deck": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+      "pubDate": "Tue, 10 Mar 2026 14:32:05 +0000"
     }
   ]
 }
