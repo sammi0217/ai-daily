@@ -492,7 +492,7 @@ body {
 
 /* ── RESIZE DIVIDER (Desktop only) ── */
 .resize-divider {
-  display: none;           /* hidden on mobile */
+  display: none;
   width: 7px;
   flex-shrink: 0;
   background: #c0c0c0;
@@ -528,15 +528,14 @@ body {
   border-bottom: 1px solid #555;
 }
 
+/* ── DESKTOP LAYOUT ── */
 @media (min-width: 700px) {
   .resize-divider { display: flex; }
-}
-
   .detail-panel { display: flex; }
   .sheet-overlay, .bottom-sheet { display: none !important; }
-  /* 確保列表欄位不被 detail panel 壓縮 */
   .list-panel { min-width: 320px; }
 }
+
 /* ── MOBILE LAYOUT ── */
 @media (max-width: 699px) {
   /* 手機隱藏「來源」「時間」欄 → 3 欄: icon | 標題 | 分類 */
