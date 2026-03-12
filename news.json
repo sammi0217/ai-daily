@@ -1,166 +1,86 @@
 {
-  "generated_at": "2026-03-12T06:34:17.563Z",
-  "count": 20,
+  "generated_at": "2026-03-12T06:36:00.399Z",
+  "count": 10,
   "articles": [
     {
-      "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-      "deck": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-      "source": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "headline": "What happened to the car designed for women, by women?",
+      "deck": "Lessons learned from the Volvo YCC and feminized crash test dummies\nContinue reading on UX Collective »",
+      "source": "What happened to the car designed for women, by women?",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-      "pubDate": "Wed, 11 Mar 2026 23:35:03 +0000"
+      "url": "https://uxdesign.cc/what-happened-to-the-car-designed-for-women-by-women-1fdcde8a0bc4?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 23:22:02 GMT"
     },
     {
-      "headline": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-      "deck": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-      "source": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "headline": "Why B2B UX features fail",
+      "deck": "The one question you always need to keep in mind for B2B projects\nContinue reading on UX Collective »",
+      "source": "Why B2B UX features fail",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-      "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000"
+      "url": "https://uxdesign.cc/why-b2b-ux-features-fail-dfe033c67014?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 11:19:25 GMT"
     },
     {
-      "headline": "Zendesk acquires agentic customer service startup Forethought",
-      "deck": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
-      "source": "Zendesk acquires agentic customer service startup Forethought",
+      "headline": "Leading design teams is easy, but we made it complicated",
+      "deck": "",
+      "source": "Leading design teams is easy, but we made it complicated",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-      "pubDate": "Wed, 11 Mar 2026 22:41:27 +0000"
+      "url": "https://uxdesign.cc/leading-design-teams-is-easy-but-we-made-it-complicated-e1fe36524a59?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 09:34:51 GMT"
     },
     {
-      "headline": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-      "deck": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-      "source": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+      "headline": "Why safe AGI requires an enactive floor and state-space reversibility",
+      "deck": "",
+      "source": "Why safe AGI requires an enactive floor and state-space reversibility",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-      "pubDate": "Wed, 11 Mar 2026 22:00:05 +0000"
+      "url": "https://uxdesign.cc/why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-872ae70b6590?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 09:34:49 GMT"
     },
     {
-      "headline": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
-      "deck": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
-      "source": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "headline": "The calm and charm of cosy games in a chaotic world",
+      "deck": "",
+      "source": "The calm and charm of cosy games in a chaotic world",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
-      "pubDate": "Wed, 11 Mar 2026 21:40:49 +0000"
+      "url": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:54 GMT"
     },
     {
-      "headline": "Replit snags $9B valuation 6 months after hitting $3B",
-      "deck": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-      "source": "Replit snags $9B valuation 6 months after hitting $3B",
+      "headline": "Sycophancy: the emperor’s new clothes",
+      "deck": "",
+      "source": "Sycophancy: the emperor’s new clothes",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-      "pubDate": "Wed, 11 Mar 2026 18:52:52 +0000"
+      "url": "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:33 GMT"
     },
     {
-      "headline": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-      "deck": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-      "source": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "headline": "We thought AI feedback was making our designers faster. It was making them shallower",
+      "deck": "The designs shipped faster; the designers grew more slowly.\nContinue reading on UX Collective »",
+      "source": "We thought AI feedback was making our designers faster. It was making them shallower",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-      "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000"
+      "url": "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:21 GMT"
     },
     {
-      "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "deck": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-      "source": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "headline": "Product ethics, AI adoption theatre, an architecture that no longer exists",
+      "deck": "",
+      "source": "Product ethics, AI adoption theatre, an architecture that no longer exists",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "pubDate": "Wed, 11 Mar 2026 16:12:02 +0000"
+      "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 12:12:03 GMT"
     },
     {
-      "headline": "Meta’s Moltbook deal points to a future built around AI agents",
-      "deck": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-      "source": "Meta’s Moltbook deal points to a future built around AI agents",
+      "headline": "Design is not just how it works. Design is how it wins.",
+      "deck": "In the age of AI, “working” is a commodity while “winning” is the new mandate.\nContinue reading on UX Collective »",
+      "source": "Design is not just how it works. Design is how it wins.",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
-      "pubDate": "Wed, 11 Mar 2026 15:11:31 +0000"
+      "url": "https://uxdesign.cc/design-is-not-just-how-it-works-design-is-how-it-wins-862f4a46cd1a?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 09:17:57 GMT"
     },
     {
-      "headline": "Amazon expands a program that lets customers shop from other retailers’ sites",
-      "deck": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
-      "source": "Amazon expands a program that lets customers shop from other retailers’ sites",
+      "headline": "The deceptive side of robot cuteness",
+      "deck": "",
+      "source": "The deceptive side of robot cuteness",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-      "pubDate": "Wed, 11 Mar 2026 14:48:30 +0000"
-    },
-    {
-      "headline": "Canopii looks to succeed where past indoor farms have not",
-      "deck": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
-      "source": "Canopii looks to succeed where past indoor farms have not",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
-      "pubDate": "Wed, 11 Mar 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Google brings Gemini in Chrome to India",
-      "deck": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, K",
-      "source": "Google brings Gemini in Chrome to India",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-      "pubDate": "Wed, 11 Mar 2026 02:30:00 +0000"
-    },
-    {
-      "headline": "Amazon launches its healthcare AI assistant on its website and app",
-      "deck": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-      "source": "Amazon launches its healthcare AI assistant on its website and app",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-      "pubDate": "Tue, 10 Mar 2026 20:10:06 +0000"
-    },
-    {
-      "headline": "AI-powered apps struggle with long-term retention, new report shows",
-      "deck": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-      "source": "AI-powered apps struggle with long-term retention, new report shows",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-      "pubDate": "Tue, 10 Mar 2026 18:42:33 +0000"
-    },
-    {
-      "headline": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "deck": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
-      "source": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-      "pubDate": "Tue, 10 Mar 2026 17:51:25 +0000"
-    },
-    {
-      "headline": "AgentMail raises $6M to build an email service for AI agents",
-      "deck": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-      "source": "AgentMail raises $6M to build an email service for AI agents",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-      "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000"
-    },
-    {
-      "headline": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "deck": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-      "source": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "pubDate": "Tue, 10 Mar 2026 15:08:39 +0000"
-    },
-    {
-      "headline": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "deck": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-      "source": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-      "pubDate": "Tue, 10 Mar 2026 14:58:29 +0000"
-    },
-    {
-      "headline": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-      "deck": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "source": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-      "pubDate": "Tue, 10 Mar 2026 14:34:24 +0000"
-    },
-    {
-      "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-      "deck": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
-      "source": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
-      "pubDate": "Tue, 10 Mar 2026 14:32:05 +0000"
+      "url": "https://uxdesign.cc/the-deceptive-side-of-robot-cuteness-e893e05f50c7?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 09:15:47 GMT"
     }
   ]
 }
