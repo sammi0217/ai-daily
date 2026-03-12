@@ -152,8 +152,10 @@ body {
 .article-row.selected .col-time { color: #aaaaff; }
 .tag-ai { color: #800000; }
 .tag-ux { color: #000080; }
+.tag-tech { color: #006400; }
 .article-row.selected .tag-ai,
-.article-row.selected .tag-ux { color: #ffffff; }
+.article-row.selected .tag-ux,
+.article-row.selected .tag-tech { color: #ffffff; }
 
 /* ── MASTHEAD ── */
 .masthead-inner {
@@ -282,6 +284,7 @@ body {
       <button class="toolbar-btn active" data-filter="all" onclick="setFilter('all',this)">📋 全部</button>
       <button class="toolbar-btn" data-filter="ai" onclick="setFilter('ai',this)">🤖 AI 動態</button>
       <button class="toolbar-btn" data-filter="ux" onclick="setFilter('ux',this)">🎨 UX 設計</button>
+      <button class="toolbar-btn" data-filter="tech" onclick="setFilter('tech',this)">💻 科技</button>
       <div class="toolbar-sep"></div>
       <button class="toolbar-btn" onclick="loadNews()">↻ 重新整理</button>
       <span style="margin-left:auto; font-size:10px; color:#555;" id="countLabel"></span>
@@ -426,7 +429,7 @@ function applyFilter() {
   filtered = activeFilter === 'all' ? allNews : allNews.filter(n => n.category === activeFilter);
   document.getElementById('countLabel').textContent = '共 ' + filtered.length + ' 則';
   document.getElementById('windowTitle').textContent =
-    activeFilter === 'all' ? '全部新聞' : activeFilter === 'ai' ? 'AI 動態' : 'UX 設計';
+    activeFilter === 'all' ? '全部新聞' : activeFilter === 'ai' ? 'AI 動態' : activeFilter === 'ux' ? 'UX 設計' : '科技';
   renderList();
   closeDetail();
 }
@@ -439,10 +442,10 @@ function renderList() {
   }
   el.innerHTML = filtered.map((a, i) => `
     <div class="article-row" ondblclick="openUrl('${a.url}')" onclick="selectRow(${i}, this)">
-      <div class="col-icon">${a.category === 'ux' ? '🎨' : '🤖'}</div>
+      <div class="col-icon">${a.category === 'ux' ? '🎨' : a.category === 'tech' ? '💻' : '🤖'}</div>
       <div class="col-title">${a.headline}</div>
       <div class="col-source">${a.source}</div>
-      <div class="col-cat ${a.category === 'ux' ? 'tag-ux' : 'tag-ai'}">${a.category.toUpperCase()}</div>
+      <div class="col-cat ${a.category === 'ux' ? 'tag-ux' : a.category === 'tech' ? 'tag-tech' : 'tag-ai'}">${a.category === 'ux' ? 'UX' : a.category === 'tech' ? 'TECH' : 'AI'}</div>
       <div class="col-time">${relTime(a.pubDate)}</div>
     </div>`).join('');
 }
@@ -456,7 +459,7 @@ function selectRow(i, el) {
   document.getElementById('detailHeadline').textContent = a.headline;
   document.getElementById('detailDeck').textContent = a.deck || '（無摘要）';
   document.getElementById('detailMeta').innerHTML =
-    `<span>來源：${a.source}</span><span>分類：${a.category === 'ux' ? 'UX 設計' : 'AI 動態'}</span><span>${relTime(a.pubDate)}</span>`;
+    `<span>來源：${a.source}</span><span>分類：${a.category === 'ux' ? 'UX 設計' : a.category === 'tech' ? '科技' : 'AI 動態'}</span><span>${relTime(a.pubDate)}</span>`;
   document.getElementById('detailLink').href = a.url;
 }
 
