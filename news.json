@@ -1,86 +1,30 @@
 {
-  "generated_at": "2026-03-12T09:25:02.489Z",
-  "count": 10,
+  "generated_at": "2026-03-12T09:25:04.760Z",
+  "count": 3,
   "articles": [
     {
-      "headline": "What happened to the car designed for women, by women?",
-      "deck": "Lessons learned from the Volvo YCC and feminized crash test dummies Continue reading on UX Collective »",
-      "source": "UX Collective",
+      "headline": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
+      "deck": "AI chats generate simple UI elements to gather context, reduce typing and memory load, and produce more useful, personalized results.",
+      "source": "Nielsen Norman Group",
       "category": "ux",
-      "url": "https://uxdesign.cc/what-happened-to-the-car-designed-for-women-by-women-1fdcde8a0bc4?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 23:22:02 GMT"
+      "url": "https://www.nngroup.com/articles/genui-buttons-and-checkboxes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "Why B2B UX features fail",
-      "deck": "The one question you always need to keep in mind for B2B projects Continue reading on UX Collective »",
-      "source": "UX Collective",
+      "headline": "Statistical Significance Isn’t the Same as Practical Significance",
+      "deck": "Statistical significance helps establish whether a result is reliable, while practical significance helps determine whether it is worth acting on.",
+      "source": "Nielsen Norman Group",
       "category": "ux",
-      "url": "https://uxdesign.cc/why-b2b-ux-features-fail-dfe033c67014?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 11:19:25 GMT"
+      "url": "https://www.nngroup.com/articles/practical-significance/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "Leading design teams is easy, but we made it complicated",
-      "deck": "",
-      "source": "UX Collective",
+      "headline": "UX Conference July Announced (Jul 6 - Jul 14)",
+      "deck": "Take up to 3 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. July 6 - July 14, 2026 (Americas) | July 7-",
+      "source": "Nielsen Norman Group",
       "category": "ux",
-      "url": "https://uxdesign.cc/leading-design-teams-is-easy-but-we-made-it-complicated-e1fe36524a59?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 09:34:51 GMT"
-    },
-    {
-      "headline": "Why safe AGI requires an enactive floor and state-space reversibility",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-872ae70b6590?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 09:34:49 GMT"
-    },
-    {
-      "headline": "The calm and charm of cosy games in a chaotic world",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:54 GMT"
-    },
-    {
-      "headline": "Sycophancy: the emperor’s new clothes",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:33 GMT"
-    },
-    {
-      "headline": "We thought AI feedback was making our designers faster. It was making them shallower",
-      "deck": "The designs shipped faster; the designers grew more slowly. Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:21 GMT"
-    },
-    {
-      "headline": "Product ethics, AI adoption theatre, an architecture that no longer exists",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 12:12:03 GMT"
-    },
-    {
-      "headline": "Design is not just how it works. Design is how it wins.",
-      "deck": "In the age of AI, “working” is a commodity while “winning” is the new mandate. Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/design-is-not-just-how-it-works-design-is-how-it-wins-862f4a46cd1a?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 09:17:57 GMT"
-    },
-    {
-      "headline": "The deceptive side of robot cuteness",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-deceptive-side-of-robot-cuteness-e893e05f50c7?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 09:15:47 GMT"
+      "url": "https://www.nngroup.com/training/july-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 04:16:50 +0000"
     }
   ]
 }
