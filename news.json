@@ -1,86 +1,246 @@
 {
-  "generated_at": "2026-03-12T06:59:36.257Z",
-  "count": 10,
+  "generated_at": "2026-03-12T06:59:37.254Z",
+  "count": 30,
   "articles": [
     {
-      "headline": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "deck": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenCl",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "pubDate": "Wed, 11 Mar 2026 12:46:21 +0000"
-    },
-    {
-      "headline": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world Pokémon",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-      "pubDate": "Wed, 11 Mar 2026 12:38:00 +0000"
-    },
-    {
-      "headline": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-      "deck": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshi",
-      "source": "MIT Tech Review",
+      "headline": "Booking.com Promo Codes and Deals: Up to 20% Off",
+      "deck": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
+      "source": "Wired",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-      "pubDate": "Tue, 10 Mar 2026 13:47:26 +0000"
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "pubDate": "Thu, 12 Mar 2026 05:04:00 +0000"
     },
     {
-      "headline": "Prioritizing energy intelligence for sustainable growth",
-      "deck": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Te",
-      "source": "MIT Tech Review",
+      "headline": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
+      "deck": "Book your next getaway with Expedia and get up to 75%off your stay, with or without a promo code.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/expedia-coupon/",
+      "pubDate": "Thu, 12 Mar 2026 05:02:00 +0000"
+    },
+    {
+      "headline": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
+      "deck": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "pubDate": "Thu, 12 Mar 2026 05:01:00 +0000"
+    },
+    {
+      "headline": "What to Do in Dumbo If You’re Here for Business (2026)",
+      "deck": "The Big Apple has had a tech boom in the past few years—here’s where to stay, play, eat, and work in the city’s tech-dense Dumbo neighborhood.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-wired-guide-to-dumbo-for-business-travelers/",
+      "pubDate": "Thu, 12 Mar 2026 01:33:00 +0000"
+    },
+    {
+      "headline": "The South Carolina Measles Outbreak Is Slowing Down",
+      "deck": "The biggest US measles outbreak in decades may be over sooner than expected.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/",
+      "pubDate": "Wed, 11 Mar 2026 22:12:36 +0000"
+    },
+    {
+      "headline": "How the Iran War Could Jack Up Prices on Store Shelves",
+      "deck": "The Strait of Hormuz, a busy waterway off the coast of Iran, has come to a near standstill. If the war drags on much longer, it could mean higher prices for consumer goods around the world.",
+      "source": "Wired",
       "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
-      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000"
+      "url": "https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/",
+      "pubDate": "Wed, 11 Mar 2026 21:59:00 +0000"
     },
     {
-      "headline": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in th",
-      "source": "MIT Tech Review",
+      "headline": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+      "deck": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+      "source": "Wired",
       "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
-      "pubDate": "Tue, 10 Mar 2026 12:55:32 +0000"
+      "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+      "pubDate": "Wed, 11 Mar 2026 20:45:03 +0000"
     },
     {
-      "headline": "How AI is turning the Iran conflict into theater",
-      "deck": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The au",
-      "source": "MIT Tech Review",
+      "headline": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+      "deck": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+      "pubDate": "Wed, 11 Mar 2026 18:38:21 +0000"
+    },
+    {
+      "headline": "Our Favorite Backyard Bluetooth Speaker Is $25 Off",
+      "deck": "The compact but surprisingly potent Ultimate Ears Boom 4 gets marked down ahead of your first spring party.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ue-boom-4-deal-326/",
+      "pubDate": "Wed, 11 Mar 2026 18:22:20 +0000"
+    },
+    {
+      "headline": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+      "deck": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+      "source": "Wired",
       "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "pubDate": "Mon, 09 Mar 2026 15:11:01 +0000"
+      "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+      "pubDate": "Wed, 11 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "The usability imperative for securing digital asset devices",
-      "deck": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group wo",
-      "source": "MIT Tech Review",
+      "headline": "Best Mattress for Back Pain (2026): Saatva, Bear, Helix",
+      "deck": "If you're struggling with chronic back or shoulder pain, these mattresses could change your life",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/gallery/best-back-pain-mattress/",
+      "pubDate": "Wed, 11 Mar 2026 16:24:54 +0000"
+    },
+    {
+      "headline": "This Is the Next Wave of Political Fundraising",
+      "deck": "In Discord servers and Instagram DMs, content creators are organizing, turning followings in the millions into millions of dollars in political giving.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/",
+      "pubDate": "Wed, 11 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+      "deck": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+      "pubDate": "Wed, 11 Mar 2026 14:23:05 +0000"
+    },
+    {
+      "headline": "This Digital Picture Frame Wants to Bring People Closer to a Holographic Future",
+      "deck": "Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic frame to bring your photos and videos to life.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/looking-glass-musubi/",
+      "pubDate": "Wed, 11 Mar 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Meta Ramps Up Efforts to Disrupt Industrialized Scamming",
+      "deck": "Meta removed 10.9 million Facebook and Instagram accounts linked to “criminal scam centers” last year, the company announced on Wednesday.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/",
+      "pubDate": "Wed, 11 Mar 2026 12:01:28 +0000"
+    },
+    {
+      "headline": "The Fort Strength Training Wearable Tracks Your Sets (2026)",
+      "deck": "You don’t have to be a gym bro to get strong. Three ex-Tesla engineers made a beautiful bar velocity tracker for every kind of weight lifter.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/fort-strength-training-wearable-launch/",
+      "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Nick Clegg Doesn’t Want to Talk About Superintelligence",
+      "deck": "After leaving Meta last year, the former deputy prime minister of the UK is charting a new path in the AI industry that has nothing to do with AGI.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
+      "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Best Indoor Garden Systems: We’ve Been Testing All Year (2026)",
+      "deck": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "pubDate": "Wed, 11 Mar 2026 11:36:00 +0000"
+    },
+    {
+      "headline": "Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers",
+      "deck": "Viral student-run TikTok and Instagram accounts are using AI to make memes of school faculty comparing them to figures like Jeffrey Epstein and Benjamin Netanyahu.",
+      "source": "Wired",
+      "category": "ai",
+      "url": "https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/",
+      "pubDate": "Wed, 11 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Louis Theroux on the Manosphere: ‘It’s Highly Profitable to Be a Dick on the Internet’",
+      "deck": "With the release of his Netflix documentary Inside the Manosphere, the director talked to WIRED about why so many young men are drawn to toxic influencers.",
+      "source": "Wired",
       "category": "ux",
-      "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-      "pubDate": "Mon, 09 Mar 2026 14:00:00 +0000"
+      "url": "https://www.wired.com/story/louis-theroux-on-the-manosphere-its-highly-profitable-to-be-a-dick-on-the-internet/",
+      "pubDate": "Wed, 11 Mar 2026 10:30:00 +0000"
     },
     {
-      "headline": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud betw",
-      "source": "MIT Tech Review",
-      "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-      "pubDate": "Mon, 09 Mar 2026 13:57:44 +0000"
+      "headline": "Fujifilm Instax Evo Cinema Review: Retro Video Fun",
+      "deck": "The latest Instax camera embraces video with a retro cine design and effects-laden video clips that you can share online.",
+      "source": "Wired",
+      "category": "ux",
+      "url": "https://www.wired.com/review/fujifilm-instax-evo-cinema/",
+      "pubDate": "Wed, 11 Mar 2026 10:30:00 +0000"
     },
     {
-      "headline": "Is the Pentagon allowed to surveil Americans with AI?",
-      "deck": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americ",
-      "source": "MIT Tech Review",
+      "headline": "Inside OpenAI’s Race to Catch Up to Claude Code",
+      "deck": "Why is the biggest name in AI late to the AI coding revolution?",
+      "source": "Wired",
       "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "pubDate": "Fri, 06 Mar 2026 19:21:22 +0000"
+      "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
+      "pubDate": "Wed, 11 Mar 2026 10:00:00 +0000"
     },
     {
-      "headline": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology R",
-      "source": "MIT Tech Review",
+      "headline": "Pulling Espresso by Hand Is More Fun Than Pushing a Button",
+      "deck": "A manual espresso machine proves the best coffee-brewing tech is sometimes analog.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/flair-signature/",
+      "pubDate": "Wed, 11 Mar 2026 09:32:00 +0000"
+    },
+    {
+      "headline": "Rally Orbital Massager Review: The Oscillating Revolution",
+      "deck": "There are some minor drawbacks, but the Rally massager stands out as the lone circular massager in a sea of percussive heads.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/rally-orbital-massager/",
+      "pubDate": "Wed, 11 Mar 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart (2026)",
+      "deck": "From mattresses to sateen sheets, these exclusive deals on my personal picks can help you upgrade your sleep for less.",
+      "source": "Wired",
+      "category": "ux",
+      "url": "https://www.wired.com/story/sleep-week-deals-2026/",
+      "pubDate": "Wed, 11 Mar 2026 09:03:00 +0000"
+    },
+    {
+      "headline": "Technology Is Reshaping Sleep Apnea Treatment",
+      "deck": "For decades, cumbersome CPAP machines have been the primary way to help people with sleep apnea. A range of new options has recently come into focus.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sleep-apnea-treatment-tech/",
+      "pubDate": "Wed, 11 Mar 2026 08:00:00 +0000"
+    },
+    {
+      "headline": "What to Do in Chicago If You’re Here for Business (2026)",
+      "deck": "Where to lock in, power down, and actually enjoy your business trip.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/",
+      "pubDate": "Wed, 11 Mar 2026 03:56:00 +0000"
+    },
+    {
+      "headline": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
+      "deck": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
+      "source": "Wired",
       "category": "ai",
-      "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-      "pubDate": "Fri, 06 Mar 2026 13:10:00 +0000"
+      "url": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
+      "pubDate": "Wed, 11 Mar 2026 01:41:42 +0000"
+    },
+    {
+      "headline": "Pete Hegseth Is Pushing Defense Employees to Volunteer With DHS",
+      "deck": "The defense secretary has made clear that Pentagon managers are to encourage workers, including civilians, to volunteer to assist in the administration’s immigration crackdown.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/pete-hegseth-is-pushing-defense-employees-to-volunteer-for-dhs/",
+      "pubDate": "Tue, 10 Mar 2026 20:06:45 +0000"
+    },
+    {
+      "headline": "Anker’s Discounted Power Station Can Power Your Next Camping Trip",
+      "deck": "Go off-grid camping for a long weekend with my favorite portable power station from Anker. It’s on sale.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anker-solix-c1000-spring-deal/",
+      "pubDate": "Tue, 10 Mar 2026 18:55:32 +0000"
     }
   ]
 }
