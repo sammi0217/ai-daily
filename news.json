@@ -1,86 +1,150 @@
 {
-  "generated_at": "2026-03-12T06:36:00.399Z",
-  "count": 10,
+  "generated_at": "2026-03-12T06:36:02.058Z",
+  "count": 18,
   "articles": [
     {
-      "headline": "What happened to the car designed for women, by women?",
-      "deck": "Lessons learned from the Volvo YCC and feminized crash test dummies\nContinue reading on UX Collective »",
-      "source": "What happened to the car designed for women, by women?",
+      "headline": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
+      "deck": "AI chats generate simple UI elements to gather context, reduce typing and memory load, and produce more useful, personalized results.",
+      "source": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
       "category": "ai",
-      "url": "https://uxdesign.cc/what-happened-to-the-car-designed-for-women-by-women-1fdcde8a0bc4?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 23:22:02 GMT"
+      "url": "https://www.nngroup.com/articles/genui-buttons-and-checkboxes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "Why B2B UX features fail",
-      "deck": "The one question you always need to keep in mind for B2B projects\nContinue reading on UX Collective »",
-      "source": "Why B2B UX features fail",
+      "headline": "Statistical Significance Isn’t the Same as Practical Significance",
+      "deck": "Statistical significance helps establish whether a result is reliable, while practical significance helps determine whether it is worth acting on.",
+      "source": "Statistical Significance Isn’t the Same as Practical Significance",
       "category": "ai",
-      "url": "https://uxdesign.cc/why-b2b-ux-features-fail-dfe033c67014?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 11:19:25 GMT"
+      "url": "https://www.nngroup.com/articles/practical-significance/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "Leading design teams is easy, but we made it complicated",
-      "deck": "",
-      "source": "Leading design teams is easy, but we made it complicated",
+      "headline": "UX Conference July Announced (Jul 6 - Jul 14)",
+      "deck": "Take up to 3 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. July 6 - July 14, 2026 ",
+      "source": "UX Conference July Announced (Jul 6 - Jul 14)",
       "category": "ai",
-      "url": "https://uxdesign.cc/leading-design-teams-is-easy-but-we-made-it-complicated-e1fe36524a59?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 09:34:51 GMT"
+      "url": "https://www.nngroup.com/training/july-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Mar 2026 04:16:50 +0000"
     },
     {
-      "headline": "Why safe AGI requires an enactive floor and state-space reversibility",
-      "deck": "",
-      "source": "Why safe AGI requires an enactive floor and state-space reversibility",
+      "headline": "GenAI for Complex Questions, Search for Critical Facts",
+      "deck": "Users choose AI to explore and synthesize information; but they rely on traditional search when accuracy and trust are critical.",
+      "source": "GenAI for Complex Questions, Search for Critical Facts",
       "category": "ai",
-      "url": "https://uxdesign.cc/why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-872ae70b6590?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 10 Mar 2026 09:34:49 GMT"
+      "url": "https://www.nngroup.com/articles/ai-search-infoseeking/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
     },
     {
-      "headline": "The calm and charm of cosy games in a chaotic world",
-      "deck": "",
-      "source": "The calm and charm of cosy games in a chaotic world",
+      "headline": "Project Postmortems for UX Teams: Learning from Success and Failure",
+      "deck": "Although postmortems are one of the most powerful learning tools in product development, most teams haven't yet discovered how to use them effectively.",
+      "source": "Project Postmortems for UX Teams: Learning from Success and Failure",
       "category": "ai",
-      "url": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:54 GMT"
+      "url": "https://www.nngroup.com/articles/ux-postmortems/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
     },
     {
-      "headline": "Sycophancy: the emperor’s new clothes",
-      "deck": "",
-      "source": "Sycophancy: the emperor’s new clothes",
+      "headline": "Designing Useful Smart Home Notifications",
+      "deck": "Smart-home notifications should be timely, relevant, specific, and personalized to avoid overwhelming users and causing distrust or disengagement.",
+      "source": "Designing Useful Smart Home Notifications",
       "category": "ai",
-      "url": "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:33 GMT"
+      "url": "https://www.nngroup.com/articles/smart-home-notifications/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
     },
     {
-      "headline": "We thought AI feedback was making our designers faster. It was making them shallower",
-      "deck": "The designs shipped faster; the designers grew more slowly.\nContinue reading on UX Collective »",
-      "source": "We thought AI feedback was making our designers faster. It was making them shallower",
+      "headline": "Tracking Adoption of Research Recommendations: The Recommendation-Adoption Score",
+      "deck": "Use the RAS (Recommendation-Adoption Score) to track how much research value reaches your user.",
+      "source": "Tracking Adoption of Research Recommendations: The Recommendation-Adoption Score",
       "category": "ai",
-      "url": "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 22:09:21 GMT"
+      "url": "https://www.nngroup.com/articles/recommendation-adoption-score/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
     },
     {
-      "headline": "Product ethics, AI adoption theatre, an architecture that no longer exists",
-      "deck": "",
-      "source": "Product ethics, AI adoption theatre, an architecture that no longer exists",
+      "headline": "UX Conference May Announced (May 11 - May 22)",
+      "deck": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. May 11 - May 22, 2026.",
+      "source": "UX Conference May Announced (May 11 - May 22)",
       "category": "ai",
-      "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 12:12:03 GMT"
+      "url": "https://www.nngroup.com/training/may/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Wed, 18 Feb 2026 08:19:30 +0000"
     },
     {
-      "headline": "Design is not just how it works. Design is how it wins.",
-      "deck": "In the age of AI, “working” is a commodity while “winning” is the new mandate.\nContinue reading on UX Collective »",
-      "source": "Design is not just how it works. Design is how it wins.",
+      "headline": "UX Research with Minors: Consent vs. Assent",
+      "deck": "When conducting UX research with minors, you must obtain consent from a parent or legal guardian and assent from the minor participant.",
+      "source": "UX Research with Minors: Consent vs. Assent",
       "category": "ai",
-      "url": "https://uxdesign.cc/design-is-not-just-how-it-works-design-is-how-it-wins-862f4a46cd1a?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 09:17:57 GMT"
+      "url": "https://www.nngroup.com/articles/research-minors-consent/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
     },
     {
-      "headline": "The deceptive side of robot cuteness",
-      "deck": "",
-      "source": "The deceptive side of robot cuteness",
+      "headline": "What UX Consulting Clients Expect in the Age of AI",
+      "deck": "Clients still seek strong judgment and critical thinking, research rigor, and respect for real-world and user constraints from UX consultants.",
+      "source": "What UX Consulting Clients Expect in the Age of AI",
       "category": "ai",
-      "url": "https://uxdesign.cc/the-deceptive-side-of-robot-cuteness-e893e05f50c7?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Mar 2026 09:15:47 GMT"
+      "url": "https://www.nngroup.com/articles/ux-consulting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
+    },
+    {
+      "headline": "How AI Literacy Shapes GenAI Use",
+      "deck": "Using generative AI often doesn’t mean using it well. AI literacy requires both prompt fluency and the ability to assess outputs.",
+      "source": "How AI Literacy Shapes GenAI Use",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/ai-literacy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "Your Design System Needs an Enforcer",
+      "deck": "Although design systems promise consistency, most still fail without someone actively enforcing the rules and making teams follow them.",
+      "source": "Your Design System Needs an Enforcer",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/design-system-enforcer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "AI-Moderated Interviews: If, When, and How to Use Them",
+      "deck": "AI interviews offer faster feedback at scale, but they're not a replacement for in-depth, human-led semistructured interviews.",
+      "source": "AI-Moderated Interviews: If, When, and How to Use Them",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/ai-interviewers/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "Demand Accuracy in Your AI Tools: Lessons from Baymard Institute",
+      "deck": "Most AI-powered tools for UX lack reliability and accountability in their outputs. Demand transparency and proven accuracy, or don't buy it.",
+      "source": "Demand Accuracy in Your AI Tools: Lessons from Baymard Institute",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/baymard-ai-tool-accuracy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "User Panels 101",
+      "deck": "A well-built internal user panel saves time, reduces costs, and strengthens your organization’s connection to real users.",
+      "source": "User Panels 101",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/user-panels-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "Why So Many Info Tips Are Bad (and How to Make Them Better)",
+      "deck": "Information tips can clarify complex UIs, but they should not hide essential information, trigger redundant information, or disrupt the current workflow.",
+      "source": "Why So Many Info Tips Are Bad (and How to Make Them Better)",
+      "category": "ai",
+      "url": "https://www.nngroup.com/articles/info-tips-bad/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "Job Opening: UX Design Assistant (Remote, World-Wide; Europe Based)",
+      "deck": "We’re looking for a talented UX design assistant to join the team. Applications due February 6, 2026.",
+      "source": "Job Opening: UX Design Assistant (Remote, World-Wide; Europe Based)",
+      "category": "ai",
+      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "Job Opening: Social Media Design Assistant (Remote, World-Wide; Europe Based)",
+      "deck": "We’re looking for a talented social media design assistant to join the team. Applications due February 6, 2026.",
+      "source": "Job Opening: Social Media Design Assistant (Remote, World-Wide; Europe Based)",
+      "category": "ai",
+      "url": "https://www.nngroup.com/news/item/job-opening-social-media-design-assistant-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
     }
   ]
 }
