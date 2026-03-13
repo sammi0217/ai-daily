@@ -1,14 +1,38 @@
 {
-  "generated_at": "2026-03-13T01:04:10.705Z",
-  "count": 1,
+  "generated_at": "2026-03-13T01:04:12.206Z",
+  "count": 4,
   "articles": [
     {
-      "headline": "Import AI 448: AI R&D; Bytedance’s CUDA-writing agent; on-device satellite AI",
-      "deck": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI progress is moving faster than even well regarded",
+      "headline": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+      "deck": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finall",
       "source": "Other",
-      "category": "ai",
-      "url": "https://jack-clark.net/2026/03/09/import-ai-448-ai-rd-bytedances-cuda-writing-agent-on-device-satellite-ai/",
-      "pubDate": "Mon, 09 Mar 2026 12:45:54 +0000"
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
+      "pubDate": "Thu, 12 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "headline": "Building Dynamic Forms In React And Next.js",
+      "deck": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 GMT"
+    },
+    {
+      "headline": "Persuasive Design: Ten Years Later",
+      "deck": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxb",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
+      "pubDate": "Mon, 09 Mar 2026 11:00:00 GMT"
+    },
+    {
+      "headline": "Human Strategy In An AI-Accelerated Workflow",
+      "deck": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about c",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT"
     }
   ]
 }
