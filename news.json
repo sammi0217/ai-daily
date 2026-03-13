@@ -1,5 +1,86 @@
 {
-  "generated_at": "2026-03-13T01:56:55.596Z",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-03-13T02:00:00.000Z",
+  "count": 10,
+  "articles": [
+    {
+      "headline": "The future of AI agents in UX design workflows",
+      "deck": "How autonomous AI agents are changing the way designers research, prototype, and iterate on products.",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc",
+      "pubDate": "Thu, 13 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "headline": "OpenAI announces new reasoning model improvements",
+      "deck": "The latest update brings significant gains in multi-step reasoning and code generation tasks.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "pubDate": "Thu, 13 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "headline": "How to conduct better user research with AI tools",
+      "deck": "A practical guide to integrating AI-assisted synthesis into your research workflow without losing the human perspective.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com",
+      "pubDate": "Thu, 13 Mar 2026 06:00:00 GMT"
+    },
+    {
+      "headline": "Google DeepMind releases new multimodal research",
+      "deck": "Researchers demonstrate breakthrough performance on vision-language benchmarks with a new architecture.",
+      "source": "MIT Tech Review",
+      "category": "ai",
+      "url": "https://www.technologyreview.com",
+      "pubDate": "Wed, 12 Mar 2026 20:00:00 GMT"
+    },
+    {
+      "headline": "Design systems in the age of AI-generated interfaces",
+      "deck": "As generative UI becomes more common, design systems need to evolve to handle dynamic and personalized layouts.",
+      "source": "Smashing Magazine",
+      "category": "ux",
+      "url": "https://www.smashingmagazine.com",
+      "pubDate": "Wed, 12 Mar 2026 16:00:00 GMT"
+    },
+    {
+      "headline": "The Verge: Big Tech's AI spending shows no signs of slowing",
+      "deck": "Microsoft, Google, and Amazon all signal continued massive investment in AI infrastructure through 2026.",
+      "source": "The Verge",
+      "category": "tech",
+      "url": "https://www.theverge.com",
+      "pubDate": "Wed, 12 Mar 2026 14:00:00 GMT"
+    },
+    {
+      "headline": "User research methods for AI-powered products",
+      "deck": "Traditional usability testing falls short when evaluating AI systems. Here are updated methods that work.",
+      "source": "Medium: User Research",
+      "category": "ux",
+      "url": "https://medium.com/tag/user-research",
+      "pubDate": "Wed, 12 Mar 2026 12:00:00 GMT"
+    },
+    {
+      "headline": "The Gradient: Understanding emergent capabilities in large models",
+      "deck": "A deep dive into why certain abilities appear suddenly at scale and what this means for AI safety research.",
+      "source": "The Gradient",
+      "category": "ai",
+      "url": "https://thegradient.pub",
+      "pubDate": "Tue, 11 Mar 2026 18:00:00 GMT"
+    },
+    {
+      "headline": "Wired: How AI is reshaping the semiconductor industry",
+      "deck": "Chip designers are using machine learning to optimize layouts, reduce power consumption, and speed up production cycles.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com",
+      "pubDate": "Tue, 11 Mar 2026 14:00:00 GMT"
+    },
+    {
+      "headline": "Towards Data Science: Fine-tuning LLMs on domain-specific data",
+      "deck": "A step-by-step guide to preparing datasets, choosing base models, and evaluating results for specialized applications.",
+      "source": "Towards Data Science",
+      "category": "ai",
+      "url": "https://towardsdatascience.com",
+      "pubDate": "Tue, 11 Mar 2026 10:00:00 GMT"
+    }
+  ]
 }
