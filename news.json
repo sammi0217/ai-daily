@@ -1,86 +1,86 @@
 {
-  "generated_at": "2026-03-13T00:35:19.692Z",
+  "generated_at": "2026-03-13T00:35:21.462Z",
   "count": 10,
   "articles": [
     {
-      "headline": "The best Bluetooth trackers for Apple and Android phones",
-      "deck": "Bluetooth trackers come in all shapes and sizes. | Illustration: Cath Virginia / The Verge Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never",
-      "source": "The Verge",
+      "headline": "The first fruit of the Google-Apple AI pact",
+      "deck": "Apple’s MacBook Neo arrives heralded by the sound of the inevitable Continue reading on UX Collective »",
+      "source": "UX Collective",
       "category": "ux",
-      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
-      "pubDate": "2026-03-12T22:30:35.000Z"
+      "url": "https://uxdesign.cc/the-first-fruit-of-the-google-apple-ai-pact-efec0ff52a03?source=rss----138adf9c44c---4",
+      "pubDate": "Thu, 12 Mar 2026 21:49:36 GMT"
     },
     {
-      "headline": "Google Chrome is coming to Arm-powered Linux devices later this year",
-      "deck": "You can download Chrome for Linux, and you can download Chrome for Arm devices - but if you've got a computer running Linux on Arm, not so much! Now, Google says it's finally bringing Chrome to ARM64 Linux machines in Q2",
-      "source": "The Verge",
+      "headline": "What happened to the car designed for women, by women?",
+      "deck": "Lessons learned from the Volvo YCC and feminized crash test dummies Continue reading on UX Collective »",
+      "source": "UX Collective",
       "category": "ux",
-      "url": "https://www.theverge.com/tech/894095/google-chrome-for-arm-linux",
-      "pubDate": "2026-03-12T21:33:04.000Z"
+      "url": "https://uxdesign.cc/what-happened-to-the-car-designed-for-women-by-women-1fdcde8a0bc4?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 23:22:02 GMT"
     },
     {
-      "headline": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
-      "deck": "Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at a gray tote bag held by a member of the court staff - the one who'd determine, b",
-      "source": "The Verge",
-      "category": "tech",
-      "url": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube",
-      "pubDate": "2026-03-12T18:58:58.000Z"
-    },
-    {
-      "headline": "The original AirTag is the cheapest it’s ever been",
-      "deck": "The original AirTags are still great value, especially now they’re over half off. | Photo by Vjeran Pavic / The Verge Despite the fact Apple released a new AirTag in January, the first-generation AirTag is still a top-no",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale",
-      "pubDate": "2026-03-12T18:50:23.000Z"
-    },
-    {
-      "headline": "KPop Demon Hunters is getting a sequel, obviously",
-      "deck": "The girl group is coming back. Get ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunters is returning for a sequel, with the fictional K",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel",
-      "pubDate": "2026-03-12T18:45:32.000Z"
-    },
-    {
-      "headline": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
-      "deck": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is ",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-      "pubDate": "2026-03-12T17:59:32.000Z"
-    },
-    {
-      "headline": "Gemini’s task automation is here and it’s wild",
-      "deck": "Computers ordering cappuccinos. A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would b",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-      "pubDate": "2026-03-12T16:59:43.000Z"
-    },
-    {
-      "headline": "Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale",
-      "deck": "Between March Madness and the Oscars, now might be a good time to improve your TV setup. Google’s TV Streamer 4K is currently on sale for $79.99 ($20 off) at Amazon, Target, and Walmart, which is its second-best price to",
-      "source": "The Verge",
+      "headline": "Why B2B UX features fail",
+      "deck": "The one question you always need to keep in mind for B2B projects Continue reading on UX Collective »",
+      "source": "UX Collective",
       "category": "ux",
-      "url": "https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale",
-      "pubDate": "2026-03-12T16:37:34.000Z"
+      "url": "https://uxdesign.cc/why-b2b-ux-features-fail-dfe033c67014?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 11:19:25 GMT"
     },
     {
-      "headline": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
-      "deck": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your c",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-      "pubDate": "2026-03-12T16:00:00.000Z"
+      "headline": "Leading design teams is easy, but we made it complicated",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/leading-design-teams-is-easy-but-we-made-it-complicated-e1fe36524a59?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 09:34:51 GMT"
     },
     {
-      "headline": "Meta exec hopes VR teens will stick around",
-      "deck": "Free-to-play titles like GorillaTag are popular with young teens with little disposable income. | Image: Another Axiom Inc. This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and e",
-      "source": "The Verge",
-      "category": "ai",
-      "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-      "pubDate": "2026-03-12T15:30:00.000Z"
+      "headline": "Why safe AGI requires an enactive floor and state-space reversibility",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-872ae70b6590?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Mar 2026 09:34:49 GMT"
+    },
+    {
+      "headline": "The calm and charm of cosy games in a chaotic world",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:54 GMT"
+    },
+    {
+      "headline": "Sycophancy: the emperor’s new clothes",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:33 GMT"
+    },
+    {
+      "headline": "We thought AI feedback was making our designers faster. It was making them shallower",
+      "deck": "The designs shipped faster; the designers grew more slowly. Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 22:09:21 GMT"
+    },
+    {
+      "headline": "Product ethics, AI adoption theatre, an architecture that no longer exists",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 12:12:03 GMT"
+    },
+    {
+      "headline": "Design is not just how it works. Design is how it wins.",
+      "deck": "In the age of AI, “working” is a commodity while “winning” is the new mandate. Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/design-is-not-just-how-it-works-design-is-how-it-wins-862f4a46cd1a?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 09 Mar 2026 09:17:57 GMT"
     }
   ]
 }
