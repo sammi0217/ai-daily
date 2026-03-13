@@ -1,38 +1,86 @@
 {
-  "generated_at": "2026-03-13T01:04:12.206Z",
-  "count": 4,
+  "generated_at": "2026-03-13T01:04:13.719Z",
+  "count": 10,
   "articles": [
     {
-      "headline": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
-      "deck": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finall",
+      "headline": "O efeito manada, uma estratégia poderosa de produto",
+      "deck": "Provavelmente você já ouviu falar do efeito manada e, com toda certeza, a maioria das discussões sobre o tema costuma estar associada a… Continue reading on Medium »",
       "source": "Other",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-      "pubDate": "Thu, 12 Mar 2026 10:00:00 GMT"
+      "category": "ai",
+      "url": "https://medium.com/@uxestrategico/o-efeito-manada-uma-estrat%C3%A9gia-poderosa-de-produto-b6289fade367?source=rss------ux_design-5",
+      "pubDate": "Fri, 13 Mar 2026 00:17:17 GMT"
     },
     {
-      "headline": "Building Dynamic Forms In React And Next.js",
-      "deck": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
+      "headline": "What Conversation Designers See That Engineers Miss About AI Memory",
+      "deck": "The failure isn’t in how AI stores information. It’s in how it talks about what it knows. Continue reading on Medium »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.com/@dmittal1212/what-conversation-designers-see-that-engineers-miss-about-ai-memory-a85554a69a02?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 23:32:51 GMT"
+    },
+    {
+      "headline": "What actually drives career progression in product design",
+      "deck": "Your company doesn’t promote hard workers. They promote people solving bigger problems. Continue reading on Tiny Design Tips »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.com/tiny-design-tips/what-actually-drives-career-progression-in-product-design-26372148a2b1?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 22:09:13 GMT"
+    },
+    {
+      "headline": "AI in UX Design: Why Product Metrics Do Not Tell the Whole Story",
+      "deck": "Why UX designers must interpret product data instead of blindly optimizing metrics in the age of AI. Continue reading on Medium »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.com/@uxdesignerpro/ai-in-ux-design-why-product-metrics-do-not-tell-the-whole-story-b6141537d4cd?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 21:15:38 GMT"
+    },
+    {
+      "headline": "Design Process is Dead? Pump the Brakes",
+      "deck": "In response to the Head of Design at Claude declaring that the Design Process is becoming obsolete. Continue reading on Medium »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.com/@matthewreiswig/design-process-is-dead-pump-the-brakes-36a878f6f0ae?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 20:06:57 GMT"
+    },
+    {
+      "headline": "Accessibility and Inclusion in Indian Railway Infrastructure",
+      "deck": "Why Indian railway stations must evolve to support safe and independent travel for visually impaired passengers Continue reading on Muzli - Design Inspiration »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.muz.li/accessibility-and-inclusion-in-indian-railway-infrastructure-136ef9bf4b99?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 20:00:29 GMT"
+    },
+    {
+      "headline": "AI Can Generate Interfaces. It Still Can’t Understand People.",
+      "deck": "AI can generate wireframes, prototypes, and research summaries in seconds. Continue reading on Medium »",
+      "source": "Other",
+      "category": "ux",
+      "url": "https://medium.com/@katiefunfgeld/ai-can-generate-interfaces-it-still-cant-understand-people-e3900bf56139?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 19:26:49 GMT"
+    },
+    {
+      "headline": "El proceso de diseño no ha muerto: se ha vuelto una ventaja competitiva",
+      "deck": "Mucho se habla últimamente sobre “la muerte del diseño” tal como lo conocíamos. La premisa es simple: si una IA puede generar una interfaz… Continue reading on Medium »",
       "source": "Other",
       "category": "tech",
-      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-      "pubDate": "Tue, 10 Mar 2026 13:00:00 GMT"
+      "url": "https://medium.com/@alfykris/el-proceso-de-dise%C3%B1o-no-ha-muerto-se-ha-vuelto-una-ventaja-competitiva-b425ca89d9b7?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 19:20:00 GMT"
     },
     {
-      "headline": "Persuasive Design: Ten Years Later",
-      "deck": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxb",
+      "headline": "Redesigning a Digital Banking App — DuePay Product Experience",
+      "deck": "How I led the UX redesign of a digital banking app using discovery, design system, and Figma workflow Continue reading on Medium »",
       "source": "Other",
       "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-      "pubDate": "Mon, 09 Mar 2026 11:00:00 GMT"
+      "url": "https://nicomatheu.medium.com/redesigning-a-digital-banking-app-duepay-product-experience-cd6c379558a1?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 18:56:53 GMT"
     },
     {
-      "headline": "Human Strategy In An AI-Accelerated Workflow",
-      "deck": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about c",
+      "headline": "Modulo 18 — Construção de Moodboard projeto SumUp + Pix",
+      "deck": "Quero compartilhar mais um exercício desenvolvido durante o curso de UI/UX Design da EBAC. Continue reading on Medium »",
       "source": "Other",
       "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT"
+      "url": "https://medium.com/@pamella.marafigo/modulo-18-constru%C3%A7%C3%A3o-de-moodboard-projeto-sumup-pix-513fc6dc2705?source=rss------ux_design-5",
+      "pubDate": "Thu, 12 Mar 2026 18:48:07 GMT"
     }
   ]
 }
