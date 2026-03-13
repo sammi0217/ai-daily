@@ -1,5 +1,406 @@
 {
-  "generated_at": "2026-03-13T07:38:31.386Z",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-03-13T07:48:38.444Z",
+  "count": 50,
+  "articles": [
+    {
+      "headline": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "deck": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+      "pubDate": "Fri, 13 Mar 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Securing GenAI: Vol. 9 — Safeguarding Agentic AI systems and integrations",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/securing-genai-vol-9-safeguarding-agentic-ai-systems-and-integrations-8254d40e3a3f?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:52:42 GMT"
+    },
+    {
+      "headline": "Truecaller now lets you hang up on scammers &#8212; on behalf of your family",
+      "deck": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if t",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+      "pubDate": "Fri, 13 Mar 2026 04:30:00 +0000"
+    },
+    {
+      "headline": "We Replaced a $500K ML Retraining Pipeline with 3 Lines of Vector Math",
+      "deck": "Building a Self-Improving Enterprise Knowledge Base with Qdrant v1.17&#x2019;s Relevance Feedback APIContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/we-replaced-a-500k-ml-retraining-pipeline-with-3-lines-of-vector-math-18145dc91070?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:20:57 GMT"
+    },
+    {
+      "headline": "Reproducing: No Free Lunch Theorems for Optimization",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/reproducing-no-free-lunch-theorems-for-optimization-935761b04cb2?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:20:13 GMT"
+    },
+    {
+      "headline": "When Accuracy Lies: A Rigorous Machine Learning Approach to Credit Card Fraud Detection",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/when-accuracy-lies-a-rigorous-machine-learning-approach-to-credit-card-fraud-detection-d96737857d84?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:19:43 GMT"
+    },
+    {
+      "headline": "I Gave My AI Agent a Three-Layer Memory - Obsidian. Here’s How It Thinks Now.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-gave-my-ai-agent-a-three-layer-memory-obsidian-heres-how-it-thinks-now-0aaa0fdbdbbd?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:19:01 GMT"
+    },
+    {
+      "headline": "I Ditched the Cloud Model for a Local One. Here’s What Actually Broke.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-ditched-the-cloud-model-for-a-local-one-heres-what-actually-broke-23c1d857dcdd?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:18:55 GMT"
+    },
+    {
+      "headline": "Agentic AI: Redefining Cloud Security in India",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agentic-ai-redefining-cloud-security-in-india-0bd3ab0c8321?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:16:44 GMT"
+    },
+    {
+      "headline": "Generative AI in HR: Transforming Human Resource Management with Intelligent Automation",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/generative-ai-in-hr-transforming-human-resource-management-with-intelligent-automation-f96fba152ca8?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:11:53 GMT"
+    },
+    {
+      "headline": "Is RAG Still Needed in the Era of Long Context LLMs?",
+      "deck": "For anyone building AI applications and wondering whether RAG is still worth the complexity.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/is-rag-still-needed-in-the-era-of-long-context-llms-3d89907ce624?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:09:30 GMT"
+    },
+    {
+      "headline": "Ilya Sutskever Left OpenAI, Saying He Saw Something Dangerous.",
+      "deck": "MIT Technology Review just named it a 2026 Breakthrough Technology.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ilya-sutskever-left-openai-saying-he-saw-something-dangerous-285b973d2836?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 13 Mar 2026 04:06:34 GMT"
+    },
+    {
+      "headline": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+      "deck": "arXiv:2603.11076v1 Announce Type: new Abstract: Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace th",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11076",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms",
+      "deck": "arXiv:2603.11093v1 Announce Type: new Abstract: The development of high-level autonomous driving (AD) is shifting from perception-centric limitations to a more fundamental bottleneck, namely, a deficit in robust and gene",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11093",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "PACED: Distillation at the Frontier of Student Competence",
+      "deck": "arXiv:2603.11178v1 Announce Type: new Abstract: Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its reach (incoherent gradie",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11178",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
+      "deck": "arXiv:2603.11214v1 Announce Type: new Abstract: We evaluate the autonomous cyber-attack capabilities of frontier AI models on two purpose-built cyber ranges-a 32-step corporate network attack and a 7-step industrial cont",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11214",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Reversible Lifelong Model Editing via Semantic Routing-Based LoRA",
+      "deck": "arXiv:2603.11239v1 Announce Type: new Abstract: The dynamic evolution of real-world necessitates model editing within Large Language Models. While existing methods explore modular isolation or parameter-efficient strateg",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11239",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Mind the Sim2Real Gap in User Simulation for Agentic Tasks",
+      "deck": "arXiv:2603.11245v1 Announce Type: new Abstract: As NLP evaluation shifts from static benchmarks to multi-turn interactive settings, LLM-based simulators have become widely used as user proxies, serving two roles: generat",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11245",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+      "deck": "arXiv:2603.11266v1 Announce Type: new Abstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unl",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11266",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "COMPASS: The explainable agentic framework for Sovereignty, Sustainability, Compliance, and Ethics",
+      "deck": "arXiv:2603.11277v1 Announce Type: new Abstract: The rapid proliferation of large language model (LLM)-based agentic systems raises critical concerns regarding digital sovereignty, environmental sustainability, regulatory",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11277",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities",
+      "deck": "arXiv:2603.11279v1 Announce Type: new Abstract: The immense number of parameters and deep neural networks make large language models (LLMs) rival the complexity of human brains, which also makes them opaque ``black box''",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11279",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
+      "deck": "arXiv:2603.11299v1 Announce Type: new Abstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralizat",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11299",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "LLM-Augmented Digital Twin for Policy Evaluation in Short-Video Platforms",
+      "deck": "arXiv:2603.11333v1 Announce Type: new Abstract: Short-video platforms are closed-loop, human-in-the-loop ecosystems where platform policy, creator incentives, and user behavior co-evolve. This feedback structure makes co",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11333",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "RewardHackingAgents: Benchmarking Evaluation Integrity for LLM ML-Engineering Agents",
+      "deck": "arXiv:2603.11337v1 Announce Type: new Abstract: LLM agents increasingly perform end-to-end ML engineering tasks where success is judged by a single scalar test metric. This creates a structural vulnerability: an agent ca",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11337",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "FinRule-Bench: A Benchmark for Joint Reasoning over Financial Tables and Principles",
+      "deck": "arXiv:2603.11339v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to financial analysis, yet their ability to audit structured financial statements under explicit accounting principles",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11339",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Improving LLM Performance Through Black-Box Online Tuning: A Case for Adding System Specs to Factsheets for Trusted AI",
+      "deck": "arXiv:2603.11340v1 Announce Type: new Abstract: In this paper, we present a novel black-box online controller that uses only end-to-end measurements over short segments, without internal instrumentation, and hill climbin",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11340",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting",
+      "deck": "arXiv:2603.11352v1 Announce Type: new Abstract: Transformer-based time series foundation models face a fundamental trade-off in choice of tokenization: point-wise embeddings preserve temporal fidelity but scale poorly wi",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11352",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The Artificial Self: Characterising the landscape of AI identity",
+      "deck": "arXiv:2603.11353v1 Announce Type: new Abstract: Many assumptions that underpin human concepts of identity do not hold for machine minds that can be copied, edited, or simulated. We argue that there exist many different c",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11353",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol",
+      "deck": "arXiv:2603.11382v1 Announce Type: new Abstract: Autonomous agents, especially delegated systems with memory, persistent context, and multi-step planning, pose a measurement problem not present in stateless models: an age",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11382",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment",
+      "deck": "arXiv:2603.11388v1 Announce Type: new Abstract: Safety alignment aims to ensure that large language models (LLMs) refuse harmful requests by post-training on harmful queries paired with refusal answers. Although safety a",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11388",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems",
+      "deck": "arXiv:2603.11399v1 Announce Type: new Abstract: Users on e-commerce platforms can be uncertain about their preferences early in their search. Queries to recommendation systems are frequently ambiguous, incomplete, or wea",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11399",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+      "deck": "arXiv:2603.11409v1 Announce Type: new Abstract: Existing voice AI assistants treat every detected pause as an invitation to speak. This works in dyadic dialogue, but in multi-party settings, where an AI assistant partici",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11409",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Adversarial Reinforcement Learning for Detecting False Data Injection Attacks in Vehicular Routing",
+      "deck": "arXiv:2603.11433v1 Announce Type: new Abstract: In modern transportation networks, adversaries can manipulate routing algorithms using false data injection attacks, such as simulating heavy traffic with multiple devices ",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11433",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics",
+      "deck": "arXiv:2603.11442v1 Announce Type: new Abstract: Can humans detect AI-generated financial documents better than machines? We present GPT4o-Receipt, a benchmark of 1,235 receipt images pairing GPT-4o-generated receipts wit",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11442",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Verified Multi-Agent Orchestration: A Plan-Execute-Verify-Replan Framework for Complex Query Resolution",
+      "deck": "arXiv:2603.11445v1 Announce Type: new Abstract: We present Verified Multi-Agent Orchestration (VMAO), a framework that coordinates specialized LLM-based agents through a verification-driven iterative loop. Given a comple",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11445",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Examining Users' Behavioural Intention to Use OpenClaw Through the Cognition--Affect--Conation Framework",
+      "deck": "arXiv:2603.11455v1 Announce Type: new Abstract: This study examines users' behavioural intention to use OpenClaw through the Cognition--Affect--Conation (CAC) framework. The research investigates how cognitive perception",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11455",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Multi-Agent Collaboration for Automated Design Exploration on High Performance Computing Systems",
+      "deck": "arXiv:2603.11515v1 Announce Type: new Abstract: Today's scientific challenges, from climate modeling to Inertial Confinement Fusion design to novel material design, require exploring huge design spaces. In order to enabl",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11515",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Expert Threshold Routing for Autoregressive Language Modeling with Dynamic Computation Allocation and Load Balancing",
+      "deck": "arXiv:2603.11535v1 Announce Type: new Abstract: Token-choice Mixture-of-Experts (TC-MoE) routes each token to a fixed number of experts, limiting dynamic computation allocation and requiring auxiliary losses to maintain ",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11535",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions",
+      "deck": "arXiv:2603.11559v1 Announce Type: new Abstract: Large language models perform reliably when their outputs can be checked: solving equations, writing code, retrieving facts. They perform differently when checking is impos",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11559",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Leveraging Large Language Models and Survival Analysis for Early Prediction of Chemotherapy Outcomes",
+      "deck": "arXiv:2603.11594v1 Announce Type: new Abstract: Chemotherapy for cancer treatment is costly and accompanied by severe side effects, highlighting the critical need for early prediction of treatment outcomes to improve pat",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11594",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "See, Symbolize, Act: Grounding VLMs with Spatial Representations for Better Gameplay",
+      "deck": "arXiv:2603.11601v1 Announce Type: new Abstract: Vision-Language Models (VLMs) excel at describing visual scenes, yet struggle to translate perception into precise, grounded actions. We investigate whether providing VLMs ",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11601",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The Density of Cross-Persistence Diagrams and Its Applications",
+      "deck": "arXiv:2603.11623v1 Announce Type: new Abstract: Topological Data Analysis (TDA) provides powerful tools to explore the shape and structure of data through topological features such as clusters, loops, and voids. Persiste",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11623",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought",
+      "deck": "arXiv:2603.11631v1 Announce Type: new Abstract: Large vision-language models (LVLMs) struggle to reliably detect visual primitives in charts and align them with semantic representations, which severely limits their perfo",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11631",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
+      "deck": "arXiv:2603.11679v1 Announce Type: new Abstract: As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11679",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks",
+      "deck": "arXiv:2603.11689v1 Announce Type: new Abstract: Frontier Multimodal Large Language Models (MLLMs) exhibit remarkable capabilities in Visual-Language Comprehension (VLC) tasks. However, they are often deployed as zero-sho",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11689",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning",
+      "deck": "arXiv:2603.11691v1 Announce Type: new Abstract: Offline multi-agent reinforcement learning (MARL) with multi-task datasets is challenging due to varying numbers of agents across tasks and the need to generalize to unseen",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11691",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Scaling Laws for Educational AI Agents",
+      "deck": "arXiv:2603.11709v1 Announce Type: new Abstract: While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of ",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11709",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows",
+      "deck": "arXiv:2603.11721v1 Announce Type: new Abstract: Large language model (LLM) agents extend conventional generative models by integrating reasoning, tool invocation, and persistent memory. Recent studies suggest that such a",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11721",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Gender Bias in Generative AI-assisted Recruitment Processes",
+      "deck": "arXiv:2603.11736v1 Announce Type: new Abstract: In recent years, generative artificial intelligence (GenAI) systems have assumed increasingly crucial roles in selection processes, personnel recruitment and analysis of ca",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11736",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "CINDI: Conditional Imputation and Noisy Data Integrity with Flows in Power Grid Data",
+      "deck": "arXiv:2603.11745v1 Announce Type: new Abstract: Real-world multivariate time series, particularly in critical infrastructure such as electrical power grids, are often corrupted by noise and anomalies that degrade the per",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11745",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    }
+  ]
 }
