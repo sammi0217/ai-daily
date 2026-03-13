@@ -4,6 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>AI 日報</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4PZ9JMX98T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4PZ9JMX98T');
+</script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=VT323&family=Noto+Sans+TC:wght@400;500;700&display=swap');
 
@@ -68,6 +76,45 @@ body {
 }
 .menu-item:active { background: var(--mac-blue); color: #fff; }
 .menubar-clock { margin-left: auto; font-size: 11px; color: #333; }
+
+/* ── MENU DROPDOWN ── */
+.menu-wrap { position: relative; }
+.menu-dropdown {
+  display: none;
+  position: absolute;
+  top: 22px;
+  left: 0;
+  min-width: 200px;
+  background: var(--mac-white);
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-right: 2px solid var(--mac-dark);
+  border-bottom: 2px solid var(--mac-dark);
+  z-index: 999;
+  box-shadow: 2px 2px 0 #000;
+}
+.menu-wrap.open .menu-dropdown { display: block; }
+.menu-wrap.open .menu-item { background: var(--mac-blue); color: #fff; }
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 14px 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  white-space: nowrap;
+  border-bottom: 1px solid #e0e0e0;
+}
+.dropdown-item:last-child { border-bottom: none; }
+.dropdown-item:hover { background: var(--mac-blue); color: #fff; }
+.dropdown-sep {
+  height: 1px;
+  background: #888;
+  margin: 3px 0;
+  border-bottom: 1px solid #fff;
+}
 
 /* ── MAIN LAYOUT ── */
 .app-body {
@@ -550,11 +597,33 @@ body {
 <body>
 
 <!-- MENU BAR -->
-<div class="menubar">
+<div class="menubar" id="menubar">
   <span class="menu-logo">🍎</span>
-  <span class="menu-item">檔案</span>
-  <span class="menu-item">顯示</span>
-  <span class="menu-item">說明</span>
+
+  <!-- 檔案 -->
+  <div class="menu-wrap" id="menu-file">
+    <span class="menu-item" onclick="toggleMenu('menu-file')">檔案</span>
+    <div class="menu-dropdown">
+      <a class="dropdown-item" href="https://sammilin.framer.website/about" target="_blank" rel="noopener">👤 關於 Sammi</a>
+    </div>
+  </div>
+
+  <!-- 顯示 -->
+  <div class="menu-wrap" id="menu-view">
+    <span class="menu-item" onclick="toggleMenu('menu-view')">顯示</span>
+    <div class="menu-dropdown">
+      <a class="dropdown-item" href="https://medium.com/@sammi860217" target="_blank" rel="noopener">✍️ Medium 部落格</a>
+    </div>
+  </div>
+
+  <!-- 說明 -->
+  <div class="menu-wrap" id="menu-help">
+    <span class="menu-item" onclick="toggleMenu('menu-help')">說明</span>
+    <div class="menu-dropdown">
+      <a class="dropdown-item" href="https://www.instagram.com/sammi_lyr/" target="_blank" rel="noopener">📸 Instagram</a>
+    </div>
+  </div>
+
   <span class="menubar-clock" id="clock">00:00</span>
 </div>
 
@@ -818,6 +887,14 @@ function selectArticle(i, rowEl) {
   rowEl.classList.add('selected');
   const a = filtered[i];
 
+  // GA4 追蹤文章點擊
+  gtag('event', 'article_click', {
+    article_title: a.headline,
+    article_source: a.source,
+    article_category: a.category,
+    article_url: a.url
+  });
+
   if (isMobile()) {
     // Show bottom sheet
     document.getElementById('sheetSourceLabel').textContent = a.source;
@@ -921,6 +998,26 @@ function closeDesktopDetail() {
     divider.classList.remove('dragging');
   });
 })();
+
+// ── Menu Dropdown ──
+function toggleMenu(id) {
+  const all = document.querySelectorAll('.menu-wrap');
+  all.forEach(m => { if (m.id !== id) m.classList.remove('open'); });
+  document.getElementById(id).classList.toggle('open');
+}
+document.addEventListener('click', e => {
+  if (!e.target.closest('.menu-wrap')) {
+    document.querySelectorAll('.menu-wrap').forEach(m => m.classList.remove('open'));
+  }
+});
+
+// GA4 追蹤外連點擊
+document.addEventListener('click', e => {
+  const link = e.target.closest('a.dropdown-item');
+  if (link) {
+    gtag('event', 'menu_click', { link_text: link.textContent.trim(), link_url: link.href });
+  }
+});
 
 loadNews();
 </script>
