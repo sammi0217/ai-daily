@@ -1,86 +1,166 @@
 {
-  "generated_at": "2026-03-13T01:04:15.180Z",
-  "count": 10,
+  "generated_at": "2026-03-13T01:04:16.768Z",
+  "count": 20,
   "articles": [
     {
-      "headline": "AI Can Generate Interfaces. It Still Can’t Understand People.",
-      "deck": "AI can generate wireframes, prototypes, and research summaries in seconds. Continue reading on Medium »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://medium.com/@katiefunfgeld/ai-can-generate-interfaces-it-still-cant-understand-people-e3900bf56139?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 19:26:49 GMT"
-    },
-    {
-      "headline": "Day 1: Mobile Authentication UI (Sign Up & Sign In)",
-      "deck": "The Idea Behind the Design Continue reading on Bootcamp »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://medium.com/design-bootcamp/day-1-mobile-authentication-ui-sign-up-sign-in-c4d1923825e0?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 18:46:09 GMT"
-    },
-    {
-      "headline": "AI in UX Research: Real Examples of What Works and What Doesn’t",
-      "deck": "Reflections on Advancing Research Conference 2026 Continue reading on Medium »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://medium.com/@wordydesigner/ai-in-ux-research-real-examples-of-what-works-and-what-doesnt-d2a4f917df3e?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 18:04:12 GMT"
-    },
-    {
-      "headline": "One Journey, One Ticket: Redesigning How Citymapper Users Buy Public Transport Tickets",
-      "deck": "A Design Thinking case study exploring how to eliminate the pain of purchasing multiple public transport tickets — and what I learned from… Continue reading on Medium »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://medium.com/@safie.dzhabbarova/one-journey-one-ticket-redesigning-how-citymapper-users-buy-public-transport-tickets-2975ab702354?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 11:58:10 GMT"
-    },
-    {
-      "headline": "Introduction to Research Methods: Quantitative and Qualitative",
-      "deck": "Date : 11/03/26 Continue reading on Medium »",
+      "headline": "Exploratory Data Analysis for Credit Scoring with Python",
+      "deck": "Understanding default risk through statistical analysis of borrower and loan characteristics. The post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
       "source": "Other",
       "category": "tech",
-      "url": "https://medium.com/@amyanjan2/introduction-to-research-methods-quantitative-and-qualitative-ef8e20f8e471?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 05:48:27 GMT"
+      "url": "https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/",
+      "pubDate": "Thu, 12 Mar 2026 16:30:00 +0000"
     },
     {
-      "headline": "21 Days of UI Design: The Problems, Decisions, and Thinking Behind Every Screen",
-      "deck": "An image showing micro interaction states for a Login button. Continue reading on Bootcamp »",
+      "headline": "Solving the Human Training Data Problem",
+      "deck": "How AI has completely transformed the way I study as a graduate student The post Solving the Human Training Data Problem appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/solving-the-human-training-data-problem/",
+      "pubDate": "Thu, 12 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction",
+      "deck": "Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy. The post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings ",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/649627-2/",
+      "pubDate": "Thu, 12 Mar 2026 13:30:00 +0000"
+    },
+    {
+      "headline": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+      "deck": "A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure The post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/",
+      "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm",
+      "deck": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance. The post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Toward",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/",
+      "pubDate": "Wed, 11 Mar 2026 16:30:00 +0000"
+    },
+    {
+      "headline": "Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures",
+      "deck": "Understanding why spectral clustering outperforms K-means The post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/",
+      "pubDate": "Wed, 11 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Why Most A/B Tests Are Lying to You",
+      "deck": "The 4 statistical sins that invalidate most A/B tests, plus a pre-test checklist and Bayesian vs frequentist decision framework you can use Monday. The post Why Most A/B Tests Are Lying to You appeared first on Towards D",
       "source": "Other",
       "category": "ux",
-      "url": "https://medium.com/design-bootcamp/21-days-of-ui-design-the-problems-decisions-and-thinking-behind-every-screen-de76344bcf2d?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 03:10:27 GMT"
+      "url": "https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/",
+      "pubDate": "Wed, 11 Mar 2026 13:30:00 +0000"
     },
     {
-      "headline": "Creating User Personas by Finding Their Pain Points",
-      "deck": "User personas are essential in digital marketing. They help you understand your target market better and design your products and… Continue reading on Medium »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://chesterbeard.medium.com/creating-user-personas-by-finding-their-pain-points-21fdfc32b2c8?source=rss------user_research-5",
-      "pubDate": "Thu, 12 Mar 2026 01:07:51 GMT"
-    },
-    {
-      "headline": "Inspired x Few vol. 49",
-      "deck": "Our team’s bi-weekly inspiration dump from around the world of web, UI/UX, and product design with some art mixed in. Continue reading on Medium »",
-      "source": "Other",
-      "category": "ux",
-      "url": "https://few.medium.com/inspired-x-few-vol-49-97e5021e1338?source=rss------user_research-5",
-      "pubDate": "Wed, 11 Mar 2026 18:39:57 GMT"
-    },
-    {
-      "headline": "Inside the AviaGames Duke University Research Partnership",
-      "deck": "The AviaGames and Duke University partnership offers an interesting look at how mobile gaming and academic research can intersect… Continue reading on Medium »",
+      "headline": "How the Fourier Transform Converts Sound Into Frequencies",
+      "deck": "A visual, intuition-first guide to understanding what the math is really doing — from winding machines to spectrograms The post How the Fourier Transform Converts Sound Into Frequencies appeared first on Towards Data Sci",
       "source": "Other",
       "category": "tech",
-      "url": "https://medium.com/@danniscooper1998/inside-the-aviagames-duke-university-research-partnership-7aa6d7627fb1?source=rss------user_research-5",
-      "pubDate": "Wed, 11 Mar 2026 15:10:51 GMT"
+      "url": "https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/",
+      "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
     },
     {
-      "headline": "Understanding How People Take Notes: A User Research Study for a Note-Taking App",
-      "deck": "Introduction Continue reading on Medium »",
+      "headline": "Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules",
+      "deck": "I really thought I was onto something big: add a couple of simple domain rules to the loss function, and watch fraud detection just skyrocket on super-imbalanced data. The first run looked amazing… until I fixed a sneaky",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/",
+      "pubDate": "Tue, 10 Mar 2026 16:30:00 +0000"
+    },
+    {
+      "headline": "Building a Like-for-Like solution for Stores in Power BI",
+      "deck": "Like-for-Like (L4L) solutions are essential for comparing elements. It's about comparing only comparable elements, in this case, comparing stores over time. Let's see a solution built in a Semantic model. The post Buildi",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/",
+      "pubDate": "Tue, 10 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "What Are Agent Skills Beyond Claude?",
+      "deck": "How to design and implement agent skills for custom agents outside the Claude ecosystem The post What Are Agent Skills Beyond Claude? appeared first on Towards Data Science.",
       "source": "Other",
       "category": "ux",
-      "url": "https://medium.com/@rizwanrizz155/understanding-how-people-take-notes-a-user-research-study-for-a-note-taking-app-32a986eea289?source=rss------user_research-5",
-      "pubDate": "Wed, 11 Mar 2026 13:05:46 GMT"
+      "url": "https://towardsdatascience.com/what-is-agent-skills-beyond-claude/",
+      "pubDate": "Tue, 10 Mar 2026 13:30:00 +0000"
+    },
+    {
+      "headline": "When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory",
+      "deck": "A data-driven introduction to game theory, Nash equilibrium, and strategic decision-making The post When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-penalty-kicks-with-game-theory/",
+      "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Three OpenClaw Mistakes to Avoid and How to Fix Them",
+      "deck": "Learn how to set up OpenClaw effectively The post Three OpenClaw Mistakes to Avoid and How to Fix Them appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://towardsdatascience.com/three-openclaw-mistakes-to-avoid-and-how-to-fix-them/",
+      "pubDate": "Mon, 09 Mar 2026 19:59:04 +0000"
+    },
+    {
+      "headline": "I Stole a Wall Street Trick to Solve a Google Trends Data Problem",
+      "deck": "A methodology for comparing Google Trends data across countries. The post I Stole a Wall Street Trick to Solve a Google Trends Data Problem appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://towardsdatascience.com/i-stole-a-wall-street-trick-to-solve-a-google-trends-data-problem-2/",
+      "pubDate": "Mon, 09 Mar 2026 19:08:20 +0000"
+    },
+    {
+      "headline": "Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)",
+      "deck": "A five-step framework for building rigorous, reproducible AI search benchmarks — before you make six-figure infrastructure decisions The post Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It) appeared f",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/",
+      "pubDate": "Mon, 09 Mar 2026 13:30:00 +0000"
+    },
+    {
+      "headline": "Machine Learning at Scale: Managing More Than One Model in Production",
+      "deck": "From one model to managing a massive portfolio: What 10 years in the industry taught me The post Machine Learning at Scale: Managing More Than One Model in Production appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/",
+      "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Write C Code Without Writing C: The Magic of PythoC",
+      "deck": "Compile native, standalone applications using the Python syntax you already know. The post Write C Code Without Writing C: The Magic of PythoC appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/",
+      "pubDate": "Sun, 08 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "LatentVLA: Latent Reasoning Models for Autonomous Driving",
+      "deck": "What if natural language is not the best abstraction for driving? The post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
+      "pubDate": "Sun, 08 Mar 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Understanding Context and Contextual Retrieval in RAG",
+      "deck": "Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy The post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
+      "pubDate": "Sat, 07 Mar 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "The AI Bubble Has a Data Science Escape Hatch",
+      "deck": "Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype. The post The AI Bubble Has a Data Science Escape Hatch appeared first on T",
+      "source": "Other",
+      "category": "ai",
+      "url": "https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/",
+      "pubDate": "Sat, 07 Mar 2026 13:00:00 +0000"
     }
   ]
 }
