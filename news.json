@@ -1,166 +1,62 @@
 {
-  "generated_at": "2026-03-13T01:04:16.768Z",
-  "count": 20,
+  "generated_at": "2026-03-13T01:04:18.786Z",
+  "count": 7,
   "articles": [
     {
-      "headline": "Exploratory Data Analysis for Credit Scoring with Python",
-      "deck": "Understanding default risk through statistical analysis of borrower and loan characteristics. The post Exploratory Data Analysis for Credit Scoring with Python appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/",
-      "pubDate": "Thu, 12 Mar 2026 16:30:00 +0000"
-    },
-    {
-      "headline": "Solving the Human Training Data Problem",
-      "deck": "How AI has completely transformed the way I study as a graduate student The post Solving the Human Training Data Problem appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/solving-the-human-training-data-problem/",
-      "pubDate": "Thu, 12 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction",
-      "deck": "Navigating the performance cliff: How pairing MRL with int8 and binary quantization balances infrastructure costs with retrieval accuracy. The post Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings ",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/649627-2/",
-      "pubDate": "Thu, 12 Mar 2026 13:30:00 +0000"
-    },
-    {
-      "headline": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-      "deck": "A beginner-friendly walkthrough of API calls, environment variables, and real-world AI infrastructure The post I Finally Built My First AI App (And It Wasn’t What I Expected) appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/",
-      "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm",
-      "deck": "Tired of the AI hype? Let's talk about the probabilistic algorithms actually driving high-end quantitative finance. The post An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm appeared first on Toward",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/",
-      "pubDate": "Wed, 11 Mar 2026 16:30:00 +0000"
-    },
-    {
-      "headline": "Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures",
-      "deck": "Understanding why spectral clustering outperforms K-means The post Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/",
-      "pubDate": "Wed, 11 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "Why Most A/B Tests Are Lying to You",
-      "deck": "The 4 statistical sins that invalidate most A/B tests, plus a pre-test checklist and Bayesian vs frequentist decision framework you can use Monday. The post Why Most A/B Tests Are Lying to You appeared first on Towards D",
+      "headline": "Claude Code Hacks To Supercharge Your Workflow",
+      "deck": "Top 10 Hacks That Streamline Your Work with Claude Code Continue reading on UX Planet »",
       "source": "Other",
       "category": "ux",
-      "url": "https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/",
-      "pubDate": "Wed, 11 Mar 2026 13:30:00 +0000"
+      "url": "https://uxplanet.org/10-claude-code-hacks-that-will-supercharge-your-workflow-6bff68b9a179?source=rss----819cc2aaeee0---4",
+      "pubDate": "Thu, 12 Mar 2026 16:52:48 GMT"
     },
     {
-      "headline": "How the Fourier Transform Converts Sound Into Frequencies",
-      "deck": "A visual, intuition-first guide to understanding what the math is really doing — from winding machines to spectrograms The post How the Fourier Transform Converts Sound Into Frequencies appeared first on Towards Data Sci",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/",
-      "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules",
-      "deck": "I really thought I was onto something big: add a couple of simple domain rules to the loss function, and watch fraud detection just skyrocket on super-imbalanced data. The first run looked amazing… until I fixed a sneaky",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/",
-      "pubDate": "Tue, 10 Mar 2026 16:30:00 +0000"
-    },
-    {
-      "headline": "Building a Like-for-Like solution for Stores in Power BI",
-      "deck": "Like-for-Like (L4L) solutions are essential for comparing elements. It's about comparing only comparable elements, in this case, comparing stores over time. Let's see a solution built in a Semantic model. The post Buildi",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/building-a-like-for-like-solution-for-stores-in-power-bi/",
-      "pubDate": "Tue, 10 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "What Are Agent Skills Beyond Claude?",
-      "deck": "How to design and implement agent skills for custom agents outside the Claude ecosystem The post What Are Agent Skills Beyond Claude? appeared first on Towards Data Science.",
+      "headline": "Claude Code vs Cursor",
+      "deck": "Which Tool Is Better for Product Designers? Continue reading on UX Planet »",
       "source": "Other",
       "category": "ux",
-      "url": "https://towardsdatascience.com/what-is-agent-skills-beyond-claude/",
-      "pubDate": "Tue, 10 Mar 2026 13:30:00 +0000"
+      "url": "https://uxplanet.org/claude-code-vs-cursor-26de1b46544a?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 11 Mar 2026 13:51:39 GMT"
     },
     {
-      "headline": "When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory",
-      "deck": "A data-driven introduction to game theory, Nash equilibrium, and strategic decision-making The post When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory appeared first on Towards Data Science.",
+      "headline": "Claude Code Plan Mode",
+      "deck": "One common mistake first-time Claude Code users make is jumping straight to implementation and asking Claude to build something. Although… Continue reading on UX Planet »",
       "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-penalty-kicks-with-game-theory/",
-      "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-code-plan-mode-675592ee3171?source=rss----819cc2aaeee0---4",
+      "pubDate": "Tue, 10 Mar 2026 12:43:37 GMT"
     },
     {
-      "headline": "Three OpenClaw Mistakes to Avoid and How to Fix Them",
-      "deck": "Learn how to set up OpenClaw effectively The post Three OpenClaw Mistakes to Avoid and How to Fix Them appeared first on Towards Data Science.",
+      "headline": "Top 7 Claude Code Plugins",
+      "deck": "Claude Plugins are nice ways to extend what Claude can do. In this article, I want to share my top 7 favorite plugins. Continue reading on UX Planet »",
       "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/three-openclaw-mistakes-to-avoid-and-how-to-fix-them/",
-      "pubDate": "Mon, 09 Mar 2026 19:59:04 +0000"
+      "category": "ux",
+      "url": "https://uxplanet.org/top-7-claude-code-plugins-2f97c2fbb1be?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 09 Mar 2026 13:36:28 GMT"
     },
     {
-      "headline": "I Stole a Wall Street Trick to Solve a Google Trends Data Problem",
-      "deck": "A methodology for comparing Google Trends data across countries. The post I Stole a Wall Street Trick to Solve a Google Trends Data Problem appeared first on Towards Data Science.",
+      "headline": "Claude Code Best Practices",
+      "deck": "4 best practices that will help you make the most of Claude Code in product design Continue reading on UX Planet »",
       "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/i-stole-a-wall-street-trick-to-solve-a-google-trends-data-problem-2/",
-      "pubDate": "Mon, 09 Mar 2026 19:08:20 +0000"
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-code-best-practices-28609653abcf?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 08 Mar 2026 21:36:45 GMT"
     },
     {
-      "headline": "Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)",
-      "deck": "A five-step framework for building rigorous, reproducible AI search benchmarks — before you make six-figure infrastructure decisions The post Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It) appeared f",
+      "headline": "Claude Skills 2.0 for Product Designers",
+      "deck": "Anthropic has recently improved the process of creating new Claude Skills, and this improvement is so significant that it almost feels… Continue reading on UX Planet »",
       "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/",
-      "pubDate": "Mon, 09 Mar 2026 13:30:00 +0000"
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-skills-2-0-for-product-designers-a86f4518b3ba?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sat, 07 Mar 2026 19:09:54 GMT"
     },
     {
-      "headline": "Machine Learning at Scale: Managing More Than One Model in Production",
-      "deck": "From one model to managing a massive portfolio: What 10 years in the industry taught me The post Machine Learning at Scale: Managing More Than One Model in Production appeared first on Towards Data Science.",
+      "headline": "CLAUDE.md Best Practices",
+      "deck": "10 Sections to Include in your CLAUDE.md Continue reading on UX Planet »",
       "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/",
-      "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Write C Code Without Writing C: The Magic of PythoC",
-      "deck": "Compile native, standalone applications using the Python syntax you already know. The post Write C Code Without Writing C: The Magic of PythoC appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/",
-      "pubDate": "Sun, 08 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "LatentVLA: Latent Reasoning Models for Autonomous Driving",
-      "deck": "What if natural language is not the best abstraction for driving? The post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
-      "pubDate": "Sun, 08 Mar 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "Understanding Context and Contextual Retrieval in RAG",
-      "deck": "Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy The post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
-      "pubDate": "Sat, 07 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "The AI Bubble Has a Data Science Escape Hatch",
-      "deck": "Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype. The post The AI Bubble Has a Data Science Escape Hatch appeared first on T",
-      "source": "Other",
-      "category": "ai",
-      "url": "https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/",
-      "pubDate": "Sat, 07 Mar 2026 13:00:00 +0000"
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-md-best-practices-1ef4f861ce7c?source=rss----819cc2aaeee0---4",
+      "pubDate": "Fri, 06 Mar 2026 18:16:58 GMT"
     }
   ]
 }
