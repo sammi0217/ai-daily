@@ -1,126 +1,166 @@
 {
-  "generated_at": "2026-03-13T10:00:00.000Z",
-  "count": 15,
+  "generated_at": "2026-03-13T02:07:24.228Z",
+  "count": 20,
   "articles": [
     {
-      "headline": "Anthropic's Claude 3.7 Sonnet Sets New Benchmarks for Reasoning",
-      "deck": "The latest Claude model demonstrates significant improvements in coding, mathematics, and multi-step reasoning tasks compared to previous versions.",
+      "headline": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "deck": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/category/artificial-intelligence/",
-      "pubDate": "Thu, 13 Mar 2026 08:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "pubDate": "Thu, 12 Mar 2026 23:25:39 +0000"
     },
     {
-      "headline": "How to Run Better UX Research with AI-Assisted Synthesis",
-      "deck": "AI tools can now help researchers cluster themes, identify patterns, and generate insights from interview transcripts — but human judgment remains essential.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/",
-      "pubDate": "Thu, 13 Mar 2026 07:30:00 GMT"
-    },
-    {
-      "headline": "Google Releases Gemini 2.0 Ultra with Extended Context Window",
-      "deck": "The new model supports up to 2 million tokens of context, enabling analysis of entire codebases and long-form documents in a single prompt.",
-      "source": "The Verge",
+      "headline": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "deck": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+      "source": "TechCrunch",
       "category": "ai",
-      "url": "https://www.theverge.com/",
-      "pubDate": "Thu, 13 Mar 2026 07:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "pubDate": "Thu, 12 Mar 2026 22:25:50 +0000"
     },
     {
-      "headline": "Design Systems Are Evolving: What AI Means for Component Libraries",
-      "deck": "Generative UI is forcing design system teams to rethink how components are structured, documented, and handed off to developers.",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/",
-      "pubDate": "Thu, 13 Mar 2026 06:00:00 GMT"
-    },
-    {
-      "headline": "The Hidden Costs of AI Infrastructure Are Piling Up for Startups",
-      "deck": "While foundation model costs have dropped, the engineering complexity and operational overhead of running AI products is straining early-stage teams.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/",
-      "pubDate": "Wed, 12 Mar 2026 20:00:00 GMT"
-    },
-    {
-      "headline": "Accessibility in the Age of AI: New Tools, Old Challenges",
-      "deck": "AI-powered interfaces introduce new accessibility barriers even as they promise to remove old ones. Designers need to test with assistive technology from day one.",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://www.smashingmagazine.com/",
-      "pubDate": "Wed, 12 Mar 2026 18:00:00 GMT"
-    },
-    {
-      "headline": "MIT Researchers Develop Energy-Efficient Training Method for LLMs",
-      "deck": "A new sparse training technique reduces compute requirements by 40% without sacrificing model performance on standard benchmarks.",
-      "source": "MIT Tech Review",
+      "headline": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+      "deck": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+      "source": "TechCrunch",
       "category": "ai",
-      "url": "https://www.technologyreview.com/",
-      "pubDate": "Wed, 12 Mar 2026 16:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+      "pubDate": "Thu, 12 Mar 2026 18:20:33 +0000"
     },
     {
-      "headline": "UX Design Patterns That Work for AI Chat Interfaces",
-      "deck": "From progressive disclosure to error recovery, here are the interaction patterns that make AI-powered chat products feel intuitive and trustworthy.",
-      "source": "Medium: UX Design",
-      "category": "ux",
-      "url": "https://medium.com/tag/ux-design",
-      "pubDate": "Wed, 12 Mar 2026 14:00:00 GMT"
-    },
-    {
-      "headline": "Emergent Capabilities and What They Mean for AI Safety",
-      "deck": "As models grow larger, unexpected abilities appear suddenly. Researchers are working to predict and evaluate these capabilities before deployment.",
-      "source": "The Gradient",
+      "headline": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+      "deck": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "source": "TechCrunch",
       "category": "ai",
-      "url": "https://thegradient.pub/",
-      "pubDate": "Wed, 12 Mar 2026 12:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000"
     },
     {
-      "headline": "User Research in Practice: Recruiting Participants for AI Studies",
-      "deck": "Finding the right participants for AI usability studies requires different screening criteria than traditional software research. Here is what works.",
-      "source": "Medium: User Research",
-      "category": "ux",
-      "url": "https://medium.com/tag/user-research",
-      "pubDate": "Wed, 12 Mar 2026 10:00:00 GMT"
-    },
-    {
-      "headline": "Fine-Tuning vs RAG: Choosing the Right Approach for Your Use Case",
-      "deck": "A practical comparison of retrieval-augmented generation and fine-tuning for domain-specific AI applications, with cost and latency tradeoffs.",
-      "source": "Towards Data Science",
+      "headline": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+      "deck": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+      "source": "TechCrunch",
       "category": "ai",
-      "url": "https://towardsdatascience.com/",
-      "pubDate": "Tue, 11 Mar 2026 20:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+      "pubDate": "Thu, 12 Mar 2026 17:20:19 +0000"
     },
     {
-      "headline": "Import AI: Weekly Digest of AI Research Papers",
-      "deck": "This week's highlights include advances in multimodal reasoning, robot learning from demonstration, and new interpretability techniques for transformers.",
-      "source": "Import AI",
+      "headline": "Bumble introduces an AI dating assistant, ‘Bee’",
+      "deck": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+      "source": "TechCrunch",
       "category": "ai",
-      "url": "https://jack-clark.net/",
-      "pubDate": "Tue, 11 Mar 2026 18:00:00 GMT"
+      "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+      "pubDate": "Thu, 12 Mar 2026 16:52:17 +0000"
     },
     {
-      "headline": "Building Better Onboarding Flows with Behavioral Data",
-      "deck": "Using session recordings and funnel analytics to identify where new users drop off and how to redesign onboarding steps for higher activation rates.",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/",
-      "pubDate": "Tue, 11 Mar 2026 14:00:00 GMT"
+      "headline": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+      "deck": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+      "pubDate": "Thu, 12 Mar 2026 16:42:40 +0000"
     },
     {
-      "headline": "How Cursor and GitHub Copilot Are Changing Developer Workflows",
-      "deck": "AI coding assistants have moved from novelty to necessity for many engineering teams, but adoption patterns vary widely by language and team size.",
-      "source": "Better Programming",
-      "category": "tech",
-      "url": "https://medium.com/better-programming",
-      "pubDate": "Tue, 11 Mar 2026 10:00:00 GMT"
+      "headline": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+      "deck": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of ",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+      "pubDate": "Thu, 12 Mar 2026 15:30:00 +0000"
     },
     {
-      "headline": "Lessons from Building an AI-First Product in 2026",
-      "deck": "Founders share what surprised them most about shipping AI products: user trust, latency expectations, and the challenge of managing non-deterministic outputs.",
-      "source": "The Startup",
-      "category": "tech",
-      "url": "https://medium.com/swlh",
-      "pubDate": "Mon, 10 Mar 2026 18:00:00 GMT"
+      "headline": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+      "deck": "The new Sassy style can curse and roast you, but the fun ends there.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
+      "pubDate": "Thu, 12 Mar 2026 15:16:16 +0000"
+    },
+    {
+      "headline": "Wonderful raises $150M Series B at $2B valuation",
+      "deck": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+      "pubDate": "Thu, 12 Mar 2026 15:12:35 +0000"
+    },
+    {
+      "headline": "Google is using old news reports and AI to predict flash floods",
+      "deck": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+      "pubDate": "Thu, 12 Mar 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+      "deck": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+      "pubDate": "Thu, 12 Mar 2026 12:30:00 +0000"
+    },
+    {
+      "headline": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "deck": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "pubDate": "Wed, 11 Mar 2026 23:35:03 +0000"
+    },
+    {
+      "headline": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "deck": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "pubDate": "Wed, 11 Mar 2026 22:51:39 +0000"
+    },
+    {
+      "headline": "Zendesk acquires agentic customer service startup Forethought",
+      "deck": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "pubDate": "Wed, 11 Mar 2026 22:41:27 +0000"
+    },
+    {
+      "headline": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+      "deck": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+      "pubDate": "Wed, 11 Mar 2026 22:00:05 +0000"
+    },
+    {
+      "headline": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+      "deck": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+      "pubDate": "Wed, 11 Mar 2026 21:40:49 +0000"
+    },
+    {
+      "headline": "Replit snags $9B valuation 6 months after hitting $3B",
+      "deck": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "pubDate": "Wed, 11 Mar 2026 18:52:52 +0000"
+    },
+    {
+      "headline": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+      "deck": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+      "pubDate": "Wed, 11 Mar 2026 16:43:59 +0000"
+    },
+    {
+      "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+      "deck": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "pubDate": "Wed, 11 Mar 2026 16:12:02 +0000"
     }
   ]
 }
