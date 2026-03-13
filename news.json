@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T07:48:38.444Z",
+  "generated_at": "2026-03-13T07:50:52.100Z",
   "count": 50,
   "articles": [
     {
@@ -11,92 +11,12 @@
       "pubDate": "Fri, 13 Mar 2026 05:00:00 +0000"
     },
     {
-      "headline": "Securing GenAI: Vol. 9 — Safeguarding Agentic AI systems and integrations",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/securing-genai-vol-9-safeguarding-agentic-ai-systems-and-integrations-8254d40e3a3f?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:52:42 GMT"
-    },
-    {
       "headline": "Truecaller now lets you hang up on scammers &#8212; on behalf of your family",
       "deck": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if t",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
       "pubDate": "Fri, 13 Mar 2026 04:30:00 +0000"
-    },
-    {
-      "headline": "We Replaced a $500K ML Retraining Pipeline with 3 Lines of Vector Math",
-      "deck": "Building a Self-Improving Enterprise Knowledge Base with Qdrant v1.17&#x2019;s Relevance Feedback APIContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/we-replaced-a-500k-ml-retraining-pipeline-with-3-lines-of-vector-math-18145dc91070?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:20:57 GMT"
-    },
-    {
-      "headline": "Reproducing: No Free Lunch Theorems for Optimization",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/reproducing-no-free-lunch-theorems-for-optimization-935761b04cb2?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:20:13 GMT"
-    },
-    {
-      "headline": "When Accuracy Lies: A Rigorous Machine Learning Approach to Credit Card Fraud Detection",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/when-accuracy-lies-a-rigorous-machine-learning-approach-to-credit-card-fraud-detection-d96737857d84?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:19:43 GMT"
-    },
-    {
-      "headline": "I Gave My AI Agent a Three-Layer Memory - Obsidian. Here’s How It Thinks Now.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-gave-my-ai-agent-a-three-layer-memory-obsidian-heres-how-it-thinks-now-0aaa0fdbdbbd?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:19:01 GMT"
-    },
-    {
-      "headline": "I Ditched the Cloud Model for a Local One. Here’s What Actually Broke.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-ditched-the-cloud-model-for-a-local-one-heres-what-actually-broke-23c1d857dcdd?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:18:55 GMT"
-    },
-    {
-      "headline": "Agentic AI: Redefining Cloud Security in India",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agentic-ai-redefining-cloud-security-in-india-0bd3ab0c8321?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:16:44 GMT"
-    },
-    {
-      "headline": "Generative AI in HR: Transforming Human Resource Management with Intelligent Automation",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/generative-ai-in-hr-transforming-human-resource-management-with-intelligent-automation-f96fba152ca8?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:11:53 GMT"
-    },
-    {
-      "headline": "Is RAG Still Needed in the Era of Long Context LLMs?",
-      "deck": "For anyone building AI applications and wondering whether RAG is still worth the complexity.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/is-rag-still-needed-in-the-era-of-long-context-llms-3d89907ce624?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:09:30 GMT"
-    },
-    {
-      "headline": "Ilya Sutskever Left OpenAI, Saying He Saw Something Dangerous.",
-      "deck": "MIT Technology Review just named it a 2026 Breakthrough Technology.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ilya-sutskever-left-openai-saying-he-saw-something-dangerous-285b973d2836?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 13 Mar 2026 04:06:34 GMT"
     },
     {
       "headline": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
@@ -400,6 +320,86 @@
       "source": "arXiv",
       "category": "ai",
       "url": "https://arxiv.org/abs/2603.11745",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows",
+      "deck": "arXiv:2603.11756v1 Announce Type: new Abstract: Deep generative models for anomaly detection in multivariate time-series are typically trained by maximizing data likelihood. However, likelihood in observation space measu",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11756",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Understanding Wikidata Qualifiers: An Analysis and Taxonomy",
+      "deck": "arXiv:2603.11767v1 Announce Type: new Abstract: This paper presents an in-depth analysis of Wikidata qualifiers, focusing on their semantics and actual usage, with the aim of developing a taxonomy that addresses the chal",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11767",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework",
+      "deck": "arXiv:2603.11768v1 Announce Type: new Abstract: Long-term memory has emerged as a foundational component of autonomous Large Language Model (LLM) agents, enabling continuous adaptation, lifelong multimodal learning, and ",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11768",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "An Automatic Text Classification Method Based on Hierarchical Taxonomies, Neural Networks and Document Embedding: The NETHIC Tool",
+      "deck": "arXiv:2603.11770v1 Announce Type: new Abstract: This work describes an automatic text classification method implemented in a software tool called NETHIC, which takes advantage of the inner capabilities of highly-scalable",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11770",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "From Debate to Deliberation: Structured Collective Reasoning with Typed Epistemic Acts",
+      "deck": "arXiv:2603.11781v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly tackle complex reasoning, yet their interaction patterns remain limited to voting, unstructured debate, or pipeline orchestration. None",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11781",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "DocSage: An Information Structuring Agent for Multi-Doc Multi-Entity Question Answering",
+      "deck": "arXiv:2603.11798v1 Announce Type: new Abstract: Multi-document Multi-entity Question Answering inherently demands models to track implicit logic between multiple entities across scattered documents. However, existing Lar",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11798",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "A Semi-Decentralized Approach to Multiagent Control",
+      "deck": "arXiv:2603.11802v1 Announce Type: new Abstract: We introduce an expressive framework and algorithms for the semi-decentralized control of cooperative agents in environments with communication uncertainty. Whereas semi-Ma",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11802",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction",
+      "deck": "arXiv:2603.11808v1 Announce Type: new Abstract: The transition from monolithic large language models (LLMs) to modular, skill-equipped agents represents a fundamental architectural shift in artificial intelligence deploy",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11808",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "VisiFold: Long-Term Traffic Forecasting via Temporal Folding Graph and Node Visibility",
+      "deck": "arXiv:2603.11816v1 Announce Type: new Abstract: Traffic forecasting is a cornerstone of intelligent transportation systems. While existing research has made significant progress in short-term prediction, long-term foreca",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11816",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Automated Detection of Malignant Lesions in the Ovary Using Deep Learning Models and XAI",
+      "deck": "arXiv:2603.11818v1 Announce Type: new Abstract: The unrestrained proliferation of cells that are malignant in nature is cancer. In recent times, medical professionals are constantly acquiring enhanced diagnostic and trea",
+      "source": "arXiv",
+      "category": "ai",
+      "url": "https://arxiv.org/abs/2603.11818",
       "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     }
   ]
