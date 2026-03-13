@@ -1,150 +1,86 @@
 {
-  "generated_at": "2026-03-13T02:07:52.683Z",
-  "count": 18,
+  "generated_at": "2026-03-13T02:07:54.528Z",
+  "count": 10,
   "articles": [
     {
-      "headline": "The Most Exciting Development in GenUI: Buttons and Checkboxes",
-      "deck": "AI chats generate simple UI elements to gather context, reduce typing and memory load, and produce more useful, personalized results.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/genui-buttons-and-checkboxes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
+      "headline": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "deck": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "pubDate": "Thu, 12 Mar 2026 22:23:34 +0000"
     },
     {
-      "headline": "Statistical Significance Isn’t the Same as Practical Significance",
-      "deck": "Statistical significance helps establish whether a result is reliable, while practical significance helps determine whether it is worth acting on.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/practical-significance/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 18:00:00 +0000"
+      "headline": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze In January, Beijing-based sof",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+      "pubDate": "Thu, 12 Mar 2026 13:02:48 +0000"
     },
     {
-      "headline": "UX Conference July Announced (Jul 6 - Jul 14)",
-      "deck": "Take up to 3 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. July 6 - July 14, 2026 (Americas) | July 7-",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/training/july-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Mar 2026 04:16:50 +0000"
+      "headline": "Pragmatic by design: Engineering AI for the real world",
+      "deck": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, pr",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+      "pubDate": "Thu, 12 Mar 2026 13:00:00 +0000"
     },
     {
-      "headline": "GenAI for Complex Questions, Search for Critical Facts",
-      "deck": "Users choose AI to explore and synthesize information; but they rely on traditional search when accuracy and trust are critical.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-search-infoseeking/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
+      "headline": "Brutal times for the US battery industry",
+      "deck": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting throu",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+      "pubDate": "Thu, 12 Mar 2026 10:00:00 +0000"
     },
     {
-      "headline": "Project Postmortems for UX Teams: Learning from Success and Failure",
-      "deck": "Although postmortems are one of the most powerful learning tools in product development, most teams haven't yet discovered how to use them effectively.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ux-postmortems/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0000"
+      "headline": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "deck": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenCl",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "pubDate": "Wed, 11 Mar 2026 12:46:21 +0000"
     },
     {
-      "headline": "Designing Useful Smart Home Notifications",
-      "deck": "Smart-home notifications should be timely, relevant, specific, and personalized to avoid overwhelming users and causing distrust or disengagement.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/smart-home-notifications/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
+      "headline": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world Pokémon",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+      "pubDate": "Wed, 11 Mar 2026 12:38:00 +0000"
     },
     {
-      "headline": "Tracking Adoption of Research Recommendations: The Recommendation-Adoption Score",
-      "deck": "Use the RAS (Recommendation-Adoption Score) to track how much research value reaches your user.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/recommendation-adoption-score/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0000"
+      "headline": "Building a strong data infrastructure for AI agent success",
+      "deck": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experiment",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+      "pubDate": "Tue, 10 Mar 2026 14:00:00 +0000"
     },
     {
-      "headline": "UX Conference May Announced (May 11 - May 22)",
-      "deck": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. May 11 - May 22, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/training/may/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Wed, 18 Feb 2026 08:19:30 +0000"
+      "headline": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+      "deck": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshi",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+      "pubDate": "Tue, 10 Mar 2026 13:47:26 +0000"
     },
     {
-      "headline": "UX Research with Minors: Consent vs. Assent",
-      "deck": "When conducting UX research with minors, you must obtain consent from a parent or legal guardian and assent from the minor participant.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/research-minors-consent/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
+      "headline": "Prioritizing energy intelligence for sustainable growth",
+      "deck": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Te",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+      "pubDate": "Tue, 10 Mar 2026 13:00:00 +0000"
     },
     {
-      "headline": "What UX Consulting Clients Expect in the Age of AI",
-      "deck": "Clients still seek strong judgment and critical thinking, research rigor, and respect for real-world and user constraints from UX consultants.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ux-consulting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Feb 2026 19:00:00 +0000"
-    },
-    {
-      "headline": "How AI Literacy Shapes GenAI Use",
-      "deck": "Using generative AI often doesn’t mean using it well. AI literacy requires both prompt fluency and the ability to assess outputs.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-literacy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "Your Design System Needs an Enforcer",
-      "deck": "Although design systems promise consistency, most still fail without someone actively enforcing the rules and making teams follow them.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/design-system-enforcer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 06 Feb 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "AI-Moderated Interviews: If, When, and How to Use Them",
-      "deck": "AI interviews offer faster feedback at scale, but they're not a replacement for in-depth, human-led semistructured interviews.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-interviewers/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "Demand Accuracy in Your AI Tools: Lessons from Baymard Institute",
-      "deck": "Most AI-powered tools for UX lack reliability and accountability in their outputs. Demand transparency and proven accuracy, or don't buy it.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/baymard-ai-tool-accuracy/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 30 Jan 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "User Panels 101",
-      "deck": "A well-built internal user panel saves time, reduces costs, and strengthens your organization’s connection to real users.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/user-panels-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "Why So Many Info Tips Are Bad (and How to Make Them Better)",
-      "deck": "Information tips can clarify complex UIs, but they should not hide essential information, trigger redundant information, or disrupt the current workflow.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/info-tips-bad/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "Job Opening: UX Design Assistant (Remote, World-Wide; Europe Based)",
-      "deck": "We’re looking for a talented UX design assistant to join the team. Applications due February 6, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
-    },
-    {
-      "headline": "Job Opening: Social Media Design Assistant (Remote, World-Wide; Europe Based)",
-      "deck": "We’re looking for a talented social media design assistant to join the team. Applications due February 6, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/news/item/job-opening-social-media-design-assistant-europe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "pubDate": "Fri, 23 Jan 2026 16:00:00 +0000"
+      "headline": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "deck": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in th",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+      "pubDate": "Tue, 10 Mar 2026 12:55:32 +0000"
     }
   ]
 }
