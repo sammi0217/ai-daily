@@ -1,86 +1,86 @@
 {
-  "generated_at": "2026-03-13T02:08:03.229Z",
+  "generated_at": "2026-03-13T02:08:04.499Z",
   "count": 10,
   "articles": [
-    {
-      "headline": "O efeito manada, uma estratégia poderosa de produto",
-      "deck": "Provavelmente você já ouviu falar do efeito manada e, com toda certeza, a maioria das discussões sobre o tema costuma estar associada a… Continue reading on Medium »",
-      "source": "Medium",
-      "category": "ux",
-      "url": "https://medium.com/@uxestrategico/o-efeito-manada-uma-estrat%C3%A9gia-poderosa-de-produto-b6289fade367?source=rss------ux_design-5",
-      "pubDate": "Fri, 13 Mar 2026 00:17:17 GMT"
-    },
-    {
-      "headline": "What Conversation Designers See That Engineers Miss About AI Memory",
-      "deck": "The failure isn’t in how AI stores information. It’s in how it talks about what it knows. Continue reading on Medium »",
-      "source": "Medium",
-      "category": "ux",
-      "url": "https://medium.com/@dmittal1212/what-conversation-designers-see-that-engineers-miss-about-ai-memory-a85554a69a02?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 23:32:51 GMT"
-    },
-    {
-      "headline": "What actually drives career progression in product design",
-      "deck": "Your company doesn’t promote hard workers. They promote people solving bigger problems. Continue reading on Tiny Design Tips »",
-      "source": "Medium",
-      "category": "ux",
-      "url": "https://medium.com/tiny-design-tips/what-actually-drives-career-progression-in-product-design-26372148a2b1?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 22:09:13 GMT"
-    },
-    {
-      "headline": "AI in UX Design: Why Product Metrics Do Not Tell the Whole Story",
-      "deck": "Why UX designers must interpret product data instead of blindly optimizing metrics in the age of AI. Continue reading on Medium »",
-      "source": "Medium",
-      "category": "ux",
-      "url": "https://medium.com/@uxdesignerpro/ai-in-ux-design-why-product-metrics-do-not-tell-the-whole-story-b6141537d4cd?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 21:15:38 GMT"
-    },
-    {
-      "headline": "Design Process is Dead? Pump the Brakes",
-      "deck": "In response to the Head of Design at Claude declaring that the Design Process is becoming obsolete. Continue reading on Medium »",
-      "source": "Medium",
-      "category": "ux",
-      "url": "https://medium.com/@matthewreiswig/design-process-is-dead-pump-the-brakes-36a878f6f0ae?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 20:06:57 GMT"
-    },
-    {
-      "headline": "Accessibility and Inclusion in Indian Railway Infrastructure",
-      "deck": "Why Indian railway stations must evolve to support safe and independent travel for visually impaired passengers Continue reading on Muzli - Design Inspiration »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://medium.muz.li/accessibility-and-inclusion-in-indian-railway-infrastructure-136ef9bf4b99?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 20:00:29 GMT"
-    },
     {
       "headline": "AI Can Generate Interfaces. It Still Can’t Understand People.",
       "deck": "AI can generate wireframes, prototypes, and research summaries in seconds. Continue reading on Medium »",
       "source": "Medium",
       "category": "ux",
-      "url": "https://medium.com/@katiefunfgeld/ai-can-generate-interfaces-it-still-cant-understand-people-e3900bf56139?source=rss------ux_design-5",
+      "url": "https://medium.com/@katiefunfgeld/ai-can-generate-interfaces-it-still-cant-understand-people-e3900bf56139?source=rss------user_research-5",
       "pubDate": "Thu, 12 Mar 2026 19:26:49 GMT"
     },
     {
-      "headline": "El proceso de diseño no ha muerto: se ha vuelto una ventaja competitiva",
-      "deck": "Mucho se habla últimamente sobre “la muerte del diseño” tal como lo conocíamos. La premisa es simple: si una IA puede generar una interfaz… Continue reading on Medium »",
+      "headline": "Day 1: Mobile Authentication UI (Sign Up & Sign In)",
+      "deck": "The Idea Behind the Design Continue reading on Bootcamp »",
       "source": "Medium",
       "category": "ux",
-      "url": "https://medium.com/@alfykris/el-proceso-de-dise%C3%B1o-no-ha-muerto-se-ha-vuelto-una-ventaja-competitiva-b425ca89d9b7?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 19:20:00 GMT"
+      "url": "https://medium.com/design-bootcamp/day-1-mobile-authentication-ui-sign-up-sign-in-c4d1923825e0?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 18:46:09 GMT"
     },
     {
-      "headline": "Redesigning a Digital Banking App — DuePay Product Experience",
-      "deck": "How I led the UX redesign of a digital banking app using discovery, design system, and Figma workflow Continue reading on Medium »",
+      "headline": "AI in UX Research: Real Examples of What Works and What Doesn’t",
+      "deck": "Reflections on Advancing Research Conference 2026 Continue reading on Medium »",
       "source": "Medium",
       "category": "ux",
-      "url": "https://nicomatheu.medium.com/redesigning-a-digital-banking-app-duepay-product-experience-cd6c379558a1?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 18:56:53 GMT"
+      "url": "https://medium.com/@wordydesigner/ai-in-ux-research-real-examples-of-what-works-and-what-doesnt-d2a4f917df3e?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 18:04:12 GMT"
     },
     {
-      "headline": "Modulo 18 — Construção de Moodboard projeto SumUp + Pix",
-      "deck": "Quero compartilhar mais um exercício desenvolvido durante o curso de UI/UX Design da EBAC. Continue reading on Medium »",
+      "headline": "One Journey, One Ticket: Redesigning How Citymapper Users Buy Public Transport Tickets",
+      "deck": "A Design Thinking case study exploring how to eliminate the pain of purchasing multiple public transport tickets — and what I learned from… Continue reading on Medium »",
       "source": "Medium",
       "category": "ux",
-      "url": "https://medium.com/@pamella.marafigo/modulo-18-constru%C3%A7%C3%A3o-de-moodboard-projeto-sumup-pix-513fc6dc2705?source=rss------ux_design-5",
-      "pubDate": "Thu, 12 Mar 2026 18:48:07 GMT"
+      "url": "https://medium.com/@safie.dzhabbarova/one-journey-one-ticket-redesigning-how-citymapper-users-buy-public-transport-tickets-2975ab702354?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 11:58:10 GMT"
+    },
+    {
+      "headline": "Introduction to Research Methods: Quantitative and Qualitative",
+      "deck": "Date : 11/03/26 Continue reading on Medium »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://medium.com/@amyanjan2/introduction-to-research-methods-quantitative-and-qualitative-ef8e20f8e471?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 05:48:27 GMT"
+    },
+    {
+      "headline": "21 Days of UI Design: The Problems, Decisions, and Thinking Behind Every Screen",
+      "deck": "An image showing micro interaction states for a Login button. Continue reading on Bootcamp »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://medium.com/design-bootcamp/21-days-of-ui-design-the-problems-decisions-and-thinking-behind-every-screen-de76344bcf2d?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 03:10:27 GMT"
+    },
+    {
+      "headline": "Creating User Personas by Finding Their Pain Points",
+      "deck": "User personas are essential in digital marketing. They help you understand your target market better and design your products and… Continue reading on Medium »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://chesterbeard.medium.com/creating-user-personas-by-finding-their-pain-points-21fdfc32b2c8?source=rss------user_research-5",
+      "pubDate": "Thu, 12 Mar 2026 01:07:51 GMT"
+    },
+    {
+      "headline": "Inspired x Few vol. 49",
+      "deck": "Our team’s bi-weekly inspiration dump from around the world of web, UI/UX, and product design with some art mixed in. Continue reading on Medium »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://few.medium.com/inspired-x-few-vol-49-97e5021e1338?source=rss------user_research-5",
+      "pubDate": "Wed, 11 Mar 2026 18:39:57 GMT"
+    },
+    {
+      "headline": "Inside the AviaGames Duke University Research Partnership",
+      "deck": "The AviaGames and Duke University partnership offers an interesting look at how mobile gaming and academic research can intersect… Continue reading on Medium »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://medium.com/@danniscooper1998/inside-the-aviagames-duke-university-research-partnership-7aa6d7627fb1?source=rss------user_research-5",
+      "pubDate": "Wed, 11 Mar 2026 15:10:51 GMT"
+    },
+    {
+      "headline": "Understanding How People Take Notes: A User Research Study for a Note-Taking App",
+      "deck": "Introduction Continue reading on Medium »",
+      "source": "Medium",
+      "category": "ux",
+      "url": "https://medium.com/@rizwanrizz155/understanding-how-people-take-notes-a-user-research-study-for-a-note-taking-app-32a986eea289?source=rss------user_research-5",
+      "pubDate": "Wed, 11 Mar 2026 13:05:46 GMT"
     }
   ]
 }
