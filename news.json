@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-03-13T08:24:37.705Z",
-  "count": 50,
+  "generated_at": "2026-03-13T12:00:02.151Z",
+  "count": 60,
   "articles": [
+    {
+      "headline": "Logitech K98M Wireless Keyboard Review: Great for Productivity",
+      "deck": "After a series of great low-profile keyboards, the iconic peripherals brand has finally figured out a wireless mechanical model.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/logitech-k98m-wireless/",
+      "pubDate": "Fri, 13 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Gamers’ Worst Nightmares About AI Are Coming True",
+      "deck": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+      "pubDate": "Fri, 13 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Sony WF-1000XM6 Review: My New Favorite Earbuds",
+      "deck": "Sony's latest flagship earbuds have the best noise canceling—and maybe the best bass—I've ever heard from wireless earbuds.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/sony-wf-1000xm6/",
+      "pubDate": "Fri, 13 Mar 2026 10:34:00 +0000"
+    },
+    {
+      "headline": "6G Is Coming. Here’s What to Expect From the Next Generation of Cellular Tech",
+      "deck": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like “sensing” of vehicles, devices, and people.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/6g-is-coming/",
+      "pubDate": "Fri, 13 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Shingles Virus May Be Aging You More Quickly",
+      "deck": "Evidence suggests reactivations of the varicella-zoster virus may accelerate aging and raise dementia risk. Now scientists want to know if vaccines and antivirals could help protect the brain.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/shingles-virus-aging/",
+      "pubDate": "Fri, 13 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+      "deck": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+      "pubDate": "Fri, 13 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "My Moccamaster Delivers Drip Coffee Perfection",
+      "deck": "It’s stylish and reliable—and you can pry my Moccamaster from my cold, dead hands.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/",
+      "pubDate": "Fri, 13 Mar 2026 09:39:00 +0000"
+    },
+    {
+      "headline": "The hidden cost of AI design tools - What we’re outsourcing without noticing",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-hidden-cost-of-ai-design-tools-what-were-outsourcing-without-noticing-9057db75aaf9?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 13 Mar 2026 09:14:00 GMT"
+    },
+    {
+      "headline": "Future AI chips could be built on glass",
+      "deck": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to star",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+      "pubDate": "Fri, 13 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Why Your Phone Battery Dies Faster During a Public Emergency",
+      "deck": "During a geopolitical crisis, things like weak signal strength, network congestion, and GPS interference can force smartphones to work harder. Here’s how you can save your battery.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/",
+      "pubDate": "Fri, 13 Mar 2026 09:00:00 +0000"
+    },
     {
       "headline": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "deck": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
@@ -179,228 +259,228 @@
       "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "UX Conference June Announced (Jun 13 - Jun 26)",
-      "deck": "Take up to 6 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. June 13 - June 26, 2026.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/training/june/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Mar 2026 00:50:23 +0000"
+      "headline": "LLM-Augmented Digital Twin for Policy Evaluation in Short-Video Platforms",
+      "deck": "arXiv:2603.11333v1 Announce Type: new Abstract: Short-video platforms are closed-loop, human-in-the-loop ecosystems where platform policy, creator incentives, and user behavior co-evolve. This feedback structure makes co",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11333",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-      "deck": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the futur",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-      "pubDate": "Thu, 12 Mar 2026 23:25:39 +0000"
+      "headline": "RewardHackingAgents: Benchmarking Evaluation Integrity for LLM ML-Engineering Agents",
+      "deck": "arXiv:2603.11337v1 Announce Type: new Abstract: LLM agents increasingly perform end-to-end ML engineering tasks where success is judged by a single scalar test metric. This creates a structural vulnerability: an agent ca",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11337",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-      "deck": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-      "pubDate": "Thu, 12 Mar 2026 22:25:50 +0000"
+      "headline": "FinRule-Bench: A Benchmark for Joint Reasoning over Financial Tables and Principles",
+      "deck": "arXiv:2603.11339v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to financial analysis, yet their ability to audit structured financial statements under explicit accounting principles",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11339",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "deck": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "pubDate": "Thu, 12 Mar 2026 22:23:34 +0000"
+      "headline": "Improving LLM Performance Through Black-Box Online Tuning: A Case for Adding System Specs to Factsheets for Trusted AI",
+      "deck": "arXiv:2603.11340v1 Announce Type: new Abstract: In this paper, we present a novel black-box online controller that uses only end-to-end measurements over short segments, without internal instrumentation, and hill climbin",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11340",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "The first fruit of the Google-Apple AI pact",
-      "deck": "Apple&#x2019;s MacBook Neo arrives heralded by the sound of the inevitableContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-first-fruit-of-the-google-apple-ai-pact-efec0ff52a03?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 12 Mar 2026 21:49:36 GMT"
+      "headline": "TimeSqueeze: Dynamic Patching for Efficient Time Series Forecasting",
+      "deck": "arXiv:2603.11352v1 Announce Type: new Abstract: Transformer-based time series foundation models face a fundamental trade-off in choice of tokenization: point-wise embeddings preserve temporal fidelity but scale poorly wi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11352",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
-      "deck": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
-      "pubDate": "Thu, 12 Mar 2026 20:15:41 +0000"
+      "headline": "The Artificial Self: Characterising the landscape of AI identity",
+      "deck": "arXiv:2603.11353v1 Announce Type: new Abstract: Many assumptions that underpin human concepts of identity do not hold for machine minds that can be copied, edited, or simulated. We argue that there exist many different c",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11353",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "deck": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-      "pubDate": "Thu, 12 Mar 2026 19:48:21 +0000"
+      "headline": "Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol",
+      "deck": "arXiv:2603.11382v1 Announce Type: new Abstract: Autonomous agents, especially delegated systems with memory, persistent context, and multi-step planning, pose a measurement problem not present in stateless models: an age",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11382",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Facebook Marketplace now lets Meta AI respond to buyers&#8217; messages",
-      "deck": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-      "pubDate": "Thu, 12 Mar 2026 18:20:33 +0000"
+      "headline": "Deactivating Refusal Triggers: Understanding and Mitigating Overrefusal in Safety Alignment",
+      "deck": "arXiv:2603.11388v1 Announce Type: new Abstract: Safety alignment aims to ensure that large language models (LLMs) refuse harmful requests by post-training on harmful queries paired with refusal answers. Although safety a",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11388",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Google Is Not Ruling Out Ads in Gemini",
-      "deck": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-      "pubDate": "Thu, 12 Mar 2026 18:15:00 +0000"
+      "headline": "Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems",
+      "deck": "arXiv:2603.11399v1 Announce Type: new Abstract: Users on e-commerce platforms can be uncertain about their preferences early in their search. Queries to recommendation systems are frequently ambiguous, incomplete, or wea",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11399",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-      "deck": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
-      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000"
+      "headline": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+      "deck": "arXiv:2603.11409v1 Announce Type: new Abstract: Existing voice AI assistants treat every detected pause as an invitation to speak. This works in dyadic dialogue, but in multi-party settings, where an AI assistant partici",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11409",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
-      "deck": "A bipartisan bill would force the FBI to get a warrant to read Americans’ messages and ban the federal purchase of commercial data on US residents ahead of a critical April deadline.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
-      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0000"
+      "headline": "Adversarial Reinforcement Learning for Detecting False Data Injection Attacks in Vehicular Routing",
+      "deck": "arXiv:2603.11433v1 Announce Type: new Abstract: In modern transportation networks, adversaries can manipulate routing algorithms using false data injection attacks, such as simulating heavy traffic with multiple devices ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11433",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "These Excellent Computer Speakers Are $100 Off",
-      "deck": "IK Multimedia's iLoud Micro Monitors are an excellent pick for anyone who works with audio and video, or just likes premium sound.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/iloud-micro-monitor-deal-326/",
-      "pubDate": "Thu, 12 Mar 2026 17:29:00 +0000"
+      "headline": "GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics",
+      "deck": "arXiv:2603.11442v1 Announce Type: new Abstract: Can humans detect AI-generated financial documents better than machines? We present GPT4o-Receipt, a benchmark of 1,235 receipt images pairing GPT-4o-generated receipts wit",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11442",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-      "deck": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-      "pubDate": "Thu, 12 Mar 2026 17:20:19 +0000"
+      "headline": "Verified Multi-Agent Orchestration: A Plan-Execute-Verify-Replan Framework for Complex Query Resolution",
+      "deck": "arXiv:2603.11445v1 Announce Type: new Abstract: We present Verified Multi-Agent Orchestration (VMAO), a framework that coordinates specialized LLM-based agents through a verification-driven iterative loop. Given a comple",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11445",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Claude Code Hacks To Supercharge Your Workflow",
-      "deck": "Top 10 Hacks That Streamline Your Work with Claude CodeContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/10-claude-code-hacks-that-will-supercharge-your-workflow-6bff68b9a179?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 12 Mar 2026 16:52:48 GMT"
+      "headline": "Examining Users' Behavioural Intention to Use OpenClaw Through the Cognition--Affect--Conation Framework",
+      "deck": "arXiv:2603.11455v1 Announce Type: new Abstract: This study examines users' behavioural intention to use OpenClaw through the Cognition--Affect--Conation (CAC) framework. The research investigates how cognitive perception",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11455",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Bumble introduces an AI dating assistant, &#8216;Bee&#8217;",
-      "deck": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-      "pubDate": "Thu, 12 Mar 2026 16:52:17 +0000"
+      "headline": "Multi-Agent Collaboration for Automated Design Exploration on High Performance Computing Systems",
+      "deck": "arXiv:2603.11515v1 Announce Type: new Abstract: Today's scientific challenges, from climate modeling to Inertial Confinement Fusion design to novel material design, require exploring huge design spaces. In order to enabl",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11515",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "A writer is suing Grammarly for turning her and other authors into &#8216;AI editors&#8217; without consent",
-      "deck": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-      "pubDate": "Thu, 12 Mar 2026 16:42:40 +0000"
+      "headline": "Expert Threshold Routing for Autoregressive Language Modeling with Dynamic Computation Allocation and Load Balancing",
+      "deck": "arXiv:2603.11535v1 Announce Type: new Abstract: Token-choice Mixture-of-Experts (TC-MoE) routes each token to a fixed number of experts, limiting dynamic computation allocation and requiring auxiliary losses to maintain ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11535",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
-      "deck": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory state-sponsored cyberattacks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
-      "pubDate": "Thu, 12 Mar 2026 16:14:39 +0000"
+      "headline": "AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions",
+      "deck": "arXiv:2603.11559v1 Announce Type: new Abstract: Large language models perform reliably when their outputs can be checked: solving equations, writing code, retrieving facts. They perform differently when checking is impos",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11559",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-      "deck": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of ",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-      "pubDate": "Thu, 12 Mar 2026 15:30:00 +0000"
+      "headline": "Leveraging Large Language Models and Survival Analysis for Early Prediction of Chemotherapy Outcomes",
+      "deck": "arXiv:2603.11594v1 Announce Type: new Abstract: Chemotherapy for cancer treatment is costly and accompanied by severe side effects, highlighting the critical need for early prediction of treatment outcomes to improve pat",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11594",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Alexa+ gets a new &#8216;adults only&#8217; personality option that curses but won&#8217;t do NSFW content",
-      "deck": "The new Sassy style can curse and roast you, but the fun ends there.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
-      "pubDate": "Thu, 12 Mar 2026 15:16:16 +0000"
+      "headline": "See, Symbolize, Act: Grounding VLMs with Spatial Representations for Better Gameplay",
+      "deck": "arXiv:2603.11601v1 Announce Type: new Abstract: Vision-Language Models (VLMs) excel at describing visual scenes, yet struggle to translate perception into precise, grounded actions. We investigate whether providing VLMs ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11601",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Wonderful raises $150M Series B at $2B valuation",
-      "deck": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
-      "pubDate": "Thu, 12 Mar 2026 15:12:35 +0000"
+      "headline": "The Density of Cross-Persistence Diagrams and Its Applications",
+      "deck": "arXiv:2603.11623v1 Announce Type: new Abstract: Topological Data Analysis (TDA) provides powerful tools to explore the shape and structure of data through topological features such as clusters, loops, and voids. Persiste",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11623",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
-      "deck": "We consulted preparedness experts and WIRED's team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
-      "pubDate": "Thu, 12 Mar 2026 13:53:25 +0000"
+      "headline": "VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought",
+      "deck": "arXiv:2603.11631v1 Announce Type: new Abstract: Large vision-language models (LVLMs) struggle to reliably detect visual primitives in charts and align them with semantic representations, which severely limits their perfo",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11631",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; I",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
-      "pubDate": "Thu, 12 Mar 2026 13:02:48 +0000"
+      "headline": "LLMs can construct powerful representations and streamline sample-efficient supervised learning",
+      "deck": "arXiv:2603.11679v1 Announce Type: new Abstract: As real-world datasets become increasingly complex and heterogeneous, supervised learning is often bottlenecked by input representation design. Modeling multimodal data for",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11679",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Google is using old news reports and AI to predict flash floods",
-      "deck": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-      "pubDate": "Thu, 12 Mar 2026 13:00:00 +0000"
+      "headline": "Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks",
+      "deck": "arXiv:2603.11689v1 Announce Type: new Abstract: Frontier Multimodal Large Language Models (MLLMs) exhibit remarkable capabilities in Visual-Language Comprehension (VLC) tasks. However, they are often deployed as zero-sho",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11689",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Pragmatic by design: Engineering AI for the real world",
-      "deck": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, pr",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-      "pubDate": "Thu, 12 Mar 2026 13:00:00 +0000"
+      "headline": "STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning",
+      "deck": "arXiv:2603.11691v1 Announce Type: new Abstract: Offline multi-agent reinforcement learning (MARL) with multi-task datasets is challenging due to varying numbers of agents across tasks and the need to generalize to unseen",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11691",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Google Maps is getting an AI &#8216;Ask Maps&#8217; feature and upgraded &#8216;immersive&#8217; navigation",
-      "deck": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
-      "pubDate": "Thu, 12 Mar 2026 12:30:00 +0000"
+      "headline": "Scaling Laws for Educational AI Agents",
+      "deck": "arXiv:2603.11709v1 Announce Type: new Abstract: While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11709",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
-      "deck": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-      "pubDate": "Thu, 12 Mar 2026 12:30:00 +0000"
+      "headline": "When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows",
+      "deck": "arXiv:2603.11721v1 Announce Type: new Abstract: Large language model (LLM) agents extend conventional generative models by integrating reasoning, tool invocation, and persistent memory. Recent studies suggest that such a",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11721",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
-      "deck": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finall",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-      "pubDate": "Thu, 12 Mar 2026 10:00:00 GMT"
+      "headline": "Gender Bias in Generative AI-assisted Recruitment Processes",
+      "deck": "arXiv:2603.11736v1 Announce Type: new Abstract: In recent years, generative artificial intelligence (GenAI) systems have assumed increasingly crucial roles in selection processes, personnel recruitment and analysis of ca",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11736",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     },
     {
-      "headline": "Claude Code vs Cursor",
-      "deck": "Which Tool Is Better for Product Designers?Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-code-vs-cursor-26de1b46544a?source=rss----819cc2aaeee0---4",
-      "pubDate": "Wed, 11 Mar 2026 13:51:39 GMT"
+      "headline": "CINDI: Conditional Imputation and Noisy Data Integrity with Flows in Power Grid Data",
+      "deck": "arXiv:2603.11745v1 Announce Type: new Abstract: Real-world multivariate time series, particularly in critical infrastructure such as electrical power grids, are often corrupted by noise and anomalies that degrade the per",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.11745",
+      "pubDate": "Fri, 13 Mar 2026 00:00:00 -0400"
     }
   ]
 }
