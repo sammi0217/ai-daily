@@ -305,6 +305,7 @@ body {
 .cat-ai { background: #800000; color: #fff; }
 .cat-ux { background: #000080; color: #fff; }
 .cat-tech { background: #006400; color: #fff; }
+.cat-academic { background: #4a0080; color: #fff; }
 .article-row.selected .cat-ai,
 .article-row.selected .cat-ux,
 .article-row.selected .cat-tech { background: rgba(255,255,255,0.25); }
@@ -656,6 +657,9 @@ body {
       <button class="toolbar-btn" data-filter="tech" onclick="setFilter('tech',this)">
         💻 科技 <span class="count-badge" id="cnt-tech">0</span>
       </button>
+      <button class="toolbar-btn" data-filter="academic" onclick="setFilter('academic',this)">
+        📚 學術 <span class="count-badge" id="cnt-academic">0</span>
+      </button>
       <div class="toolbar-sep"></div>
       <span class="refresh-btn" onclick="loadNews()" title="重新整理">↻</span>
     </div>
@@ -808,12 +812,13 @@ async function loadNews() {
   allNews = data;
 
   // Update counts
-  const counts = { all: allNews.length, ai: 0, ux: 0, tech: 0 };
+  const counts = { all: allNews.length, ai: 0, ux: 0, tech: 0, academic: 0 };
   allNews.forEach(n => { if (counts[n.category] !== undefined) counts[n.category]++; });
   document.getElementById('cnt-all').textContent = counts.all;
   document.getElementById('cnt-ai').textContent = counts.ai;
   document.getElementById('cnt-ux').textContent = counts.ux;
   document.getElementById('cnt-tech').textContent = counts.tech;
+  document.getElementById('cnt-academic').textContent = counts.academic;
 
   const now = new Date();
   document.getElementById('mastheadDate').innerHTML = fmtDate(now) + '<br>共 ' + allNews.length + ' 則';
@@ -841,9 +846,9 @@ function renderList() {
     return;
   }
   el.innerHTML = filtered.map((a, i) => {
-    const icon = a.category === 'ux' ? '🎨' : a.category === 'tech' ? '💻' : '🤖';
-    const catLabel = a.category === 'ux' ? 'UX' : a.category === 'tech' ? 'TECH' : 'AI';
-    const catCls = 'cat-' + a.category;
+    const icon = a.category === 'ux' ? '🎨' : a.category === 'tech' ? '💻' : a.category === 'academic' ? '📚' : '🤖';
+    const catLabel = a.category === 'ux' ? 'UX' : a.category === 'tech' ? 'TECH' : a.category === 'academic' ? 'ACAD' : 'AI';
+    const catCls = 'cat-' + (a.category === 'academic' ? 'academic' : a.category);
     return `<div class="article-row" onclick="selectArticle(${i}, this)">
       <div class="row-icon">${icon}</div>
       <div class="row-title-cell">
@@ -867,7 +872,7 @@ function escHtml(s) {
 }
 
 function buildDetailHtml(a) {
-  const catLabel = a.category === 'ux' ? 'UX 設計' : a.category === 'tech' ? '科技' : 'AI 動態';
+  const catLabel = a.category === 'ux' ? 'UX 設計' : a.category === 'tech' ? '科技' : a.category === 'academic' ? '學術研究' : 'AI 動態';
   return `
     <div class="detail-headline">${escHtml(a.headline)}</div>
     <div class="detail-meta-row">
