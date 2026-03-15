@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-03-14T12:00:02.060Z",
+  "generated_at": "2026-03-15T12:00:02.234Z",
   "count": 60,
   "articles": [
+    {
+      "headline": "Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power",
+      "deck": "Brompton's latest folding electric bicycle is beautiful, genuinely portable, and doesn't quite go fast enough.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/",
+      "pubDate": "Sun, 15 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "This At-Home Hair Growth System Just Dropped in Price",
+      "deck": "Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/",
+      "pubDate": "Sun, 15 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool",
+      "deck": "iGarden's new pool-cleaning robot pairs sporty design with a long runtime, though there are a few quirks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/",
+      "pubDate": "Sun, 15 Mar 2026 10:32:00 +0000"
+    },
+    {
+      "headline": "Razer Boomslang 20th Anniversary Mouse Review: For Collectors",
+      "deck": "Despite a price tag that’s a literal joke, this is still a cool collector’s item for gaming nerds.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/razer-boomslang-20th-anniversary/",
+      "pubDate": "Sun, 15 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Eighty Years Later, the Chemex Still Makes Better Coffee",
+      "deck": "The iconic hourglass pour-over brewer proves great design never goes out of style.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/chemex-makes-every-other-coffee-maker-seem-tacky/",
+      "pubDate": "Sun, 15 Mar 2026 09:46:00 +0000"
+    },
+    {
+      "headline": "A New Study Details How Cats Almost Always Land on Their Feet",
+      "deck": "The secret to this acrobatic skill lies in an extremely flexible part of the spine that allows cats to twist in the air and land safely.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/",
+      "pubDate": "Sun, 15 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Medallion Architecture in Practice in the AI Era — Beyond the Theory",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/medallion-architecture-in-practice-in-the-ai-era-beyond-the-theory-5cb7990c2b27?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 15 Mar 2026 06:01:00 GMT"
+    },
+    {
+      "headline": "Are games really “dumbing down”?",
+      "deck": "From Redguard to Skyrim, the Elder Scrolls games became easier to play. What if that&#x2019;s actually a better design?Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/are-games-really-dumbing-down-a61df9dff743?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 14 Mar 2026 21:39:45 GMT"
+    },
+    {
+      "headline": "US Army announces contract with Anduril worth up to $20B",
+      "deck": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000"
+    },
+    {
+      "headline": "The Global GPU Manufacturing Supply Chain Explained",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-global-gpu-manufacturing-supply-chain-explained-935dd31e98c9?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 14 Mar 2026 20:01:02 GMT"
+    },
+    {
+      "headline": "How to build Claude Skills 2.0 Better than 99% of People",
+      "deck": "&#x201C;It&#x2019;s a pain to give the same instructions to the AI &#x200B;&#x200B;every time&#x2026;&#x201D; &#x201C;The AI &#x200B;&#x200B;never remembers the company&#x2019;s rules and formats&#x2026;&#x201D; &#x201C;",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-build-claude-skills-2-0-better-than-99-of-people-af4927dd5335?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 14 Mar 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "deck": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "pubDate": "Sat, 14 Mar 2026 16:28:42 +0000"
+    },
+    {
+      "headline": "Is Benchmarking Score Enough to Choose an LLM?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/is-benchmarking-score-enough-to-choose-an-llm-4c0804d50ba2?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 14 Mar 2026 16:01:04 GMT"
+    },
+    {
+      "headline": "Prompt Engineering Gets Attention. Context Engineering Gets Results.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/prompt-engineering-gets-attention-context-engineering-gets-results-ab3357fffe63?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 14 Mar 2026 14:01:05 GMT"
+    },
+    {
+      "headline": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "deck": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "pubDate": "Sat, 14 Mar 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "How I Built an AI Chatbot for SailPoint IdentityIQ",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-i-built-an-ai-chatbot-for-sailpoint-identityiq-e5cc3c2fac4d?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 14 Mar 2026 12:01:01 GMT"
+    },
     {
       "headline": "How to Buy Used or Refurbished Electronics (2026)",
       "deck": "Save money and reduce your carbon footprint with these tips to snag the best deals on quality refurbished and used electronics.",
@@ -115,19 +243,19 @@
       "pubDate": "Sat, 14 Mar 2026 05:01:00 +0000"
     },
     {
-      "headline": "Chirp Discount Codes and Deals: Save Up to 67%",
-      "deck": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "pubDate": "Sat, 14 Mar 2026 05:00:00 +0000"
-    },
-    {
       "headline": "Coleman Promo Codes and Deals: Up to 30% Off in March",
       "deck": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/coleman-promo-code/",
+      "pubDate": "Sat, 14 Mar 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Chirp Discount Codes and Deals: Save Up to 67%",
+      "deck": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
       "pubDate": "Sat, 14 Mar 2026 05:00:00 +0000"
     },
     {
@@ -145,54 +273,6 @@
       "category": "tech",
       "url": "https://pub.towardsai.net/three-tasks-one-backbone-a-multi-task-reranker-that-tackles-amazon-search-challenges-34d56d73cafe?source=rss----98111c9905da---4",
       "pubDate": "Sat, 14 Mar 2026 04:17:15 GMT"
-    },
-    {
-      "headline": "What If I Told You Matrix Decomposition Is Just Fancy Laundry Sorting?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/svd-explained-singular-value-decomposition-beginners-guide-447519130333?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:16:53 GMT"
-    },
-    {
-      "headline": "Claude Code Agent Skills 2.0: From Custom Instructions to Programmable Agents",
-      "deck": "Skills are no longer instructions. They are programs.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-agent-skills-2-0-from-custom-instructions-to-programmable-agents-ab6e4563c176?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:16:09 GMT"
-    },
-    {
-      "headline": "Secrets of the Semantic Layer in Big Tech: How Uber, Netflix, and Airbnb Manage Metrics",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/secrets-of-the-semantic-layer-in-big-tech-how-uber-netflix-and-airbnb-manage-metrics-1b9f7680ac25?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:15:41 GMT"
-    },
-    {
-      "headline": "Google Built a Video Game Without a Game Engine.",
-      "deck": "I want to be honest with you about something.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/google-built-a-video-game-without-a-game-engine-5a945814fb4e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:15:22 GMT"
-    },
-    {
-      "headline": "I Broke RAG at 50K Documents. Here’s What Actually Works at 1 Million.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-broke-rag-at-50k-documents-heres-what-actually-works-at-1-million-45094114358f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:14:29 GMT"
-    },
-    {
-      "headline": "Kaiban-Distributed: Actor-Model Agentic Workflow System",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/kaiban-distributed-a-scaling-actor-model-agentic-workflow-system-8b5288e7bc17?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:13:11 GMT"
     },
     {
       "headline": "&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again",
@@ -401,86 +481,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
       "pubDate": "Fri, 13 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Logitech K98M Wireless Keyboard Review: Great for Productivity",
-      "deck": "After a series of great low-profile keyboards, the iconic peripherals brand has finally figured out a wireless mechanical model.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/logitech-k98m-wireless/",
-      "pubDate": "Fri, 13 Mar 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Gamers’ Worst Nightmares About AI Are Coming True",
-      "deck": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-      "pubDate": "Fri, 13 Mar 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Sony WF-1000XM6 Review: My New Favorite Earbuds",
-      "deck": "Sony's latest flagship earbuds have the best noise canceling—and maybe the best bass—I've ever heard from wireless earbuds.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/sony-wf-1000xm6/",
-      "pubDate": "Fri, 13 Mar 2026 10:34:00 +0000"
-    },
-    {
-      "headline": "6G Is Coming. Here’s What to Expect From the Next Generation of Cellular Tech",
-      "deck": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like “sensing” of vehicles, devices, and people.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/6g-is-coming/",
-      "pubDate": "Fri, 13 Mar 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "deck": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "pubDate": "Fri, 13 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The Shingles Virus May Be Aging You More Quickly",
-      "deck": "Evidence suggests reactivations of the varicella-zoster virus may accelerate aging and raise dementia risk. Now scientists want to know if vaccines and antivirals could help protect the brain.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/shingles-virus-aging/",
-      "pubDate": "Fri, 13 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "My Moccamaster Delivers Drip Coffee Perfection",
-      "deck": "It’s stylish and reliable—and you can pry my Moccamaster from my cold, dead hands.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/technivorm-moccamaster-drip-coffee-java-base/",
-      "pubDate": "Fri, 13 Mar 2026 09:39:00 +0000"
-    },
-    {
-      "headline": "The hidden cost of AI design tools - What we’re outsourcing without noticing",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-hidden-cost-of-ai-design-tools-what-were-outsourcing-without-noticing-9057db75aaf9?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 13 Mar 2026 09:14:00 GMT"
-    },
-    {
-      "headline": "Future AI chips could be built on glass",
-      "deck": "Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and largest data centers. This year, a South Korean company called Absolics is planning to star",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-      "pubDate": "Fri, 13 Mar 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Why Your Phone Battery Dies Faster During a Public Emergency",
-      "deck": "During a geopolitical crisis, things like weak signal strength, network congestion, and GPS interference can force smartphones to work harder. Here’s how you can save your battery.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/why-your-phone-battery-dies-faster-during-a-public-emergency/",
-      "pubDate": "Fri, 13 Mar 2026 09:00:00 +0000"
     }
   ]
 }
