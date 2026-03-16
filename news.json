@@ -1,7 +1,279 @@
 {
-  "generated_at": "2026-03-15T12:00:02.234Z",
-  "count": 60,
+  "generated_at": "2026-03-16T12:00:02.310Z",
+  "count": 50,
   "articles": [
+    {
+      "headline": "Securing digital assets against future threats",
+      "deck": "",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
+      "pubDate": "Mon, 16 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "COBOL Is the Asbestos of Programming Languages",
+      "deck": "The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/",
+      "pubDate": "Mon, 16 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Best Dark Web Monitoring Services and Bundles",
+      "deck": "Data breaches are more common than ever. Here are the best ways I've found to protect yourself online.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-dark-web-monitoring-services/",
+      "pubDate": "Mon, 16 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Tesla Influencers Leaving the ‘Cult’",
+      "deck": "The EV manufacturer is supported by a robust online community. But Elon Musk’s politics and overblown hype about Full Self-Driving are turning some loyalists away.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/",
+      "pubDate": "Mon, 16 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play",
+      "deck": "A bicycle wheel with guitar strings, a touch-operated synth, and the “Demon Box” were just a few of the new instruments on show at Georgia Tech’s Guthman Musical Instrument Competition this weekend.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/",
+      "pubDate": "Mon, 16 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Wall Street Is Already Betting on Prediction Markets",
+      "deck": "As the legal war over how to regulate prediction markets rages on, financial institutions are embracing the industry anyway.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/",
+      "pubDate": "Mon, 16 Mar 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The last interface, sycophancy in AI, design is how it wins",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-last-interface-sycophancy-in-ai-design-is-how-it-wins-015c5d1f322c?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 16 Mar 2026 09:22:34 GMT"
+    },
+    {
+      "headline": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
+      "deck": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+      "pubDate": "Mon, 16 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "These 15 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+      "deck": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-spring-sale-2026/",
+      "pubDate": "Mon, 16 Mar 2026 05:01:00 +0000"
+    },
+    {
+      "headline": "The Cold Start Problem: How We Are Building AI Training Data From Scratch",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-cold-start-problem-how-we-are-building-ai-training-data-from-scratch-2b530bfc639b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:50:47 GMT"
+    },
+    {
+      "headline": "I Processed 226 Million NHS Patient Records. Here’s What I Found",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-processed-226-million-nhs-patient-records-heres-what-i-found-c35455d3c5f1?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:49:30 GMT"
+    },
+    {
+      "headline": "The NHS Postcode Lottery Is Real. I Built a Pipeline to Measure It.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-nhs-postcode-lottery-is-real-i-built-a-pipeline-to-measure-it-04b343f7953e?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:49:24 GMT"
+    },
+    {
+      "headline": "Claude Code Has 50+ Commands. Most Developers Use Only 5.",
+      "deck": "The complete guide to slash commands, CLI flags, shortcuts, and hidden features that 10&#xD7; developer productivity.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-has-50-commands-most-developers-use-only-5-b675387ea2ce?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:44:48 GMT"
+    },
+    {
+      "headline": "The Last Mile of Fund Accounting Automation. Why the Human Still Matters Most?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-last-mile-challenge-in-fund-accounting-automation-0f6fc7cbba72?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:43:35 GMT"
+    },
+    {
+      "headline": "Personal AI : What’s New in OpenClaw This Week (2026.3.11 → 2026.3.13)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/personal-ai-whats-new-in-openclaw-this-week-2026-3-11-2026-3-13-e8e955bbe042?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:43:17 GMT"
+    },
+    {
+      "headline": "The LLM Router Problem Is Not What You Think It Is",
+      "deck": "vLLM Semantic Router solves the whole problem, not the easy part everyone benchmarksContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-llm-router-problem-is-not-what-you-think-it-is-42ed061b28c8?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:43:05 GMT"
+    },
+    {
+      "headline": "Knowledge Distillation: How a Tiny Model Learned to Outsmart Its Giant Teacher",
+      "deck": "A complete visual guide &#x2014; from whisky barrels to DeepSeek &#x2014; with full mathematicsContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/knowledge-distillation-how-a-tiny-model-learned-to-outsmart-its-giant-teacher-eb7f90b63235?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 16 Mar 2026 04:42:29 GMT"
+    },
+    {
+      "headline": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+      "deck": "arXiv:2603.12287v1 Announce Type: new Abstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched representations interpretable by humans and d",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12287",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Efficient Reasoning with Balanced Thinking",
+      "deck": "arXiv:2603.12372v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending redundant computational steps on simple probl",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12372",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+      "deck": "arXiv:2603.12483v1 Announce Type: new Abstract: Across many domains (e.g., IoT, observability, telecommunications, cybersecurity), there is an emerging adoption of conversational data analysis agents that enable users to",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12483",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AI Planning Framework for LLM-Based Web Agents",
+      "deck": "arXiv:2603.12710v1 Announce Type: new Abstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user requests, they often operate ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12710",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+      "deck": "arXiv:2603.12733v1 Announce Type: new Abstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being sudden and often unpredictable events, they",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12733",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "deck": "arXiv:2603.12740v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly applied to complex, multi-step tasks that require interaction with diverse external tools across various domains. However",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12740",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AI Model Modulation with Logits Redistribution",
+      "deck": "arXiv:2603.12755v1 Announce Type: new Abstract: Large-scale models are typically adapted to meet the diverse requirements of model owners and users. However, maintaining multiple specialized versions of the model is inef",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12755",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+      "deck": "arXiv:2603.12813v1 Announce Type: new Abstract: Agentic AI systems integrating large language models (LLMs) with reasoning and tooluse capabilities are transforming various domains - in particular, software development. ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12813",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ODRL Policy Comparison Through Normalisation",
+      "deck": "arXiv:2603.12926v1 Announce Type: new Abstract: The ODRL language has become the standard for representing policies and regulations for digital rights. However its complexity is a barrier to its usage, which has caused m",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12926",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+      "deck": "arXiv:2603.12933v1 Announce Type: new Abstract: Large Language Model (LLM)-driven Multi-Agent Systems (MAS) have demonstrated strong capability in complex reasoning and tool use, and heterogeneous agent pools further bro",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.12933",
+      "pubDate": "Mon, 16 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Google, Accel India accelerator chooses 5 startups and none are &#8216;AI wrappers&#8217;",
+      "deck": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "pubDate": "Mon, 16 Mar 2026 00:30:00 +0000"
+    },
+    {
+      "headline": "How to Build a Kubernetes Incident Response AI Agent with LangGraph & Postgres",
+      "deck": "Build a production-ready Kubernetes incident response agent using LangGraph and PostgreSQL checkpointers. Learn how to implement&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-build-a-kubernetes-incident-response-ai-agent-with-langgraph-postgres-c9a8c9e3838b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 15 Mar 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Why Most Multi-Agent Systems Fail — And What Actually Works in Practice",
+      "deck": "Multi-agent systems are everywhere right now. Instead of relying on a single AI to do it all, these architectures break a task into&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-most-multi-agent-systems-fail-and-what-actually-works-in-practice-c409221d6bdd?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 15 Mar 2026 22:01:00 GMT"
+    },
+    {
+      "headline": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "deck": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "pubDate": "Sun, 15 Mar 2026 21:01:51 +0000"
+    },
+    {
+      "headline": "Your phone isn’t eavesdropping. The reality is stranger.",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/your-phone-isnt-eavesdropping-the-reality-is-stranger-489b20c4ffcc?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 15 Mar 2026 20:55:09 GMT"
+    },
+    {
+      "headline": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "deck": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "pubDate": "Sun, 15 Mar 2026 18:49:32 +0000"
+    },
+    {
+      "headline": "Wiz investor unpacks Google’s $32B acquisition",
+      "deck": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "pubDate": "Sun, 15 Mar 2026 15:30:33 +0000"
+    },
     {
       "headline": "Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power",
       "deck": "Brompton's latest folding electric bicycle is beautiful, genuinely portable, and doesn't quite go fast enough.",
@@ -51,14 +323,6 @@
       "pubDate": "Sun, 15 Mar 2026 09:00:00 +0000"
     },
     {
-      "headline": "Medallion Architecture in Practice in the AI Era — Beyond the Theory",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/medallion-architecture-in-practice-in-the-ai-era-beyond-the-theory-5cb7990c2b27?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 15 Mar 2026 06:01:00 GMT"
-    },
-    {
       "headline": "Are games really “dumbing down”?",
       "deck": "From Redguard to Skyrim, the Elder Scrolls games became easier to play. What if that&#x2019;s actually a better design?Continue reading on UX Collective »",
       "source": "UX Collective",
@@ -75,22 +339,6 @@
       "pubDate": "Sat, 14 Mar 2026 20:47:47 +0000"
     },
     {
-      "headline": "The Global GPU Manufacturing Supply Chain Explained",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-global-gpu-manufacturing-supply-chain-explained-935dd31e98c9?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 20:01:02 GMT"
-    },
-    {
-      "headline": "How to build Claude Skills 2.0 Better than 99% of People",
-      "deck": "&#x201C;It&#x2019;s a pain to give the same instructions to the AI &#x200B;&#x200B;every time&#x2026;&#x201D; &#x201C;The AI &#x200B;&#x200B;never remembers the company&#x2019;s rules and formats&#x2026;&#x201D; &#x201C;",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-build-claude-skills-2-0-better-than-99-of-people-af4927dd5335?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 18:01:01 GMT"
-    },
-    {
       "headline": "Meta reportedly considering layoffs that could affect 20% of the company",
       "deck": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
       "source": "TechCrunch",
@@ -99,36 +347,12 @@
       "pubDate": "Sat, 14 Mar 2026 16:28:42 +0000"
     },
     {
-      "headline": "Is Benchmarking Score Enough to Choose an LLM?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/is-benchmarking-score-enough-to-choose-an-llm-4c0804d50ba2?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 16:01:04 GMT"
-    },
-    {
-      "headline": "Prompt Engineering Gets Attention. Context Engineering Gets Results.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/prompt-engineering-gets-attention-context-engineering-gets-results-ab3357fffe63?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 14:01:05 GMT"
-    },
-    {
       "headline": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
       "deck": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
       "pubDate": "Sat, 14 Mar 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "How I Built an AI Chatbot for SailPoint IdentityIQ",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-i-built-an-ai-chatbot-for-sailpoint-identityiq-e5cc3c2fac4d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 12:01:01 GMT"
     },
     {
       "headline": "How to Buy Used or Refurbished Electronics (2026)",
@@ -163,14 +387,6 @@
       "pubDate": "Sat, 14 Mar 2026 10:30:00 +0000"
     },
     {
-      "headline": "Identity Theft Protection Services: Do You Actually Need One?",
-      "deck": "Here's the best advice I have for protecting your identity online.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-id-protection-services/",
-      "pubDate": "Sat, 14 Mar 2026 10:30:00 +0000"
-    },
-    {
       "headline": "Reliability is the currency of opportunity in the age of AI",
       "deck": "",
       "source": "UX Collective",
@@ -179,308 +395,12 @@
       "pubDate": "Sat, 14 Mar 2026 10:17:58 GMT"
     },
     {
-      "headline": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch",
-      "deck": "Do you really need a $300 trail running shoe? We test the treads, and the creds, of the Norda 001A G+.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/norda-001a-g-trail-shoe/",
-      "pubDate": "Sat, 14 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer",
-      "deck": "The unique flat-bottom design of the Kalita Wave makes brewing exceptional coffee dead simple—especially if you can’t summon the rigor required to make perfect pour-over.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/",
-      "pubDate": "Sat, 14 Mar 2026 09:33:00 +0000"
-    },
-    {
-      "headline": "How to Watch March Madness 2026",
-      "deck": "Tune in to watch the men’s and women’s teams fight to win the 2026 NCAA Division I Basketball championship.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-watch-march-madness/",
-      "pubDate": "Sat, 14 Mar 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Japan Approves the World’s First Treatment Made With Reprogrammed Human Cells",
-      "deck": "Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
-      "pubDate": "Sat, 14 Mar 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Spring Cleaning? Here's How to Declutter Responsibly—and Maybe Earn Some Cash",
-      "deck": "Declutter and deep clean your home sanely by breaking it into smaller tasks. You're also bound to discover there are things you no longer need that you can sell.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/spring-cleaning-how-to-declutter-responsibly/",
-      "pubDate": "Sat, 14 Mar 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "OpenClaw-RL: AI Agent Is Throwing Away Its Best Training Data",
-      "deck": "OpenClaw-RL recovers what every agentic system wastes: the next-state signal. And it does it while you&#x2019;re still talking.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openclaw-rl-ai-agent-is-throwing-away-its-best-training-data-409a87775dad?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 05:06:40 GMT"
-    },
-    {
-      "headline": "Machine Learning Ensemble Methods: Combining Models for Better Predictions",
-      "deck": "1. What Are Ensemble Methods?Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/machine-learning-ensemble-methods-combining-models-for-better-predictions-5bfe1fe9cd7a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 05:02:58 GMT"
-    },
-    {
-      "headline": "Vivid Seats Promo Codes and Deals: Save 10% This March",
-      "deck": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this month.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
-      "pubDate": "Sat, 14 Mar 2026 05:01:00 +0000"
-    },
-    {
-      "headline": "Coleman Promo Codes and Deals: Up to 30% Off in March",
-      "deck": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/coleman-promo-code/",
-      "pubDate": "Sat, 14 Mar 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chirp Discount Codes and Deals: Save Up to 67%",
-      "deck": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chirp-discount-code/",
-      "pubDate": "Sat, 14 Mar 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "How AI Agents Are Replacing SaaS: The Next Big Shift in Software (2026 Guide)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-ai-agents-are-replacing-saas-the-next-big-shift-in-software-2026-guide-ed587eed3f6e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:34:42 GMT"
-    },
-    {
-      "headline": "Three Tasks, One Backbone: A Multi-Task Reranker That Tackles Search Challenges",
-      "deck": "How I Trained and (almost) Deployed One Cross-Encoder to Do What Three Models Usually Do &#x2014; and It Hit 0.94 nDCGContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/three-tasks-one-backbone-a-multi-task-reranker-that-tackles-amazon-search-challenges-34d56d73cafe?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 14 Mar 2026 04:17:15 GMT"
-    },
-    {
-      "headline": "&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again",
-      "deck": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "pubDate": "Sat, 14 Mar 2026 00:12:22 +0000"
-    },
-    {
-      "headline": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "deck": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "pubDate": "Sat, 14 Mar 2026 00:01:02 +0000"
-    },
-    {
-      "headline": "What to Do in Vegas If You’re Here for Business (2026)",
-      "deck": "Where to lock in, power down, and actually enjoy your business trip.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/in-transit-las-vegas/",
-      "pubDate": "Fri, 13 Mar 2026 23:37:36 +0000"
-    },
-    {
       "headline": "Fried",
       "deck": "On AI brain fry, token anxiety, and the robot that won&#x2019;t let you restContinue reading on UX Collective »",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/fried-ce8bf302af8f?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 13 Mar 2026 21:47:51 GMT"
-    },
-    {
-      "headline": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-      "deck": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-      "pubDate": "Fri, 13 Mar 2026 21:37:01 +0000"
-    },
-    {
-      "headline": "Steven Spielberg says he&#8217;s &#8216;never used AI&#8217; in any of his films",
-      "deck": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-      "pubDate": "Fri, 13 Mar 2026 19:47:58 +0000"
-    },
-    {
-      "headline": "The biggest AI stories of the year (so far)",
-      "deck": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-      "pubDate": "Fri, 13 Mar 2026 19:38:11 +0000"
-    },
-    {
-      "headline": "Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans",
-      "deck": "Dreo’s spring sale offers a great deal on the Chefmaker combi cooker, plus discounts on WIRED’s favorite bathroom heater and tower fan.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
-      "pubDate": "Fri, 13 Mar 2026 18:51:05 +0000"
-    },
-    {
-      "headline": "One of Our Favorite Large TVs Is $400 Off",
-      "deck": "The 85-inch Hisense U7 gets a big discount, with markdowns for smaller sizes too.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hisense-u75qc-deal-326/",
-      "pubDate": "Fri, 13 Mar 2026 17:42:30 +0000"
-    },
-    {
-      "headline": "Apple Studio Display XDR Review: Too Much but Not Enough",
-      "deck": "The Studio Display XDR monitor comes at a time when HDR-capable screens are everywhere. Apple still does it best, but at a hefty cost.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/apple-studio-display-xdr/",
-      "pubDate": "Fri, 13 Mar 2026 17:16:32 +0000"
-    },
-    {
-      "headline": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-      "deck": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-      "pubDate": "Fri, 13 Mar 2026 17:09:59 +0000"
-    },
-    {
-      "headline": "Spotify will let you edit your Taste Profile to control your recommendations",
-      "deck": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-      "pubDate": "Fri, 13 Mar 2026 17:04:12 +0000"
-    },
-    {
-      "headline": "The Methodological Problems Hiding in Your Research Tools",
-      "deck": "The methodological blind spots in UX research tools have always been a problem. Now that AI is planning and analyzing research, it's gotten worse.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/research-tool-problems/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Mar 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Design Process Isn't Dead, It’s Compressed",
-      "deck": "As AI speeds up design work, the argument to \"throw out the process\" misrepresents how experienced designers work.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/design-process-isnt-dead/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 13 Mar 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "The $32B acquisition that one VC is calling the &#8216;Deal of the Decade&#8217;",
-      "deck": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acqu",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
-      "pubDate": "Fri, 13 Mar 2026 16:20:23 +0000"
-    },
-    {
-      "headline": "Higher Jet Fuel Prices Could Melt Your Summer Travel Plans",
-      "deck": "Airline ticket prices are already rising, but an extended crisis in Iran could have bigger effects on the global travel industry.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/",
-      "pubDate": "Fri, 13 Mar 2026 15:56:28 +0000"
-    },
-    {
-      "headline": "Why physical AI is becoming manufacturing’s next advantage",
-      "deck": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a d",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-      "pubDate": "Fri, 13 Mar 2026 15:16:55 +0000"
-    },
-    {
-      "headline": "The Iran War Is Throwing Global Shipping Into Chaos",
-      "deck": "Flexport CEO Ryan Petersen says the conflict is stranding cargo and threatening inflation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/iran-war-global-supply-chain-chaos/",
-      "pubDate": "Fri, 13 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "The Best Outdoor Deals From the REI Member Days Sale (2026)",
-      "deck": "REI's Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/rei-member-days-sale-2026/",
-      "pubDate": "Fri, 13 Mar 2026 14:31:32 +0000"
-    },
-    {
-      "headline": "Claude Code for CLI, Desktop, and IDE",
-      "deck": "Pros and Cons of Each ModeContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-code-for-cli-desktop-and-ide-92df64c3e422?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 13 Mar 2026 14:00:25 GMT"
-    },
-    {
-      "headline": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-      "deck": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-      "pubDate": "Fri, 13 Mar 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair",
-      "deck": "Inventor and YouTuber Simone Giertz built an elegant chair that holds your half-dirty clothes while still functioning as a seat.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/simone-giertz-laundry-chair/",
-      "pubDate": "Fri, 13 Mar 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Moving From Moment.js To The JS Temporal API",
-      "deck": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment a",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-      "pubDate": "Fri, 13 Mar 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "Google's AI Search Results Love to Refer You Back to Google",
-      "deck": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-      "pubDate": "Fri, 13 Mar 2026 12:31:55 +0000"
-    },
-    {
-      "headline": "The Download: how AI is used for military targeting, and the Pentagon&#8217;s war on Claude",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for target",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-      "pubDate": "Fri, 13 Mar 2026 12:16:56 +0000"
-    },
-    {
-      "headline": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-      "deck": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-      "pubDate": "Fri, 13 Mar 2026 12:00:00 +0000"
     }
   ]
 }
