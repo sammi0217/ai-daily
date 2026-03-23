@@ -1,7 +1,319 @@
 {
-  "generated_at": "2026-03-22T12:00:02.495Z",
+  "generated_at": "2026-03-23T12:00:03.071Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best Laptops (2026): My Honest Advice Having Tested Hundreds",
+      "deck": "I've been reviewing laptops for over a decade, and this is my sincere advice on how to find the right laptop for you",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "pubDate": "Mon, 23 Mar 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "The Rise of the Ray-Ban Meta Creep",
+      "deck": "Between pickup artists and juvenile pranksters, the wearable device is becoming associated with pests of all kinds.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/",
+      "pubDate": "Mon, 23 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "7 Best Phones You Can’t Buy in the US (2026)",
+      "deck": "Wondering what you’re missing out on? Here are our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "pubDate": "Mon, 23 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Don’t Listen to Anyone Who Thinks Secession Will Solve Anything",
+      "deck": "Americans increasingly fantasize about a divorce between red and blue states—but they dread the thought of civil war. You can’t have one without the other.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dont-listen-anyone-who-thinks-secession-will-solve-anything/",
+      "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Hassan Took a Bike Ride. Now He's One of the Thousands Missing in Gaza",
+      "deck": "In a place denied access to basic forensic technology—and where people disappear into Israeli detention—the fate of thousands remains unknown. One of them is an autistic teenager.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hassan-took-a-bike-ride-now-hes-one-of-the-thousands-missing-in-gaza/",
+      "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Meet the Gods of AI Warfare",
+      "deck": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+      "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "What Happens When You Can’t Get a Death Certificate in Gaza",
+      "deck": "For families of the missing, systemic obstacles to identifying remains and locating people in Israeli detention has created a kind of social and legal purgatory.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/",
+      "pubDate": "Mon, 23 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "GE Profile Smart Grind and Brew Review: Just the Basics",
+      "deck": "GE's Wi-Fi-enabled Smart Grind and Brew Coffee Maker is best for those who prioritize convenience over taste.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/ge-profile-smart-grind-and-brew/",
+      "pubDate": "Mon, 23 Mar 2026 09:35:00 +0000"
+    },
+    {
+      "headline": "The Bay Area’s animal welfare movement wants to recruit AI",
+      "deck": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed t",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+      "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+      "deck": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+      "pubDate": "Mon, 23 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "AR glasses are here, but what about accessibility?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ar-glasses-are-here-but-what-about-accessibility-0f2d04a4d123?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 23 Mar 2026 08:36:22 GMT"
+    },
+    {
+      "headline": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+      "deck": "arXiv:2603.19429v1 Announce Type: new Abstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these represe",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19429",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Hyperagents",
+      "deck": "arXiv:2603.19461v1 Announce Type: new Abstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-i",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19461",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Teaching an Agent to Sketch One Part at a Time",
+      "deck": "arXiv:2603.19500v1 Announce Type: new Abstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19500",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+      "deck": "arXiv:2603.19514v1 Announce Type: new Abstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19514",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models",
+      "deck": "arXiv:2603.19515v1 Announce Type: new Abstract: Large language models (LLMs) with advanced cognitive capabilities are emerging as agents for various reasoning and planning tasks. Traditional evaluations often focus on sp",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19515",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "PA2D-MORL: Pareto Ascent Directional Decomposition based Multi-Objective Reinforcement Learning",
+      "deck": "arXiv:2603.19579v1 Announce Type: new Abstract: Multi-objective reinforcement learning (MORL) provides an effective solution for decision-making problems involving conflicting objectives. However, achieving high-quality ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19579",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+      "deck": "arXiv:2603.19584v1 Announce Type: new Abstract: Battery life remains a critical challenge for mobile devices, yet existing power management mechanisms rely on static rules or coarse-grained heuristics that ignore user ac",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19584",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+      "deck": "arXiv:2603.19639v1 Announce Type: new Abstract: Although agentic workflows have demonstrated strong potential for solving complex tasks, existing automated generation methods remain inefficient and underperform, as they ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19639",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "deck": "arXiv:2603.19685v1 Announce Type: new Abstract: Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web br",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19685",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification",
+      "deck": "arXiv:2603.19715v1 Announce Type: new Abstract: Formal verification via interactive theorem proving is increasingly used to ensure the correctness of critical systems, yet constructing large proof scripts remains highly ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2603.19715",
+      "pubDate": "Mon, 23 Mar 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "State of Context Engineering in 2026",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/state-of-context-engineering-in-2026-cf92d010eab1?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:43:33 GMT"
+    },
+    {
+      "headline": "AI in Healthcare: Innovations to Watch in 2026",
+      "deck": "A practical guide to building healthcare AI systems with Python &#x2014; from medical image classification and clinical NLP to federated learning&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-in-healthcare-innovations-to-watch-in-2026-8b545edd9316?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:22:52 GMT"
+    },
+    {
+      "headline": "Context Engineering Is a Skill. Most Developers Are Skipping It.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/context-engineering-is-a-skill-most-developers-are-skipping-it-9938678292b8?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:22:16 GMT"
+    },
+    {
+      "headline": "How LLMs Actually Process Your Messages: A Clear Guide to Context Windows, Token Limits, and…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:21:53 GMT"
+    },
+    {
+      "headline": "Consensus: Structured Multi-Party Dialogue Between AI models or Humans and Models",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/consensus-structured-multi-party-dialogue-between-ai-models-or-humans-and-models-16d365cbb150?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:21:30 GMT"
+    },
+    {
+      "headline": "I Spent 6 Months Talking to AI Founders. Here’s What Actually Works in 2026.",
+      "deck": "Forget the hype. If you&#x2019;re building with AI this year, this is the playbook that separates the winners from the noise.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-spent-6-months-talking-to-ai-founders-heres-what-actually-works-in-2026-5baae4af57a9?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:19:42 GMT"
+    },
+    {
+      "headline": "How to Build a RAG system on Azure: From Local Dev to Production(Terraform, Python, NextJS)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-build-a-rag-system-on-azure-from-local-dev-to-production-terraform-python-nextjs-28830602b84b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:18:33 GMT"
+    },
+    {
+      "headline": "Beyond the Rules Engine: A Business Analyst’s Inside Look at AI for Payment Fraud Detection",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-the-rules-engine-a-business-analysts-inside-look-at-ai-for-payment-fraud-detection-eb4d929c017a?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:17:32 GMT"
+    },
+    {
+      "headline": "The Cognitive Dissonance Agent: Why the Best AI Reasoning Starts With Self-Doubt",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-cognitive-dissonance-agent-why-the-best-ai-reasoning-starts-with-self-doubt-d1a7b5ffb42e?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:17:04 GMT"
+    },
+    {
+      "headline": "A Complete Beginner’s Guide to Claude Code (Skills, Agents, Hooks, Plugins, MCP & Cowork)",
+      "deck": "Everything from installation to agents, skills, hooks, plugins, and Cowork. Written to master Claude code.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/a-complete-beginners-guide-to-claude-code-skills-agents-hooks-plugins-mcp-085b26b73fdd?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 23 Mar 2026 03:15:03 GMT"
+    },
+    {
+      "headline": "Airlines Are Already Preparing for an Oil Crisis",
+      "deck": "With the Iran war doubling oil prices, experts say the airline industry’s belt-tightening is an economic canary in the coal mine for the rest of the world.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/",
+      "pubDate": "Sun, 22 Mar 2026 21:37:59 +0000"
+    },
+    {
+      "headline": "Do you want to build a robot snowman?",
+      "deck": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "pubDate": "Sun, 22 Mar 2026 19:45:07 +0000"
+    },
+    {
+      "headline": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "deck": "Building on top of a Chinese model feels particularly fraught right now.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "pubDate": "Sun, 22 Mar 2026 18:41:09 +0000"
+    },
+    {
+      "headline": "Sorry, designers, we don’t decide the future of design",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/sorry-designers-we-dont-decide-the-future-of-design-1510374e8807?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 22 Mar 2026 17:07:11 GMT"
+    },
+    {
+      "headline": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "deck": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "pubDate": "Sun, 22 Mar 2026 16:20:00 +0000"
+    },
+    {
+      "headline": "Delve accused of misleading customers with ‘fake compliance’",
+      "deck": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "pubDate": "Sun, 22 Mar 2026 14:43:51 +0000"
+    },
+    {
+      "headline": "An exclusive tour of Amazon&#8217;s Trainium lab, the chip that&#8217;s won over Anthropic, OpenAI, even Apple",
+      "deck": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More",
+      "deck": "Merino is one of the best fabrics you can wear. We explain the different blends, what “gsm” means, and how to care for your clothes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-merino-wool-clothes/",
+      "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
+    },
     {
       "headline": "Which Instax Camera Should You Buy? (2026)",
       "deck": "Should you buy an Instax Mini or Mini Evo? Instax Square or Wide? We demystify Fujifilm’s Instax lineup to help you find the perfect instant camera (or printer).",
@@ -51,86 +363,6 @@
       "pubDate": "Sun, 22 Mar 2026 09:00:00 +0000"
     },
     {
-      "headline": "From Candidate Retrieval to Fine-Grained Ranking (Part 1)",
-      "deck": "The two-tower model is intentionally blind: at serving time, it does not evaluate a specific user and a specific item together.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-candidate-retrieval-to-fine-grained-ranking-part-1-83b9fefbfeae?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:32:25 GMT"
-    },
-    {
-      "headline": "Microsoft IQ vs. ServiceNow: I Built the Layer Both Are Missing",
-      "deck": "The enterprise AI war isn&#x2019;t about models anymore. It&#x2019;s about who owns the intelligence layer. Both Microsoft and ServiceNow are betting&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/microsoft-iq-vs-e106645a5b17?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:31:54 GMT"
-    },
-    {
-      "headline": "MCP + A2A + OWL Ontology: I Built the Agentic Mesh Your Enterprise Agents Are Missing",
-      "deck": "Microsoft Copilot doesn&#x2019;t know what Salesforce Agentforce just did. Snowflake Cortex can&#x2019;t verify what either of them meant. I wired them&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:31:17 GMT"
-    },
-    {
-      "headline": "Building a Local AI Agent to Summarise Web Articles",
-      "deck": "How I used Ollama, Python, and a simple Chrome Extension to figure out if an article is worth my time.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-local-ai-agent-to-summarise-web-articles-a748c976a8d2?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:30:47 GMT"
-    },
-    {
-      "headline": "Building a Data Analysis Agent with LangGraph",
-      "deck": "An agentic AI example using Singapore Airbnb dataContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-data-analysis-agent-with-langgraph-6a1072472a1e?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:30:00 GMT"
-    },
-    {
-      "headline": "Spreadsheet Logic Extraction — What It Takes, and How AI Compresses the Timeline",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/spreadsheet-logic-extraction-what-it-takes-and-how-ai-compresses-the-timeline-bad92bcccba9?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:29:05 GMT"
-    },
-    {
-      "headline": "OpenClaw; Explained Simply",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openclaw-explained-simply-50fe4af8dcdf?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:28:29 GMT"
-    },
-    {
-      "headline": "Hand Tracing Transformer Architecture like Good Old days",
-      "deck": "Alammar showed the shapes. Karpathy showed the code. Nobody has shown the actual arithmetic &#x2014; every multiplication, every addition &#x2014; by&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/hand-tracing-transformer-architecture-like-good-old-days-0c0f56cc86ac?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:28:05 GMT"
-    },
-    {
-      "headline": "How to Build an AI Agent That Actually Understands Your Cloud Infrastructure",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-build-an-ai-agent-that-actually-understands-your-cloud-infrastructure-ed344af6dabe?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:26:30 GMT"
-    },
-    {
-      "headline": "Using Reinforcement Learning to Solve Real-World Problems",
-      "deck": "I watched my 4-year-old nephew learn to ride a bicycle last summer. Nobody handed him a manual. Nobody showed him labeled training data of&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/using-reinforcement-learning-to-solve-real-world-problems-bcfe6d0a3d29?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 22 Mar 2026 06:26:13 GMT"
-    },
-    {
       "headline": "Are AI tokens the new signing bonus or just a cost of doing business?",
       "deck": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
       "source": "TechCrunch",
@@ -145,110 +377,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
       "pubDate": "Sat, 21 Mar 2026 19:30:27 +0000"
-    },
-    {
-      "headline": "Delve accused of misleading customers with ‘fake compliance’",
-      "deck": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "pubDate": "Sat, 21 Mar 2026 17:00:05 +0000"
-    },
-    {
-      "headline": "Why Wall Street wasn&#8217;t won over by Nvidia&#8217;s big conference",
-      "deck": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-      "pubDate": "Sat, 21 Mar 2026 16:28:00 +0000"
-    },
-    {
-      "headline": "71 Best Podcasts (2026): True Crime, Culture, Science, Fiction",
-      "deck": "Get your fix of tech, true crime, pop culture, or comedy with these audio adventures.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-podcasts/",
-      "pubDate": "Sat, 21 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber",
-      "deck": "What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-protein-bars/",
-      "pubDate": "Sat, 21 Mar 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Aiper Scuba V3 Pool Robot Review: Eye on the Prize",
-      "deck": "Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/aiper-scuba-v3-pool-robot/",
-      "pubDate": "Sat, 21 Mar 2026 11:02:00 +0000"
-    },
-    {
-      "headline": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
-      "deck": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
-      "pubDate": "Sat, 21 Mar 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-      "deck": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-      "pubDate": "Sat, 21 Mar 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The 19 Best EVs Coming in 2026",
-      "deck": "We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
-      "pubDate": "Sat, 21 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
-      "deck": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
-      "pubDate": "Sat, 21 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps",
-      "deck": "The Chinese automaker is racing ahead of global competitors—but don’t expect to see those gains in the US anytime soon.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/",
-      "pubDate": "Sat, 21 Mar 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-      "deck": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing t",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "pubDate": "Sat, 21 Mar 2026 01:40:28 +0000"
-    },
-    {
-      "headline": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "deck": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "pubDate": "Sat, 21 Mar 2026 00:03:20 +0000"
-    },
-    {
-      "headline": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-      "deck": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-      "pubDate": "Fri, 20 Mar 2026 22:03:09 +0000"
     },
     {
       "headline": "Playing dumb: how AI is beating scammers at their own game",
@@ -267,140 +395,12 @@
       "pubDate": "Fri, 20 Mar 2026 21:39:49 GMT"
     },
     {
-      "headline": "‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet",
-      "deck": "As the prediction market boom continues, backlash is growing, too, with Arizona filing criminal charges against Kalshi and public outcry after Polymarket traders threatened a journalist.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
-      "pubDate": "Fri, 20 Mar 2026 21:07:04 +0000"
-    },
-    {
-      "headline": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "deck": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "pubDate": "Fri, 20 Mar 2026 20:53:09 +0000"
-    },
-    {
-      "headline": "A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine",
-      "deck": "Congressman Jim Himes claims a sweeping surveillance authority should stay intact because he hasn't seen abuses by Kash Patel's FBI, according to internal messaging obtained by WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
-      "pubDate": "Fri, 20 Mar 2026 20:46:45 +0000"
-    },
-    {
-      "headline": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "deck": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales throug",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-      "pubDate": "Fri, 20 Mar 2026 20:02:35 +0000"
-    },
-    {
-      "headline": "Nvidia has an OpenClaw strategy. Do you?",
-      "deck": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales throug",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-      "pubDate": "Fri, 20 Mar 2026 19:48:38 +0000"
-    },
-    {
-      "headline": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
-      "deck": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "pubDate": "Fri, 20 Mar 2026 19:13:19 +0000"
-    },
-    {
-      "headline": "This Compact Bose Soundbar Is $80 Off",
-      "deck": "Bose might be known for its noise-canceling headphones, but the brand’s soundbars are pretty solid too.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bose-smart-soundbar-deal-326/",
-      "pubDate": "Fri, 20 Mar 2026 17:45:31 +0000"
-    },
-    {
       "headline": "CLAUDE.md Tips & Tricks for Product Designers",
       "deck": "CLAUDE.md is a critical file for providing project-specific context to Claude Code.Continue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/claude-md-tips-tricks-for-product-designers-4cc47f2084c1?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 20 Mar 2026 17:13:17 GMT"
-    },
-    {
-      "headline": "The 3 C’s of Informational Microcopy",
-      "deck": "Well-written informational microcopy should be clear, concise, and have character.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/3-cs-microcopy/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Mar 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "What Is Your Site's AI Chatbot for? Users Can't Tell",
-      "deck": "Users see little reason to use site AI chatbots. To prove their value, chatbots must solve problems that existing site features don't.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/site-ai-chatbot/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 20 Mar 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Kalshi Has Been Temporarily Banned in Nevada",
-      "deck": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
-      "pubDate": "Fri, 20 Mar 2026 16:54:15 +0000"
-    },
-    {
-      "headline": "WordPress.com now lets AI agents write and publish posts, and more",
-      "deck": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "pubDate": "Fri, 20 Mar 2026 16:43:09 +0000"
-    },
-    {
-      "headline": "Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario",
-      "deck": "“This will be so, so, so, so, so bad,” one analyst says.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
-      "pubDate": "Fri, 20 Mar 2026 16:20:52 +0000"
-    },
-    {
-      "headline": "Trump&#8217;s AI framework targets state laws, shifts child safety burden to parents",
-      "deck": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "pubDate": "Fri, 20 Mar 2026 16:14:04 +0000"
-    },
-    {
-      "headline": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
-      "deck": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
-      "pubDate": "Fri, 20 Mar 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a fully automated research",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "pubDate": "Fri, 20 Mar 2026 13:15:45 +0000"
-    },
-    {
-      "headline": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
-      "deck": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers pra",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-      "pubDate": "Fri, 20 Mar 2026 13:00:00 GMT"
     }
   ]
 }
