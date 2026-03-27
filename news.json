@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-03-27T08:42:56.560Z",
+  "generated_at": "2026-03-27T12:00:02.250Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best External Hard Drive (2026): SSD to Store Data, Video, and More",
+      "deck": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "pubDate": "Fri, 27 Mar 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "One Way or Another, Most of Our Electricity Comes From Solar Power",
+      "deck": "That’s good news, since the forecast is sunshine for the next 5 billion years.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/",
+      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+      "deck": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "deck": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Samsung Galaxy S26 and Galaxy S26+ Review: Lacking Ambition",
+      "deck": "Lack of fresh features and price increases make these two Samsung flagships feel rather bland.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/samsung-galaxy-s26-and-galaxy-s26-plus/",
+      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)",
+      "deck": "Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-backup-your-iphone/",
+      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "At Gaza’s Al-Shifa Hospital, the War Isn’t Over",
+      "deck": "Months into a supposed ceasefire in Gaza, doctors still have to smuggle in basic medical supplies—and treat new casualties of war.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/",
+      "pubDate": "Fri, 27 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Here&#8217;s why some people choose cryonics to store their bodies and brains after death",
+      "deck": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializi",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+      "pubDate": "Fri, 27 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Garmin InReach Mini 3 Plus Satellite Messenger Review: Robust With Lots of Upselling",
+      "deck": "Garmin’s newest satellite messenger offers helpful safety features, but the fees are only worth it if you’re regularly off the grid.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/garmin-inreach-mini-3-plus/",
+      "pubDate": "Fri, 27 Mar 2026 09:00:00 +0000"
+    },
     {
       "headline": "A coding agent token saving tool",
       "deck": "Tokensave replaces expensive reads with local graph queriesContinue reading on Towards AI »",
@@ -297,78 +369,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
       "pubDate": "Thu, 26 Mar 2026 15:25:13 +0000"
-    },
-    {
-      "headline": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
-      "deck": "The Telegram-based Xinbi Guarantee black market sells services that help prop up scam operations. British officials just hit the highly lucrative marketplace with sweeping sanctions.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/",
-      "pubDate": "Thu, 26 Mar 2026 15:15:53 +0000"
-    },
-    {
-      "headline": "The Sony Afeela Was Doomed to Fail",
-      "deck": "A six-year EV rollout ends with a thud.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sony-afeela-was-doomed-to-fail/",
-      "pubDate": "Thu, 26 Mar 2026 14:13:35 +0000"
-    },
-    {
-      "headline": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-      "deck": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-      "pubDate": "Thu, 26 Mar 2026 13:41:00 +0000"
-    },
-    {
-      "headline": "Using a VPN May Subject You to NSA Spying",
-      "deck": "US lawmakers are pressing Tulsi Gabbard to reveal whether using a VPN can strip Americans of their constitutional protections against warrantless surveillance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/",
-      "pubDate": "Thu, 26 Mar 2026 13:32:52 +0000"
-    },
-    {
-      "headline": "Cohere launches an open source voice model specifically for transcription",
-      "deck": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-      "pubDate": "Thu, 26 Mar 2026 13:30:00 +0000"
-    },
-    {
-      "headline": "The Download: a battery pivot to AI, and rewriting math",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this battery company is pivoting to AI&#160; Qichao Hu&#160;doesn’",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-      "pubDate": "Thu, 26 Mar 2026 12:42:53 +0000"
-    },
-    {
-      "headline": "Soundboks Mix Review: A Great Party Speaker",
-      "deck": "This large Bluetooth speaker is massively loud, nearly indestructible, and lasts for 40 hours.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/soundboks-mix/",
-      "pubDate": "Thu, 26 Mar 2026 12:08:00 +0000"
-    },
-    {
-      "headline": "A ‘pound of flesh’ from data centers: one senator&#8217;s answer to AI job losses",
-      "deck": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-      "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Senators Demand to Know How Much Energy Data Centers Use",
-      "deck": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
-      "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000"
     },
     {
       "headline": "The Site-Search Paradox: Why The Big Box Always Wins",
