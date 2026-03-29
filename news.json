@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-03-28T12:00:03.011Z",
+  "generated_at": "2026-03-29T12:00:03.067Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "9 Best Android Phones of 2026, Tested and Reviewed",
+      "deck": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-android-phones/",
+      "pubDate": "Sun, 29 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+      "deck": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+      "pubDate": "Sun, 29 Mar 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
+      "deck": "All your snaps come with metadata containing more information than you might realize.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
+      "pubDate": "Sun, 29 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
+      "deck": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-noise-canceling-earbuds/",
+      "pubDate": "Sun, 29 Mar 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Deceptively Tricky Art of Designing a Steering Wheel",
+      "deck": "Veteran designers in the auto industry—and Jony Ive—tell us how hard it is to make a functional yet beautiful steering wheel.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+      "pubDate": "Sun, 29 Mar 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Best Heart Rate Monitors (2026): Polar, Coros, Garmin",
+      "deck": "These chest straps and watches will help you keep your finger on your pulse—and many other heart-related metrics.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-heart-rate-monitors/",
+      "pubDate": "Sun, 29 Mar 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+      "deck": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+      "pubDate": "Sun, 29 Mar 2026 09:03:00 +0000"
+    },
+    {
+      "headline": "For Craft Sake: On the laws and principles behind good design",
+      "deck": "",
+      "source": "Prototypr",
+      "category": "ux",
+      "url": "https://blog.prototypr.io/for-craft-sake-on-the-laws-and-principles-behind-good-design-3b2989610e64?source=rss----eb297ea1161a---4",
+      "pubDate": "Sun, 29 Mar 2026 07:16:52 GMT"
+    },
+    {
+      "headline": "Anthropic Leaked Its Own Nuclear Option: Mythos. The Irony Is Killing Me",
+      "deck": "The company that warns about &#x201C;unprecedented cybersecurity risks&#x201D; can&#x2019;t secure its own blog CMS. Welcome to vibe coding AI in 2026.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropic-leaked-its-own-nuclear-option-mythos-the-irony-is-killing-me-2b92f77484a2?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:49:29 GMT"
+    },
+    {
+      "headline": "LangChain Middleware: The Missing Layer Between Your Agent and Production",
+      "deck": "How to intercept, control, and extend AI agents without touching the logic that actually mattersContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/langchain-middleware-the-missing-layer-between-your-agent-and-production-b7a5b8cba4c2?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:48:45 GMT"
+    },
+    {
+      "headline": "Multi-Agent Systems Aren’t Magic — Here’s the Orchestration Problem Nobody Talks About",
+      "deck": "I built a multi-agent system, thinking it would solve everything. It created three new problems I hadn&#x2019;t seen coming.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/multi-agent-systems-arent-magic-here-s-the-orchestration-problem-nobody-talks-about-547d2e3437ca?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:47:51 GMT"
+    },
+    {
+      "headline": "The KV Cache. Every LLM Running Today Is Built Around One Number Staying Still.",
+      "deck": "What the K and V Matrices Look Like at Token 1, Token 2, Token 3. Until Now. With the Arithmetic.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-kv-cache-every-llm-running-today-is-built-around-one-number-staying-still-cf2e36d29b5a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:46:38 GMT"
+    },
+    {
+      "headline": "Ilya Left OpenAI.",
+      "deck": "November 2023. Ilya Sutskever voted to fire Sam Altman.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ilya-left-openai-440192ebab28?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:45:11 GMT"
+    },
+    {
+      "headline": "The $570K Paradox: What Anthropic’s Most Controversial Job Posting Reveals About the True State of…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-570k-paradox-what-anthropics-most-controversial-job-posting-reveals-about-the-true-state-of-d474f41083bb?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:44:55 GMT"
+    },
+    {
+      "headline": "The Ouroboros Protocol: When AI Stops Waiting for Instructions and Starts Rewriting Itself",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-ouroboros-protocol-when-ai-stops-waiting-for-instructions-and-starts-rewriting-itself-77e7759807ed?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:42:58 GMT"
+    },
+    {
+      "headline": "I Built a Breast Cancer Detection System End-to-End.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:42:36 GMT"
+    },
+    {
+      "headline": "Technology as a Living Forest: How It Breathes and Connects",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 29 Mar 2026 04:41:58 GMT"
+    },
+    {
+      "headline": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "deck": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "pubDate": "Sat, 28 Mar 2026 23:00:00 +0000"
+    },
+    {
+      "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "deck": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "pubDate": "Sat, 28 Mar 2026 20:45:54 +0000"
+    },
+    {
+      "headline": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "deck": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "pubDate": "Sat, 28 Mar 2026 16:11:16 +0000"
+    },
+    {
+      "headline": "Disruption has a shape. Design history shows us what it is.",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/disruption-has-a-shape-design-history-shows-us-what-it-is-47c0aaa6bbbf?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 28 Mar 2026 15:02:00 GMT"
+    },
+    {
+      "headline": "Anthropic&#8217;s Claude popularity with paying consumers is skyrocketing",
+      "deck": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid sub",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "pubDate": "Sat, 28 Mar 2026 14:15:00 +0000"
+    },
     {
       "headline": "What Is the Best Garmin Watch Right Now? (2026)",
       "deck": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
@@ -107,22 +283,6 @@
       "pubDate": "Sat, 28 Mar 2026 00:01:01 GMT"
     },
     {
-      "headline": "I Burned Thousands of Hours on the Cursor. Here Is Why “Auto-Accept” Is a Trap.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-burned-thousands-of-hours-on-the-cursor-here-is-why-auto-accept-is-a-trap-94db0390ab11?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 23:01:01 GMT"
-    },
-    {
-      "headline": "You Don’t Need RAG. You Need Semantic Compression.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/you-dont-need-rag-you-need-semantic-compression-74d41d65bac1?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 22:01:00 GMT"
-    },
-    {
       "headline": "AI Research Is Getting Harder to Separate From Geopolitics",
       "deck": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
       "source": "Wired",
@@ -137,14 +297,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
       "pubDate": "Fri, 27 Mar 2026 21:44:45 +0000"
-    },
-    {
-      "headline": "OpenAI Spent $15 Million a Day on Sora. It Earned $2.1 Million Total.",
-      "deck": "The shutdown math that tells every builder what&#x2019;s actually happening in AI right now.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openai-spent-15-million-a-day-on-sora-it-earned-2-1-million-total-b23977bba89b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 21:01:00 GMT"
     },
     {
       "headline": "Taste is not a feature",
@@ -171,14 +323,6 @@
       "pubDate": "Fri, 27 Mar 2026 20:44:00 +0000"
     },
     {
-      "headline": "Crack ML Interviews with Confidence: Principal Component Analysis, PCA (20 Q&A)",
-      "deck": "Data Scientist & Machine Learning Interview PreparationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/crack-ml-interviews-with-confidence-principal-component-analysis-pca-20-q-a-d6134465cc3d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 20:01:00 GMT"
-    },
-    {
       "headline": "Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s",
       "deck": "Plus: Apple makes big claims about the effectiveness of its Lockdown Mode anti-spyware feature, Russia moves to implement homegrown encryption for 5G, and more.",
       "source": "Wired",
@@ -193,14 +337,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
       "pubDate": "Fri, 27 Mar 2026 19:11:28 +0000"
-    },
-    {
-      "headline": "The Socratic Model: Why the Wisest AI is the One That Knows When to Ask.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-socratic-model-why-the-wisest-ai-is-the-one-that-knows-when-to-ask-f9b777a483f4?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 18:01:00 GMT"
     },
     {
       "headline": "This Premium Sennheiser Soundbar Is $1,000 Off",
@@ -225,14 +361,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/genui-vs-vibe/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 27 Mar 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Vibe Coding vs. Agentic Coding: The New Frontier of AI Software Engineering",
-      "deck": "Two paradigms, one revolution &#x2014; why the future belongs to developers who know when to prompt, and when to delegate.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/vibe-coding-vs-agentic-coding-the-new-frontier-of-ai-software-engineering-cfa9b18ad39c?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 16:01:01 GMT"
     },
     {
       "headline": "VCs are betting billions on AI&#8217;s next wave, so why is OpenAI killing Sora?",
@@ -267,140 +395,12 @@
       "pubDate": "Fri, 27 Mar 2026 14:42:04 GMT"
     },
     {
-      "headline": "Amazon’s AI Health Tool Transforms Medical Navigation",
-      "deck": "Amazon&#x2019;s new AI-powered health assistant provides medical guidance and appointment scheduling, operating within a HIPAA-compliant.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 14:01:00 GMT"
-    },
-    {
       "headline": "OpenAI shuts down Sora while Meta gets shut out in court",
       "deck": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby ",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
       "pubDate": "Fri, 27 Mar 2026 13:30:00 +0000"
-    },
-    {
-      "headline": "Skip the TSA Line: Where to Find Travel by Bus, Train, and Boat",
-      "deck": "These apps and websites find bus, train, and ferry tickets when you want more options than flying to your destination.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/",
-      "pubDate": "Fri, 27 Mar 2026 13:22:49 +0000"
-    },
-    {
-      "headline": "Porsche Cayenne Electric Review: A Phenomenally Capable SUV",
-      "deck": "Porsche’s latest electric SUV is its most capable yet, and its most powerful street car ever. But should you wait for the hybrid instead?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/porsche-cayenne-electric-2026/",
-      "pubDate": "Fri, 27 Mar 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "The Download: the internet’s best weather app, and why people freeze their brains",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best weather app&#160; T",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
-      "pubDate": "Fri, 27 Mar 2026 12:32:54 +0000"
-    },
-    {
-      "headline": "13 Best MagSafe Wallets (2026), Tested IRL",
-      "deck": "These convenient and slim magnetic wallets are the ones you’ll want to stick to the back of your smartphone.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
-      "pubDate": "Fri, 27 Mar 2026 12:08:00 +0000"
-    },
-    {
-      "headline": "A Hands-On guide for Learning Langchain, LCEL, LLMOps the Practical Way",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-hands-on-guide-for-learning-langchain-lcel-llmops-the-practical-way-43f107a8b588?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 27 Mar 2026 12:01:01 GMT"
-    },
-    {
-      "headline": "Best External Hard Drive (2026): SSD to Store Data, Video, and More",
-      "deck": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
-      "pubDate": "Fri, 27 Mar 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "One Way or Another, Most of Our Electricity Comes From Solar Power",
-      "deck": "That’s good news, since the forecast is sunshine for the next 5 billion years.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/",
-      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
-      "deck": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
-      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "How to Back Up Your iPhone to iCloud, MacOS, or Windows (2026)",
-      "deck": "Save your memories now, because if your iPhone gets stolen or lost, your photos and other precious files could be gone forever.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-backup-your-iphone/",
-      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Samsung Galaxy S26 and Galaxy S26+ Review: Lacking Ambition",
-      "deck": "Lack of fresh features and price increases make these two Samsung flagships feel rather bland.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/samsung-galaxy-s26-and-galaxy-s26-plus/",
-      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-      "deck": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "At Gaza’s Al-Shifa Hospital, the War Isn’t Over",
-      "deck": "Months into a supposed ceasefire in Gaza, doctors still have to smuggle in basic medical supplies—and treat new casualties of war.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/",
-      "pubDate": "Fri, 27 Mar 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
-      "deck": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-espresso-machines/",
-      "pubDate": "Fri, 27 Mar 2026 09:33:00 +0000"
-    },
-    {
-      "headline": "Here&#8217;s why some people choose cryonics to store their bodies and brains after death",
-      "deck": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializi",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-      "pubDate": "Fri, 27 Mar 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "David Sacks is done as AI czar &#8212; here&#8217;s what he&#8217;s doing instead",
-      "deck": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-      "pubDate": "Fri, 27 Mar 2026 01:26:40 +0000"
     }
   ]
 }
