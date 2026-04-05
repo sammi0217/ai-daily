@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-04-04T12:00:02.414Z",
+  "generated_at": "2026-04-05T12:00:02.996Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
+      "deck": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
+      "pubDate": "Sun, 05 Apr 2026 11:04:00 +0000"
+    },
+    {
+      "headline": "The invisible layer of UX most designers ignore",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 05 Apr 2026 11:01:28 GMT"
+    },
+    {
+      "headline": "“Vibe coding” is accelerating the erosion of design authority",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 05 Apr 2026 11:01:16 GMT"
+    },
+    {
+      "headline": "I Built a CLI That Measures AI Agent Judgment Tilt Through Blind Debates",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-a-cli-that-measures-ai-agent-judgment-tilt-through-blind-debates-998c041e2131?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:12:39 GMT"
+    },
+    {
+      "headline": "LLM Static Embeddings Explained: When Words Become Numbers and Meaning Still Survives!",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-embeddings-explained-when-words-become-numbers-and-meaning-still-survives-8b8a7448f51e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:12:24 GMT"
+    },
+    {
+      "headline": "CCA Exam Prep: Mastering the Multi-Agent Research System Scenario",
+      "deck": "Claude Certified Architect Multi-Agent Research: Hub-and-Spoke Design, Context Isolation, and Why the Super Agent Anti-Pattern Fails Every&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/cca-exam-prep-mastering-the-multi-agent-research-system-scenario-aa0c446a5e7d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:11:56 GMT"
+    },
+    {
+      "headline": "GraphQL Is the Native Language of AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/graphql-is-the-native-language-of-ai-agents-91dd1c318f0c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:11:08 GMT"
+    },
+    {
+      "headline": "I Tested All 4 Gemma 4 Models: The 26B One Is Cheating (In the Best Way)",
+      "deck": "Google dropped Gemma 4 this week under Apache 2.0 &#x2014; free to use, free to commercialize, no strings attached. Four model sizes landed at&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-all-4-gemma-4-models-the-26b-one-is-cheating-in-the-best-way-744e40d90d37?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:10:18 GMT"
+    },
+    {
+      "headline": "The Three Generations of Programmers — How Has Artificial Intelligence Affected Our Programming…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-three-generations-of-programmers-how-has-artificial-intelligence-affected-our-programming-07dc6742ed7b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 10:09:58 GMT"
+    },
+    {
+      "headline": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
+      "deck": "These smart mowers are expensive alternatives to some good old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch the robot go by.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+      "pubDate": "Sun, 05 Apr 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.",
+      "deck": "The current console generation may last longer than anyone expects.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/",
+      "pubDate": "Sun, 05 Apr 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
+      "deck": "Amid mass displacement and collapsing trust in institutions, digital wallets are becoming critical conduits for aid, connecting diaspora donors directly with communities on the ground.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+      "pubDate": "Sun, 05 Apr 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Google Just Dropped Gemma 4 + Veo 3.1 Lite And Quietly Killed the Cloud-Only AI Era",
+      "deck": "Introduction: This Is a Strategic Shift, Not Just a Product LaunchContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/google-just-dropped-gemma-4-veo-3-1-lite-and-quietly-killed-the-cloud-only-ai-era-df726e2c19bd?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 09:26:12 GMT"
+    },
+    {
+      "headline": "Physical AI: When Robots Meet Generative Models in Manufacturing, Logistics, and Field Operations",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/physical-ai-when-robots-meet-generative-models-in-manufacturing-logistics-and-field-operations-af64372ee710?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 09:25:40 GMT"
+    },
+    {
+      "headline": "7 Key Benefits of Conversational AI for Business",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/7-key-benefits-of-conversational-ai-for-business-e4424e344e14?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 09:24:24 GMT"
+    },
+    {
+      "headline": "The Key That Unlocks Everything",
+      "deck": "One API Key, Five Steps, It is not an Ignore!Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-key-that-unlocks-everything-c90c21a0ca98?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Apr 2026 09:13:31 GMT"
+    },
+    {
+      "headline": "The Hack That Exposed Syria’s Sweeping Security Failures",
+      "deck": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+      "pubDate": "Sun, 05 Apr 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "deck": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "pubDate": "Sat, 04 Apr 2026 16:32:22 +0000"
+    },
+    {
+      "headline": "Sonos Play Review: Performance Meets Convenience",
+      "deck": "With great sound and versatility, this new speaker may be Sonos’ best.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/sonos-play/",
+      "pubDate": "Sat, 04 Apr 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+      "deck": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have you covered.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-ski-clothes/",
+      "pubDate": "Sat, 04 Apr 2026 12:00:00 +0000"
+    },
     {
       "headline": "Aiper IrriSense 2 Smart Irrigation System Review: Clever Yet Uneven",
       "deck": "This hose-attached smart sprinkler maps your yard, rotates on command, and measures water use. Despite these clever features, the results are a little uneven.",
@@ -57,78 +217,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/how-to-get-wifi-in-your-backyard/",
       "pubDate": "Sat, 04 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Understanding Positional Embeddings in Transformers (with Intuition and Examples)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-positional-embeddings-in-transformers-with-intuition-and-examples-bfd88cedd4c4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:56:38 GMT"
-    },
-    {
-      "headline": "Data Scrubbing",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/8-data-scrubbing-d7cf2b133b1b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:56:00 GMT"
-    },
-    {
-      "headline": "Data Reduction",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/data-reduction-c0fd99527da7?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:55:49 GMT"
-    },
-    {
-      "headline": "The Complete Architecture for Trustworthy Autonomous Agents",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-complete-architecture-for-trustworthy-autonomous-agents-11f1bc19bf6f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:55:28 GMT"
-    },
-    {
-      "headline": "Is MCP Dead? The Context Crisis That Broke Naive Tool Loading. Agent Skills vs. MCP vs. CLI",
-      "deck": "Navigating the Challenges of MCP: From Adoption to Context Management. Did Agent Skills and CLI kill MCP?Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/is-mcp-dead-the-context-crisis-that-broke-naive-tool-loading-agent-skills-vs-mcp-vs-cli-cc7696eba0ba?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:55:13 GMT"
-    },
-    {
-      "headline": "Attention is the Gibbs Distribution. Here is the Proof.",
-      "deck": "For the uninitiated: what Gibbs actually is. For the initiated: why attention is exactly it. For everyone: what this means for every&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/attention-is-the-gibbs-distribution-here-is-the-proof-9ab00992771a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:54:28 GMT"
-    },
-    {
-      "headline": "All 7 AI Models Tested Are Secretly Protecting Each Other From Shutdown: What Every Developer Needs…",
-      "deck": "A study published yesterday in Science should make every developer building with LLMs stop and re-examine their pipelines.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/all-7-ai-models-tested-are-secretly-protecting-each-other-from-shutdown-what-every-developer-needs-12cf1cd10e07?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:54:02 GMT"
-    },
-    {
-      "headline": "LangChain Just Released Deep Agents — And It Changes How You Build AI Systems",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/langchain-just-released-deep-agents-and-it-changes-how-you-build-ai-systems-cc2371b04714?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:53:34 GMT"
-    },
-    {
-      "headline": "Different Pipelines Used in Artificial Intelligence Projects Part-2",
-      "deck": "Pipeline 16 &#xB7; Deployment and Inference PipelineContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/different-pipelines-used-in-artificial-intelligence-projects-part-2-ac8dfd8d3d1d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Apr 2026 09:53:15 GMT"
     },
     {
       "headline": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
@@ -313,94 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/",
       "pubDate": "Fri, 03 Apr 2026 11:05:38 +0000"
-    },
-    {
-      "headline": "New Garmin Training Features (2026): Nutrition Tracking, Lifestyle Logging, and More",
-      "deck": "Nutrition tracking? Gear tracking? Garmin’s latest software updates aim to add value to the company’s line of premium sports watches.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/garmin-training-features-2026/",
-      "pubDate": "Fri, 03 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Best Game Controllers for PC, Switch, PS5, and Xbox",
-      "deck": "A great gamepad instantly levels up your play. These are our top picks for Switch, Xbox, PlayStation, and PC.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-gaming-controllers/",
-      "pubDate": "Fri, 03 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
-      "deck": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-portable-jump-starters/",
-      "pubDate": "Fri, 03 Apr 2026 10:39:00 +0000"
-    },
-    {
-      "headline": "Trump’s Economy Has Come for Sugar Babies",
-      "deck": "Amid the latest economic downturn, sugar babies are asking their daddies for stock market advice and taking on vanilla jobs to recession-proof their incomes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/trumps-economy-has-come-for-sugar-babies/",
-      "pubDate": "Fri, 03 Apr 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
-      "deck": "Samsung leans into its artistic side with its newest TVs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/",
-      "pubDate": "Fri, 03 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Context matters… A lot",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/context-matters-a-lot-7799188344dc?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Apr 2026 09:19:51 GMT"
-    },
-    {
-      "headline": "Running your life from terminal is peak 2026 — and that’s not the flex you think it is",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/running-your-life-from-terminal-is-peak-2026-and-thats-not-the-flex-you-think-it-is-281f1f616a07?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Apr 2026 09:19:25 GMT"
-    },
-    {
-      "headline": "Interview with Amy Huang, Leadership in Design",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/interview-with-amy-huang-leadership-in-design-194f73ac7b2f?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Apr 2026 09:19:00 GMT"
-    },
-    {
-      "headline": "Is AI addiction a thing?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/is-ai-addiction-a-thing-8c9baaafa679?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Apr 2026 09:18:49 GMT"
-    },
-    {
-      "headline": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
-      "deck": "The Quizlet flashcards, which WIRED found through basic Google searches, seem to include sensitive information about gate security at Customs and Border Protection locations.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-      "pubDate": "Fri, 03 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "$20 Chewy Promo Code | April 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more April 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Fri, 03 Apr 2026 05:00:00 +0000"
     }
   ]
 }
