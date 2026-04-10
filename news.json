@@ -1,246 +1,182 @@
 {
-  "generated_at": "2026-04-09T12:00:02.253Z",
+  "generated_at": "2026-04-10T12:00:02.301Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity",
-      "deck": "This tracker attaches to your pet’s collar to monitor location and activity, charting trends over time to better understand your pet’s health.",
+      "headline": "Aventon Current ADV Electric Mountain Bike Review: Feels Just Like the Real Thing",
+      "deck": "Aventon’s latest electric mountain bike lets you bomb hills while avoiding the part where you get sweaty by pedaling back to the top.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/fi-mini-for-cats/",
-      "pubDate": "Thu, 09 Apr 2026 11:00:00 +0000"
+      "url": "https://www.wired.com/review/aventon-current-adv-electric-mountain-bike/",
+      "pubDate": "Fri, 10 Apr 2026 11:30:00 +0000"
     },
     {
-      "headline": "Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won",
-      "deck": "In Seattle, activists inside tech giants are leaning into grassroots fundraising and peer support as petitions and protests draw little response from executives.",
+      "headline": "Best Smart Shades, Blinds, and Curtains (2026): Motorized, Tailor-Made, and More",
+      "deck": "From made-to-measure smart shades to retrofit curtain bots, these are our favorite WIRED-tested drapes for your windows.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/",
-      "pubDate": "Thu, 09 Apr 2026 11:00:00 +0000"
+      "url": "https://www.wired.com/gallery/best-smart-shades-blinds-curtains/",
+      "pubDate": "Fri, 10 Apr 2026 11:00:00 +0000"
     },
     {
-      "headline": "I Asked Netflix’s Reality TV Boss Why So Many Men On Dating Shows Are Terrible",
-      "deck": "Brandon Riegg tells WIRED he empathizes with the struggle to find “quality men” and that Love Is Blind has no MAGA agenda.",
+      "headline": "The Indie News Queen Who’s Not Done Pissing Off the Powerful",
+      "deck": "WIRED sat down with Democracy Now! host Amy Goodman to talk politics, AI, and the future of media. A documentary about her rise hits theaters today.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/netflix-love-is-blind-brandon-riegg-on-why-so-many-men-on-dating-shows-are-terrible/",
-      "pubDate": "Thu, 09 Apr 2026 10:30:00 +0000"
+      "url": "https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/",
+      "pubDate": "Fri, 10 Apr 2026 11:00:00 +0000"
     },
     {
-      "headline": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
-      "deck": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of syn",
+      "headline": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+      "deck": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
+      "pubDate": "Fri, 10 Apr 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Irrigreen Smart Irrigation System 3.0 (2026) Review: Smart Watering, Less Hassle",
+      "deck": "The third release of Irrigreen’s “water printing” system is better than ever, but you’ll have to upgrade your whole irrigation infrastructure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/",
+      "pubDate": "Fri, 10 Apr 2026 10:06:00 +0000"
+    },
+    {
+      "headline": "Constellations",
+      "deck": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.&",
       "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
-      "pubDate": "Thu, 09 Apr 2026 10:00:00 +0000"
+      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
     },
     {
-      "headline": "Desalination technology, by the numbers",
-      "deck": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an incre",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
-      "pubDate": "Thu, 09 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
-      "deck": "Political candidates are purchasing more home alarms, bulletproof vests, and other protections amid rising fears of political violence.",
+      "headline": "No One Knows Where US Vaccine Policy Goes Next",
+      "deck": "Robert F. Kennedy Jr.’s sweeping changes to federal vaccine guidance are paused for now. But even if they’re reversed, lasting damage has already been done.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/political-campaign-security-spending/",
-      "pubDate": "Thu, 09 Apr 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/",
+      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
     },
     {
-      "headline": "TCL NXTVISION Art TV Review: Just Fine",
-      "deck": "This low-cost art display can’t compete with the Samsung Frame Pro.",
+      "headline": "Asus ROG Cetra Open Wireless Earbuds Review: Open Gaming Buds?",
+      "deck": "These wireless open earbuds are designed for mobile gamers.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/tcl-nxtvision-2025/",
-      "pubDate": "Thu, 09 Apr 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/review/asus-rog-cetra/",
+      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
     },
     {
-      "headline": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
-      "deck": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
+      "headline": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "deck": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
-      "pubDate": "Thu, 09 Apr 2026 09:30:00 +0000"
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "pubDate": "Fri, 10 Apr 2026 09:30:00 +0000"
     },
     {
-      "headline": "Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon",
-      "deck": "The moon gets hit by space debris all the time, but some of it is so large that the impact generates light that can be seen thousands of kilometers away.",
+      "headline": "How and When to Watch the Artemis II Mission’s Return to Earth",
+      "deck": "Splashdown for the Artemis II crew is scheduled for Friday evening, and NASA will livestream the historic homecoming.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/",
-      "pubDate": "Thu, 09 Apr 2026 09:00:00 +0000"
+      "url": "https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/",
+      "pubDate": "Fri, 10 Apr 2026 09:00:00 +0000"
     },
     {
-      "headline": "Top 15 Computer Vision Datasets [2026]",
-      "deck": "A ML engineer&#x2019;s guide to top image datasets. Learn about ImageNet, COCO, and more, and understand how data annotation and benchmarks drive&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/computer-vision-datasets-f6d59f319e85?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 09 Apr 2026 05:18:15 GMT"
-    },
-    {
-      "headline": "40 Generative AI Interview Questions That Actually Get Asked in 2026 (With Answers)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/40-generative-ai-interview-questions-that-actually-get-asked-in-2026-with-answers-b4c647f1e2e8?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 09 Apr 2026 05:02:14 GMT"
-    },
-    {
-      "headline": "Next-Word Prediction: How Conditional Probability Turned Language into a Learning Task",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/next-word-prediction-how-conditional-probability-turned-language-into-a-learning-task-a5cecfadf40d?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 09 Apr 2026 05:01:04 GMT"
-    },
-    {
-      "headline": "Medicube Coupon Code: Top Promo Codes and Discounts for April 2026",
-      "deck": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+      "headline": "Surfshark Promo Codes: 87% Off | April 2026",
+      "deck": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/medicube-coupon-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "Top Paramount+ Coupon Codes and Deals for April 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "headline": "Naturepedic Promo Codes and Deals: 20% Off",
+      "deck": "Shop the Naturepedic sale this April.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/naturepedic-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "TurboTax Service Codes: 30% Off TurboTax Full Service Expert | April 2026",
-      "deck": "Tax season doesn’t have to be stressful. Score 30% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "headline": "20% Off Sephora Promo Code | April 2026",
+      "deck": "Earn more points on skincare purchases when you use our Sephora coupon.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/sephora-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "10% Dell Coupon Codes | April 2026",
-      "deck": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "headline": "Hungryroot Coupon Codes: 30% Off This April",
+      "deck": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/hungryroot-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "Peacock Promo Codes: 40% Off April 2026",
-      "deck": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "headline": "Govee Discount Codes and Deals: 30% Off",
+      "deck": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "NordVPN Coupons and Deals: 77% Off in April 2026",
-      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "headline": "Walmart Promo Codes and Coupons: Up to 65% Off",
+      "deck": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "20% Off Brooks Promo Code & Deals for | April 2026",
-      "deck": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "headline": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "deck": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "Google Workspace Promo Code: Up to 14% Off in 2026",
-      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "headline": "Top Nomad Goods Promo Codes: Get 25% Off in April 2026",
+      "deck": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this April.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "20% Off LG Promo Code & Coupons | April 2026",
-      "deck": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "headline": "Instacart Promo Codes & Savings Hacks for April 2026",
+      "deck": "Find the best Instacart promo code for massive savings in April 2026",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/instacart-promo/code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "NZXT Discount Codes: 50% Off in April 2026",
-      "deck": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "headline": "Sealy Promo Code: Save $200 on Mattresses This Month",
+      "deck": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/nzxt-discount-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "30% Off Canon Promo Codes | April 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this April.",
+      "headline": "Vivid Seats Promo Codes and Deals: Save 10% This April",
+      "deck": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this month.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
+      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
-      "headline": "Vimeo Promo Codes and Deals: Save Up to 40%",
-      "deck": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "headline": "Factor Promo Code: 50% Off Off Meal Prep",
+      "deck": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this April.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/vimeo-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Bartesian Discount Codes and Deals: Up to 35% Off",
-      "deck": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bartesian-discount-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "AT&T Promo Codes and Bundle Deals: Save $50 in April",
-      "deck": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Petlibro Discount Codes: Save Up to 50%",
-      "deck": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/petlibro-discount-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Top Home Chef Promo Codes for April 2026",
-      "deck": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/home-chef-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
-      "deck": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/altra-promo-code/",
-      "pubDate": "Thu, 09 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Your Brain Is Running 5 Electrical Symphonies Right Now. We Built a Quantum Circuit to Listen.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-brain-is-running-5-electrical-symphonies-right-now-we-built-a-quantum-circuit-to-listen-82f8cf968b6b?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 09 Apr 2026 04:59:34 GMT"
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
     },
     {
       "headline": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
@@ -248,7 +184,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06189",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
@@ -256,7 +192,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06233",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
@@ -264,7 +200,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06251",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
@@ -272,7 +208,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06277",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
@@ -280,7 +216,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06375",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
@@ -288,7 +224,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06389",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
@@ -296,7 +232,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06392",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
@@ -304,7 +240,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06401",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
@@ -312,7 +248,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06405",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
       "headline": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
@@ -320,15 +256,119 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2604.06562",
-      "pubDate": "Thu, 09 Apr 2026 00:00:00 -0400"
+      "pubDate": "Fri, 10 Apr 2026 00:00:00 -0400"
     },
     {
-      "headline": "Poke makes using AI agents as easy as sending a text",
-      "deck": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+      "headline": "The L1 Loss Gradient, Explained From Scratch",
+      "deck": "A complete, step-by-step walkthrough of how gradient descent works with absolute-value loss &#x2014; with diagrams you can actually follow.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-l1-loss-gradient-explained-from-scratch-f2b0f912b119?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:44:08 GMT"
+    },
+    {
+      "headline": "Event Sourcing & CQRS Using Spring Boot in 2026.",
+      "deck": "Photo by Carlos Gil on UnsplashContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/event-sourcing-cqrs-using-spring-boot-in-2026-b589386384b4?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:05:08 GMT"
+    },
+    {
+      "headline": "N-Grams and Markov Assumptions: The First Predictive Models of Language",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/n-grams-and-markov-assumptions-the-first-predictive-models-of-language-ace56da7b390?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:04:51 GMT"
+    },
+    {
+      "headline": "PINNs and Neural Operators: Two Competing Visions of Scientific AI",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/pinns-and-neural-operators-two-competing-visions-of-scientific-ai-c5be098aa2c5?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:04:24 GMT"
+    },
+    {
+      "headline": "Beyond the Prompt: Building a Multi-Agent DevOps Squad with a Security Conscience",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-8a6f37f59eab?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:04:02 GMT"
+    },
+    {
+      "headline": "Your Postcode Is Deciding Your Care. I Built a Pipeline to Prove It.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-postcode-is-deciding-your-care-i-built-a-pipeline-to-prove-it-c14ddea2370d?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:03:32 GMT"
+    },
+    {
+      "headline": "I Directed AI Agents to Build a Tool That Stress-Tests Incentive Designs. Here’s What It Found.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-directed-ai-agents-to-build-a-tool-that-stress-tests-incentive-designs-heres-what-it-found-a079f152b158?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:03:16 GMT"
+    },
+    {
+      "headline": "Langfuse vs LangSmith: Two Competing AI Observability Platforms Compared",
+      "deck": "Two approaches to agent observability: open-source flexibility vs managed ecosystem depthContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/langfuse-vs-langsmith-two-competing-ai-observability-platforms-compared-2527a5ce023b?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 10 Apr 2026 03:02:25 GMT"
+    },
+    {
+      "headline": "taste.md",
+      "deck": "the new tech buzzwordContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/taste-md-e4fb75d9096f?source=rss----138adf9c44c---4",
+      "pubDate": "Thu, 09 Apr 2026 23:35:14 GMT"
+    },
+    {
+      "headline": "ChatGPT finally offers $100/month Pro plan",
+      "deck": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-      "pubDate": "Wed, 08 Apr 2026 21:05:13 +0000"
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000"
+    },
+    {
+      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "deck": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "pubDate": "Thu, 09 Apr 2026 20:11:55 +0000"
+    },
+    {
+      "headline": "After data breach, $10B-valued startup Mercor is having a month",
+      "deck": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "pubDate": "Thu, 09 Apr 2026 19:33:54 +0000"
+    },
+    {
+      "headline": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "deck": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "pubDate": "Thu, 09 Apr 2026 19:10:07 +0000"
+    },
+    {
+      "headline": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "deck": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity co",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "pubDate": "Thu, 09 Apr 2026 18:50:05 +0000"
     },
     {
       "headline": "7 Rules for Creating an Effective Claude Code Skill",
@@ -337,38 +377,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/7-rules-for-creating-an-effective-claude-code-skill-2d81f61fc7cd?source=rss----819cc2aaeee0---4",
       "pubDate": "Wed, 08 Apr 2026 20:44:33 GMT"
-    },
-    {
-      "headline": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "deck": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "pubDate": "Wed, 08 Apr 2026 20:09:14 +0000"
-    },
-    {
-      "headline": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "deck": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "pubDate": "Wed, 08 Apr 2026 18:23:06 +0000"
-    },
-    {
-      "headline": "Astropad&#8217;s Workbench reimagines remote desktop for AI agents, not IT support",
-      "deck": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "pubDate": "Wed, 08 Apr 2026 16:01:09 +0000"
-    },
-    {
-      "headline": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "deck": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "pubDate": "Wed, 08 Apr 2026 15:23:44 +0000"
     },
     {
       "headline": "Top 3 Claude Code + Figma Workflows",
@@ -393,14 +401,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/cowork-mode-in-claude-code-for-product-design-tasks-9d0c05e5630e?source=rss----819cc2aaeee0---4",
       "pubDate": "Tue, 07 Apr 2026 16:40:37 GMT"
-    },
-    {
-      "headline": "The Best Way To Plan Work With Claude Code",
-      "deck": "/ultraplan for making the most of Claude CodeContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/the-best-way-to-plan-work-with-claude-code-58e336a3b0ba?source=rss----819cc2aaeee0---4",
-      "pubDate": "Tue, 07 Apr 2026 13:06:28 GMT"
     }
   ]
 }
