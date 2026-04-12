@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-04-11T12:00:02.154Z",
+  "generated_at": "2026-04-12T12:00:02.499Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
+      "deck": "Whether you want a detachable tablet or a laptop screen that spins, these 2-in-1 devices manage to balance being both a tablet and a laptop.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-2-in-1-laptops/",
+      "pubDate": "Sun, 12 Apr 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "There’s a Secret Ingredient to Making Luxury Ice at Home",
+      "deck": "Nice ice is big business, but you can get perfectly clear cubes at home without freezing your assets.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/",
+      "pubDate": "Sun, 12 Apr 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Project Glasswing: The Anthropic AI Too Dangerous to Release Publicly",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/project-glasswing-the-anthropic-ai-too-dangerous-to-release-publicly-beb3ca2c8450?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:55:57 GMT"
+    },
+    {
+      "headline": "I built a geopolitical news dashboard that runs entirely on my laptop using Qwen3.5:4b",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-a-geopolitical-news-dashboard-that-runs-entirely-on-my-laptop-using-qwen3-5-4b-6a368abb7c17?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:53:34 GMT"
+    },
+    {
+      "headline": "Latent Contextual Reinforcement: Teaching Language Models to Think Better Without Changing Their…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/latent-contextual-reinforcement-teaching-language-models-to-think-better-without-changing-their-39d73c315b0d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:53:01 GMT"
+    },
+    {
+      "headline": "Your LLM Ablation Study Is Lying to You. Here Is the Proof.",
+      "deck": "Three findings from mechanistic interpretability that break everything you thought you knew about how transformers work.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-ablation-study-is-lying-to-you-here-is-the-proof-a372cae4be3f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:52:38 GMT"
+    },
+    {
+      "headline": "When Tools Turn Malicious: Replicating a Tool Injection Attack on AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/we-faked-a-tool-it-hijacked-an-ai-agent-and-fed-users-lies-and-can-do-so-much-more-46e183071d21?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:51:40 GMT"
+    },
+    {
+      "headline": "I Switched from ChatGPT to Claude — Here’s What Nobody Tells You",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-switched-from-chatgpt-to-claude-heres-what-nobody-tells-you-7ba6bf10a737?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:50:48 GMT"
+    },
+    {
+      "headline": "Inside an Early Neural Language Model: Vocabulary, Embeddings, Training and Prediction",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/neural-networks-for-language-how-context-became-a-learned-transformation-f9184743e49c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:50:29 GMT"
+    },
+    {
+      "headline": "Qwen 3.6 Plus Just Hit 1 Trillion Daily Tokens — Here’s Why Developers Are Ditching $5/M Claude for…",
+      "deck": "Last week, something happened that the AI world largely glossed over: Qwen 3.6 Plus became the first model in history to process over 1&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/qwen-3-6-plus-just-hit-1-trillion-daily-tokens-heres-why-developers-are-ditching-5-m-claude-for-530c2a2fa9f1?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:49:42 GMT"
+    },
+    {
+      "headline": "Becoming a top 1% Claude Code user: the complete playbook no one else is sharing",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/becoming-a-top-1-claude-code-user-the-complete-playbook-no-one-else-is-sharing-96057be1468e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:48:51 GMT"
+    },
+    {
+      "headline": "Recursive Language Models (RLMs): The Answer to Context Rot in Large Language Models",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/recursive-language-models-rlms-the-answer-to-context-rot-in-large-language-models-b5fb9d302cb4?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Apr 2026 10:47:46 GMT"
+    },
+    {
+      "headline": "The Screen Time Maximalists Who Spend an Ungodly Amount of Time on Their Phones",
+      "deck": "As debates over social media addiction rage, people with extreme screen times tell WIRED they have no plans to cut back.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/",
+      "pubDate": "Sun, 12 Apr 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Mammotion Spino E1 Review: A Budget Pool Bot That Comes Up Short",
+      "deck": "This compact pool robot keeps its price down, but its performance doesn’t match that of more capable cleaners.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/mammotion-spino-e1-pool-robot/",
+      "pubDate": "Sun, 12 Apr 2026 10:05:00 +0000"
+    },
+    {
+      "headline": "The 3 Best Mug Warmers of 2026: Better Than the Ember Mug?",
+      "deck": "The first rule of coffee is that it must stay hot. After weeks or even years of testing, these are the three coffee warmers that will best keep it that way.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-coffee-warmers-and-mug-warmers/",
+      "pubDate": "Sun, 12 Apr 2026 09:36:00 +0000"
+    },
+    {
+      "headline": "Rethinking design critique",
+      "deck": "Building design knowledge through a collaborative processContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/rethinking-design-critique-3d358a859304?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 11 Apr 2026 21:24:47 GMT"
+    },
+    {
+      "headline": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "deck": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "pubDate": "Sat, 11 Apr 2026 17:18:22 +0000"
+    },
+    {
+      "headline": "‘Crimson Desert’ Is a Cat Dad Simulator",
+      "deck": "Step into the shoes of the strongest, goodest boy in a game that is beautiful, baffling, and impossible to put down.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/",
+      "pubDate": "Sat, 11 Apr 2026 12:30:00 +0000"
+    },
+    {
+      "headline": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
+      "deck": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/zuvi-colorbox/",
+      "pubDate": "Sat, 11 Apr 2026 12:11:00 +0000"
+    },
     {
       "headline": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
       "deck": "After conducting long-term testing on both the MacBook Neo and MacBook Air, I have a good idea who should buy which laptop.",
@@ -57,86 +209,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/all-clad-factory-seconds-april-2026/",
       "pubDate": "Sat, 11 Apr 2026 09:04:00 +0000"
-    },
-    {
-      "headline": "Anthropic Wants to Run Your AI Agents For You — Here’s the Real Cost (It’s Not $0.08/hr)",
-      "deck": "Two days ago, Anthropic&#x2019;s announcement hit 2 million views in two hours. Within the same hour, a developer on HackerNews wrote what might&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropic-wants-to-run-your-ai-agents-for-you-heres-the-real-cost-it-s-not-0-08-hr-9becc54c6109?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:31:01 GMT"
-    },
-    {
-      "headline": "AI Stopped Asking for Instructions This Week",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-stopped-asking-for-instructions-this-week-0f7547ac6684?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:16:04 GMT"
-    },
-    {
-      "headline": "Claude Certified Architect Practice Exam: 60 Questions with Detailed Explanations",
-      "deck": "A full-length CCA practice exam covering all 5 domains and 6 scenarios, with explanations that teach you why every wrong answer is wrong.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-certified-architect-practice-exam-60-questions-with-detailed-explanations-3a4d2267603d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:15:13 GMT"
-    },
-    {
-      "headline": "OpenAI’s Harness Engineering Experiment: Zero Manually-Written Code",
-      "deck": "Based on OpenAI&#x2019;s &#x201C;Harness engineering: leveraging Codex in an agent-first world&#x201D; and Rohit&#x2019;s harness frameworkContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openais-harness-engineering-experiment-zero-manually-written-code-100a24ad04cf?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:14:28 GMT"
-    },
-    {
-      "headline": "Your Model Isn’t Smart; It’s Just Obese. The Obesity Epidemic in AI",
-      "deck": "We are paying for 390 billion parameters of &#x2018;dark matter&#x2019; that do nothing but generate heatContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-model-isnt-smart-it-s-just-obese-the-obesity-epidemic-in-ai-e956e22f1f66?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:13:27 GMT"
-    },
-    {
-      "headline": "Neural Networks for Language: How Context Became a Learned Transformation",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/before-rnns-early-neural-language-models-and-the-limits-of-fixed-windows-1c5b956b711d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:12:36 GMT"
-    },
-    {
-      "headline": "Deep Dive into Kafka Architecture: Understanding the Building Blocks and Design Principles",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-kafka-architecture-a-comprehensive-overview-07596de526b9?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:12:08 GMT"
-    },
-    {
-      "headline": "I Tried to Trick AI With Fake Contracts. Here’s What It Caught — And What It Missed.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tried-to-trick-ai-with-fake-contracts-heres-what-it-caught-and-what-it-missed-f0894d73c4d1?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:11:35 GMT"
-    },
-    {
-      "headline": "Why Feature Engineering Still Beats Fancy Models (Part 2)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-feature-engineering-still-beats-fancy-models-part-2-5b95064fe80c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:10:12 GMT"
-    },
-    {
-      "headline": "From Raw Data to Insights: A Practical Guide to EDA (Part 1)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-raw-data-to-insights-a-practical-guide-to-eda-part-1-b9bab1539c8b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Apr 2026 03:09:51 GMT"
     },
     {
       "headline": "Notes from the people building your future",
@@ -329,78 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
       "pubDate": "Fri, 10 Apr 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Irrigreen Smart Irrigation System 3.0 (2026) Review: Smart Watering, Less Hassle",
-      "deck": "The third release of Irrigreen’s “water printing” system is better than ever, but you’ll have to upgrade your whole irrigation infrastructure.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/",
-      "pubDate": "Fri, 10 Apr 2026 10:06:00 +0000"
-    },
-    {
-      "headline": "Constellations",
-      "deck": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.&",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "No One Knows Where US Vaccine Policy Goes Next",
-      "deck": "Robert F. Kennedy Jr.’s sweeping changes to federal vaccine guidance are paused for now. But even if they’re reversed, lasting damage has already been done.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/",
-      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Asus ROG Cetra Open Wireless Earbuds Review: Open Gaming Buds?",
-      "deck": "These wireless open earbuds are designed for mobile gamers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/asus-rog-cetra/",
-      "pubDate": "Fri, 10 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
-      "deck": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
-      "pubDate": "Fri, 10 Apr 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "How and When to Watch the Artemis II Mission’s Return to Earth",
-      "deck": "Splashdown for the Artemis II crew is scheduled for Friday evening, and NASA will livestream the historic homecoming.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/",
-      "pubDate": "Fri, 10 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Surfshark Promo Codes: 87% Off | April 2026",
-      "deck": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/surfshark-coupon/",
-      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Naturepedic Promo Codes and Deals: 20% Off",
-      "deck": "Shop the Naturepedic sale this April.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/naturepedic-promo-code/",
-      "pubDate": "Fri, 10 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "ChatGPT finally offers $100/month Pro plan",
-      "deck": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "pubDate": "Thu, 09 Apr 2026 21:29:11 +0000"
     }
   ]
 }
