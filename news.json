@@ -1,7 +1,199 @@
 {
-  "generated_at": "2026-04-18T12:00:03.257Z",
+  "generated_at": "2026-04-19T12:00:02.699Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
+      "deck": "Meta is unquestionably winning the face-wearable war. Can you trust the company? Maybe not. But these are some of the nicest glasses I've ever worn.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-meta-glasses/",
+      "pubDate": "Sun, 19 Apr 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Hisense U7SG TV Review (2026): Better Design, Great Value",
+      "deck": "Hisense’s midrange U7 TV gets some high-end upgrades, but the competition is only getting stiffer.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/hisense-u7sg/",
+      "pubDate": "Sun, 19 Apr 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The 11 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "deck": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-fans-2026/",
+      "pubDate": "Sun, 19 Apr 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Our Favorite Apple Watch Has Never Been Less Expensive",
+      "deck": "Our top Apple Watch recommendation fluctuates in price. If you're in the market, now's a good time to buy.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/apple-watch-series-11-deal-april-2026/",
+      "pubDate": "Sun, 19 Apr 2026 09:39:00 +0000"
+    },
+    {
+      "headline": "Rethinking the shape of design teams in an AI world",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/rethinking-the-shape-of-design-teams-in-an-ai-world-82f986bf9a27?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 19 Apr 2026 09:15:37 GMT"
+    },
+    {
+      "headline": "Becoming an AI-native designer",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 19 Apr 2026 09:15:15 GMT"
+    },
+    {
+      "headline": "The misrepresentation of “good taste” as a core design skill",
+      "deck": "&#x201C;Good taste&#x201D; might be one of the most misleading phrases in the world of UX design at the moment.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-misrepresentation-of-good-taste-as-a-core-design-skill-164c51751d4b?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 19 Apr 2026 09:14:04 GMT"
+    },
+    {
+      "headline": "Test smart: how to approach AI and stay sane?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/test-smart-how-to-approach-ai-and-stay-sane-30bb54478d14?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 19 Apr 2026 09:12:30 GMT"
+    },
+    {
+      "headline": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+      "deck": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "pubDate": "Sun, 19 Apr 2026 09:03:00 +0000"
+    },
+    {
+      "headline": "How Agentic RAG Cut My AI Costs by 66% (And Made It Actually Useful)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-agentic-rag-cut-my-ai-costs-by-66-and-made-it-actually-useful-e3413bf0d8f6?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 08:32:20 GMT"
+    },
+    {
+      "headline": "Synthetic data: the privacy-first secret weapon for enterprise ML",
+      "deck": "Anonymisation looks good on a compliance checklist. It fails in production. Here&#x2019;s why synthetic data is the only technique that satisfies&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/synthetic-data-the-privacy-first-secret-weapon-for-enterprise-ml-7a32c069e402?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 08:31:43 GMT"
+    },
+    {
+      "headline": "Every Attention Score You Have Ever Computed Is a Kernel Evaluation.",
+      "deck": "You have computed QK&#x1D40; ten thousand times.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/every-attention-score-you-have-ever-computed-is-a-kernel-evaluation-c17e79d70e9c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 07:19:57 GMT"
+    },
+    {
+      "headline": "The ML System Design Interview, With Numbers Flowing Through Every Stage (Part 1)",
+      "deck": "Most framework articles teach you the shape of the answer. This one walks one real problem &#x2014; Amazon product recommendations on search &#x2014;&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-ml-system-design-interview-with-numbers-flowing-through-every-stage-part-1-a77888339297?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 07:19:23 GMT"
+    },
+    {
+      "headline": "Building a Production-Ready RAG System with Incremental Indexing",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-a-production-ready-rag-system-with-incremental-indexing-ee42cfbfef7f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 07:19:02 GMT"
+    },
+    {
+      "headline": "How to Design Offline Eval Gates That Actually Catch Regressions Before Release",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-design-offline-eval-gates-that-actually-catch-regressions-before-release-ba3e15723319?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 06:54:01 GMT"
+    },
+    {
+      "headline": "Building an AI Agent That Runs My Twitter Account",
+      "deck": "Voice cloning, niche scouting, reply targeting, thread generation, and the approval layer before posting anything.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-an-ai-agent-that-runs-my-twitter-account-c8a3cca69ca8?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 06:52:23 GMT"
+    },
+    {
+      "headline": "I Tested Alibaba Qwen3.6–35B-A3B vs Google Gemma 4 26B A4B — The Smaller-Active Model Won Coding…",
+      "deck": "Five days ago, Alibaba&#x2019;s Qwen team quietly dropped a new open-weight MoE model called Qwen3.6&#x2013;35B-A3B&#x200A;&#x2014;&#x200A;35 billion total parameters, but&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-alibaba-qwen3-6-35b-a3b-30cc4658a382?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 06:51:07 GMT"
+    },
+    {
+      "headline": "Commitment Points in AI-Assisted Development",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/commitment-points-in-ai-assisted-development-d35f89e531d6?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 06:50:36 GMT"
+    },
+    {
+      "headline": "DeepAgents: The Open-Source Framework for Building Long-Horizon AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/deepagents-the-open-source-framework-for-building-long-horizon-ai-agents-b2b97a0332e3?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Apr 2026 06:47:46 GMT"
+    },
+    {
+      "headline": "Tesla brings its robotaxi service to Dallas and Houston",
+      "deck": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "pubDate": "Sat, 18 Apr 2026 21:37:15 +0000"
+    },
+    {
+      "headline": "AI chip startup Cerebras files for IPO",
+      "deck": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "pubDate": "Sat, 18 Apr 2026 19:19:11 +0000"
+    },
+    {
+      "headline": "Are we makers by nature — or consumers by design?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/are-we-makers-by-nature-or-consumers-by-design-0a63abb301f0?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 18 Apr 2026 16:16:02 GMT"
+    },
+    {
+      "headline": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "deck": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "pubDate": "Sat, 18 Apr 2026 14:56:48 +0000"
+    },
+    {
+      "headline": "The App Store is booming again, and AI may be why",
+      "deck": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "pubDate": "Sat, 18 Apr 2026 13:00:00 +0000"
+    },
     {
       "headline": "The Best Smart Home Accessories to Boost Your Curb Appeal (2026)",
       "deck": "These locks, lights, and other smart home upgrades let you add automation without messing up your home’s vibe.",
@@ -17,14 +209,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/how-to-clean-vinyl-records/",
       "pubDate": "Sat, 18 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
-      "deck": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
-      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000"
     },
     {
       "headline": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
@@ -43,6 +227,14 @@
       "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000"
     },
     {
+      "headline": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
+      "deck": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
+      "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000"
+    },
+    {
       "headline": "Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay",
       "deck": "Don’t just load up an Amazon cart! Here are the better ways to find your favorite vinyl records online.",
       "source": "Wired",
@@ -51,92 +243,12 @@
       "pubDate": "Sat, 18 Apr 2026 10:30:00 +0000"
     },
     {
-      "headline": "Using Salesforce Agentforce for Enterprise Solutioning, Case Intake, and Assignment",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/using-salesforce-agentforce-for-enterprise-solutioning-case-intake-and-assignment-27d9ef9323f4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:55:38 GMT"
-    },
-    {
       "headline": "The Best Movies to Stream This Month (April 2026)",
       "deck": "28 Years Later: The Bone Temple, Crime 101, and Deathstalker are among the films deserving of your eyeballs this month",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/the-best-movies-to-stream-right-now/",
       "pubDate": "Sat, 18 Apr 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "I Built 6 MCP Servers.",
-      "deck": "A complete build guide with working code, the mathematics nobody explains, and the exact failure modes that will waste your weekend.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-built-6-mcp-servers-6bdcc2c044ee?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:19:52 GMT"
-    },
-    {
-      "headline": "The Data Engineering",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-data-engineering-how-modern-data-infrastructure-is-powering-the-ai-revolution-279d1af04635?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:16:50 GMT"
-    },
-    {
-      "headline": "GPT-5.4: OpenAI’s Most Ambitious Model Yet — And Where It Still Falls Short",
-      "deck": "The AI That Can Control Your Computer &#x2014; and Still Can&#x2019;t Beat Claude at CodingContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gpt-5-4-openais-most-ambitious-model-yet-and-where-it-still-falls-short-c13930963e27?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:16:19 GMT"
-    },
-    {
-      "headline": "Running Gemma 4 31B on GCP for $2.80/Hour",
-      "deck": "The most capable open model fits on cheaper hardware than you thinkContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/running-gemma-4-31b-on-gcp-for-2-80-hour-f7b3746f15a5?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:14:46 GMT"
-    },
-    {
-      "headline": "Predictable Chaos: A Survival Guide for Modern Software Teams",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/predictable-chaos-a-survival-guide-for-modern-software-teams-76bd973ee58e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:14:27 GMT"
-    },
-    {
-      "headline": "Sam Altman’s Greatest Heist was Rebranding 300 Years of “Useless” Math as a Miracle You’re Now…",
-      "deck": "Verhulst (1838). Taylor (1715). Bayes (1763). Cauchy (1847). Four dead mathematicians wrote the architecture of ChatGPT.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/sam-altmans-greatest-heist-was-rebranding-300-years-of-useless-math-as-a-miracle-you-re-now-07fc44f6dd8b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:10:09 GMT"
-    },
-    {
-      "headline": "OpenAI Just Shipped 3 Specialized Models in 72 Hours",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openai-just-shipped-3-specialized-models-in-72-hours-24c8d622ef00?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:06:45 GMT"
-    },
-    {
-      "headline": "8 LLM Cost Optimization Techniques: How to Cut API Spend by Up to 70% (Visually Explained)",
-      "deck": "Why LLMs burn money faster than you expect, how modern AI apps make it worse, and 8 practical techniques to stop the bleeding, starting&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/8-llm-cost-optimization-techniques-how-to-cut-api-spend-by-up-to-70-visually-explained-edf7339d0c9a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:06:26 GMT"
-    },
-    {
-      "headline": "How to Integrate an LLM in a VS Code Extension? (Beginner Friendly Guide with Code)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-integrate-an-llm-in-a-vs-code-extension-beginner-friendly-guide-with-code-17515ec03afd?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Apr 2026 09:05:55 GMT"
     },
     {
       "headline": "The ‘Lonely Runner’ Problem Only Appears Simple",
@@ -260,7 +372,7 @@
     },
     {
       "headline": "AI Drafting My Stories? Over My Dead Body",
-      "deck": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+      "deck": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
@@ -289,118 +401,6 @@
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
       "pubDate": "Fri, 17 Apr 2026 14:07:41 +0000"
-    },
-    {
-      "headline": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
-      "deck": "A post-midnight revolt in the House sank the White House's efforts to extend Section 702—a spy program the FBI has used to look into members of Congress, protesters, and political donors.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
-      "pubDate": "Fri, 17 Apr 2026 14:07:02 +0000"
-    },
-    {
-      "headline": "MAGA Is Increasingly Convinced the Trump Assassination Attempt Was Staged",
-      "deck": "Conspiracy theories about the Butler, Pennsylvania, shooting have ramped up in recent weeks as once steadfast Trump supporters turn on the president.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/maga-is-increasingly-convinced-the-trump-assassination-attempt-was-staged/",
-      "pubDate": "Fri, 17 Apr 2026 13:19:40 +0000"
-    },
-    {
-      "headline": "Are we tokenmaxxing our way to nowhere?",
-      "deck": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "Coolfly Aura Review: More Angles, Fewer Advantages",
-      "deck": "Coolfly’s Aura is colorful, clever, and flexible, but its signature feature ends up being more hassle than help.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/coolfly-aura-smart-bird-feeder/",
-      "pubDate": "Fri, 17 Apr 2026 12:30:00 +0000"
-    },
-    {
-      "headline": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory tha",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "pubDate": "Fri, 17 Apr 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
-      "deck": "These are our favorite portable speakers of all shapes and sizes, from clip-ons to a massive boom box.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-bluetooth-speakers/",
-      "pubDate": "Fri, 17 Apr 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "The Best MagSafe Accessories (for Android, Too!): Chargers, Wallets, and More",
-      "deck": "MagSafe accessories make your phone feel uniquely yours. These are our favorites, including Android-friendly Qi2 picks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-magsafe-accessories/",
-      "pubDate": "Fri, 17 Apr 2026 11:33:00 +0000"
-    },
-    {
-      "headline": "How Can Astronauts Tell How Fast They’re Going?",
-      "deck": "Weirdly, spaceships have no direct way to gauge their own speed. Luckily, we can use some physics tricks to figure it out.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/",
-      "pubDate": "Fri, 17 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K",
-      "deck": "The Spectral:ON CF 8 is a do-it-all, full-carbon electric mountain bike with an 800-Wh battery and under $4,500. Yes, please!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/canyon-spectralon-cf-8/",
-      "pubDate": "Fri, 17 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Influencers Normalizing Not Having Sex",
-      "deck": "From a celibate porn star to an asexual ex-Mormon, the internet is full of people who are abstaining from sex—and it’s not just incels.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-influencers-normalizing-not-having-sex/",
-      "pubDate": "Fri, 17 Apr 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The case for fixing everything",
-      "deck": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenan",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "How robots learn: A brief, contemporary history",
-      "deck": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end u",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Nothing Phone (4a) Pro Review: A Close Second",
-      "deck": "It's no Pixel 10a, but the Nothing Phone (4a) Pro is a close second if you're after a midrange phone in the US.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/nothing-phone-4a-pro/",
-      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
-      "deck": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
-      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000"
     }
   ]
 }
