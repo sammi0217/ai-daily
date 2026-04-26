@@ -1,7 +1,199 @@
 {
-  "generated_at": "2026-04-25T12:00:02.032Z",
+  "generated_at": "2026-04-26T12:00:04.603Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The Best Kindle Accessories (2026): Cases, Page Turners, Stickers",
+      "deck": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and even charms, this is the guide for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-kindle-accessories/",
+      "pubDate": "Sun, 26 Apr 2026 11:34:00 +0000"
+    },
+    {
+      "headline": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "deck": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "pubDate": "Sun, 26 Apr 2026 11:04:00 +0000"
+    },
+    {
+      "headline": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
+      "deck": "Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "pubDate": "Sun, 26 Apr 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "Vibe Coding Myths Debunked",
+      "deck": "Vibe coding is an approach for generating functional products by providing natural language prompts to AI tools rather than writing code&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/vibe-coding-myths-debunked-e0ad58e47e6a?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 26 Apr 2026 10:16:54 GMT"
+    },
+    {
+      "headline": "Ikea's New Blow-Up Chair Was Tested by Cats",
+      "deck": "Part of the new PS 2026 collection, it's taken the Swedish company 26 years to finally nail inflatable furniture.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/",
+      "pubDate": "Sun, 26 Apr 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Della Optima TP Series Mini-Split AC Review: Cheap, Smart, and (Mostly) Reliable",
+      "deck": "Ductless AC systems get smart tech features—and the growing pains that come with them.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/della-optima-tp-series-mini-split-air-conditioner/",
+      "pubDate": "Sun, 26 Apr 2026 09:38:00 +0000"
+    },
+    {
+      "headline": "What Type of Mattress Is Right for You? (2026)",
+      "deck": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/mattress-types-explained/",
+      "pubDate": "Sun, 26 Apr 2026 09:14:00 +0000"
+    },
+    {
+      "headline": "California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner",
+      "deck": "The 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, high-profile media figures, and US government officials.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
+      "pubDate": "Sun, 26 Apr 2026 03:26:42 +0000"
+    },
+    {
+      "headline": "Why FDE is the Fastest-Growing Job in AI Enterprise Software",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-fde-is-the-fastest-growing-job-in-ai-enterprise-software-a05d1dcd2ed9?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Apr 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Agent Harnessing: The Non-Model Infrastructure That Makes AI Agents Actually Work",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agent-harnessing-the-non-model-infrastructure-that-makes-ai-agents-actually-work-48c7330074d1?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "I Wasted 6 Months Using Claude Code Wrong. Here Are the 14 Commands That Changed Everything.",
+      "deck": "From frustrated beginner to power user: The hidden command ecosystem nobody talks about.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-wasted-6-months-using-claude-code-wrong-here-are-the-14-commands-that-changed-everything-b892b8f07915?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "deck": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "pubDate": "Sat, 25 Apr 2026 21:43:37 +0000"
+    },
+    {
+      "headline": "Your AI Agent Backend Will Break in Production",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-ai-agent-backend-will-break-in-production-aa23706291ca?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "Maine&#8217;s governor vetoes data center moratorium",
+      "deck": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "pubDate": "Sat, 25 Apr 2026 20:57:08 +0000"
+    },
+    {
+      "headline": "You’ve Been Using Z-Scores. But Do You Actually Know What They’re Saying?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/youve-been-using-z-scores-but-do-you-actually-know-what-they-re-saying-83096b66db52?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "AI Just Found a 27-Year-Old Bug in One of the World’s Most Secure Operating Systems.",
+      "deck": "Project Glasswing is not just a news story. It&#x2019;s a warning &#x2014; and a once-in-a-decade structural shift in how software security actually&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-just-found-a-27-year-old-bug-in-one-of-the-worlds-most-secure-operating-systems-b489bea53390?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 19:01:01 GMT"
+    },
+    {
+      "headline": "Hybrid Search for RAG: BM25 + Vectors (When Each Wins)",
+      "deck": "How to choose between lexical and semantic retrieval, when each one fails, and why real RAG systems usually need both.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/hybrid-search-for-rag-bm25-vectors-when-each-wins-402f24abaeea?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "deck": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "pubDate": "Sat, 25 Apr 2026 17:17:56 +0000"
+    },
+    {
+      "headline": "From Chaos to Causality: Debugging Multi-Agent Systems",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-chaos-to-causality-debugging-multi-agent-systems-6e3946fba395?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 17:01:02 GMT"
+    },
+    {
+      "headline": "Top 20 K-Nearest Neighbors (KNN) Interview Questions and Answer (Part 1 of 2)",
+      "deck": "Machine Learning Interview Preparation Part 34Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/top-20-k-nearest-neighbors-knn-interview-questions-and-answer-part-1-of-2-b85a4fbe355f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 16:01:01 GMT"
+    },
+    {
+      "headline": "Why Cohere is merging with Aleph Alpha",
+      "deck": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterpri",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "pubDate": "Sat, 25 Apr 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "Why Tokyo is the most important tech destination of 2026",
+      "deck": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "pubDate": "Sat, 25 Apr 2026 15:03:00 +0000"
+    },
+    {
+      "headline": "Understanding LangChain Deep Agents as a Kitchen",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/understanding-langchain-deep-agents-as-a-kitchen-bf1d1f7857f5?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 25 Apr 2026 15:01:01 GMT"
+    },
+    {
+      "headline": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "deck": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "pubDate": "Sat, 25 Apr 2026 15:00:00 +0000"
+    },
     {
       "headline": "Best Apps for Focus (2026): Focus Friend, Forest, Focus Traveller",
       "deck": "Distractions? What distractions? Here are our recommendations for apps that help you stay focused on the task at hand.",
@@ -49,86 +241,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/altra-promo-code/",
       "pubDate": "Sat, 25 Apr 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "I Got Tired of Being a Human Format Converter Between My AI Agent and My Stakeholders",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-got-tired-of-being-a-human-format-converter-between-my-ai-agent-and-my-stakeholders-f76d51a8f21d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:57:29 GMT"
-    },
-    {
-      "headline": "Google Just Turned Gmail, Docs, and Sheets Into AI Agents.",
-      "deck": "Google Cloud Next 2026 wasn&#x2019;t a conference. It was a declaration of war on every SaaS tool you pay for. Workspace Studio, the new agent&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/google-just-turned-gmail-docs-and-sheets-into-ai-agents-78e662b2c4d2?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:57:15 GMT"
-    },
-    {
-      "headline": "Stop Being Scared of Git: A Practical Guide to GitHub, Commits, Branches, and Version Control",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/stop-being-scared-of-git-a-practical-guide-to-github-commits-branches-and-version-control-f0450ab4210b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:56:04 GMT"
-    },
-    {
-      "headline": "Inside the ADLC: How an AI-Native Development Lifecycle Works",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/inside-the-adlc-how-an-ai-native-development-lifecycle-works-8ccd1a52e8ba?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:55:47 GMT"
-    },
-    {
-      "headline": "Inside Claude Code — Part 1",
-      "deck": "Five values, one loop, and a thin coreContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/inside-claude-code-part-1-decef9b3737d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:55:33 GMT"
-    },
-    {
-      "headline": "One Agent, Many Agents, or Something In Between? A Decision Framework for Agent Architecture",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/one-agent-many-agents-or-something-in-between-a-decision-framework-for-agent-architecture-8acfaa4a1617?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:55:19 GMT"
-    },
-    {
-      "headline": "Choosing Your Agent Harness: An Architectural Comparison of Claude Managed Agents, LangChain Deep…",
-      "deck": "Claude Managed Agents vs. LangChain Deep Agents vs. OpenAI Agents SDK to guide your AI agent harness decision.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/choosing-your-agent-harness-an-architectural-comparison-of-claude-managed-agents-langchain-deep-a0762804ec07?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:55:04 GMT"
-    },
-    {
-      "headline": "Training a Tokenizer That Actually Speaks Italian",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/training-a-tokenizer-that-actually-speaks-italian-4084919224db?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:54:47 GMT"
-    },
-    {
-      "headline": "Claude Shannon Died in 2001.",
-      "deck": "In 1948, Claude Shannon was trying to solve a telephone problem.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-shannon-died-in-2001-0f4b31e9f96c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:54:17 GMT"
-    },
-    {
-      "headline": "I Tested All 4 DeepSeek V4 Modes on 20 Real Tasks — The $0.04 Flash Won 7 of Them",
-      "deck": "The 10% KV cache trick nobody saw coming. And why Pro-Max burned 4.3x more tokens for a 2-point gain.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tested-all-4-deepseek-v4-modes-on-20-real-tasks-the-0-04-flash-won-7-of-them-0ef0fb5c1771?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Apr 2026 01:53:59 GMT"
     },
     {
       "headline": "The rulebook for designing AI experiences",
@@ -289,118 +401,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/gpt-5-5-vs-opus-4-7-which-ai-model-is-best-for-product-design-23752483196a?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 24 Apr 2026 12:20:28 GMT"
-    },
-    {
-      "headline": "The Download: supercharged scams and studying AI healthcare",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in lat",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "pubDate": "Fri, 24 Apr 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Dyson PencilVac Review (2026): Limited but Handy",
-      "deck": "Dyson’s newest stick vacuum has a fresh, streamlined look and some limitations. But I still keep reaching for it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/dyson-pencilvac-review/",
-      "pubDate": "Fri, 24 Apr 2026 12:01:00 +0000"
-    },
-    {
-      "headline": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "deck": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "pubDate": "Fri, 24 Apr 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "The Best Cordless Vacuums for Your Whole House (2026)",
-      "deck": "Clean your house without the constraint of a power cord with these cordless stick vacuums.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/the-best-cordless-vacuum/",
-      "pubDate": "Fri, 24 Apr 2026 11:34:00 +0000"
-    },
-    {
-      "headline": "VMax New V4 Electric Scooter Review: Unleash the Beast",
-      "deck": "VMax's new electric scooter has a secret menu that lets you unlock the top speed and engage cruise control.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/vmax-new-vx4-electric-scooter/",
-      "pubDate": "Fri, 24 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "They Wanted to Join Raya. They’ve Been on the Waiting List for Years",
-      "deck": "Getting into Raya, the exclusive members-only dating app, has become nearly impossible for some. We met people who have waited as long as two, five, and even seven years to join.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/raya-waitlist-years/",
-      "pubDate": "Fri, 24 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Best Merino Wool T-Shirts (2026): Ibex, Icebreaker, Unbound Merino",
-      "deck": "These merino wool tees are the last shirts you’ll ever wear. I’m wearing one right now.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-merino-wool-t-shirts/",
-      "pubDate": "Fri, 24 Apr 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The FTC Is Ramping Up to Target Transgender Rights",
-      "deck": "A series of new hires and investigations at the agency appear to focus on penalizing gender-affirming care for minors—and those who speak in favor of it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-federal-agency-coming-for-gender-affirming-care/",
-      "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "These AI Thirst Trap Creators Say They’re Misunderstood",
-      "deck": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
-      "pubDate": "Fri, 24 Apr 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "deck": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging peopl",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-      "deck": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-      "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "The WIRED Gear Team’s Tips on Ways to Save Money",
-      "deck": "We pooled advice from our team—and a few financial experts—so you can worry less and save more in these turbulent times.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/",
-      "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "6 Proven Tips to Find Cheaper Airfare",
-      "deck": "It’s an expensive time to fly. These tips can help lighten the load on your wallet.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/airfare-keeps-going-up-here-are-some-tricks-to-finding-cheaper-tickets/",
-      "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Designing with AI without losing your mind",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 23 Apr 2026 21:59:20 GMT"
     }
   ]
 }
