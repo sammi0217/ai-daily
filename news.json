@@ -1,7 +1,399 @@
 {
-  "generated_at": "2026-05-01T12:00:02.225Z",
+  "generated_at": "2026-05-02T12:00:03.788Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "deck": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "pubDate": "Sat, 02 May 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "8 Best Travel Adapters (2026), Tested and Reviewed",
+      "deck": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Disneyland Now Uses Face Recognition on Visitors",
+      "deck": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Apple AirPods Max 2 Review: The Best Over-Ears for iOS",
+      "deck": "If you're an iPhone user, the Apple AirPods Max 2 are still the best over-ear headphones you can buy.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/apple-airpods-max-2/",
+      "pubDate": "Sat, 02 May 2026 10:14:00 +0000"
+    },
+    {
+      "headline": "Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker",
+      "deck": "The owl-shaped Ottocast Cabin Care adapter turns your vehicle's CarPlay screen into a back seat camera.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/",
+      "pubDate": "Sat, 02 May 2026 10:08:00 +0000"
+    },
+    {
+      "headline": "A Professional Bike Fitting Will Make You Want to Ride Even More",
+      "deck": "Getting an assessment and suggestions from a pro puts you in the right position and gets you as comfortable as can be. If you ride a lot, it's worth the investment.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/professional-bike-fitting-benefits/",
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "How to Buy a Bike That’s the Right Size for You",
+      "deck": "Shopping for a bike that fits your body and suits your needs typically involves a lot of trial and error. Here’s our advice on how to make the process—and your ride—as painless as possible.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-buy-a-bike-thats-the-right-size-for-you/",
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "deck": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-gifts-for-bird-lovers/",
+      "pubDate": "Sat, 02 May 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The Mother's Day Gifts Our Editors Love (2026)",
+      "deck": "From smart rings and everlasting flowers to weighted vests and LED masks, there's a gift for every kind of mom.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-mothers-day-gifts-2026/",
+      "pubDate": "Sat, 02 May 2026 09:10:00 +0000"
+    },
+    {
+      "headline": "Why Does Wikipedia Think I’m Evan Spiegel?",
+      "deck": "For the past week, a photo of me has been plastered on the CEO of Snap’s Wikipedia page. No one, not even Spiegel, seems to care.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-does-wikipedia-think-im-evan-spiegel/",
+      "pubDate": "Sat, 02 May 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "LinkedIn Just Quietly Solved Open-Source ML Infra’s Real Bottleneck — And Almost Nobody Noticed",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/linkedin-just-quietly-solved-open-source-ml-infras-real-bottleneck-and-almost-nobody-noticed-89cf9233320c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:56:30 GMT"
+    },
+    {
+      "headline": "I Tested Grok 4.3 on 18 Long-Horizon Agent Tasks — The 10× Cheaper xAI Model Embarrassed Opus 4.7",
+      "deck": "xAI flipped the switch on the Grok 4.3 API on April 30, 2026. No livestream. No model card. No press release. Just a quiet pricing-page&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-grok-4-3-on-18-long-horizon-agent-tasks-the-10-cheaper-xai-model-embarrassed-opus-4-7-6dd9de45ecbc?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:56:16 GMT"
+    },
+    {
+      "headline": "Designing Robust AI Agent Tooling: Handling Semantic Variations Between User Language and Backend…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/designing-robust-ai-agent-tooling-handling-semantic-variations-between-user-language-and-backend-a3a7c58bcbe8?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:55:44 GMT"
+    },
+    {
+      "headline": "Designing High-Reliability AI Systems",
+      "deck": "Most AI systems fail not because the model is wrong but because nobody designed the system to be rightContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/designing-high-reliability-ai-systems-0f2bca781474?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:53:49 GMT"
+    },
+    {
+      "headline": "I Built a Failure-Mode Test For OpenAI Privacy Filter. The Model Card Was Right.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-a-failure-mode-test-for-openai-privacy-filter-the-model-card-was-right-a9376e58c6ce?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:53:31 GMT"
+    },
+    {
+      "headline": "The Embedding System, With One Search Query Tracked Through Every Layer (Part 6)",
+      "deck": "Part 5 &#x2014;&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-embedding-system-with-one-search-query-tracked-through-every-layer-part-6-51c5bcc6618c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:51:59 GMT"
+    },
+    {
+      "headline": "K-Nearest Neighbors, From Iris Flowers to Reverse Image Search",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/knn-distance-metrics-choosing-k-modern-ai-explained-4d3a1edb52f7?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:51:14 GMT"
+    },
+    {
+      "headline": "I Tested Cursor's New SDK on 18 Tasks — Composer 2 Retrains Every 5 Hours and It's Cheating",
+      "deck": "The Composer 2 model that answered my last agent.send() call this morning is not the same model that answered my call last night. Same&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-cursors-new-sdk-on-18-tasks-composer-2-retrains-every-5-hours-and-it-s-cheating-aa6e857ae478?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:49:08 GMT"
+    },
+    {
+      "headline": "The Agentic Sandbox: Why Your LLM Needs a Python Interpreter",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-agentic-sandbox-why-your-llm-needs-a-python-interpreter-e7fdb5c5b565?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:48:58 GMT"
+    },
+    {
+      "headline": "Claude Code vs Codex CLI vs Gemini CLI vs OpenCode: The Real Differences After Convergence",
+      "deck": "Converging AI Coding CLIs: Shared primitives, divergent strengths, and the future of multi&#x2011;agent workflows.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-vs-codex-cli-vs-gemini-cli-vs-opencode-the-real-differences-after-convergence-fe71401f3f8e?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 02 May 2026 05:48:06 GMT"
+    },
+    {
+      "headline": "Therabody Promo Codes: 15% Off May 2026",
+      "deck": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/therabody-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "30% Off Canon Promo Codes | May 2026",
+      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Surfshark Promo Codes: 87% Off | May 2026",
+      "deck": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "20% Off Brooks Promo Code & Deals for | May 2026",
+      "deck": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Columbia Promo Codes: 15% Off | May2026",
+      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Newegg Promo Code: 10% Off in May 2026",
+      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "30% VistaPrint Coupon & Promo Codes | May 2026",
+      "deck": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
+      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+      "deck": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival C",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "pubDate": "Fri, 01 May 2026 23:06:50 +0000"
+    },
+    {
+      "headline": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
+      "deck": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/",
+      "pubDate": "Fri, 01 May 2026 22:25:42 +0000"
+    },
+    {
+      "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "deck": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "pubDate": "Fri, 01 May 2026 22:13:27 +0000"
+    },
+    {
+      "headline": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "deck": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "pubDate": "Fri, 01 May 2026 22:08:19 +0000"
+    },
+    {
+      "headline": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+      "deck": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+      "pubDate": "Fri, 01 May 2026 21:46:46 +0000"
+    },
+    {
+      "headline": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
+      "deck": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
+      "pubDate": "Fri, 01 May 2026 20:30:00 +0000"
+    },
+    {
+      "headline": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "deck": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "pubDate": "Fri, 01 May 2026 20:25:28 +0000"
+    },
+    {
+      "headline": "This Eye-Catching Indoor Garden Is 20 Percent Off Right Now",
+      "deck": "Lettuce Grow’s Farmstand is sure to impress, and it’s 20 percent off for Mother’s Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/",
+      "pubDate": "Fri, 01 May 2026 19:05:53 +0000"
+    },
+    {
+      "headline": "The Next Alzheimer’s Breakthrough Will Take More Than Just Science",
+      "deck": "At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes—and next steps—of where treatment is headed next.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/john-hardy-dementia-wired-health/",
+      "pubDate": "Fri, 01 May 2026 18:55:56 +0000"
+    },
+    {
+      "headline": "Did you know you can&#8217;t steal a charity? Don&#8217;t worry. Elon Musk will remind you.",
+      "deck": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are pl",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "pubDate": "Fri, 01 May 2026 17:44:29 +0000"
+    },
+    {
+      "headline": "Selection Criteria: How to Pick Your Participants",
+      "deck": "Rigorous selection criteria protect study validity. Learn how to define inclusion, exclusion, and diversity criteria to avoid costly misrecruits.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/selection-criteria/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 01 May 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Information Seeking in China: A Different Ecosystem, Familiar Behavior",
+      "deck": "Information seeking in China is driven by mobile social-media apps. But how users prompt and engage with genAI mirrors what we've seen in the West.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/information-seeking-china/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 01 May 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled",
+      "deck": "Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
+      "pubDate": "Fri, 01 May 2026 16:49:22 +0000"
+    },
+    {
+      "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "deck": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "pubDate": "Fri, 01 May 2026 16:02:36 +0000"
+    },
+    {
+      "headline": "Cyber-Insecurity in the AI Era",
+      "deck": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Tech",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "pubDate": "Fri, 01 May 2026 15:54:01 +0000"
+    },
+    {
+      "headline": "Operationalizing AI for Scale and Sovereignty",
+      "deck": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "pubDate": "Fri, 01 May 2026 15:31:09 +0000"
+    },
+    {
+      "headline": "You Found Satoshi? Let’s See the Receipts",
+      "deck": "Two new projects, including one from a Pulitzer-winning reporter, claim they’ve solved the mystery of Bitcoin’s creator. So why does the hunt continue?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/",
+      "pubDate": "Fri, 01 May 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Claude Design: Good, Bad, and Ugly",
+      "deck": "It&#x2019;s been a couple of weeks since Anthropic released its new tool: Claude Design. The tool created a lot of buzz in the design space. Some&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-design-good-bad-and-ugly-f60d9edb4a6d?source=rss----819cc2aaeee0---4",
+      "pubDate": "Fri, 01 May 2026 14:33:14 GMT"
+    },
+    {
+      "headline": "Job Opening: UX Design Assistant (Remote, World-Wide; Europe Based)",
+      "deck": "We’re looking for a talented UX design assistant to join the team. Applications due May 18, 2026.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-europe-1/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 01 May 2026 14:08:17 +0000"
+    },
+    {
+      "headline": "Musk v. Altman is just getting started",
+      "deck": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are s",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "pubDate": "Fri, 01 May 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "The Download: a new Christian phone network, and debugging LLMs",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-re",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "pubDate": "Fri, 01 May 2026 12:10:00 +0000"
+    },
     {
       "headline": "Usability, accessibility, and the human-AI paradigm",
       "deck": "",
@@ -9,398 +401,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 01 May 2026 11:19:38 GMT"
-    },
-    {
-      "headline": "Thoughtful AI Implementation for UXR Leaders",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 01 May 2026 11:19:22 GMT"
-    },
-    {
-      "headline": "What Chef Jon Kung Swears By in the Kitchen (2026)",
-      "deck": "Plus, their definitive takes on sharpening knives and washing rice.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/jon-kung-starter-pack/",
-      "pubDate": "Fri, 01 May 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Do You Need Aluminum Luggage? (2026): Rimowa, Away, Carl Friedrik",
-      "deck": "All-metal carry-ons give you the turn-left-on-a-plane look, but are they really worth the cost of a vacation?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/do-you-need-aluminum-luggage/",
-      "pubDate": "Fri, 01 May 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing",
-      "deck": "This all-in-one indoor-outdoor projector from Anker is compact, affordable, and water-resistant—but not cinema quality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/soundcore-nebula-p1/",
-      "pubDate": "Fri, 01 May 2026 10:03:00 +0000"
-    },
-    {
-      "headline": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "deck": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific s",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
-      "deck": "Osteoarthritis has no cure, but researchers have developed new therapies that help aging or damaged joints repair themselves in a matter of weeks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/",
-      "pubDate": "Fri, 01 May 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Trump&#8217;s mass firing just dealt another blow to American science",
-      "deck": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The founda",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "pubDate": "Fri, 01 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "A new US phone network for Christians aims to block porn and gender-related content",
-      "deck": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such conte",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-      "pubDate": "Fri, 01 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
-      "deck": "YouTube’s search and recommendation algorithms are driving children to Russian-language content even when they seek out videos in Kyrgyz, creating a cultural shift that concerns some parents.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
-      "pubDate": "Fri, 01 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Designing Stable Interfaces For Streaming Content",
-      "deck": "Streaming UIs are an easy concept on the surface, but are quite complicated in practice. There are many considerations that need to be accounted for, from layout shifts and motion preferences to proper markup and various",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-      "pubDate": "Fri, 01 May 2026 08:00:00 GMT"
-    },
-    {
-      "headline": "Managed vs Direct Vector Search in Databricks: The Hidden Normalization That Changes Everything",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/managed-vs-direct-vector-search-in-databricks-the-hidden-normalization-that-changes-everything-13833b86bdb4?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:41:39 GMT"
-    },
-    {
-      "headline": "The Complete Developer’s Guide to Claude Code in VS Code: From Zero to Autonomous AI Dev Workflows",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-complete-developers-guide-to-claude-code-in-vs-code-from-zero-to-autonomous-ai-dev-workflows-292c4bd3d1e0?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:40:33 GMT"
-    },
-    {
-      "headline": "️ PostgreSQL + pgvector and SQL Server 2025 as Vector Stores for RAG — A Practitioner’s Guide",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/%EF%B8%8F-postgresql-pgvector-and-sql-server-2025-as-vector-stores-for-rag-a-practitioners-guide-283891452667?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:40:19 GMT"
-    },
-    {
-      "headline": "I Pointed OpenAI's Symphony at 20 Linear Issues — The 15K-Star Orchestrator Killed My Standup",
-      "deck": "A 4-day experiment with OpenAI&#x2019;s brand-new open-source spec that turns your Linear board into a Codex command center.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-pointed-openais-symphony-at-20-linear-issues-the-15k-star-orchestrator-killed-my-standup-27e19cf85233?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:40:05 GMT"
-    },
-    {
-      "headline": "I Built a Production-Grade AI Agent Inside Snowflake — Here’s Every Line That Makes It Real",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-built-a-production-grade-ai-agent-inside-snowflake-heres-every-line-that-makes-it-real-cc4680f1a237?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:39:53 GMT"
-    },
-    {
-      "headline": "The Monitoring Pipeline, With One Prediction Tracked Across 30 Days of Silence (Part 5)",
-      "deck": "Part 4 &#x2014; https://medium.com/@mittalutkarsh/the-training-pipeline-with-one-row-flowing-through-every-stage-part4-2797aa2e6c2dContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-monitoring-pipeline-with-one-prediction-tracked-across-30-days-of-silence-part-5-5e2ef96c4862?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:39:41 GMT"
-    },
-    {
-      "headline": "I Tried Using Deep Learning To Optimize Python’s Garbage Collection",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tried-using-deep-learning-to-optimize-pythons-garbage-collection-part-1-2-71fb9832e560?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:39:07 GMT"
-    },
-    {
-      "headline": "I Tested Mistral Medium 3.5 on 18 Tasks — The 128B Just Killed Magistral and Devstral",
-      "deck": "One set of weights now does the job of two specialized models. I ran 18 coding tasks to see if the merged-model gamble actually works.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tested-mistral-medium-3-5-on-18-tasks-the-128b-just-killed-magistral-and-devstral-647da623f41b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:38:38 GMT"
-    },
-    {
-      "headline": "Anthropic Found 171 Emotions Inside Claude.",
-      "deck": "I want to start with the experiment that made me put the paper down and stare at the ceiling for a while.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropic-found-171-emotions-inside-claude-6625bc3e8f09?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:38:20 GMT"
-    },
-    {
-      "headline": "Harness Engineering: How Interface Design Quietly Tripled AI Coding Performance — SWE",
-      "deck": "The SWE-Agent Paper and the Birth of the Agent-Computer Interface: How a Princeton research team more than tripled AI coding benchmark&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/harness-engineering-how-interface-design-quietly-tripled-ai-coding-performance-swe-8f08e80eba9b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 01 May 2026 05:38:09 GMT"
-    },
-    {
-      "headline": "50% Off Home Depot Promo Codes | May 2026",
-      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chewy Promo Codes: $20 Off May 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "10% Dell Coupon Codes | May 2026",
-      "deck": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "50% Off DoorDash Promo Code | May 2026",
-      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Top Peacock Promo Codes: 40% Off May 2026",
-      "deck": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Top Google Workspace Promo Codes for May",
-      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Booking.com Promo Codes: Up to 20% Off",
-      "deck": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "NordVPN Coupons and Deals: 77% Off in May 2026",
-      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Top Paramount+ Coupon Codes and Deals for May 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Samsung Promo Code | May 2026",
-      "deck": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Dyson Promo Codes: 25% Off in May 2026",
-      "deck": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Verizon Promo Codes: $200 Verizon Gift Cards | May 2026",
-      "deck": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "pubDate": "Fri, 01 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-      "deck": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.26999",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Binary Spiking Neural Networks as Causal Models",
-      "deck": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary c",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27007",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
-      "deck": "arXiv:2604.27082v1 Announce Type: new Abstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key cont",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27082",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "End-to-end autonomous scientific discovery on a real optical platform",
-      "deck": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as eviden",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27092",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-      "deck": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-lang",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27096",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
-      "deck": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wirelin",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27126",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "TRUST: A Framework for Decentralized AI Service v.0.1",
-      "deck": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Rob",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27132",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-      "deck": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27134",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
-      "deck": "arXiv:2604.27150v1 Announce Type: new Abstract: Autonomous crypto trading systems often spend most of their design effort on finding entries, while exits are left to fixed rules that are rarely tested in a systematic way",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27150",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Step-level Optimization for Efficient Computer-use Agents",
-      "deck": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relyi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2604.27151",
-      "pubDate": "Fri, 01 May 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "deck": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "pubDate": "Fri, 01 May 2026 02:00:00 +0000"
-    },
-    {
-      "headline": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "deck": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "pubDate": "Thu, 30 Apr 2026 23:07:56 +0000"
-    },
-    {
-      "headline": "Apple was surprised by AI-driven demand for Macs",
-      "deck": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-      "pubDate": "Thu, 30 Apr 2026 22:12:52 +0000"
-    },
-    {
-      "headline": "A GenAI perplexed by color theory",
-      "deck": "Using Perplexity to build an accessible perceptual uniform triad.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 30 Apr 2026 22:08:49 GMT"
-    },
-    {
-      "headline": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "deck": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "pubDate": "Thu, 30 Apr 2026 20:14:47 +0000"
-    },
-    {
-      "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "deck": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "pubDate": "Thu, 30 Apr 2026 19:27:41 +0000"
-    },
-    {
-      "headline": "Troubleshooting Claude Code Skills",
-      "deck": "Practical guide on what to do if your Claude skill is not working as expectedContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/troubleshooting-claude-code-skills-bf29c8383abd?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 30 Apr 2026 17:20:47 GMT"
     }
   ]
 }
