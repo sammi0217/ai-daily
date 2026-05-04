@@ -1,7 +1,271 @@
 {
-  "generated_at": "2026-05-03T12:00:04.910Z",
+  "generated_at": "2026-05-04T12:00:02.746Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "RFK Jr.’s New Podcast Is as Weird as You’d Expect",
+      "deck": "The first two episodes of Robert F. Kennedy Jr.’s new podcast feature him discoursing on food with a reality-TV chef and, for some reason, Mike Tyson. Vaccines are not on the agenda.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/",
+      "pubDate": "Mon, 04 May 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Do Lightsaber Blades Have Mass?",
+      "deck": "On Star Wars Day, we put to rest a question that has bedeviled sci-fi nerds for years.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/do-lightsaber-blades-have-mass/",
+      "pubDate": "Mon, 04 May 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "What I Packed to Run 80 Miles Across the Italian Apennine Mountains",
+      "deck": "Here's everything you need to survive while running many mountain miles. It all fits into a 10-lb pack.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/",
+      "pubDate": "Mon, 04 May 2026 10:32:00 +0000"
+    },
+    {
+      "headline": "A Federal Worker Was Fired for Filming DOGE. Now She’s Running for Congress",
+      "deck": "Alexis Goldstein, a former Consumer Financial Protection Bureau employee, was fired this year for recording DOGE’s incursion into the agency.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-federal-worker-was-fired-for-filming-doge-now-shes-running-for-congress/",
+      "pubDate": "Mon, 04 May 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It",
+      "deck": "As young men pursue radical methods of “looksmaxxing,” young women are discovering a world of YouTube and TikTok videos that promise glow-ups through ASMR affirmations.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/",
+      "pubDate": "Mon, 04 May 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Science Has Found Even More Ways Coffee Is Good for You",
+      "deck": "A new study shows the mechanisms of how coffee modifies the microbiome, reduces inflammation, and influences mood. Even decaf has its perks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/",
+      "pubDate": "Mon, 04 May 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
+      "deck": "Top up your Qi2 Android phone or MagSafe iPhone with a magnetic wireless charging stand, pad, car charger, or power bank.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-magsafe-wireless-chargers/",
+      "pubDate": "Mon, 04 May 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Dating Is a Rich Person’s Game Now",
+      "deck": "The problem isn’t just the apps. People actually can’t afford to date anymore.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dating-is-a-rich-persons-game-now/",
+      "pubDate": "Mon, 04 May 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Welcome to the Great American Satellite Age",
+      "deck": "A new generation of satellite startups in San Francisco is racing to capitalize on recent technological breakthroughs in space-based data collection and communications.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
+      "pubDate": "Mon, 04 May 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Collected consciousness, exhausting moment, UX Research with AI",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 04 May 2026 08:34:23 GMT"
+    },
+    {
+      "headline": "The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)",
+      "deck": "These are the best Star Wars gifts in the galaxy for everyone, from Padawan fans to Jedi masters.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "pubDate": "Mon, 04 May 2026 08:30:00 +0000"
+    },
+    {
+      "headline": "LangGraph Multi-Agent Architecture: Building a Self-Critiquing AI Debate System",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/langgraph-multi-agent-architecture-building-a-self-critiquing-ai-debate-system-971a7ad881d9?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 07:41:47 GMT"
+    },
+    {
+      "headline": "I Walked Away From OpenAI's New Codex /goal for 18 Hours — It Shipped 14 of 18 Features Solo",
+      "deck": "Last Tuesday at 4:47 PM I typed /goal ship the 18 features in BACKLOG.md before standup into OpenAI&apos;s new Codex CLI 0.128.0, watched the&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-walked-away-from-openais-new-codex-goal-for-18-hours-it-shipped-14-of-18-features-solo-a280f8407707?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:36:12 GMT"
+    },
+    {
+      "headline": "Foundations of CCA-F Exam: 5 Battle-Tested LLM Agent Patterns (No Bloat Required)",
+      "deck": "Five Proven Patterns to Build Reliable LLM Agents and Workflows.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/foundations-of-cca-f-exam-5-battle-tested-llm-agent-patterns-no-bloat-required-4e3ad4037e3f?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:33:37 GMT"
+    },
+    {
+      "headline": "Measuring Behavioral Drift in LLMs: 22 Signals, 5 Dimensions, and the Calcification Effect",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/measuring-behavioral-drift-in-llms-22-signals-5-dimensions-and-the-calcification-effect-aeaeb904d096?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:33:22 GMT"
+    },
+    {
+      "headline": "GStack: Garry Tan’s Claude Code Setup That Turns One Developer Into a Full Engineering Team (2026…",
+      "deck": "The open-source skill pack with 85,000+ stars that gives a solo founder CEO reviews, security audits, browser QA, and one-command deploys&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gstack-garry-tans-claude-code-setup-that-turns-one-developer-into-a-full-engineering-team-2026-02854a569730?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:32:48 GMT"
+    },
+    {
+      "headline": "I Tested Jesse Vincent's 175K-Star Plugin — Plain Markdown Makes Sonnet 4.6 Cheat Past Opus 4.7",
+      "deck": "Sonnet 4.6 costs $3 input / $15 output per million tokens. Opus 4.7 costs $5 / $25&#x2013;1.7&#xD7; more expensive. On SWE-Bench Verified, Opus 4.7&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-jesse-vincents-175k-star-plugin-plain-markdown-makes-sonnet-4-6-cheat-past-opus-4-7-04687feac7c0?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:32:21 GMT"
+    },
+    {
+      "headline": "Pandas vs Polars vs DuckDB vs PySpark: The Data Engineer’s Guide to Choosing the Right Tool",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/pandas-vs-polars-vs-duckdb-vs-pyspark-the-data-engineers-guide-to-choosing-the-right-tool-8244edfafafb?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:32:09 GMT"
+    },
+    {
+      "headline": "Databricks Generative AI Engineer Associate : Study Guide",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/databricks-generative-ai-engineer-associate-study-guide-30e7454c9e7e?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:31:03 GMT"
+    },
+    {
+      "headline": "What is an LLM and Why Transformers Changed Everything",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-is-an-llm-and-why-transformers-changed-everything-c69f601ef788?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:28:44 GMT"
+    },
+    {
+      "headline": "Transformers Aren’t Magic — They’re Just Expensive: A Closer Look at What Actually Matters in…",
+      "deck": "IntroductionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/transformers-arent-magic-they-re-just-expensive-a-closer-look-at-what-actually-matters-in-e3d69a5007af?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 04 May 2026 06:26:50 GMT"
+    },
+    {
+      "headline": "What is (H)CI: Why Does the \"Human'' Matter?",
+      "deck": "arXiv:2605.00109v1 Announce Type: new Abstract: Human-Computer Interaction (HCI) is a diverse field bringing together theories and methods from fields such as computer science, psychology, and human factors. Historically",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00109",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Electrotactile Improves Thermal Referral",
+      "deck": "arXiv:2605.00240v1 Announce Type: new Abstract: Thermal referral enables thermal sensations in locations lacking thermal actuators--this is achieved using vibrotactile actuators to redirect a nearby thermal sensation to ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00240",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Engagement Phenotypes for a Sample of 102,684 AI Mental Health Chatbot Users and Dose-Response Associations with Clinical Outcomes",
+      "deck": "arXiv:2605.00275v1 Announce Type: new Abstract: Background: Conversational AI chatbots are emerging as scalable mental health tools, but little is known about real world engagement or its relationship to clinical outcome",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00275",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "How Designers Envision Value-Oriented AI Design Concepts with Generative AI",
+      "deck": "arXiv:2605.00280v1 Announce Type: new Abstract: As AI integrates into design practice, designers increasingly use generative AI tools to envision AI-enabled solutions, positioning AI as both design tool and design materi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00280",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Developing an AI Concept Envisioning Toolkit to Support Reflective Juxtaposition of Values and Harms",
+      "deck": "arXiv:2605.00282v1 Announce Type: new Abstract: Early-stage concept envisioning is a critical juncture in AI design, shaping how designers frame problems and the decisions that follow. Yet values and potential harms are ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00282",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "FaceValue: Exploring Real-Time Self-View Overlays to Prompt Meaning-Oriented Self-Awareness in Remote Meetings",
+      "deck": "arXiv:2605.00288v1 Announce Type: new Abstract: In remote video meetings, visual non-verbal cues, such as facial expressions or head movements, are seen continuously but often only partially. This increases ambiguity com",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00288",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "From Phreaking to Sneaking: Children's Circumvention of Social Media Age Verification Systems",
+      "deck": "arXiv:2605.00368v1 Announce Type: new Abstract: Australia's social media ban is now in force. It requires platforms to take reasonable steps to stop users under 16 from holding accounts. Drawing on five focus groups with",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00368",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "An eHMI Presenting Request-to-Intervene and Takeover Status of Level 3 Automated Vehicles to Support Surrounding Traffic Safety",
+      "deck": "arXiv:2605.00377v1 Announce Type: new Abstract: Level 3 automated vehicles (AVs) issue a request to intervene (RtI) when the automated driving system approaches its system limitations. Although this takeover transition i",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00377",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Play and Learn: Gamified Feedback for Ultrasound-Guided Catheter Insertion Training in Virtual Reality",
+      "deck": "arXiv:2605.00389v1 Announce Type: new Abstract: Virtual reality (VR) is widely used for procedural medical training, yet most simulators emphasize realism while providing limited formative feedback. We examine how gamifi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00389",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Urban to Rural Migration in Eastern Europe: Unpacking digital ruralities through TikTok video analysis",
+      "deck": "arXiv:2605.00453v1 Announce Type: new Abstract: Urban to rural migration is a less-researched phenomenon compared to its counterpart: rural to urban migration. In parts of Europe, an increasing number of people living in",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2605.00453",
+      "pubDate": "Mon, 04 May 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "‘This is fine’ creator says AI startup stole his art",
+      "deck": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "pubDate": "Sun, 03 May 2026 20:16:51 +0000"
+    },
+    {
+      "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "deck": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "pubDate": "Sun, 03 May 2026 18:00:09 +0000"
+    },
     {
       "headline": "Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige",
       "deck": "This $2,000 Asus laptop delivers breathtaking performance thanks to Qualcomm's Snapdragon X2 Elite Extreme, but at the cost of nearly everything else.",
@@ -67,86 +331,6 @@
       "pubDate": "Sun, 03 May 2026 09:01:00 +0000"
     },
     {
-      "headline": "Are You a Vibe Coder?",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/are-you-a-vibe-coder-366b004e1d1b?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:34:30 GMT"
-    },
-    {
-      "headline": "The $50 Database Bill That Became $2,847. The Maths Explains Everything.",
-      "deck": "Last year I was running a recommendation engine for a portfolio of personal care SKUs at Unilever.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-50-database-bill-that-became-2-847-the-maths-explains-everything-74dce3149ffe?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:34:15 GMT"
-    },
-    {
-      "headline": "GraphRAG vs Vectorless RAG vs Vector RAG (A 2026 Guide to Advanced Context Engineering)",
-      "deck": "Why traditional vector search is hitting a ceiling, how two radically different architectures are replacing it, and which one belongs in&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/graphrag-vs-vectorless-rag-vs-vector-rag-a-2026-guide-to-advanced-context-engineering-e8e9264cab38?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:34:06 GMT"
-    },
-    {
-      "headline": "I Tested Nemotron Nano Omni vs GPT-5.5 on 18 Tasks — The Free 30B Open Model Killed It on Cost",
-      "deck": "NVIDIA quietly open-sourced a 30B multimodal model on April 28 that fits on a single 25GB GPU, tops six open-model leaderboards for&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tested-nvidias-30b-nemotron-nano-omni-on-18-tasks-it-killed-gpt-4v-at-9-the-throughput-7aff78f9738a?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:33:53 GMT"
-    },
-    {
-      "headline": "I Rebuilt Our Entire Architecture with Spring Boot & Kafka — The Unexpected Lessons I Learned",
-      "deck": "The Starting Point: Why Kafka?Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-rebuilt-our-entire-architecture-with-spring-boot-and-kafka-the-unexpected-lessons-i-learned-43dc27376ac8?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:33:43 GMT"
-    },
-    {
-      "headline": "The State of AI Agent Memory in 2026: What the Research Actually Shows",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-state-of-ai-agent-memory-in-2026-what-the-research-actually-shows-0b77063c2c2b?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:33:33 GMT"
-    },
-    {
-      "headline": "The Ultimate Guide to Fine-Tuning Foundation Models on AWS Sagemaker",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-ultimate-guide-to-fine-tuning-foundation-models-on-aws-sagemaker-efc673509bb2?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:33:06 GMT"
-    },
-    {
-      "headline": "A Developer Burned $6,000 on Claude Overnight With One Command. He’s Not the Only One.",
-      "deck": "A single /loop command ran 46 times over 26 hours on Opus. Each call re-sent the entire conversation history. The cache expired between&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-developer-burned-6-000-on-claude-overnight-with-one-command-hes-not-the-only-one-ad832f770bd9?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:32:49 GMT"
-    },
-    {
-      "headline": "François Chollet Quit Google to Build the AI Test LLMs Can't Pass — Humans 100%, GPT-5.5 0.43%",
-      "deck": "GPT-5.5 &#x2014; the model OpenAI shipped two weeks ago, the one rated 1501 Elo on LMArena &#x2014; scored 0.43%.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/fran%C3%A7ois-chollet-quit-google-to-build-the-ai-test-llms-cant-pass-humans-100-gpt-5-5-0-43-3eca944549b1?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:31:21 GMT"
-    },
-    {
-      "headline": "5 Reranking Techniques in RAG: From Fast Retrieval to Accurate Context",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/5-reranking-techniques-in-rag-from-fast-retrieval-to-accurate-context-16f80a919c4e?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 03 May 2026 07:31:11 GMT"
-    },
-    {
       "headline": "Top Rover Promo Codes and Referral Deals for May 2026",
       "deck": "Score your Rover promo code for 2026.",
       "source": "Wired",
@@ -179,22 +363,6 @@
       "pubDate": "Sun, 03 May 2026 05:00:00 +0000"
     },
     {
-      "headline": "Skullcandy Discount Code: 30% Off | May 2026",
-      "deck": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/skullcandy-discount-code/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Shark Promo Code: $100 Off | This May",
-      "deck": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/shark-promo-code/",
-      "pubDate": "Sun, 03 May 2026 05:00:00 +0000"
-    },
-    {
       "headline": "AI-generated actors and scripts are now ineligible for Oscars",
       "deck": "Bad news for Tilly Norwood.",
       "source": "TechCrunch",
@@ -211,180 +379,12 @@
       "pubDate": "Sat, 02 May 2026 16:00:00 +0000"
     },
     {
-      "headline": "Can AI make your dating life better?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 02 May 2026 13:56:18 GMT"
-    },
-    {
-      "headline": "Tovala Family Meals Review: Good Food, Lots of Salt",
-      "deck": "Tovala is a meal kit that comes with a smart oven, or a smart oven that comes with a meal kit. New family meals make it much more useful. But lord, the sodium.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/tovala-oven-meal-kit-review-2026/",
-      "pubDate": "Sat, 02 May 2026 13:33:00 +0000"
-    },
-    {
-      "headline": "What You Need to Know About the Foreign-Made Router Ban in the US",
-      "deck": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
-      "pubDate": "Sat, 02 May 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "8 Best Travel Adapters (2026), Tested and Reviewed",
-      "deck": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-travel-adapters/",
-      "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Disneyland Now Uses Face Recognition on Visitors",
-      "deck": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "pubDate": "Sat, 02 May 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Apple AirPods Max 2 Review: The Best Over-Ears for iOS",
-      "deck": "If you're an iPhone user, the Apple AirPods Max 2 are still the best over-ear headphones you can buy.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/apple-airpods-max-2/",
-      "pubDate": "Sat, 02 May 2026 10:14:00 +0000"
-    },
-    {
-      "headline": "Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker",
-      "deck": "The owl-shaped Ottocast Cabin Care adapter turns your vehicle's CarPlay screen into a back seat camera.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/",
-      "pubDate": "Sat, 02 May 2026 10:08:00 +0000"
-    },
-    {
-      "headline": "A Professional Bike Fitting Will Make You Want to Ride Even More",
-      "deck": "Getting an assessment and suggestions from a pro puts you in the right position and gets you as comfortable as can be. If you ride a lot, it's worth the investment.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/professional-bike-fitting-benefits/",
-      "pubDate": "Sat, 02 May 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "How to Buy a Bike That’s the Right Size for You",
-      "deck": "Shopping for a bike that fits your body and suits your needs typically involves a lot of trial and error. Here’s our advice on how to make the process—and your ride—as painless as possible.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-buy-a-bike-thats-the-right-size-for-you/",
-      "pubDate": "Sat, 02 May 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "An Editor’s Picks: The Best Gifts for Bird Lovers",
-      "deck": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-for-bird-lovers/",
-      "pubDate": "Sat, 02 May 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "The Mother's Day Gifts Our Editors Love (2026)",
-      "deck": "From smart rings and everlasting flowers to weighted vests and LED masks, there's a gift for every kind of mom.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-mothers-day-gifts-2026/",
-      "pubDate": "Sat, 02 May 2026 09:10:00 +0000"
-    },
-    {
-      "headline": "Why Does Wikipedia Think I’m Evan Spiegel?",
-      "deck": "For the past week, a photo of me has been plastered on the CEO of Snap’s Wikipedia page. No one, not even Spiegel, seems to care.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/why-does-wikipedia-think-im-evan-spiegel/",
-      "pubDate": "Sat, 02 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Therabody Promo Codes: 15% Off May 2026",
-      "deck": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/therabody-promo-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Canon Promo Codes | May 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Surfshark Promo Codes: 87% Off | May 2026",
-      "deck": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/surfshark-coupon/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "20% Off Brooks Promo Code & Deals for | May 2026",
-      "deck": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Columbia Promo Codes: 15% Off | May2026",
-      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Newegg Promo Code: 10% Off in May 2026",
-      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% VistaPrint Coupon & Promo Codes | May 2026",
-      "deck": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "pubDate": "Sat, 02 May 2026 05:00:00 +0000"
-    },
-    {
       "headline": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
       "deck": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival C",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
       "pubDate": "Fri, 01 May 2026 23:06:50 +0000"
-    },
-    {
-      "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "deck": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "pubDate": "Fri, 01 May 2026 22:13:27 +0000"
-    },
-    {
-      "headline": "Did you know you can&#8217;t steal a charity? Don&#8217;t worry. Elon Musk will remind you.",
-      "deck": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are pl",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "pubDate": "Fri, 01 May 2026 17:44:29 +0000"
     },
     {
       "headline": "Selection Criteria: How to Pick Your Participants",
