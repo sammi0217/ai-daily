@@ -1,7 +1,143 @@
 {
-  "generated_at": "2026-05-09T12:00:04.742Z",
+  "generated_at": "2026-05-10T12:00:04.999Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
+      "deck": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
+      "pubDate": "Sun, 10 May 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
+      "deck": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+      "pubDate": "Sun, 10 May 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "How Handheld Translators Work and Why They’re Handy for Travel",
+      "deck": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "pubDate": "Sun, 10 May 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
+      "deck": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
+      "pubDate": "Sun, 10 May 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "deck": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "pubDate": "Sun, 10 May 2026 02:00:00 +0000"
+    },
+    {
+      "headline": "Learning Word Vectors for Sentiment Analysis: A Python Reproduction",
+      "deck": "How to build sentiment-aware word representations from IMDb reviews using semantic learning, star ratings, and linear SVM classificationContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/learning-word-vectors-for-sentiment-analysis-a-python-reproduction-f8c8c77df38f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 10 May 2026 00:01:00 GMT"
+    },
+    {
+      "headline": "AI Will Not Replace Software Developers — And I’ll Say It Loud",
+      "deck": "I use AI tools every single day. And I&#x2019;m here to tell you: the &#x201C;AI replaces developers&#x201D; narrative is overblown &#x2014; by at least a decade.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-will-not-replace-software-developers-and-ill-say-it-loud-ae1975c326ec?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Unsloth Just Made Fine-Tuning LLMs a Free-Tier Task.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/unsloth-just-made-fine-tuning-llms-a-free-tier-task-9ce05a931b75?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 22:01:00 GMT"
+    },
+    {
+      "headline": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+      "deck": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "Sat, 09 May 2026 21:45:00 +0000"
+    },
+    {
+      "headline": "Cloudflare Hired 1,111 People to Prove AI Wouldn’t Take Jobs. Then It Fired 1,100 of Them.",
+      "deck": "For tech workers trying to understand what&#x2019;s actually happening to their industry: the Cloudflare numbers, the pattern behind them, and&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/cloudflare-hired-1-111-people-to-prove-ai-wouldnt-take-jobs-then-it-fired-1-100-of-them-27fb2e9da5e2?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 21:01:00 GMT"
+    },
+    {
+      "headline": "Is 3-Bit KV Cache the Holy Grail? A Reality Check on Google’s TurboQuant",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/is-3-bit-kv-cache-the-holy-grail-a-reality-check-on-googles-turboquant-e1ac22daa253?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 20:01:00 GMT"
+    },
+    {
+      "headline": "How to Run Claude Code Agents in Parallel",
+      "deck": "Learn how to apply coding agents in parallel to work more efficientlyContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-run-claude-code-agents-in-parallel-a833d8c7330c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 19:01:00 GMT"
+    },
+    {
+      "headline": "Google Just Installed a 4GB AI on Your Computer. The Privacy Excuse Is a Lie.",
+      "deck": "If you use Google Chrome on a device with a dedicated GPU, Google installed a 4GB AI model without asking. Here is what it does, what it&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/google-just-installed-a-4gb-ai-on-your-computer-the-privacy-excuse-is-a-lie-d396d2880b07?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 18:01:00 GMT"
+    },
+    {
+      "headline": "Controlling Completion Bias When Using Plan Mode",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/controlling-completion-bias-when-using-plan-mode-bac945a16cb3?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 17:31:00 GMT"
+    },
+    {
+      "headline": "LSTM: Why It Was Born, How It Fixes RNN, and Why It Changed Sequence Learning",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/lstm-explained-c78dd92ecf85?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 17:01:02 GMT"
+    },
+    {
+      "headline": "AI Memory Down From 42GB to 7GB. Here’s What Google’s TurboQuant Actually Did.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-memory-down-from-42gb-to-7gb-heres-what-google-s-turboquant-actually-did-5e2195431e97?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 09 May 2026 16:31:00 GMT"
+    },
+    {
+      "headline": "Nvidia has already committed $40B to equity AI deals this year",
+      "deck": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "pubDate": "Sat, 09 May 2026 14:43:30 +0000"
+    },
     {
       "headline": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
       "deck": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
@@ -91,14 +227,6 @@
       "pubDate": "Sat, 09 May 2026 05:00:00 +0000"
     },
     {
-      "headline": "Why We Stopped Using OpenAI for Our RAG Agents: A 2026 Production Stack Swap",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-we-stopped-using-openai-for-our-rag-agents-a-2026-production-stack-swap-c0999b4e90ea?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 09 May 2026 00:01:01 GMT"
-    },
-    {
       "headline": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "deck": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg ",
       "source": "MIT Tech Review",
@@ -115,36 +243,12 @@
       "pubDate": "Fri, 08 May 2026 23:24:33 +0000"
     },
     {
-      "headline": "Spec-Driven AI Development: Building Koog Agent for Mobile Test Failure Analysis with Claude Skill",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/spec-driven-ai-development-building-koog-agent-for-mobile-test-failure-analysis-with-claude-skill-2af71369587f?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 23:01:01 GMT"
-    },
-    {
       "headline": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
       "deck": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
       "pubDate": "Fri, 08 May 2026 22:59:05 +0000"
-    },
-    {
-      "headline": "Claude Code Is a Mess, Until You Install This Official Plugin",
-      "deck": "How One Plugin Helps Claude Understand Your Project, Recommend Tailored Automations, and Build Real Systems.Starting With a Resume Parser&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-is-a-mess-until-you-install-this-official-plugin-f94e7cac723f?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "You Trusted the AI Answer. It Was Completely Certain. It Was Also Wrong",
-      "deck": "Your AI gives wrong answers with the same confidence it gives right ones. That is not a bug in any single product. It is a structural&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/you-trusted-the-ai-answer-it-was-completely-certain-it-was-also-wrong-3523984e6b4a?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 21:01:01 GMT"
     },
     {
       "headline": "Everything I know about AI, I learned from a genie",
@@ -161,22 +265,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
       "pubDate": "Fri, 08 May 2026 20:02:52 +0000"
-    },
-    {
-      "headline": "Understanding KV Cache in LLMs and How It Affects Inference",
-      "deck": "When a transformer generates the 1,000th token of a response, it has technically already done 99.9% of the work needed to produce it&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-kv-cache-in-llms-and-how-it-affects-inference-a59c8860a57c?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 20:01:01 GMT"
-    },
-    {
-      "headline": "How to Properly Use an AI Code Assistant",
-      "deck": "My 3-Layer Workflow for Faster, Cheaper DevelopmentContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-properly-use-an-ai-code-assistant-b0c7b4139fdf?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 19:01:00 GMT"
     },
     {
       "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
@@ -203,22 +291,6 @@
       "pubDate": "Fri, 08 May 2026 18:12:42 +0000"
     },
     {
-      "headline": "From Prompts to Pipelines: My Takeaways from the Code with Claude 2026 Keynote",
-      "deck": "A developer&#x2011;first recap of the Code with Claude 2026 keynote what 1M&#x2011;token context, agent teams, and &#x201C;no terminal&#x201D; workflows really change&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-prompts-to-pipelines-my-takeaways-from-the-code-with-claude-2026-keynote-e82408b79353?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 18:01:01 GMT"
-    },
-    {
-      "headline": "AI-Assisted SDLC for Vibe Coding",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-assisted-sdlc-for-vibe-coding-6cbce6255200?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 17:01:01 GMT"
-    },
-    {
       "headline": "Designing AI Agents: 4 Lessons from China’s Qwen Agent",
       "deck": "A study of Qwen's AI agent reveals 4 design lessons: support discoverability, reuse familiar patterns, handle personal data carefully, and protect user autonomy.",
       "source": "Nielsen Norman Group",
@@ -235,28 +307,12 @@
       "pubDate": "Fri, 08 May 2026 17:00:00 +0000"
     },
     {
-      "headline": "A 5-Minute Crash Course on RAG",
-      "deck": "Learn how RAG works and why it reduces hallucinationsContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-5-minute-crash-course-on-rag-9b3eb41eb4af?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 16:31:00 GMT"
-    },
-    {
       "headline": "Here’s what you need to know about the cruise ship hantavirus outbreak",
       "deck": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged c",
       "source": "MIT Tech Review",
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
       "pubDate": "Fri, 08 May 2026 16:19:40 +0000"
-    },
-    {
-      "headline": "Your AI Agent Passes Your Evals.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-ai-agent-passes-your-evals-b5ec0d855a46?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 08 May 2026 16:01:01 GMT"
     },
     {
       "headline": "The “people’s airline” and the enterprise AI gold rush",
@@ -267,19 +323,19 @@
       "pubDate": "Fri, 08 May 2026 15:46:17 +0000"
     },
     {
-      "headline": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-      "deck": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-      "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
-    },
-    {
       "headline": "There’s a Long-Shot Proposal to Protect California Workers From AI",
       "deck": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "deck": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
       "pubDate": "Fri, 08 May 2026 15:00:00 +0000"
     },
     {
@@ -337,62 +393,6 @@
       "category": "tech",
       "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
       "pubDate": "Fri, 08 May 2026 09:32:00 +0000"
-    },
-    {
-      "headline": "Here’s how technology transformed babymaking",
-      "deck": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been w",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
-      "pubDate": "Fri, 08 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "deck": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "pubDate": "Fri, 08 May 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Meet Rassvet, Russia’s Answer to Starlink",
-      "deck": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
-      "pubDate": "Fri, 08 May 2026 08:30:00 +0000"
-    },
-    {
-      "headline": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-      "deck": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-      "pubDate": "Fri, 08 May 2026 05:02:40 +0000"
-    },
-    {
-      "headline": "50% Off DoorDash Promo Code | May 2026",
-      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "pubDate": "Fri, 08 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "deck": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the adminis",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "pubDate": "Fri, 08 May 2026 04:42:29 +0000"
-    },
-    {
-      "headline": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "deck": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "pubDate": "Fri, 08 May 2026 01:42:14 +0000"
     },
     {
       "headline": "How to make Claude Code follow your design system in Figma",
