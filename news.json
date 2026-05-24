@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-05-23T12:00:03.543Z",
+  "generated_at": "2026-05-24T12:00:05.043Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+      "deck": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+      "pubDate": "Sun, 24 May 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "The Best Browser Extensions to Get More Out of YouTube",
+      "deck": "You can significantly improve the YouTube experience with these browser add-ons.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
+      "pubDate": "Sun, 24 May 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "deck": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "pubDate": "Sun, 24 May 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "14 New Tools for Taking on the Great Outdoors Properly",
+      "deck": "It’s time to prep your kit ahead of the summer season. These tools will do the job.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
+      "pubDate": "Sun, 24 May 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
+      "deck": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+      "pubDate": "Sun, 24 May 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
+      "deck": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "pubDate": "Sun, 24 May 2026 08:30:00 +0000"
+    },
+    {
+      "headline": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
+      "deck": "There are black holes that are too big to be born from the death of a star but aren’t quite supermassive either. There’s finally evidence for where those came from.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/",
+      "pubDate": "Sun, 24 May 2026 08:00:00 +0000"
+    },
+    {
+      "headline": "Prompt Injection in Production: The 2025 Perplexity Comet Attack",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/prompt-injection-in-production-the-2025-perplexity-comet-attack-d73d57eea7ea?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 24 May 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "Beyond Foundation Models: Why Enterprise Context Could Become the Real AI Advantage",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Detecting Join Duplication",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/detecting-join-duplication-e6d51c8f3efc?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 22:01:00 GMT"
+    },
+    {
+      "headline": "Building RAG Systems: A Complete Guide",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-rag-systems-a-complete-guide-a1b94c997000?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 21:01:00 GMT"
+    },
+    {
+      "headline": "Designing how designers master AI",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 23 May 2026 20:42:12 GMT"
+    },
+    {
+      "headline": "Agentic Ai vs Traditional Ai In Healthcare Sector",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agentic-ai-vs-traditional-ai-in-healthcare-sector-390a2d2e9a3e?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 20:01:00 GMT"
+    },
+    {
+      "headline": "Your Agent Passed Every Test. It's Still Going to Break in Production.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-agent-passed-every-test-its-still-going-to-break-in-production-a635582fdeb1?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 19:01:00 GMT"
+    },
+    {
+      "headline": "What is AI Overview Agent, How Does it Work, and How to Exploit its Biases",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-is-ai-overview-agent-how-does-it-work-and-how-to-exploit-its-biases-a743867f7453?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 18:31:01 GMT"
+    },
+    {
+      "headline": "7 Obsidian + Claude Code Commands for Your AI Second Brain",
+      "deck": "Your AI second brain is set up. Here&#x2019;s what to actually do with it. Number 4 is my favourite.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/7-obsidian-claude-code-commands-for-your-ai-second-brain-adeef4259df4?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "Which RAG Works for You in Production?",
+      "deck": "A guide to naive RAG, advanced retrieval strategies, Flare-RAG, GraphRAG, and agentic pipelines, and how to create your architecture.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/which-rag-works-for-you-in-production-344b5c3d7921?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 17:31:00 GMT"
+    },
+    {
+      "headline": "Your AI Agent Is a Data Leak",
+      "deck": "How to secure enterprise agents with redaction, short-lived secrets, and app-layer guardrails.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-ai-agent-is-a-data-leak-9fcefc675cd3?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 23 May 2026 17:01:02 GMT"
+    },
+    {
+      "headline": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "deck": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "pubDate": "Sat, 23 May 2026 15:30:00 +0000"
+    },
+    {
+      "headline": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
+      "deck": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "pubDate": "Sat, 23 May 2026 15:08:00 +0000"
+    },
+    {
+      "headline": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
+      "deck": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
+      "pubDate": "Sat, 23 May 2026 13:37:45 +0000"
+    },
+    {
+      "headline": "Elon Musk has given up on solar power (on Earth)",
+      "deck": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "pubDate": "Sat, 23 May 2026 13:00:00 +0000"
+    },
     {
       "headline": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
       "deck": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
@@ -75,54 +251,6 @@
       "pubDate": "Sat, 23 May 2026 06:54:00 +0000"
     },
     {
-      "headline": "AI Cannot Prove Goldbach’s Conjecture.",
-      "deck": "LLMs won gold at the IMO. Formal provers verified theorems that stumped humans. And none of this gets us one step closer to the hard&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-cannot-prove-goldbachs-conjecture-115bca355678?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 05:40:59 GMT"
-    },
-    {
-      "headline": "9 MCP Security Risks That Can Quietly Compromise Your AI Agent (And How to Stop Them)",
-      "deck": "MCP gives your agent superpowers. It also hands attackers a map of exactly where to push.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/9-mcp-security-risks-that-can-quietly-compromise-your-ai-agent-and-how-to-stop-them-6144dd1263e8?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 05:40:40 GMT"
-    },
-    {
-      "headline": "LLM Structured Outputs in Production: How to Stop JSON From Breaking Your AI Workflow",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/llm-structured-outputs-in-production-how-to-stop-json-from-breaking-your-ai-workflow-66703754d341?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 05:38:58 GMT"
-    },
-    {
-      "headline": "AI Agent Sandbox Architecture: How to Let Agents Run Code Without Letting Them Run Everything",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-agent-sandbox-architecture-how-to-let-agents-run-code-without-letting-them-run-everything-63a9293c35fb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 05:38:34 GMT"
-    },
-    {
-      "headline": "Loop Earplugs Discount Codes: 40% Off",
-      "deck": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hoka Coupon Codes: 30% Off | May 2026",
-      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
-    },
-    {
       "headline": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
       "deck": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
       "source": "Wired",
@@ -144,6 +272,22 @@
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/valvoline-coupons/",
+      "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Loop Earplugs Discount Codes: 40% Off",
+      "deck": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Hoka Coupon Codes: 30% Off | May 2026",
+      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
       "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
     },
     {
@@ -169,54 +313,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
       "pubDate": "Sat, 23 May 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Your AI Has a Memory. It Just Doesn’t Know What to Remember.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-ai-has-a-memory-it-just-doesnt-know-what-to-remember-7d28ecbbc3d3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:31:27 GMT"
-    },
-    {
-      "headline": "Prompt Engineering is Dead. In 2026, Designers Think in Context",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/prompt-engineering-is-dead-in-2026-designers-think-in-context-eb2988204071?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:31:11 GMT"
-    },
-    {
-      "headline": "Building a Production-Grade MCP Server with JWT Auth and Role-Based Tool Access",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:30:42 GMT"
-    },
-    {
-      "headline": "Snowflake Cortex Agents in Production: The Complete Guide to Monitoring, Sharing & Enterprise…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/snowflake-cortex-agents-in-production-the-complete-guide-to-monitoring-sharing-enterprise-fd5d683ffd29?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:30:28 GMT"
-    },
-    {
-      "headline": "Your Team Is Paying $3,600 a Year for ChatGPT. Here’s How to Replace It for $75/Month.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-team-is-paying-3-600-a-year-for-chatgpt-heres-how-to-replace-it-for-75-month-4aef3b93c3fc?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:30:13 GMT"
-    },
-    {
-      "headline": "The 3 Prompt Types Every SW Engineer Uses Daily: How to Make Them Better",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-3-prompt-types-every-sw-engineer-uses-daily-how-to-make-them-better-79891090cc39?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 23 May 2026 04:29:55 GMT"
     },
     {
       "headline": "AI is being used to resurrect the voices of dead pilots",
@@ -291,46 +387,6 @@
       "pubDate": "Fri, 22 May 2026 17:00:00 +0000"
     },
     {
-      "headline": "You can no longer Google the word &#8216;disregard&#8217;",
-      "deck": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "pubDate": "Fri, 22 May 2026 16:16:48 +0000"
-    },
-    {
-      "headline": "We tried Google’s AI glasses and they’re almost there",
-      "deck": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "pubDate": "Fri, 22 May 2026 15:37:15 +0000"
-    },
-    {
-      "headline": "Routers vs. Modems: What You Need to Get Online",
-      "deck": "Your modem and router are the dynamic duo you need to get online, so long as you don't mistake one for the other.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/router-vs-modem/",
-      "pubDate": "Fri, 22 May 2026 15:14:37 +0000"
-    },
-    {
-      "headline": "Even If You Hate AI, You Will Use Google AI Search",
-      "deck": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-      "pubDate": "Fri, 22 May 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "SpaceX files to go public, and the math requires a little faith",
-      "deck": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "pubDate": "Fri, 22 May 2026 14:30:00 +0000"
-    },
-    {
       "headline": "Four Levels Of Customer Understanding",
       "deck": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the diffe",
       "source": "Smashing Magazine",
@@ -345,62 +401,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/dos-and-donts-for-markdown-files-a6f870c22132?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 22 May 2026 12:56:17 GMT"
-    },
-    {
-      "headline": "The Download: coding&#8217;s future, the &#8216;Steroid Olympics,&#8217; and AI-driven science",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you li",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "pubDate": "Fri, 22 May 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Samsung Movingstyle M7 Review: A Screen on Wheels",
-      "deck": "Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/samsung-movingstyle-32-m7/",
-      "pubDate": "Fri, 22 May 2026 11:48:00 +0000"
-    },
-    {
-      "headline": "Best Vacuum Cleaner (2026): Cordless Vacuums, Robot Vacuums, Dysons",
-      "deck": "Looking for all our top recommended vacuums? Here are our favorites in every style we’ve tested, from stick vacs to robot vacuums.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/the-best-vacuum-cleaner/",
-      "pubDate": "Fri, 22 May 2026 11:31:00 +0000"
-    },
-    {
-      "headline": "The 13 Best Fans to Buy Before It Gets Hot Again (2026)",
-      "deck": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-best-fans-2026/",
-      "pubDate": "Fri, 22 May 2026 11:03:00 +0000"
-    },
-    {
-      "headline": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
-      "deck": "The many methods we use to gather data ultimately boil down to either counting or comparing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
-      "pubDate": "Fri, 22 May 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Valve Steam Controller Review (2026): Wait for the Steam Machine",
-      "deck": "Without the context of Valve’s Steam Machine (which is still MIA), this controller can’t fully dazzle players yet.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/valve-steam-controller-2026/",
-      "pubDate": "Fri, 22 May 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Google Search is Dead. Long Live Google Search.",
-      "deck": "Google Search, as you know it, is over. Instead of a conventional &#x201C;submit search query and get a list of blue links,&#x201D; the company is&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/google-search-is-dead-long-live-google-search-d7c67dc59be0?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 21 May 2026 12:25:07 GMT"
     }
   ]
 }
