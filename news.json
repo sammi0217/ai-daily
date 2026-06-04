@@ -1,7 +1,391 @@
 {
-  "generated_at": "2026-06-03T12:00:02.220Z",
+  "generated_at": "2026-06-04T12:00:03.362Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "5 Best Smart Speakers (2026): Alexa, Google Assistant, Siri",
+      "deck": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Google fan.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "pubDate": "Thu, 04 Jun 2026 11:31:00 +0000"
+    },
+    {
+      "headline": "26 Amazon Prime Perks You Might Not Be Using (2026)",
+      "deck": "Your membership gets you more than free two-day shipping. Here’s what you may be missing ahead of Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-perks/",
+      "pubDate": "Thu, 04 Jun 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "How courts are coping with a flood of AI-generated lawsuits",
+      "deck": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "pubDate": "Thu, 04 Jun 2026 10:50:18 +0000"
+    },
+    {
+      "headline": "Segway Myon Electric Bike Review: Too Smart?",
+      "deck": "From app-controlled security to electronic shifting and radar alerts, Segway’s Myon may have more tech than you need. That’s not always a bad thing.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/segway-myon-electric-bike/",
+      "pubDate": "Thu, 04 Jun 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+      "deck": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "pubDate": "Thu, 04 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School",
+      "deck": "A homeschooling center in Manhattan is part of the company’s nationwide expansion. Internal documents reveal its strategy: “Opening date > safety.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
+      "pubDate": "Thu, 04 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Quantum Computing Is Having Its Public Market Moment",
+      "deck": "Quantinuum, a quantum computing startup, is losing millions. Investors want in anyway.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
+      "pubDate": "Thu, 04 Jun 2026 09:34:23 +0000"
+    },
+    {
+      "headline": "This Streamer Has Convinced the Internet Guy Fieri Never Swallows Food on TV",
+      "deck": "A video creator known as Doctor Spaghetti has scrutinized hours of Diners, Drive-Ins and Dives to get to the bottom of an explosive culinary conspiracy theory.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/this-streamer-has-convinced-the-internet-guy-fieri-never-swallows-food-on-diners-driveins-dives/",
+      "pubDate": "Thu, 04 Jun 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "This App Makes Google TV Actually Usable",
+      "deck": "The app AT4K turns the messy Google TV interface into something closer to the Apple TV interface, making it cleaner, more customizable, and less frustrating to use.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/",
+      "pubDate": "Thu, 04 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Nomad Goods Promo Codes: Get 25% Off in June 2026",
+      "deck": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this June.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "TurboTax Full Service Coupons This June",
+      "deck": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "50% Off DoorDash Promo Code | June 2026",
+      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "NordVPN Coupons and Deals: 77% Off in June 2026",
+      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Hoka Coupon Codes: 30% Off | June 2026",
+      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for June 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Walmart Promo Codes: Up to 65% Off for June 2026",
+      "deck": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Google Workspace Promo Codes: 14% Off for June",
+      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Loop Earplugs Discount Codes: 40% Off",
+      "deck": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Home Depot Promo Codes: 50% Off in June 2026",
+      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Columbia Promo Codes: 15% Off | June 2026",
+      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Groupon Promo Codes: 60% Off in June 2026",
+      "deck": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/groupon-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Jabra Promo Codes: 30% Off Headphones, Headsets & More",
+      "deck": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals in June 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Castlery Promo Codes: 15% Off for June 2026",
+      "deck": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/castlery-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Pura Promo Codes: $20 Off May 2026",
+      "deck": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/pura-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Breville Promo Code: $700 Off | June 2026",
+      "deck": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/breville-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "deck": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hr-block-coupon/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Visible Promo Codes and Coupons for June 2026",
+      "deck": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/visible-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Babbel Promo Code: Up to 65% Off in June 2026",
+      "deck": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/babbel-promo-code/",
+      "pubDate": "Thu, 04 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "The 7 Database Types Powering Every Modern AI System",
+      "deck": "The bottleneck isn&#x2019;t the model. It&#x2019;s the data infrastructure behind it. Here&#x2019;s the complete breakdown.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-7-database-types-powering-every-modern-ai-system-dfba272a49dd?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 04 Jun 2026 04:55:16 GMT"
+    },
+    {
+      "headline": "Google Ditched the Encoders in Gemma 4 12B, and It Runs Multimodal AI on a 16GB Laptop",
+      "deck": "Google just shipped a 12-billion-parameter model that sees images, hears audio, watches video, and reasons through agentic tool-use, and&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/google-ditched-the-encoders-in-gemma-4-12b-and-it-runs-multimodal-ai-on-a-16gb-laptop-5064031015b7?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 04 Jun 2026 04:52:29 GMT"
+    },
+    {
+      "headline": "10 Things Every Java Developer Must Know About AI Right Now",
+      "deck": "Java has been the backbone of the enterprise software for nearly three decades, and it&#x2019;s not going to anywhere.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/10-things-every-java-developer-must-know-about-ai-right-now-498b2b6f8700?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 04 Jun 2026 04:51:05 GMT"
+    },
+    {
+      "headline": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "deck": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and producti",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "deck": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion ch",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "deck": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemica",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "deck": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these se",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04202",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "deck": "arXiv:2606.04223v1 Announce Type: new Abstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04223",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+      "deck": "arXiv:2606.04244v1 Announce Type: new Abstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they must externalize a problem through a tool and",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04244",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+      "deck": "arXiv:2606.04246v1 Announce Type: new Abstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step dependencies, and strict correctness constraints",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04246",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Can Generalist Agents Automate Data Curation?",
+      "deck": "arXiv:2606.04261v1 Announce Type: new Abstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revis",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04261",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Characterizing initial human-AI proof formalization workflows",
+      "deck": "arXiv:2606.04273v1 Announce Type: new Abstract: For centuries, human mathematicians have written proofs to substantiate their mathematical arguments; yet, the ability to automatically verify the validity of proofs has lo",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04273",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+      "deck": "arXiv:2606.04296v1 Announce Type: new Abstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide when to interrupt an agent have become essent",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.04296",
+      "pubDate": "Thu, 04 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "deck": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000"
+    },
+    {
+      "headline": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
+      "deck": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "pubDate": "Wed, 03 Jun 2026 19:38:32 +0000"
+    },
+    {
+      "headline": "Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "deck": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "pubDate": "Wed, 03 Jun 2026 19:07:42 +0000"
+    },
+    {
+      "headline": "Ultimate Claude Code Setup for Product Designers",
+      "deck": "Most product designers don&#x2019;t need Claude Code to write code.Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/ultimate-claude-code-setup-for-product-designers-f8b2fff4ac69?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 03 Jun 2026 17:15:59 GMT"
+    },
+    {
+      "headline": "Amazon will show AI product images when you search for some reason",
+      "deck": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "pubDate": "Wed, 03 Jun 2026 15:50:26 +0000"
+    },
+    {
+      "headline": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "deck": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "pubDate": "Wed, 03 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Voice is the New UI",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/voice-is-the-new-ui-87e107c306d7?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 03 Jun 2026 13:56:07 GMT"
+    },
+    {
+      "headline": "How To Make Your Design System AI-Ready",
+      "deck": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and d",
+      "source": "Smashing Magazine",
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "pubDate": "Wed, 03 Jun 2026 13:00:00 GMT"
+    },
     {
       "headline": "Codex for Creating Diagrams",
       "deck": "Codex is an AI assistant created by OpenAI that helps with coding, research, and productivity tasks. It&#x2019;s also possible to use this tool&#x2026;Continue reading on UX Planet »",
@@ -11,396 +395,12 @@
       "pubDate": "Wed, 03 Jun 2026 11:51:12 GMT"
     },
     {
-      "headline": "How to Block Spam Calls and Spam Texts on iPhone and Android (2026)",
-      "deck": "Fight the scourge of unsolicited rings and pings from spammers, scammers, and telemarketers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
-      "pubDate": "Wed, 03 Jun 2026 11:31:00 +0000"
-    },
-    {
-      "headline": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "deck": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "pubDate": "Wed, 03 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "A Crash Course in Mountain Bike Suspension (2026)",
-      "deck": "How your front fork and rear shock work, so you can hurt less and have more fun.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/what-is-bike-suspension/",
-      "pubDate": "Wed, 03 Jun 2026 10:38:00 +0000"
-    },
-    {
-      "headline": "Monica Lewinsky Has Always Hated Notifications",
-      "deck": "The writer and anti-bullying activist is on social media, but to protect her nervous system, she prefers not to be alerted.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
-      "pubDate": "Wed, 03 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Data Center Operators Are Trying to Fix Their Water Use Problems",
-      "deck": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
-      "pubDate": "Wed, 03 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "deck": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-      "pubDate": "Wed, 03 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
-      "deck": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
-      "pubDate": "Wed, 03 Jun 2026 09:59:00 +0000"
-    },
-    {
-      "headline": "Enclayve Is a Drab Black Box for Your Private Group Chats",
-      "deck": "I put my family on a private social network, and all I got was this lousy group chat. At least it’s secure.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/enclayve-is-a-drab-black-box-for-your-private-group-chats/",
-      "pubDate": "Wed, 03 Jun 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "deck": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-      "pubDate": "Wed, 03 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Claude Code Pitfalls: Claude Code Won’t Do What You Told It: A Troubleshooting Catalog",
-      "deck": "Part 17: Why your config looks right but Claude ignores it, and the exact commands that diagnose it in secondsContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-pitfalls-claude-code-wont-do-what-you-told-it-a-troubleshooting-catalog-579b93d46115?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:36:13 GMT"
-    },
-    {
-      "headline": "Claude Code Casual, Pro, Elite: The Three Working Personas of Claude Code Mastery",
-      "deck": "Claude Code Personas Part 16: A short, honest map of how much Claude Code setup your work actually needs, so you stop measuring yourself&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-casual-pro-elite-the-three-working-personas-of-claude-code-mastery-cbd55d6cfbbc?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:36:11 GMT"
-    },
-    {
-      "headline": "MiniMax M3 Decodes 1M Tokens 15x Faster — and It Shouldn't Be This Cheap",
-      "deck": "On June 1, a Shanghai lab quietly shipped a model that decodes a 1-million-token context 15.6x faster than its own previous generation &#x2014;&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/minimax-m3-decodes-1m-tokens-15x-faster-and-it-shouldnt-be-this-cheap-5428f2476957?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:07:20 GMT"
-    },
-    {
-      "headline": "Using Amazon SQS for AI Agent Orchestration",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/using-amazon-sqs-for-ai-agent-orchestration-57d07248b405?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:05:43 GMT"
-    },
-    {
-      "headline": "I Ran a 1.5B-Active Model on My Laptop That Embarrassed a 26B by 46 Points",
-      "deck": "I did not expect a model that activates 1.5 billion parameters to walk all over one that activates 4 billion &#x2014; and to do it on a benchmark&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-ran-a-1-5b-active-model-on-my-laptop-that-embarrassed-a-26b-by-46-points-9a6e40ae69fc?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:05:02 GMT"
-    },
-    {
-      "headline": "How to Build a Self-Improving Company with AI",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-build-a-self-improving-company-with-ai-dbce05b79ca6?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:02:50 GMT"
-    },
-    {
-      "headline": "Part 3 — Implementation/Engine-Level: Choosing the Runtime That Gives You These for Free",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/part-3-implementation-engine-level-choosing-the-runtime-that-gives-you-these-for-free-b0e9081205b0?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 05:01:09 GMT"
-    },
-    {
-      "headline": "Peacock Promo Codes: 40% Off June 2026",
-      "deck": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Paramount+ Coupon Codes and Deals for June 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Valvoline Coupons and Promo Codes for June 2026",
-      "deck": "We've gathered all the top Valvoline coupons and promo codes for June 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Bose Promo Code: 40% Off for June 2026",
-      "deck": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hotels.com Coupon: 25% Off June 2026",
-      "deck": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Nike Promo Codes and Discounts: 30% for June 2026",
-      "deck": "Check out our deals for Nike this June 2026, including 15% off select purchases.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Newegg Promo Code: 10% Off in June 2026",
-      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Dyson Promo Codes: 25% Off in June 2026",
-      "deck": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Samsung Promo Code | June 2026",
-      "deck": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "AT&T Promo Codes: $50 Off This June 2026",
-      "deck": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Squarespace Promo Codes: 20% Off in June 2026",
-      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Wed, 03 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Part 2 — Serve-Level Speed: System Design That Stabilizes P95/P99",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/part-2-serve-level-speed-system-design-that-stabilizes-p95-p99-61543d856588?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 04:43:14 GMT"
-    },
-    {
-      "headline": "3-Part Series: LLM Latency in Production (Part 1)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/3-part-series-llm-latency-in-production-part-1-babc85a2128a?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 04:42:42 GMT"
-    },
-    {
-      "headline": "Claude Code: The AI Coding Partner Changing How Developers Build Software",
-      "deck": "1. What Is Claude Code?Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-the-ai-coding-partner-changing-how-developers-build-software-94dafceb8e20?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 03 Jun 2026 04:42:10 GMT"
-    },
-    {
-      "headline": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
-      "deck": "arXiv:2606.02673v1 Announce Type: new Abstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are provided to models at test time. In this pa",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02673",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-      "deck": "arXiv:2606.02775v1 Announce Type: new Abstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02775",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
-      "deck": "arXiv:2606.02791v1 Announce Type: new Abstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating diverse upstream hydrological processes. In ungaug",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02791",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
-      "deck": "arXiv:2606.02798v1 Announce Type: new Abstract: Many decision-support settings require systems that adapt to individual users, but evaluation data for this problem remain limited. Existing benchmarks for user understandi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02798",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
-      "deck": "arXiv:2606.02802v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong natural-language reasoning abilities for clinical decision support, but struggle to effectively model structured longitudinal el",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02802",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
-      "deck": "arXiv:2606.02812v1 Announce Type: new Abstract: Modeling patient trajectories from longitudinal electronic health records (EHRs) requires reasoning over sparse, noisy, and long-context multimodal sequences. Existing LLM-",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02812",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "An Exploration of Collision-based Enemy Morphology Generation",
-      "deck": "arXiv:2606.02832v1 Announce Type: new Abstract: Despite a great deal of prior research into Procedural Content Generation (PCG), relatively little prior work has explored generating enemies for video games. In particular",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02832",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
-      "deck": "arXiv:2606.02835v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) improve performance by generating explicit intermediate reasoning traces through increased test-time compute, yet the assumption that longer r",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02835",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
-      "deck": "arXiv:2606.02862v1 Announce Type: new Abstract: The rise of Large Language Models (LLMs) has enabled agentic AI capable of complex reasoning and tool use; however, deploying such autonomy in pervasive computing environme",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02862",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
-      "deck": "arXiv:2606.02863v1 Announce Type: new Abstract: AI-Driven Research Systems (ADRS) -- systems coupling LLMs with automated evaluation to discover algorithms, proofs, and designs -- are being optimized and adopted across d",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.02863",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 -0400"
-    },
-    {
       "headline": "UX Conference September Announced (Sep 14 - Sep 25)",
       "deck": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.",
       "source": "Nielsen Norman Group",
       "category": "ux",
       "url": "https://www.nngroup.com/training/september/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Wed, 03 Jun 2026 01:25:55 +0000"
-    },
-    {
-      "headline": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "deck": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "pubDate": "Tue, 02 Jun 2026 22:50:56 +0000"
-    },
-    {
-      "headline": "AI-created document fatigue: how I designed my way out of it",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 02 Jun 2026 21:53:50 GMT"
-    },
-    {
-      "headline": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "deck": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000"
-    },
-    {
-      "headline": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "deck": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "pubDate": "Tue, 02 Jun 2026 19:02:21 +0000"
-    },
-    {
-      "headline": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "deck": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "pubDate": "Tue, 02 Jun 2026 18:16:53 +0000"
-    },
-    {
-      "headline": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "deck": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "pubDate": "Tue, 02 Jun 2026 18:02:44 +0000"
-    },
-    {
-      "headline": "The most important part of building your taste is to hand it off",
-      "deck": "What having taste trapped in your head costs you and your teamContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 02 Jun 2026 11:08:16 GMT"
-    },
-    {
-      "headline": "Default Bias: Who chose your settings?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/default-bias-who-chose-your-settings-d2acde25551b?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 02 Jun 2026 11:07:25 GMT"
     }
   ]
 }
