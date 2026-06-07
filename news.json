@@ -1,14 +1,158 @@
 {
-  "generated_at": "2026-06-06T12:00:03.117Z",
+  "generated_at": "2026-06-07T12:00:02.282Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
-      "deck": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
+      "headline": "Sigma BF Review (2026): Eccentric but Strangely Lovable",
+      "deck": "Sigma’s new entry is both a bold design experiment and a pretty decent camera.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
-      "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000"
+      "url": "https://www.wired.com/review/sigma-bf-camera/",
+      "pubDate": "Sun, 07 Jun 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "You May Not Need a Giant Chef’s Knife When a Midsize Knife Does the Trick",
+      "deck": "These 5- to 6-inch blades are the secret workhorses of the kitchen, whether you’re a smaller person, have smaller hands, or just desire a smaller but still high-functioning knife.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/you-may-not-need-a-giant-chefs-knife-when-a-midsize-knife-does-the-trick/",
+      "pubDate": "Sun, 07 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+      "deck": "Lauf’s sleek new entry feels closer to a traditional mountain bike than anything I’ve ridden before.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/",
+      "pubDate": "Sun, 07 Jun 2026 10:22:00 +0000"
+    },
+    {
+      "headline": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
+      "deck": "After 16 weeks of daily use, our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+      "pubDate": "Sun, 07 Jun 2026 10:02:00 +0000"
+    },
+    {
+      "headline": "How to Watch Apple’s WWDC 2026 Keynote—and What to Expect",
+      "deck": "The annual developer event is where Apple announces operating system updates—like iOS 27—and maybe even teases future hardware. Here’s how to see it all.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-watch-apple-wwdc-2026/",
+      "pubDate": "Sun, 07 Jun 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Snowflake Summit 2026 : What Actually Shipped, and What It Means for the People Who Build on It",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/snowflake-summit-2026-what-actually-shipped-and-what-it-means-for-the-people-who-build-on-it-502b95acf82a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 07 Jun 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "How to Retrieve Anything. Fast.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-retrieve-anything-fast-ee4c1b5c4497?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "I Thought LoRA Was Just Cheap Fine-Tuning. This Paper Proved Me Wrong",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-thought-lora-was-just-cheap-fine-tuning-this-paper-proved-me-wrong-241e598af4b3?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 22:01:00 GMT"
+    },
+    {
+      "headline": "Anthropic Refused to Let the Pentagon Spy on Americans. It Got Blacklisted.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropic-refused-to-let-the-pentagon-spy-on-americans-it-got-blacklisted-b4dad6afebcb?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 21:01:00 GMT"
+    },
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "deck": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000"
+    },
+    {
+      "headline": "Beyond Basic RAG (Part 3): Agentic RAG, CRAG, Self-RAG and GraphRAG Explained | M012 | Mehul Ligade",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-basic-rag-part-3-agentic-rag-crag-self-rag-and-graphrag-explained-m012-mehul-ligade-6d880b566081?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Fine-tuning vs RAG vs MeMo: Where should LLM Knowledge Live?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/fine-tuning-vs-rag-vs-memo-where-should-llm-knowledge-live-b39f3e7ff564?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 19:01:00 GMT"
+    },
+    {
+      "headline": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
+      "deck": "Apple's WWDC nears: Here's what you can look forward to.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000"
+    },
+    {
+      "headline": "Observability for Production AI Agent Systems: The 4-Layer Instrumentation Stack",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/observability-for-production-ai-agent-systems-the-4-layer-instrumentation-stack-4117465ef2ae?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 18:01:00 GMT"
+    },
+    {
+      "headline": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "deck": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000"
+    },
+    {
+      "headline": "AI Operating System: Microsoft Just Made it Real.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-operating-system-microsoft-just-made-it-real-24efed0754a8?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 17:01:01 GMT"
+    },
+    {
+      "headline": "The Trump administration might take an equity stake in OpenAI",
+      "deck": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000"
+    },
+    {
+      "headline": "If You’re a Python Developer, These 7 AI APIs Could Be Your Biggest Advantage in 2026.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/if-youre-a-python-developer-these-7-ai-apis-could-be-your-biggest-advantage-in-2026-deac03bc92d3?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 16:01:01 GMT"
+    },
+    {
+      "headline": "Your Dictionary to Everything AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-dictionary-to-everything-ai-agents-2beef9e98659?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 06 Jun 2026 15:31:00 GMT"
     },
     {
       "headline": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
@@ -16,6 +160,38 @@
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "The psychological cost of moving too fast",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 06 Jun 2026 12:15:43 GMT"
+    },
+    {
+      "headline": "Employment expiry and the end of workplace loyalty",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/employment-expiry-and-the-end-of-workplace-loyalty-8d238865a6e9?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 06 Jun 2026 12:15:08 GMT"
+    },
+    {
+      "headline": "Your user doesn’t care about your organization chart",
+      "deck": "Your user never sees the org chart you fight over. So when it cracks, who do you let pay for it?Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/your-user-doesnt-care-about-your-organization-chart-39bdde6b3b9c?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 06 Jun 2026 12:13:33 GMT"
+    },
+    {
+      "headline": "Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It",
+      "deck": "Unjected and PureBlood.Dating are hosting in-person meetups—and have transformed the dating landscape into a political battleground over bodily autonomy.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/",
       "pubDate": "Sat, 06 Jun 2026 11:00:00 +0000"
     },
     {
@@ -73,166 +249,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
       "pubDate": "Sat, 06 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Claude Cowork Connectors: Cowork Is Only as Useful as What You Let It Touch",
-      "deck": "Part 3: Connectors, the browser, and computer use are three ways Claude reaches your real work. Knowing which one fires when is the&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/cowork-connectors-cowork-is-only-as-useful-as-what-you-let-it-touch-234f2712db69?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:15:32 GMT"
-    },
-    {
-      "headline": "I Once Destroyed a Website’s Google Traffic Overnight. Now Google May Do It to Millions More.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-once-destroyed-a-websites-google-traffic-overnight-now-google-may-do-it-to-millions-more-50c67630208e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:14:50 GMT"
-    },
-    {
-      "headline": "Claude Cowork Permissions: Keeping Claude Cowork on a Leash",
-      "deck": "Part 4: An agent that can read your files, drive your apps, and act on your behalf needs a different kind of trust. Here is how Cowork&#x2019;s&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/cowork-permissions-keeping-claude-cowork-on-a-leash-e0f965b15e23?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:14:35 GMT"
-    },
-    {
-      "headline": "The Real Bottleneck for AI Agents Isn’t Reasoning — It’s the Browser",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-real-bottleneck-for-ai-agents-isnt-reasoning-it-s-the-browser-aea368bbc932?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:14:24 GMT"
-    },
-    {
-      "headline": "I Gave My Entire Team a Private ChatGPT for $0 a Month. Here’s Exactly How.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-gave-my-entire-team-a-private-chatgpt-for-0-a-month-heres-exactly-how-044193be1ec8?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:14:13 GMT"
-    },
-    {
-      "headline": "Training GPT-Style Models on a GTX1050: What I Learned",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/training-gpt-style-models-on-a-gtx1050-what-i-learned-3a1534d75cc5?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:13:39 GMT"
-    },
-    {
-      "headline": "Your LLM Is Safe When Prompts Are Short.",
-      "deck": "Every backdoor defense scans for suspicious content in the input. MetaBackdoor uses input length as the trigger. The content is clean. The&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-llm-is-safe-when-prompts-are-short-a452ae509b34?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:06:51 GMT"
-    },
-    {
-      "headline": "AI in the Wild Is Nothing Like AI in the Room",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-in-the-wild-is-nothing-like-ai-in-the-room-e24200459c54?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:06:12 GMT"
-    },
-    {
-      "headline": "Claude Code's Creator Stopped Prompting Claude — He Writes Loops and Merges 150 PRs From His Phone",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-codes-creator-stopped-prompting-claude-he-writes-loops-and-merges-150-prs-from-his-phone-b096ba603c13?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:05:25 GMT"
-    },
-    {
-      "headline": "What Really Makes Cars Pollute? A Data Science Deep Dive into CO₂ Emissions",
-      "deck": "How I built a 98.8% accurate prediction model &#x2014; and discovered that the &#x201C;cleanest&#x201D; fuel is hiding a dirty secretContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-really-makes-cars-pollute-a-data-science-deep-dive-into-co%E2%82%82-emissions-87cfd61d1ac1?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 06 Jun 2026 08:04:29 GMT"
-    },
-    {
-      "headline": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "deck": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researcher",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "deck": "arXiv:2606.05304v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one anot",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05304",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "deck": "arXiv:2606.05316v1 Announce Type: new Abstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametri",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05316",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "deck": "arXiv:2606.05332v1 Announce Type: new Abstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05332",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-      "deck": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from t",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05334",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-      "deck": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, r",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05342",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-      "deck": "arXiv:2606.05357v1 Announce Type: new Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable stat",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05357",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Synthetic Contrastive Reasoning for Multi-Table Q&A",
-      "deck": "arXiv:2606.05382v1 Announce Type: new Abstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning across relational tables. Existing multi-tab",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05382",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
-      "deck": "arXiv:2606.05384v1 Announce Type: new Abstract: LLM-as-judge evaluation is widely used in benchmarking pipelines, where model outputs are compared and ranked using automated evaluators. These pipelines typically assume t",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05384",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
-      "deck": "arXiv:2606.05389v1 Announce Type: new Abstract: Lossy compression is essential for massive spatiotemporal data from scientific simulations. Learned compressors can achieve high compression ratios at moderate accuracy tar",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.05389",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 -0400"
     },
     {
       "headline": "Best Running Shoes, Tested and Reviewed (2026): Saucony, Adidas, Hoka",
@@ -323,11 +339,11 @@
       "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000"
     },
     {
-      "headline": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
-      "deck": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
+      "headline": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
+      "deck": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
       "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000"
     },
     {
@@ -339,11 +355,11 @@
       "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000"
     },
     {
-      "headline": "So Long, ‘Ferrynoia.’ Green Maritime Technology Is Here",
-      "deck": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
+      "headline": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
+      "deck": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
+      "url": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
       "pubDate": "Fri, 05 Jun 2026 16:00:00 +0000"
     },
     {
@@ -371,36 +387,20 @@
       "pubDate": "Fri, 05 Jun 2026 14:49:12 +0000"
     },
     {
+      "headline": "Inside Madonna’s Horny, Full-Throttle Grindr Takeover",
+      "deck": "From talking about sex with JFK Jr. to a surprise show in Times Square, the queen of pop is leveraging Grindr’s “gayborhood” to sell her new album.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/inside-madonnas-big-gay-grindr-takeover/",
+      "pubDate": "Fri, 05 Jun 2026 14:24:32 +0000"
+    },
+    {
       "headline": "Claude Code sucks at UI design",
       "deck": "Here&#x2019;s how to fix it in two simple stepsContinue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/claude-code-sucks-at-ui-design-6c83450e0090?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 05 Jun 2026 14:11:17 GMT"
-    },
-    {
-      "headline": "The &#8216;together tech&#8217; wave might be the most intriguing startup bet of 2026",
-      "deck": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing p",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "pubDate": "Fri, 05 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Design’s alive and kicking. It just got some flashy new names.",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 05 Jun 2026 11:14:48 GMT"
-    },
-    {
-      "headline": "Designing for care, not growth",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 05 Jun 2026 11:14:28 GMT"
     }
   ]
 }
