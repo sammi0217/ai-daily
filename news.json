@@ -1,7 +1,191 @@
 {
-  "generated_at": "2026-06-13T12:00:05.397Z",
+  "generated_at": "2026-06-14T12:00:02.674Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
+      "deck": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
+      "pubDate": "Sun, 14 Jun 2026 11:36:00 +0000"
+    },
+    {
+      "headline": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+      "deck": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/",
+      "pubDate": "Sun, 14 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
+      "deck": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outdoors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/suunto-spark/",
+      "pubDate": "Sun, 14 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?",
+      "deck": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked Strait of Hormuz. That number is impossible to verify.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+      "pubDate": "Sun, 14 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
+      "deck": "This handheld device combines red light therapy, microcurrents, sonic vibration, warmth, and a serum to support healthy hair growth.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
+      "pubDate": "Sun, 14 Jun 2026 09:35:00 +0000"
+    },
+    {
+      "headline": "7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster",
+      "deck": "The old-fashioned drip coffee maker has come a long way. These impressive machines can turn your barista into a stranger.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-coffee-makers/",
+      "pubDate": "Sun, 14 Jun 2026 09:01:00 +0000"
+    },
+    {
+      "headline": "Škoda’s New EV Will Likely Be Its Most Expensive Yet",
+      "deck": "The Škoda Peaq, which will debut this summer as the European automaker’s flagship model, seats seven and has an intriguing design. It will almost certainly come with a hefty price tag.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/",
+      "pubDate": "Sun, 14 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "As Anthropic suspends access to new models, India debates its AI future",
+      "deck": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000"
+    },
+    {
+      "headline": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
+      "deck": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "pubDate": "Sun, 14 Jun 2026 00:03:49 +0000"
+    },
+    {
+      "headline": "How to Make AI Worthy of Clinician Trust: A Framework That Actually Works",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "What it really feels like to be a digital accessibility advocate",
+      "deck": "Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation&#x2026;Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 13 Jun 2026 22:16:52 GMT"
+    },
+    {
+      "headline": "A shortlist of one: how AI became our shopping adviser",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 13 Jun 2026 22:16:33 GMT"
+    },
+    {
+      "headline": "LLM Observability with LangSmith — Part 2: Eval Gates, Prompt Versioning & Choosing Your Stack",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-observability-with-langsmith-part-2-eval-gates-prompt-versioning-choosing-your-stack-e607473320b5?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Your LLM Needs a Map!",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 21:01:00 GMT"
+    },
+    {
+      "headline": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "deck": "Once again, AI proves to be an unreliable source of information about AI.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "pubDate": "Sat, 13 Jun 2026 20:42:31 +0000"
+    },
+    {
+      "headline": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "deck": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000"
+    },
+    {
+      "headline": "Building a Gemini Live voice app with React, FastAPI and your own WebSocket protocol",
+      "deck": "The quickest way to try Gemini Live from a browser is to open a WebSocket straight to Google. For a weekend experiment, that is fine.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 19:01:00 GMT"
+    },
+    {
+      "headline": "Apple Wrote a $1 Billion Check to Google Four Days After Settling a $250 Million AI Lawsuit",
+      "deck": "the $1 billion Google Gemini deal just shifted Apple&#x2019;s AI strategy from building to renting. No, that doesn&#x2019;t mean they surrendered. Here&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 18:01:00 GMT"
+    },
+    {
+      "headline": "APDTFlow v0.4.0: From a Critical Bug to Forecasting “When”",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 17:01:01 GMT"
+    },
+    {
+      "headline": "OpenAI faces investigation from state attorneys general",
+      "deck": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000"
+    },
+    {
+      "headline": "Microsoft Now Ships Four MCP Servers for Your Data Stack. Here’s Which One Actually Fits Your Job.",
+      "deck": "Power BI Modeling MCP. The remote Power BI MCP. The Fabric MCP Server. The Data Agent MCP. Four official ways to connect AI to your&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/microsoft-now-ships-four-mcp-servers-for-your-data-stack-heres-which-one-actually-fits-your-job-bb54c6cfb07a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 16:01:01 GMT"
+    },
+    {
+      "headline": "99.9% Uptime Isn’t Enough: Rethinking SLOs for Probabilistic AI Systems",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/99-9-uptime-isnt-enough-rethinking-slos-for-probabilistic-ai-systems-4f0a5583e21d?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 15:01:03 GMT"
+    },
+    {
+      "headline": "I Built a Telegram Bot That Tells Me When My Stocks Are “Cheap” — Built on 50-Year-Old Math",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/build-telegram-bot-python-etf-monitor-255db3b7b4eb?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 13 Jun 2026 14:01:03 GMT"
+    },
     {
       "headline": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
       "deck": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
@@ -73,86 +257,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
       "pubDate": "Sat, 13 Jun 2026 06:30:00 +0000"
-    },
-    {
-      "headline": "Goal Analytics: A Fully Built Data Pipeline, Six Models, and a Real Backtest",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/goal-analytics-fully-built-data-pipeline-six-models-and-a-real-backtest-b6ae172c8192?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:17:50 GMT"
-    },
-    {
-      "headline": "I Built a Production Earthquake Monitoring Pipeline for Indonesia — Here’s What I Learned",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-built-a-production-earthquake-monitoring-pipeline-for-indonesia-heres-what-i-learned-a5fe557e8d67?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:17:14 GMT"
-    },
-    {
-      "headline": "Your Cortex Code Desktop Agent Can’t See Jira. Here’s How to Fix That.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-cortex-code-desktop-agent-cant-see-jira-here-s-how-to-fix-that-9a5432c6947e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:16:55 GMT"
-    },
-    {
-      "headline": "xAI Couldn't Beat Claude Code's Plugins, So Grok Swallowed Them — 224,691-Star Superpowers Included",
-      "deck": "On Wednesday June 11, xAI launched the Grok Build Plugin Marketplace &#x2014; a built-in catalog of exactly 6 plugins for its terminal coding&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/xai-couldnt-beat-claude-code-s-plugins-so-grok-swallowed-them-224-691-star-superpowers-included-cc5ffc91b2a7?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:16:40 GMT"
-    },
-    {
-      "headline": "I Saw My Senior Dev Add a .md File to Every PR. Turns Out It’s Saving Him Thousands of Tokens",
-      "deck": "I was sitting in a code review last month, watching a senior dev push a PR, and I noticed something weird. Along with the usual code&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-saw-my-senior-dev-add-a-md-file-to-every-pr-turns-out-its-saving-him-thousands-of-tokens-42fc1145df70?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:16:29 GMT"
-    },
-    {
-      "headline": "Claude Cowork Live Artifacts: From Static Report to Living Dashboard",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-cowork-live-artifacts-from-static-report-to-living-dashboard-544561169d2a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:16:05 GMT"
-    },
-    {
-      "headline": "Claude Cowork Plugins: Stop Rebuilding Your Setup",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-cowork-plugins-stop-rebuilding-your-setup-3c82f4ee5c68?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:16:02 GMT"
-    },
-    {
-      "headline": "The Coordination Gap That Keeps AI Pilots From Becoming Real Workflows",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-coordination-gap-that-keeps-ai-pilots-from-becoming-real-workflows-8a045d62adc0?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:15:44 GMT"
-    },
-    {
-      "headline": "NVIDIA Nemotron 3 Ultra: The 550B Open-Weight Model Built for Agents, Not Benchmarks",
-      "deck": "Most AI models are optimized to score well on evals. NVIDIA built this one to run well in production. Here is what that distinction&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/nvidia-nemotron-3-ultra-the-550b-open-weight-model-built-for-agents-not-benchmarks-cd308562d478?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 06:14:39 GMT"
-    },
-    {
-      "headline": "CloudSecAIOps: Building an Autonomous Cloud Self-Healer with GitOps and AI Agent",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/cloudsecaiops-building-an-autonomous-cloud-self-healer-with-gitops-and-ai-agent-340de70a3db7?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 05:51:43 GMT"
     },
     {
       "headline": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -297,110 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
       "pubDate": "Fri, 12 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Claude Opus 4.8 vs Fable 5",
-      "deck": "Which Claude AI model works best for design tasksContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-opus-4-8-vs-fable-5-2b0a442ccdcb?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 12 Jun 2026 13:47:09 GMT"
-    },
-    {
-      "headline": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
-      "deck": "After Elon Musk and Tommy Robinson stoked anger over a horrific knife attack in Belfast, a youth group linked to a global neo-Nazi movement quietly orchestrated anti-immigrant riots.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/",
-      "pubDate": "Fri, 12 Jun 2026 13:21:00 +0000"
-    },
-    {
-      "headline": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "pubDate": "Fri, 12 Jun 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "6 Best Digital Notebooks (2026): ReMarkable, Kobo, Kindle",
-      "deck": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "pubDate": "Fri, 12 Jun 2026 12:07:00 +0000"
-    },
-    {
-      "headline": "4 Best Floodlight Security Cameras (2026) After Thorough Testing",
-      "deck": "Light up and secure your driveway, backyard, or porch with a floodlight security camera.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-floodlight-security-cameras/",
-      "pubDate": "Fri, 12 Jun 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike",
-      "deck": "The pedal-assist can be jerky, but the throttle offers smooth, powerful acceleration.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/pedal-electric-h-t/",
-      "pubDate": "Fri, 12 Jun 2026 11:02:00 +0000"
-    },
-    {
-      "headline": "Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New Movie",
-      "deck": "Previous landmark scientific discoveries like the Higgs boson provide a better template for what it will take to confirm whether aliens have made contact with Earth.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
-      "pubDate": "Fri, 12 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
-      "deck": "The musician created his own line of loopers that record and layer riffs in a loop. The pricey Looper X does what it claims, but it isn’t without quirks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/ed-sheeran-looper-x/",
-      "pubDate": "Fri, 12 Jun 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-      "deck": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
-      "pubDate": "Fri, 12 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "You do your own time",
-      "deck": "There we were, a regular murderers’ row of librarians. Little Jo. Eustace. And me. Turning around in the nave of our library to greet the sound of footsteps, pistols leveled in case whoever was coming in didn’t respect s",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
-      "pubDate": "Fri, 12 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
-      "deck": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
-      "pubDate": "Fri, 12 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "You Probably Won’t Get Rich Off the SpaceX IPO",
-      "deck": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
-      "pubDate": "Fri, 12 Jun 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "deck": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straigh",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "pubDate": "Fri, 12 Jun 2026 09:00:00 +0000"
     }
   ]
 }
