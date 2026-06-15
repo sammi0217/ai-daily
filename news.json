@@ -1,7 +1,295 @@
 {
-  "generated_at": "2026-06-14T12:00:02.674Z",
+  "generated_at": "2026-06-15T12:00:02.225Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "How to Actually Run Meta’s Llama: Cloud, MacBook, Gaming Rig, and a Data-Center Beast",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-actually-run-metas-llama-cloud-macbook-gaming-rig-and-a-data-center-beast-5bf89171a790?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 11:31:01 GMT"
+    },
+    {
+      "headline": "The T-shaped UX professional is giving way to the polymath architect",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 15 Jun 2026 11:19:19 GMT"
+    },
+    {
+      "headline": "Past form, future use",
+      "deck": "On letting fifty centimeters speak three hundred yearsContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 15 Jun 2026 11:18:03 GMT"
+    },
+    {
+      "headline": "AI democratized the answer, not the understanding",
+      "deck": "Producing an answer became efortless. Knowing whether it is right did not.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 15 Jun 2026 11:17:44 GMT"
+    },
+    {
+      "headline": "Fluent AI, Liquid Glass, flaw as a feature, AX Design",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/fluent-ai-liquid-glass-flaw-as-a-feature-ax-design-4172e246cd8e?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 15 Jun 2026 11:16:01 GMT"
+    },
+    {
+      "headline": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+      "deck": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fighting.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
+      "pubDate": "Mon, 15 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
+      "deck": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
+      "pubDate": "Mon, 15 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
+      "deck": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
+      "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
+      "deck": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+      "pubDate": "Mon, 15 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "The US Government Is Letting a Key Data Center Regulation Expire",
+      "deck": "The federal government is planning to let a rule regulating federal data center operations sunset in September with no replacement.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+      "pubDate": "Mon, 15 Jun 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
+      "deck": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
+      "pubDate": "Mon, 15 Jun 2026 09:01:53 +0000"
+    },
+    {
+      "headline": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "deck": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+      "deck": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+      "pubDate": "Mon, 15 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The AI layoff wave is becoming a powder keg",
+      "deck": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000"
+    },
+    {
+      "headline": "Building AI Agents Part 3B: Testing and Evaluation Strategies for Production AI Agents",
+      "deck": "How to ensure reliability, accuracy, and trust before failures reach productionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-ai-agents-part-3b-testing-and-evaluation-strategies-for-production-ai-agents-0ee679145950?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:23:30 GMT"
+    },
+    {
+      "headline": "Text-to-SQL Looks Solved. It Isn’t",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/text-to-sql-looks-solved-it-isnt-bf076b9a4356?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:22:07 GMT"
+    },
+    {
+      "headline": "The Unpredictability of Probabilistic AI Safety",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/an-entirely-new-design-for-ai-safety-what-happened-when-i-tested-it-363ec7a894a4?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:20:59 GMT"
+    },
+    {
+      "headline": "China Dropped 3 Frontier Coding Models in One Week — and Not One Published a Real Benchmark",
+      "deck": "In the span of a few days in June 2026, three Chinese labs shipped three &#x201C;frontier&#x201D; open coding models: Zhipu&#x2019;s GLM-5.2, Moonshot&#x2019;s Kimi&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/china-dropped-3-frontier-coding-models-in-one-week-and-not-one-published-a-real-benchmark-1776398ddbe9?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:20:28 GMT"
+    },
+    {
+      "headline": "I Built the Same Agent in Cursor, Claude, and OpenAI's New SDKs — One Shouldn't Win With 9 Lines",
+      "deck": "The number that stopped me wasn&#x2019;t a benchmark. It was a line count: 9.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-the-same-agent-in-cursor-claude-and-openais-new-sdks-one-shouldn-t-win-with-9-lines-bb3f9b671729?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:19:17 GMT"
+    },
+    {
+      "headline": "From Biased Data to Biased Agents: How AI Bias Compounds as Models Get Smarter",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-biased-data-to-biased-agents-how-ai-bias-compounds-as-models-get-smarter-b1693d058a43?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:18:58 GMT"
+    },
+    {
+      "headline": "Claude Fable 5 Was Released and Shut Down 3 Days Later",
+      "deck": "I Built Two Portfolio Websites Before Fable 5 Was Shut DownContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/opus-4-8-vs-fable-5-portfolio-comparison-1edce72a7aa3?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:15:29 GMT"
+    },
+    {
+      "headline": "Green Evals, Wrong Answers",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/green-evals-wrong-answers-3b5c65606442?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:15:05 GMT"
+    },
+    {
+      "headline": "How to Reduce Elasticsearch Storage by 35% (Two Mapping Mistakes to Avoid)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-reduce-elasticsearch-storage-by-35-two-mapping-mistakes-to-avoid-1bf2a73bb0e3?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 15 Jun 2026 07:14:32 GMT"
+    },
+    {
+      "headline": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+      "deck": "arXiv:2606.13682v1 Announce Type: new Abstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging as the number of jobs and machines increases.",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13682",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "deck": "arXiv:2606.13683v1 Announce Type: new Abstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait ba",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13683",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "History of the Muddy Children Puzzle",
+      "deck": "arXiv:2606.13703v1 Announce Type: new Abstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic logic. Who came up with it first? This is uncle",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13703",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "deck": "arXiv:2606.13707v1 Announce Type: new Abstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13707",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "deck": "arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous ret",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13710",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "WorkBench Revisited: Workplace Agents Two Years On",
+      "deck": "arXiv:2606.13715v1 Announce Type: new Abstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-vis",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13715",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+      "deck": "arXiv:2606.13720v1 Announce Type: new Abstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the residual stream, recoverable by a difference-in",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13720",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+      "deck": "arXiv:2606.13722v1 Announce Type: new Abstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-aware interaction. It challenges the conventiona",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13722",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+      "deck": "arXiv:2606.13731v1 Announce Type: new Abstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall out of sync during multi-step analysis. As ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13731",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When Sample Selection Bias Precipitates Model Collapse",
+      "deck": "arXiv:2606.13732v1 Announce Type: new Abstract: The proliferation of recursive training on synthetic data can alleviate data scarcity but risks model collapse, where repeated training erodes distributional tails and homo",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.13732",
+      "pubDate": "Mon, 15 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Access is not mastery",
+      "deck": "The GUI democratized computing. The prompt interface democratized the GUI.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 14 Jun 2026 22:51:00 GMT"
+    },
+    {
+      "headline": "As AI companies race to go public, who else is along for the ride?",
+      "deck": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000"
+    },
+    {
+      "headline": "How difficult could it be to design a chatbot?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 14 Jun 2026 12:18:02 GMT"
+    },
     {
       "headline": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
       "deck": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
@@ -36,7 +324,7 @@
     },
     {
       "headline": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
-      "deck": "This handheld device combines red light therapy, microcurrents, sonic vibration, warmth, and a serum to support healthy hair growth.",
+      "deck": "This handheld device combines red-light therapy, microcurrents, sonic vibration, warmth, and a serum to support healthy hair growth.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
@@ -75,14 +363,6 @@
       "pubDate": "Sun, 14 Jun 2026 00:03:49 +0000"
     },
     {
-      "headline": "How to Make AI Worthy of Clinician Trust: A Framework That Actually Works",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-make-ai-worthy-of-clinician-trust-a-framework-that-actually-works-cb6d3ccd02db?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 23:01:01 GMT"
-    },
-    {
       "headline": "What it really feels like to be a digital accessibility advocate",
       "deck": "Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation&#x2026;Continue reading on UX Collective »",
       "source": "UX Collective",
@@ -97,22 +377,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
       "pubDate": "Sat, 13 Jun 2026 22:16:33 GMT"
-    },
-    {
-      "headline": "LLM Observability with LangSmith — Part 2: Eval Gates, Prompt Versioning & Choosing Your Stack",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/llm-observability-with-langsmith-part-2-eval-gates-prompt-versioning-choosing-your-stack-e607473320b5?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "Your LLM Needs a Map!",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-llm-needs-a-map-f145583abf61?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 21:01:00 GMT"
     },
     {
       "headline": "KPMG pulls report on AI usage due to apparent hallucinations",
@@ -131,276 +395,12 @@
       "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000"
     },
     {
-      "headline": "Building a Gemini Live voice app with React, FastAPI and your own WebSocket protocol",
-      "deck": "The quickest way to try Gemini Live from a browser is to open a WebSocket straight to Google. For a weekend experiment, that is fine.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-gemini-live-voice-app-with-react-fastapi-and-your-own-websocket-protocol-9752bed95182?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 19:01:00 GMT"
-    },
-    {
-      "headline": "Apple Wrote a $1 Billion Check to Google Four Days After Settling a $250 Million AI Lawsuit",
-      "deck": "the $1 billion Google Gemini deal just shifted Apple&#x2019;s AI strategy from building to renting. No, that doesn&#x2019;t mean they surrendered. Here&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/apple-wrote-a-1-billion-check-to-google-four-days-after-settling-a-250-million-ai-lawsuit-2d6f77216602?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 18:01:00 GMT"
-    },
-    {
-      "headline": "APDTFlow v0.4.0: From a Critical Bug to Forecasting “When”",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/apdtflow-v0-4-0-from-a-critical-bug-to-forecasting-when-37e912813a1d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 17:01:01 GMT"
-    },
-    {
       "headline": "OpenAI faces investigation from state attorneys general",
       "deck": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "pubDate": "Sat, 13 Jun 2026 16:47:18 +0000"
-    },
-    {
-      "headline": "Microsoft Now Ships Four MCP Servers for Your Data Stack. Here’s Which One Actually Fits Your Job.",
-      "deck": "Power BI Modeling MCP. The remote Power BI MCP. The Fabric MCP Server. The Data Agent MCP. Four official ways to connect AI to your&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/microsoft-now-ships-four-mcp-servers-for-your-data-stack-heres-which-one-actually-fits-your-job-bb54c6cfb07a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 16:01:01 GMT"
-    },
-    {
-      "headline": "99.9% Uptime Isn’t Enough: Rethinking SLOs for Probabilistic AI Systems",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/99-9-uptime-isnt-enough-rethinking-slos-for-probabilistic-ai-systems-4f0a5583e21d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 15:01:03 GMT"
-    },
-    {
-      "headline": "I Built a Telegram Bot That Tells Me When My Stocks Are “Cheap” — Built on 50-Year-Old Math",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/build-telegram-bot-python-etf-monitor-255db3b7b4eb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 13 Jun 2026 14:01:03 GMT"
-    },
-    {
-      "headline": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
-      "deck": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
-      "pubDate": "Sat, 13 Jun 2026 11:33:00 +0000"
-    },
-    {
-      "headline": "How Can Soccer Players Bend Their Shots in Midair?",
-      "deck": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-      "pubDate": "Sat, 13 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The FCC Wants to Kill Burner Phones",
-      "deck": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-      "pubDate": "Sat, 13 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
-      "deck": "Whether you want to buy cheaper electricity, store solar energy, or guard against outages, EcoFlow’s home battery might be just what you need.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
-      "pubDate": "Sat, 13 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
-      "deck": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
-      "pubDate": "Sat, 13 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "“What computers can’t do” — and what designers should",
-      "deck": "Don&#x2019;t skimp on the creative struggle. Improve your code literacy to elevate agentic execution.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 13 Jun 2026 09:26:57 GMT"
-    },
-    {
-      "headline": "The digital Kowloon",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 13 Jun 2026 09:26:02 GMT"
-    },
-    {
-      "headline": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-      "deck": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
-      "pubDate": "Sat, 13 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Here’s How AI Agents Can Protect EV Chargers",
-      "deck": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-      "pubDate": "Sat, 13 Jun 2026 06:30:00 +0000"
-    },
-    {
-      "headline": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "deck": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "pubDate": "Sat, 13 Jun 2026 04:14:19 +0000"
-    },
-    {
-      "headline": "Anthropic&#8217;s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "deck": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a b",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000"
-    },
-    {
-      "headline": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "deck": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "pubDate": "Sat, 13 Jun 2026 02:26:10 +0000"
-    },
-    {
-      "headline": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-      "deck": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-      "pubDate": "Fri, 12 Jun 2026 23:45:26 +0000"
-    },
-    {
-      "headline": "SpaceX IPO: Live updates on everything you need to know",
-      "deck": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), p",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "pubDate": "Fri, 12 Jun 2026 23:15:14 +0000"
-    },
-    {
-      "headline": "Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "deck": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000"
-    },
-    {
-      "headline": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-      "deck": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-      "pubDate": "Fri, 12 Jun 2026 21:16:25 +0000"
-    },
-    {
-      "headline": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
-      "deck": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "pubDate": "Fri, 12 Jun 2026 20:38:09 +0000"
-    },
-    {
-      "headline": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-      "deck": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
-      "pubDate": "Fri, 12 Jun 2026 18:03:25 +0000"
-    },
-    {
-      "headline": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
-      "deck": "A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
-      "pubDate": "Fri, 12 Jun 2026 17:57:34 +0000"
-    },
-    {
-      "headline": "Elon Musk Is the World’s First Trillionaire",
-      "deck": "SpaceX’s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
-      "pubDate": "Fri, 12 Jun 2026 17:54:45 +0000"
-    },
-    {
-      "headline": "Mistral is rumored to be raising €3B at €20B valuation",
-      "deck": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000"
-    },
-    {
-      "headline": "China Didn’t Make Americans Hate Data Centers",
-      "deck": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
-      "pubDate": "Fri, 12 Jun 2026 17:17:10 +0000"
-    },
-    {
-      "headline": "The Core Skill of Design in the AI Era: Critique",
-      "deck": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 12 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Context Architecture",
-      "deck": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 12 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "deck": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you as",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000"
-    },
-    {
-      "headline": "It’s hot IPO summer, and the MANGOS are ripe",
-      "deck": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you as",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "pubDate": "Fri, 12 Jun 2026 15:50:52 +0000"
-    },
-    {
-      "headline": "Crypto Guys Bought the Answer to the CIA’s Mysterious Kryptos Sculpture",
-      "deck": "They swear they haven’t peeked at the closely guarded secret and that they’ll keep the cryptographic competition going.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/crypto-guys-bought-the-answer-to-the-cias-mysterious-kryptos-sculpture/",
-      "pubDate": "Fri, 12 Jun 2026 14:00:00 +0000"
     }
   ]
 }
