@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-06-20T12:00:03.879Z",
+  "generated_at": "2026-06-21T12:00:03.674Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Agentic AI is not a Feature. It is a New System Design Paradigm.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agentic-ai-is-not-a-feature-it-is-a-new-system-design-paradigm-5bd793adfd03?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 11:31:01 GMT"
+    },
+    {
+      "headline": "Wooting 60HE v2: Peak Keyboard Perfection",
+      "deck": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/review-wooting-60he-v2/",
+      "pubDate": "Sun, 21 Jun 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "The Best NAS Devices for Your Home After Months of Testing",
+      "deck": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-nas-devices/",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "deck": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+      "deck": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Buying a Used iPhone Makes More Sense Than Ever",
+      "deck": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it'll last longer than ever.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+      "pubDate": "Sun, 21 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "A Critical Deadline Is Approaching for Windows and Linux Security",
+      "deck": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+      "pubDate": "Sun, 21 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "11 AI GitHub Repositories Every Developer Is Watching in 2026",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/11-ai-github-repositories-every-developer-is-watching-in-2026-991550639d02?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 06:46:08 GMT"
+    },
+    {
+      "headline": "A Startup Says It Cracked AI's Decade-Old Math Limit — Its LLM Read 12M Tokens for $8",
+      "deck": "A Miami startup says it ran a long-context job that costs about $2,600 on Anthropic&#x2019;s top model for $8 on its own LLM, read 12 million&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/a-startup-says-it-cracked-ais-decade-old-math-limit-its-llm-read-12m-tokens-for-8-2ee108a320b3?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 06:43:41 GMT"
+    },
+    {
+      "headline": "Building AI Agents Part 3C: Why Your Framework Choice Will Make or Break Your Production System",
+      "deck": "Why the framework that worked in your prototype will stall your production systemContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-ai-agents-part-3c-choosing-the-right-framework-for-agentic-ai-systems-94385179e8cb?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 06:43:13 GMT"
+    },
+    {
+      "headline": "Claude Code for Data Science Projects",
+      "deck": "Moving data science from &#x201C;a notebook full of one-off cells&#x201D; to a reproducible, agent-assisted workflow with Claude Code.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-for-data-science-projects-15001abc2ccd?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:53:50 GMT"
+    },
+    {
+      "headline": "Claude Code Design Patterns for AI Agents",
+      "deck": "How to move from &#x201C;chatting with an AI&#x201D; to engineering reliable, production-grade agent systems with Claude Code.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-design-patterns-for-ai-agents-460e3b6665bc?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:53:37 GMT"
+    },
+    {
+      "headline": "Part 12 -The 80GB Wall: GPU Infrastructure and Scheduling, Worked End to End",
+      "deck": "Part 11&#x2014;&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/part-12-the-80gb-wall-gpu-infrastructure-and-scheduling-worked-end-to-end-75cf0a345156?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:52:57 GMT"
+    },
+    {
+      "headline": "Cohere's 30B Coding Agent Beats Models 4x Its Size on One H100 — and It Shouldn't",
+      "deck": "A 30-billion-parameter model with only 3 billion active parameters has no business landing 0.6Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/coheres-30b-coding-agent-beats-models-4x-its-size-on-one-h100-and-it-shouldn-t-a61b62b4de72?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:52:05 GMT"
+    },
+    {
+      "headline": "Building AI Agents in Rust — part 4",
+      "deck": "State machines for multi-step tasksContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-ai-agents-in-rust-part-4-8f9770ec5021?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:51:55 GMT"
+    },
+    {
+      "headline": "At Machine Speed: How AI Has Broken the Cybersecurity Balance",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/at-machine-speed-how-ai-has-broken-the-cybersecurity-balance-6badfcb85d6e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 05:51:00 GMT"
+    },
+    {
+      "headline": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "deck": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "pubDate": "Sat, 20 Jun 2026 20:32:29 +0000"
+    },
+    {
+      "headline": "In the Weights is your new AI-centric vanity search",
+      "deck": "So ... what's your In the Weights score?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "pubDate": "Sat, 20 Jun 2026 19:41:11 +0000"
+    },
+    {
+      "headline": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "deck": "Jumper isn't the only big name leaving Google DeepMind.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000"
+    },
     {
       "headline": "Home Batteries: How They're Installed and How Much They Cost",
       "deck": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
@@ -36,7 +188,7 @@
     },
     {
       "headline": "Hackers Claim to Leak Stolen Madison Square Garden Data",
-      "deck": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
+      "deck": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email, and more.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
@@ -51,102 +203,6 @@
       "pubDate": "Sat, 20 Jun 2026 09:00:00 +0000"
     },
     {
-      "headline": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "deck": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "deck": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19469",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Diffusion Language Models: An Experimental Analysis",
-      "deck": "arXiv:2606.19475v1 Announce Type: new Abstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Di",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19475",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Hidden Anchors in Multi-Agent LLM Deliberation",
-      "deck": "arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19494",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-      "deck": "arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recom",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19501",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-      "deck": "arXiv:2606.19509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains un",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19509",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-      "deck": "arXiv:2606.19522v1 Announce Type: new Abstract: The retina offers a noninvasive window into neurodegenerative disease, capturing subtle structural patterns associated with a risk of future cognitive decline. Vision-langu",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19522",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Emergent Alignment",
-      "deck": "arXiv:2606.19527v1 Announce Type: new Abstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that rev",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19527",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-      "deck": "arXiv:2606.19538v1 Announce Type: new Abstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interacti",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19538",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-      "deck": "arXiv:2606.19559v1 Announce Type: new Abstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for und",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.19559",
-      "pubDate": "Sat, 20 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Embedding Model Selection: 10 Scenario-Based Questions & Solutions",
-      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/embedding-model-selection-10-scenario-based-questions-solutions-c6fd49c384e8?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 20 Jun 2026 00:01:01 GMT"
-    },
-    {
-      "headline": "“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less",
-      "deck": "52% of PCs have 16GB RAM or less. Here&#x2019;s what local LLMs actually fit, what the KV cache costs you, and why Mac and PC 16GB are not equal.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 23:01:01 GMT"
-    },
-    {
       "headline": "From PGP to Mythos: a brief history of export controls that didn&#8217;t stop anyone",
       "deck": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
       "source": "TechCrunch",
@@ -155,68 +211,12 @@
       "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000"
     },
     {
-      "headline": "Agent Sprawl Has Become an Operations Problem",
-      "deck": "Why AI agents need production controls before they become infrastructure debtContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agent-sprawl-has-become-an-operations-problem-742d8f8f4dec?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "How to Maximize OpenAI’s Codex",
-      "deck": "I&#x2019;ve written a lot of previous articles about Anthropic&#x2019;s Claude Code, and how I use it for programming, and different techniques that I&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-maximize-openais-codex-7a317de2902c?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 21:01:01 GMT"
-    },
-    {
       "headline": "Enterprise software is getting personal",
       "deck": "Three design trends reshaping the user experience of enterprise software as we know it.Continue reading on UX Collective »",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 19 Jun 2026 20:33:57 GMT"
-    },
-    {
-      "headline": "Understanding Dropout: How Randomly Removing Neurons Helps Neural Networks Generalize Better",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-dropout-how-randomly-removing-neurons-helps-neural-networks-generalize-better-d8ecd3ef8328?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 20:01:01 GMT"
-    },
-    {
-      "headline": "Azure AI Foundry: The Architect’s Blueprint for Building Enterprise AI at Scale",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/azure-ai-foundry-the-architects-blueprint-for-building-enterprise-ai-at-scale-6af9d68dc1b1?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 19:01:01 GMT"
-    },
-    {
-      "headline": "Memory Systems for Long-Running Agents: Episodic to Procedural",
-      "deck": "A single-session chatbot can get away with a flat context window. A long-running agent &#x2014; one that works across days, accumulates tool&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/memory-systems-for-long-running-agents-episodic-to-procedural-fdb6ebb19960?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 18:01:01 GMT"
-    },
-    {
-      "headline": "The Context Window Tax: Why Longer Memory Is Making Agents Dumber, Not Smarter",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-context-window-tax-why-longer-memory-is-making-agents-dumber-not-smarter-3470c4e7bf8f?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 17:31:00 GMT"
-    },
-    {
-      "headline": "Gemini Streaming TTS: How Developers Can Make AI Voice Apps Feel Instant",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gemini-streaming-tts-how-developers-can-make-ai-voice-apps-feel-instant-01ef246f398e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 17:01:03 GMT"
     },
     {
       "headline": "Incentive Structures for Diary Studies",
@@ -233,14 +233,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/vibe-architects/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 19 Jun 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "How I Design UI with Help of AI Tool, Without Ending up With Slop",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-i-design-ui-with-help-of-ai-tool-without-ending-up-with-slop-592ac513286b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 19 Jun 2026 16:31:00 GMT"
     },
     {
       "headline": "Is the US government&#8217;s Anthropic ban accidentally helping the brand?",
@@ -392,6 +384,14 @@
       "source": "MIT Tech Review",
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "pubDate": "Fri, 19 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Brain-computer interface trials are taking off",
+      "deck": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently witho",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
       "pubDate": "Fri, 19 Jun 2026 09:00:00 +0000"
     },
     {
