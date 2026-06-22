@@ -1,14 +1,222 @@
 {
-  "generated_at": "2026-06-21T12:00:03.674Z",
+  "generated_at": "2026-06-22T12:00:02.983Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Agentic AI is not a Feature. It is a New System Design Paradigm.",
+      "headline": "AgentGateway: One Data Plane to Govern Every AI Agent, Tool, and LLM",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/agentic-ai-is-not-a-feature-it-is-a-new-system-design-paradigm-5bd793adfd03?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 11:31:01 GMT"
+      "url": "https://pub.towardsai.net/agentgateway-one-data-plane-to-govern-every-ai-agent-tool-and-llm-a6f9513f6da9?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 11:31:01 GMT"
+    },
+    {
+      "headline": "Access is not mastery, the polymath UX architect, A2UI under the hood",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/access-is-not-mastery-the-polymath-ux-architect-a2ui-under-the-hood-88edc2288979?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 22 Jun 2026 11:14:54 GMT"
+    },
+    {
+      "headline": "These Are the 12 Ikea Products the Company's Design Chief Personally Owns",
+      "deck": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it's not a Billy bookcase.)",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "The UK Just Lost Its Sixth Prime Minister of the Decade",
+      "deck": "Keir Starmer's resignation on Monday morning paves the way for yet another leadership battle.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/",
+      "pubDate": "Mon, 22 Jun 2026 09:46:54 +0000"
+    },
+    {
+      "headline": "What sits on the engawa",
+      "deck": "On designing for wishes we cannot yet wish alone.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 22 Jun 2026 09:46:11 GMT"
+    },
+    {
+      "headline": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "deck": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "pubDate": "Mon, 22 Jun 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "World Cup Scams Are Getting Harder to Spot",
+      "deck": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "pubDate": "Mon, 22 Jun 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Inside the world’s deepest and longest subsea road tunnel",
+      "deck": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I a",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "pubDate": "Mon, 22 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "headline": "The Magic 8-Ball vs. Gen AI: a surprisingly interesting comparison",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 22 Jun 2026 06:59:22 GMT"
+    },
+    {
+      "headline": "Priceline Promo Codes & Coupons: 10% Off June",
+      "deck": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "pubDate": "Mon, 22 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "LG Promo Codes and Coupons for June 2026",
+      "deck": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "pubDate": "Mon, 22 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Dyson Promo Codes: 25% Off in June 2026",
+      "deck": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "pubDate": "Mon, 22 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Squarespace Promo Codes: 20% Off in June 2026",
+      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "pubDate": "Mon, 22 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Whoop Promo Codes: 20% Off This June 2026",
+      "deck": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "pubDate": "Mon, 22 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Teaching to the Test: Why Reward Models Learn the Dataset, Not the Values",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/teaching-to-the-test-why-reward-models-learn-the-dataset-not-the-values-3415281e9e57?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:58:32 GMT"
+    },
+    {
+      "headline": "Part 13 — Design the Recommender System",
+      "deck": "Part 12 &#x2014; https://medium.com/p/75cf0a345156Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/part-13-design-the-recommender-system-37a65ea32237?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:57:51 GMT"
+    },
+    {
+      "headline": "The Best Engineers Stopped Writing Prompts: The 4 Layers That Replaced Prompt Engineering",
+      "deck": "Boris Cherny built Claude Code. In June 2026 he said the quiet part out loud: &#x201C;I don&#x2019;t prompt Claude anymore. I have loops running that&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-best-engineers-stopped-writing-prompts-the-4-layers-that-replaced-prompt-engineering-2999a71f6346?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:57:27 GMT"
+    },
+    {
+      "headline": "Your Language Model Cannot Say Certain Sentences.",
+      "deck": "There are next-word predictions your model is mathematically forbidden from making. Not unlikely. Forbidden, the way a piano with too few&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-language-model-cannot-say-certain-sentences-d8c6ff3adad0?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:57:17 GMT"
+    },
+    {
+      "headline": "Every Python Concept a Generative AI Developer Actually Needs to Know",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/every-python-concept-a-generative-ai-developer-actually-needs-to-know-ba278864877b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:56:49 GMT"
+    },
+    {
+      "headline": "Build a Hybrid RAG System with FAISS, BM25, LangGraph and Claude Sonnet Model",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/build-a-hybrid-rag-system-with-faiss-bm25-langgraph-and-claude-sonnet-model-39ba3c6755bc?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 03:56:37 GMT"
+    },
+    {
+      "headline": "Loop Engineering: The Missing Governance Layer for Reliable AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/loop-engineering-the-missing-governance-layer-for-reliable-ai-agents-14961981ec0d?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 22 Jun 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "Google Paid $2.4B for Windsurf. Why Did Musk Pay $60B for Cursor?",
+      "deck": "Two beloved AI IDEs absorbed in twelve months, a 25x price gap, and the architectural reason the model inside barely matters.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/google-paid-2-4b-for-windsurf-why-did-musk-pay-60b-for-cursor-2cf67380c33b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Why ChatGPT Is More Than Autocomplete",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-chatgpt-is-more-than-autocomplete-233d4c2f7605?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 21 Jun 2026 22:31:00 GMT"
+    },
+    {
+      "headline": "Why the best part of the flow isn't the end",
+      "deck": "South Korea&#x2019;s &#x201C;dopamine sites&#x201D; let you order food that never arrives. Strip out the transaction and what&#x2019;s left still works &#x2014; which should&#x2026;Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/why-the-best-part-of-the-flow-isnt-the-end-e9fef73f6bb3?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 21 Jun 2026 18:23:01 GMT"
+    },
+    {
+      "headline": "Two modernisms",
+      "deck": "Mies hid the steel. Beck removed the geography. Radix stripped the styles. None of them were making a philosophical statement&#x200A;&#x2014;&#x200A;they were&#x2026;Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/two-modernisms-ba94169b79dd?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 21 Jun 2026 18:21:07 GMT"
+    },
+    {
+      "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "deck": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000"
+    },
+    {
+      "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "deck": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "pubDate": "Sun, 21 Jun 2026 14:40:28 +0000"
     },
     {
       "headline": "Wooting 60HE v2: Peak Keyboard Perfection",
@@ -19,19 +227,19 @@
       "pubDate": "Sun, 21 Jun 2026 11:01:00 +0000"
     },
     {
-      "headline": "The Best NAS Devices for Your Home After Months of Testing",
-      "deck": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-nas-devices/",
-      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
-    },
-    {
       "headline": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
       "deck": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Best NAS Devices for Your Home After Months of Testing",
+      "deck": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-nas-devices/",
       "pubDate": "Sun, 21 Jun 2026 10:30:00 +0000"
     },
     {
@@ -44,7 +252,7 @@
     },
     {
       "headline": "Buying a Used iPhone Makes More Sense Than Ever",
-      "deck": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it'll last longer than ever.",
+      "deck": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
@@ -52,83 +260,11 @@
     },
     {
       "headline": "A Critical Deadline Is Approaching for Windows and Linux Security",
-      "deck": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "deck": "The cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
       "pubDate": "Sun, 21 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "11 AI GitHub Repositories Every Developer Is Watching in 2026",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/11-ai-github-repositories-every-developer-is-watching-in-2026-991550639d02?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 06:46:08 GMT"
-    },
-    {
-      "headline": "A Startup Says It Cracked AI's Decade-Old Math Limit — Its LLM Read 12M Tokens for $8",
-      "deck": "A Miami startup says it ran a long-context job that costs about $2,600 on Anthropic&#x2019;s top model for $8 on its own LLM, read 12 million&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-startup-says-it-cracked-ais-decade-old-math-limit-its-llm-read-12m-tokens-for-8-2ee108a320b3?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 06:43:41 GMT"
-    },
-    {
-      "headline": "Building AI Agents Part 3C: Why Your Framework Choice Will Make or Break Your Production System",
-      "deck": "Why the framework that worked in your prototype will stall your production systemContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-ai-agents-part-3c-choosing-the-right-framework-for-agentic-ai-systems-94385179e8cb?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 06:43:13 GMT"
-    },
-    {
-      "headline": "Claude Code for Data Science Projects",
-      "deck": "Moving data science from &#x201C;a notebook full of one-off cells&#x201D; to a reproducible, agent-assisted workflow with Claude Code.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-for-data-science-projects-15001abc2ccd?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:53:50 GMT"
-    },
-    {
-      "headline": "Claude Code Design Patterns for AI Agents",
-      "deck": "How to move from &#x201C;chatting with an AI&#x201D; to engineering reliable, production-grade agent systems with Claude Code.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-design-patterns-for-ai-agents-460e3b6665bc?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:53:37 GMT"
-    },
-    {
-      "headline": "Part 12 -The 80GB Wall: GPU Infrastructure and Scheduling, Worked End to End",
-      "deck": "Part 11&#x2014;&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/part-12-the-80gb-wall-gpu-infrastructure-and-scheduling-worked-end-to-end-75cf0a345156?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:52:57 GMT"
-    },
-    {
-      "headline": "Cohere's 30B Coding Agent Beats Models 4x Its Size on One H100 — and It Shouldn't",
-      "deck": "A 30-billion-parameter model with only 3 billion active parameters has no business landing 0.6Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/coheres-30b-coding-agent-beats-models-4x-its-size-on-one-h100-and-it-shouldn-t-a61b62b4de72?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:52:05 GMT"
-    },
-    {
-      "headline": "Building AI Agents in Rust — part 4",
-      "deck": "State machines for multi-step tasksContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-ai-agents-in-rust-part-4-8f9770ec5021?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:51:55 GMT"
-    },
-    {
-      "headline": "At Machine Speed: How AI Has Broken the Cybersecurity Balance",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/at-machine-speed-how-ai-has-broken-the-cybersecurity-balance-6badfcb85d6e?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 21 Jun 2026 05:51:00 GMT"
     },
     {
       "headline": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -265,142 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
       "pubDate": "Fri, 19 Jun 2026 14:23:43 +0000"
-    },
-    {
-      "headline": "Claude Code Project Structure for Design Project",
-      "deck": "A strong Claude Code workspace structure can help you make the most of Claude Code. In this article, I want to share a project structure&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-code-project-structure-for-design-project-00cb36f3cbee?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 19 Jun 2026 14:15:08 GMT"
-    },
-    {
-      "headline": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
-      "deck": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "pubDate": "Fri, 19 Jun 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "The Download: AI bottleneck debates, and BCI trials take off",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLM",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "pubDate": "Fri, 19 Jun 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
-      "deck": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/the-best-ipad/",
-      "pubDate": "Fri, 19 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
-      "deck": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "pubDate": "Fri, 19 Jun 2026 11:31:00 +0000"
-    },
-    {
-      "headline": "The Best Art TVs",
-      "deck": "Even after your movies end, these art televisions look stunning on any wall.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-art-tvs/",
-      "pubDate": "Fri, 19 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
-      "deck": "For young people, the trend removes the stigma of being unmarried and alone, and recasts it as something to aim for, not avoid.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/solomaxxing/",
-      "pubDate": "Fri, 19 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "deck": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. T",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "pubDate": "Fri, 19 Jun 2026 10:40:24 +0000"
-    },
-    {
-      "headline": "Try One of macOS 27’s Best Features Right Now",
-      "deck": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
-      "pubDate": "Fri, 19 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
-      "deck": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
-      "pubDate": "Fri, 19 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
-      "deck": "Find the right wearable for your lifestyle, workouts, and goals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-fitness-trackers/",
-      "pubDate": "Fri, 19 Jun 2026 10:01:00 +0000"
-    },
-    {
-      "headline": "This World Cup, Bigger Might Not Really Be Better",
-      "deck": "The biggest World Cup ever is pushing fans, players, and host cities to their limits—and experts say this is only the beginning.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/",
-      "pubDate": "Fri, 19 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
-      "deck": "Even if peace holds up between the US and Iran, oil prices aren’t going back down to where they were any time soon.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
-      "pubDate": "Fri, 19 Jun 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
-      "deck": "Getting the future right is now big business. But at a festival in Berkeley, forecasters worry that sports markets could take the whole industry down.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/",
-      "pubDate": "Fri, 19 Jun 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "The inevitable weakness of metrics",
-      "deck": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which p",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "pubDate": "Fri, 19 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Brain-computer interface trials are taking off",
-      "deck": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently witho",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "pubDate": "Fri, 19 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "One skill separates the designers who survive 2026 from the ones who don’t",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 18 Jun 2026 22:05:51 GMT"
     }
   ]
 }
