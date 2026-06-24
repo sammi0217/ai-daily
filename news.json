@@ -1,22 +1,366 @@
 {
-  "generated_at": "2026-06-23T12:00:02.654Z",
+  "generated_at": "2026-06-24T12:00:05.367Z",
   "count": 50,
   "articles": [
     {
-      "headline": "I Built a Personal AI Operating System on a 4GB Laptop With No GPU. Here Is What Actually Broke.",
+      "headline": "Tool Calling Is Not an API Call: What Engineers Keep Getting Wrong",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/i-built-a-personal-ai-operating-system-on-a-4gb-laptop-with-no-gpu-here-is-what-actually-broke-2f74d98b8f87?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 11:31:01 GMT"
+      "url": "https://pub.towardsai.net/tool-calling-is-not-an-api-call-what-engineers-keep-getting-wrong-4100b33b45f9?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 11:31:00 GMT"
     },
     {
-      "headline": "We're Tracking Prime Day Live",
-      "deck": "Prime Day is here, and so is our live blog. We'll bring you deals, trends, and commentary throughout Amazon's annual summer sale.",
+      "headline": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
+      "deck": "Prime Day is still rolling, and so is our live blog. We'll bring you deals, trends, and commentary during the second day of Amazon's annual summer sale.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/",
-      "pubDate": "Tue, 23 Jun 2026 11:26:12 +0000"
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 11:28:17 +0000"
+    },
+    {
+      "headline": "18 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+      "deck": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/walmart-deals-apd-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 11:08:56 +0000"
+    },
+    {
+      "headline": "Form Smart Swim 2 LT Goggles Include Innovative Form Correction",
+      "deck": "These goggles have an excellent display, solid metric tracking, and an open-water “SwimStraight” feature. But the real smart tech requires a subscription.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/form-smart-swim-2-lt-goggles/",
+      "pubDate": "Wed, 24 Jun 2026 11:03:00 +0000"
+    },
+    {
+      "headline": "BenQ 4100i Review: Bringing the Cinema to Your Living Room",
+      "deck": "BenQ’s 4100i projector shines with its amazing color reproduction, excellent contrast, and a buttery cinematic mode.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/review-benq-w4100i-projector/",
+      "pubDate": "Wed, 24 Jun 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "Get $145 Off The Best Mesh Router This Prime Day 2026",
+      "deck": "Do you crave speedy, reliable Wi-Fi throughout your home? Snag one of these Prime Day router or mesh deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-router-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 10:24:59 +0000"
+    },
+    {
+      "headline": "Best Prime Day Action Cameras Deals I've Found (2026): GoPro, Insta360, DJI",
+      "deck": "Action cameras are perfect for capturing travel adventures, recording social media vlogs, and more. Make use of these great Prime Day deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prime-day-camera-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 10:14:29 +0000"
+    },
+    {
+      "headline": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+      "deck": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 10:12:50 +0000"
+    },
+    {
+      "headline": "London Climate Action Week Foiled By Climate Change",
+      "deck": "As record-breaking heat crushes Europe, organizers are moving events online to avoid exposing people to dangerously high temperatures.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/london-climate-action-week-foiled-by-climate-change/",
+      "pubDate": "Wed, 24 Jun 2026 10:11:14 +0000"
+    },
+    {
+      "headline": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
+      "deck": "These are the hottest Prime Day deals on our favorite TVs and streaming devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-tv-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 10:01:25 +0000"
+    },
+    {
+      "headline": "15 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
+      "deck": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 09:54:54 +0000"
+    },
+    {
+      "headline": "The 17 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+      "deck": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 09:28:13 +0000"
+    },
+    {
+      "headline": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+      "deck": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 09:22:04 +0000"
+    },
+    {
+      "headline": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+      "deck": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 09:13:12 +0000"
+    },
+    {
+      "headline": "This flying solar-powered platform could deliver better internet from the air",
+      "deck": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.&#160; Once there, the roughly 200-foot-long craft, built by the New ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "pubDate": "Wed, 24 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "All challenges big and small",
+      "deck": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator pow",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+      "pubDate": "Wed, 24 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+      "deck": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 08:48:53 +0000"
+    },
+    {
+      "headline": "The 16 Best Amazon Prime Day Deals Under $100 in 2026",
+      "deck": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 08:30:12 +0000"
+    },
+    {
+      "headline": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+      "deck": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 08:20:40 +0000"
+    },
+    {
+      "headline": "129 Prime Day Deals on Gear We Stand By, Up To 52% Off (2026)",
+      "deck": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/",
+      "pubDate": "Wed, 24 Jun 2026 08:18:43 +0000"
+    },
+    {
+      "headline": "Booking.com Promo Codes: 20% Off | June 2026",
+      "deck": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "pubDate": "Wed, 24 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Lenovo Coupon Codes and Deals in June 2026",
+      "deck": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "pubDate": "Wed, 24 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Peacock Promo Codes: 40% Off June 2026",
+      "deck": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "pubDate": "Wed, 24 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Hostinger Promo Code: 79% Off for June 2026",
+      "deck": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "pubDate": "Wed, 24 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "French Startup Uses Special Polymers to Better Help Nerves Heal",
+      "deck": "The biodegradable material can help improve healing after surgery—or an avocado-related accident.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/",
+      "pubDate": "Wed, 24 Jun 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Claude Code Is Quietly Killing Junior Developers",
+      "deck": "Last year, a mid-sized SaaS company in Austin cut its junior engineering headcount by 40 percent. No press release. No layoff tracker&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-is-quietly-killing-junior-developers-0dfc9a0484a3?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 04:53:04 GMT"
+    },
+    {
+      "headline": "I Tried 100+ Claude Skills. These 6 Actually Changed How I Work.",
+      "deck": "After testing more than 100 Claude Code skills, only six became part of my daily workflow. Here is what each one does.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tried-100-claude-skills-these-6-actually-changed-how-i-work-59e180a1c5b2?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 04:53:01 GMT"
+    },
+    {
+      "headline": "I Built the Same Agent in LangGraph, CrewAI, and AutoGen — Microsoft Quit the 56K-Star Favorite",
+      "deck": "I spent a weekend building the exact same two-agent pipeline three times &#x2014; once in LangGraph, once in CrewAI, and once in AutoGen &#x2014; and&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-built-the-same-agent-in-langgraph-crewai-and-autogen-microsoft-quit-the-56k-star-favorite-281eede1945c?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 04:52:23 GMT"
+    },
+    {
+      "headline": "Your LLM Obeys 99% of the Time. That 1% Is Taking Down Production.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-obeys-99-of-the-time-that-1-is-taking-down-production-a6ea1b6f00c1?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 04:52:14 GMT"
+    },
+    {
+      "headline": "Sakana Trained One AI to Command GPT-5.5,",
+      "deck": "Two days ago a Tokyo lab shipped a model that scored 73.7 on SWE-Bench Pro. Opus 4.8 gets 69.2 on the same test. GPT-5.5 gets 58.6. Gemini&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/sakana-trained-one-ai-to-command-gpt-5-5-ed3725ba9187?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 24 Jun 2026 04:51:58 GMT"
+    },
+    {
+      "headline": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "deck": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "deck": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in n",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Critique of Agent Model",
+      "deck": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" too",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "deck": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamenta",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "deck": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "deck": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and dif",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+      "deck": "arXiv:2606.24042v1 Announce Type: new Abstract: Recommender systems often induce filter bubbles and semantic homogenization by monolithically optimizing for immediate user engagement. Standard single-objective models, in",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24042",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "deck": "arXiv:2606.24047v1 Announce Type: new Abstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hards",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24047",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "deck": "arXiv:2606.24064v1 Announce Type: new Abstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer r",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24064",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "deck": "arXiv:2606.24099v1 Announce Type: new Abstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularit",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.24099",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
+      "deck": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "pubDate": "Tue, 23 Jun 2026 23:30:00 +0000"
+    },
+    {
+      "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "deck": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Loop Engineering in Claude Code",
+      "deck": "Essential Skill for Working With AI AgentsContinue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss----819cc2aaeee0---4",
+      "pubDate": "Tue, 23 Jun 2026 15:11:47 GMT"
+    },
+    {
+      "headline": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "deck": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "pubDate": "Tue, 23 Jun 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "deck": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "pubDate": "Tue, 23 Jun 2026 13:00:00 +0000"
     },
     {
       "headline": "How DesignOps roles are changing with new priorities",
@@ -35,348 +379,12 @@
       "pubDate": "Tue, 23 Jun 2026 11:09:13 GMT"
     },
     {
-      "headline": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
-      "deck": "I was convinced these devices were just clutter. I was proven wrong.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "pubDate": "Tue, 23 Jun 2026 11:02:00 +0000"
-    },
-    {
-      "headline": "The New ‘Odyssey’ Movie Is Sparking a Right-Wing Backlash. This Female Scholar Knows It Well",
-      "deck": "Emily Wilson’s 2017 translation of Homer’s epic—the first by a woman—was called a woke “abomination” by online reactionaries. Christopher Nolan’s film is facing similar critiques.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-new-odyssey-movie-is-sparking-a-right-wing-backlash-this-female-scholar-knows-it-well/",
-      "pubDate": "Tue, 23 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "HP OmniBook Ultra 14 Review: The Best Windows Laptop",
-      "deck": "HP’s OmniBook Ultra 14 is one of the best alternatives to the MacBook Air you can buy right now, and it’s more affordable than many of its Windows competitors.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/hp-omnibook-ultra-14/",
-      "pubDate": "Tue, 23 Jun 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "FCC Commissioner Anna Gomez Will Fight for Press Freedom—Until Trump Fires Her",
-      "deck": "President Trump probably can’t get rid of her yet, but FCC commissioner Anna Gomez still checks her email every day to see if he has. Until then, she wants to stand up for the First Amendment.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-anna-gomez-fcc/",
-      "pubDate": "Tue, 23 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Federal Workers Can’t Get the White House’s App Off Their Phones",
-      "deck": "“I deleted it as a test and it came immediately back,” says one government employee.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/story/government-workers-cant-get-the-white-houses-app-off-their-phones/",
-      "pubDate": "Tue, 23 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-      "deck": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 09:32:14 +0000"
-    },
-    {
-      "headline": "Prime Day Knocked $1,150 Off Our Top Pool-Cleaning Robot (2026)",
-      "deck": "Summer is for relaxing, not cleaning. Upgrade your backyard setup with a robot that cleans your pool for you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-beatbot-deals-june-2026/",
-      "pubDate": "Tue, 23 Jun 2026 09:30:04 +0000"
-    },
-    {
-      "headline": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-      "deck": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 09:24:53 +0000"
-    },
-    {
-      "headline": "Best Prime Day Smart Bird Feeder Deals (2026) Up to $150 Off",
-      "deck": "These camera-equipped feeders will introduce you to birds you never knew were visiting, and many WIRED favorites are on sale for Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 09:21:08 +0000"
-    },
-    {
-      "headline": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
-      "deck": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/prime-day-vacuum-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 09:04:38 +0000"
-    },
-    {
-      "headline": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-      "deck": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings peopl",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-      "pubDate": "Tue, 23 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "The $400 million machine powering the future of chipmaking",
-      "deck": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "pubDate": "Tue, 23 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "3 People Have Gotten Cancer-Detecting Implants in Their Brains",
-      "deck": "Coherence Neuro has started testing a brain-computer interface that could one day use electrical stimulation to prevent tumors from growing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/three-people-have-gotten-cancer-detecting-brain-implants/",
-      "pubDate": "Tue, 23 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More",
-      "deck": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:57:27 +0000"
-    },
-    {
-      "headline": "I Found the Best Prime Day Mushroom Coffee Deals (2026)",
-      "deck": "Not all mushroom coffees taste like dirt. These are the on-sale blends WIRED tried and actually recommends.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-mushroom-coffee-deals-june-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:47:05 +0000"
-    },
-    {
-      "headline": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
-      "deck": "These are the hottest Prime Day deals on our favorite TVs and streaming devices.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tv-deals-june-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:38:40 +0000"
-    },
-    {
-      "headline": "The Best Amazon Prime Day Deals Under $30 in 2026",
-      "deck": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30/",
-      "pubDate": "Tue, 23 Jun 2026 08:34:09 +0000"
-    },
-    {
-      "headline": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
-      "deck": "There’s no better time to get a Kindle than during Amazon's own sale event.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/kindle-prime-day-deals-june-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:32:02 +0000"
-    },
-    {
-      "headline": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
-      "deck": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:29:10 +0000"
-    },
-    {
-      "headline": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
-      "deck": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-2026/",
-      "pubDate": "Tue, 23 Jun 2026 08:11:47 +0000"
-    },
-    {
-      "headline": "Best Prime Day Deals We’d Spend Our Own Money On (2026)",
-      "deck": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals/",
-      "pubDate": "Tue, 23 Jun 2026 08:06:58 +0000"
-    },
-    {
-      "headline": "Pairing Time-Based Use Rates and a Whole-Home Battery Gets You Super Cheap Electricity",
-      "deck": "Power companies are pushing aggressive time-based use pricing. Here's how a regular consumer can benefit.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-slashed-my-power-bill-in-half-with-a-whole-home-battery/",
-      "pubDate": "Tue, 23 Jun 2026 07:01:00 +0000"
-    },
-    {
-      "headline": "Why I’m Creating an Open Source SDK for Generative UI for iOS and Android",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-i-m-creating-an-open-source-sdk-for-generative-ui-for-ios-and-android-a4a2a1cc000a?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:35:30 GMT"
-    },
-    {
-      "headline": "Guardrails for LLMs: How to Stop Your AI App From Saying Something Embarrassing in Production",
-      "deck": "Shipping an LLM feature without guardrails is like deploying code without error handling. It works fine until it doesn&#x2019;t and when it&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/guardrails-for-llms-how-to-stop-your-ai-app-from-saying-something-embarrassing-in-production-fc963a0bc4d4?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:34:41 GMT"
-    },
-    {
-      "headline": "CLAUDE.md Can’t Enforce Anything. Here’s the Hook I Use Instead.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-md-cant-enforce-anything-here-s-the-hook-i-use-instead-424be05a68f0?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:34:06 GMT"
-    },
-    {
-      "headline": "Model Experiment Tracking, Natively in Snowflake: A Practical Walkthrough using Snowflake Notebook",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/model-experiment-tracking-natively-in-snowflake-a-practical-walkthrough-using-snowflake-notebook-dd63cc4ebf85?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:33:13 GMT"
-    },
-    {
-      "headline": "I Fine-Tuned One Model 3 Ways: The $50,000 Run Forgot More Than the $1,500 One",
-      "deck": "I fine-tuned the same 8B model three ways: full fine-tuning, LoRA, and QLoRA. The version that needed roughly $50,000 of H100s won my&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-fine-tuned-one-model-3-ways-the-50-000-run-forgot-more-than-the-1-500-one-aa59b1e215a6?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:32:55 GMT"
-    },
-    {
-      "headline": "Could AI Data Centers Consume More Water Than Future Human Populations?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/could-ai-data-centers-consume-more-water-than-future-human-populations-97227088c81c?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:32:43 GMT"
-    },
-    {
-      "headline": "Claude Code: Text a Task to Claude and Walk Away: A Practical Guide to Dispatch",
-      "deck": "The worst kind of task is the one that appears when you cannot act on it. It hits while you are walking back from lunch, standing in line&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-text-a-task-to-claude-and-walk-away-a-practical-guide-to-dispatch-5db344c98825?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:32:08 GMT"
-    },
-    {
-      "headline": "The Weaver Stack: One Contract Layer for Safe LLM Agents",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-weaver-stack-one-contract-layer-for-safe-llm-agents-7f733cad5eac?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:31:20 GMT"
-    },
-    {
-      "headline": "MCP Tool Overload Breaks AI Agents — Here’s the Fix",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/mcp-tool-overload-breaks-ai-agents-heres-the-fix-46e51a288437?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 23 Jun 2026 05:31:02 GMT"
-    },
-    {
-      "headline": "Paramount+ Coupon Codes and Deals for June 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Best Hotels.com Coupon Codes for June 2026",
-      "deck": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Canon Promo Codes | June 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this June.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for June",
-      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sony-promo-code/",
-      "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Top Newegg Promo Codes and Coupons for June 2026",
-      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Tue, 23 Jun 2026 05:00:00 +0000"
-    },
-    {
       "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
       "deck": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "pubDate": "Tue, 23 Jun 2026 01:27:55 +0000"
-    },
-    {
-      "headline": "OpenAI launches new initiative to help find and patch open source bugs",
-      "deck": "OpenAI is using AI to help the open source community better protect itself.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "pubDate": "Tue, 23 Jun 2026 00:11:31 +0000"
-    },
-    {
-      "headline": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
-      "deck": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
-      "pubDate": "Mon, 22 Jun 2026 22:15:10 +0000"
-    },
-    {
-      "headline": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "deck": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-      "pubDate": "Mon, 22 Jun 2026 21:08:09 +0000"
-    },
-    {
-      "headline": "The AI world is getting &#8216;loopy&#8217;",
-      "deck": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "pubDate": "Mon, 22 Jun 2026 20:53:11 +0000"
-    },
-    {
-      "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia&#8217;s $20B not-acqui-hire deal",
-      "deck": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000"
-    },
-    {
-      "headline": "Nvidia wants to cut data center water use, but that&#8217;s not the same as fixing AI&#8217;s water problem",
-      "deck": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000"
     },
     {
       "headline": "The organizational cost of low taste",
@@ -393,14 +401,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
       "pubDate": "Mon, 22 Jun 2026 16:45:25 GMT"
-    },
-    {
-      "headline": "10 Claude Code Mistakes",
-      "deck": "Top 10 Claude Code Mistakes That Make Your Setup Risky, Noisy, or UnstableContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/10-claude-code-mistakes-056420f2ee87?source=rss----819cc2aaeee0---4",
-      "pubDate": "Mon, 22 Jun 2026 16:34:00 GMT"
     }
   ]
 }
