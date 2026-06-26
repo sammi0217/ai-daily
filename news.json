@@ -1,54 +1,398 @@
 {
-  "generated_at": "2026-06-25T12:00:04.284Z",
+  "generated_at": "2026-06-26T12:00:02.297Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
-      "deck": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+      "headline": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+      "deck": "Welcome to Walmart deals for folks who’d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:42:12 +0000"
+      "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 11:50:08 +0000"
     },
     {
-      "headline": "Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices (2026)",
-      "deck": "These are the hottest Prime Day deals on our favorite TVs and streaming devices.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:39:53 +0000"
-    },
-    {
-      "headline": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
-      "deck": "Discover the best Bluetooth speakers of all shapes and sizes, from waterproof clip-ons to a massive boom box.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-bluetooth-speakers/",
-      "pubDate": "Thu, 25 Jun 2026 11:32:00 +0000"
-    },
-    {
-      "headline": "How to Build a Smart Cart Kiosk That Doesn’t Need the Cloud (CLIP + Qdrant Edge + Gemma)",
-      "deck": "",
+      "headline": "How to Build a Memory Your AI Agents Can Actually Reuse",
+      "deck": "The useful part is not giving agents more context. It is making your research, notes, and sources available again in the next session.Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-build-a-smart-cart-kiosk-that-doesnt-need-the-cloud-clip-qdrant-edge-gemma-e7c02856350b?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 11:31:01 GMT"
+      "url": "https://pub.towardsai.net/how-to-build-a-memory-your-ai-agents-can-actually-reuse-72d8fea642a9?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 11:24:50 GMT"
+    },
+    {
+      "headline": "Someone designed this",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 26 Jun 2026 11:09:43 GMT"
+    },
+    {
+      "headline": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
+      "deck": "After testing each of the MacBooks myself, here's my honest advice on which is right for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "pubDate": "Fri, 26 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
+      "deck": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
+      "pubDate": "Fri, 26 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
+      "deck": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 10:54:18 +0000"
+    },
+    {
+      "headline": "Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)",
+      "deck": "Kids love 3D printers almost as much as K-Pop Demon Hunters. Just give in and get one.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/3d-printer-for-kids/",
+      "pubDate": "Fri, 26 Jun 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "The Gooner Music Video Boom Is Here",
+      "deck": "Porn music videos have circulated on the fringes of the internet for years. Featuring everything from narrative-driven stories to hypnosis, they are proliferating across X as “bate fuel” for gooners.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-gooner-music-video-boom-is-here/",
+      "pubDate": "Fri, 26 Jun 2026 10:30:00 +0000"
     },
     {
       "headline": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
       "deck": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:27:43 +0000"
+      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 10:17:23 +0000"
     },
     {
-      "headline": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+      "headline": "How Qatar Became FIFA’s Technology Test Lab",
+      "deck": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+      "pubDate": "Fri, 26 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+      "deck": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 09:17:04 +0000"
+    },
+    {
+      "headline": "My Favorite Coolers Are on Sale for Prime Day: Yeti, Igloo, Ninja, and More (2026)",
+      "deck": "We've been testing coolers for years, and our top picks are on sale for Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prime-day-cooler-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 09:14:48 +0000"
+    },
+    {
+      "headline": "The 26 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
       "deck": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 11:11:34 +0000"
+      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 09:12:20 +0000"
+    },
+    {
+      "headline": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "deck": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confi",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "pubDate": "Fri, 26 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+      "deck": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 08:22:47 +0000"
+    },
+    {
+      "headline": "The 28 Best Prime Day Deals Under $100 in 2026",
+      "deck": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:55:43 +0000"
+    },
+    {
+      "headline": "How to stop re-explaining yourself to Claude",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 26 Jun 2026 07:50:16 GMT"
+    },
+    {
+      "headline": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+      "deck": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:46:19 +0000"
+    },
+    {
+      "headline": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+      "deck": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:43:58 +0000"
+    },
+    {
+      "headline": "19 Best Prime Day Apple Deals Up to 30% Off: iPad, Apple Watch, Mac, and More",
+      "deck": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:41:22 +0000"
+    },
+    {
+      "headline": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+      "deck": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:37:32 +0000"
+    },
+    {
+      "headline": "I Found the Best iPad Deal for Amazon Prime Day This Year (2026)",
+      "deck": "With four iPads to choose from, there’s a clear winner in terms of discounts for Amazon Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-ipad-you-should-buy-on-amazon-prime-day-this-year-2026/",
+      "pubDate": "Fri, 26 Jun 2026 07:23:50 +0000"
+    },
+    {
+      "headline": "Building a Trusted Semantic Layer with Snowflake Horizon Context",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-a-trusted-semantic-layer-with-snowflake-horizon-context-20588c3a304b?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:27:31 GMT"
+    },
+    {
+      "headline": "Claude Agent SDK Streaming: Your AI Agent Already Knows What It Is Doing.",
+      "deck": "Part 3: A non-streaming agent has one deeply awkward moment: the wait. Turning the Claude Agent SDK&#x2019;s silent pause into a live, narrated&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-agent-sdk-streaming-your-ai-agent-already-knows-what-it-is-doing-b4485bcd9001?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:13:23 GMT"
+    },
+    {
+      "headline": "Claude Code: Drive Your Local Claude Code Session From Your Phone, Your Browser, Anywhere",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-drive-your-local-claude-code-session-from-your-phone-your-browser-anywhere-7885f4528a9c?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:13:02 GMT"
+    },
+    {
+      "headline": "Why Enterprise AI Needs a Governed Meaning Layer: Introducing Snowflake Horizon Context",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-enterprise-ai-needs-a-governed-meaning-layer-introducing-snowflake-horizon-context-7a15765c133f?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:12:49 GMT"
+    },
+    {
+      "headline": "LLM Wiki Obsidian Claude Tutorial",
+      "deck": "A step-by-step build of Andrej Karpathy&#x2019;s LLM Wiki pattern &#x2014; Obsidian as the window, Claude Code as the programmer, and a markdown wiki as&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-wiki-obsidian-claude-tutorial-87b0dc0872c4?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:12:22 GMT"
+    },
+    {
+      "headline": "Nvidia DGX Spark: The $4,699 Mini PC That Wants to Change Local AI Forever",
+      "deck": "Nvidia finally did it. They put a data center GPU on your desk. Not a watered-down consumer version of one. The actual Blackwell&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/nvidia-dgx-spark-the-4-699-mini-pc-that-wants-to-change-local-ai-forever-0a21edeb52bd?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:11:42 GMT"
+    },
+    {
+      "headline": "Building Production-Ready Agentic AI Systems with Docker and FastAPI",
+      "deck": "A practical guide to deploying scalable AI agents using FastAPI, Docker, orchestration workflows, and enterprise-ready architectureContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-production-ready-agentic-ai-systems-with-docker-and-fastapi-b4c2231b3945?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:04:43 GMT"
+    },
+    {
+      "headline": "Why Every Weight in a Neural Network Is Born Divided by the Square Root of n.",
+      "deck": "Before a network learns anything &#x2014; before it sees a single example &#x2014; it can already be dead.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-every-weight-in-a-neural-network-is-born-divided-by-the-square-root-of-n-d09dde79eb4c?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:04:30 GMT"
+    },
+    {
+      "headline": "I Shrank a 428B Model From 855GB to 128GB and It Still Beats GPT-5.5 at Coding",
+      "deck": "A 428-billion-parameter open-weight model scores 59.0% on SWE-Bench Pro, edging out GPT-5.5&#x2019;s 58.6% &#x2014; and the community just finished&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-shrank-a-428b-model-from-855gb-to-128gb-and-it-still-beats-gpt-5-5-at-coding-01e653d50fb9?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 26 Jun 2026 04:02:53 GMT"
+    },
+    {
+      "headline": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "deck": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "deck": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the oppor",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26158",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Refusal Lives Downstream of Persona in Chat Models",
+      "deck": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate m",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26161",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+      "deck": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26173",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+      "deck": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparat",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26203",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "deck": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritat",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26205",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+      "deck": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive relianc",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26267",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "deck": "arXiv:2606.26298v1 Announce Type: new Abstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that huma",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26298",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+      "deck": "arXiv:2606.26299v1 Announce Type: new Abstract: While generative AI has achieved remarkable success in solving problems with verifiable solutions, generating physical art that satisfies both strict geometric constraints ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26299",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "deck": "arXiv:2606.26300v1 Announce Type: new Abstract: A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develo",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.26300",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "deck": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "pubDate": "Fri, 26 Jun 2026 00:49:13 +0000"
+    },
+    {
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "deck": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000"
+    },
+    {
+      "headline": "Rethinking Figma in an AI world",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
+      "pubDate": "Thu, 25 Jun 2026 22:50:53 GMT"
+    },
+    {
+      "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "deck": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000"
+    },
+    {
+      "headline": "Hiring a product team in the UK? Here is what you need to know",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/hiring-a-product-team-in-the-uk-here-is-what-you-need-to-know-c8525bcf31d1?source=rss----819cc2aaeee0---4",
+      "pubDate": "Thu, 25 Jun 2026 18:32:27 GMT"
+    },
+    {
+      "headline": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "deck": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000"
+    },
+    {
+      "headline": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
+      "deck": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000"
+    },
+    {
+      "headline": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "deck": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "pubDate": "Thu, 25 Jun 2026 16:48:11 +0000"
     },
     {
       "headline": "Figma Config 2026 Recap",
@@ -57,350 +401,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/figma-config-2026-recap-1852ccf5e1d1?source=rss----819cc2aaeee0---4",
       "pubDate": "Thu, 25 Jun 2026 11:10:36 GMT"
-    },
-    {
-      "headline": "World Cup Teams Are in a Race for AI Dominance",
-      "deck": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "pubDate": "Thu, 25 Jun 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Amazon Prime Day 3 is for the Real Heads, And We're Live-Blogging For Them",
-      "deck": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 10:52:30 +0000"
-    },
-    {
-      "headline": "This Buy-It-For-Life Coffee Maker Just Won Prime Day",
-      "deck": "The Moccamaster Prime Day deal is the best price I've seen this year, on a coffee maker that will probably outlive you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/",
-      "pubDate": "Thu, 25 Jun 2026 10:47:03 +0000"
-    },
-    {
-      "headline": "The 23 Best Prime Day Deals Under $100 in 2026",
-      "deck": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 10:44:04 +0000"
-    },
-    {
-      "headline": "After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner",
-      "deck": "We’re finally getting Grand Theft Auto VI, poised to be one of the largest gaming releases in history.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
-      "pubDate": "Thu, 25 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
-      "deck": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 10:05:24 +0000"
-    },
-    {
-      "headline": "What Europe’s heat wave means for the power grid",
-      "deck": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particula",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "deck": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design c",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-      "deck": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-      "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
-      "deck": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 08:39:16 +0000"
-    },
-    {
-      "headline": "99 Prime Day Deals on Gear We Stand By, Up To 50% Off (2026)",
-      "deck": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
-      "pubDate": "Thu, 25 Jun 2026 08:24:32 +0000"
-    },
-    {
-      "headline": "I Deleted Every Static Claude API Key I Owned. Here’s the Keyless Migration, Provider by Provider.",
-      "deck": "Workload Identity Federation just hit GA &#x2014; the per-provider setup, and the precedence trap that cost me two quiet daysContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-deleted-every-static-claude-api-key-i-owned-heres-the-keyless-migration-provider-by-provider-e61fde9a4b0e?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:50:29 GMT"
-    },
-    {
-      "headline": "I Replaced ChatGPT With Local AI for 30 Days. Here’s What Actually Happened.",
-      "deck": "My ChatGPT Plus subscription was costing me $20 a month. That&#x2019;s $240 a year. For someone who uses AI every single day for drafting, coding&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-replaced-chatgpt-with-local-ai-for-30-days-heres-what-actually-happened-36cd59dff4b8?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:44:40 GMT"
-    },
-    {
-      "headline": "A Practical Guide to Evaluating a Cloud Migration Partner",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-practical-guide-to-evaluating-a-cloud-migration-partner-e15d927a53f4?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:44:14 GMT"
-    },
-    {
-      "headline": "AsyncIO in Python: What It Actually Is and Why Your ‘Async’ Code Might Not Be Async",
-      "deck": "Adding async and await to your code doesn&apos;t make it asynchronous. It makes it eligible to be asynchronous. There&apos;s a big difference and it&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/asyncio-in-python-what-it-actually-is-and-why-your-async-code-might-not-be-async-d10e17a7f237?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:43:13 GMT"
-    },
-    {
-      "headline": "Building Long-Running Claude Managed Agents: Why State Matters More Than Compute",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-long-running-claude-managed-agents-why-state-matters-more-than-compute-b5a35c03d680?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:43:02 GMT"
-    },
-    {
-      "headline": "The Building Blocks of LangGraph (Part 0)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-building-blocks-of-langgraph-1975904edac8?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:42:40 GMT"
-    },
-    {
-      "headline": "Five Ways Claude Code Runs Multi-Step Work. The Two Questions That Pick the Right One.",
-      "deck": "Single agent, subagents, skills, agent teams, dynamic workflows &#x2014; a builder&#x2019;s map, and the one that isn&#x2019;t really orchestrationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/five-ways-claude-code-runs-multi-step-work-the-two-questions-that-pick-the-right-one-1016ab7c8816?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:42:22 GMT"
-    },
-    {
-      "headline": "Choose Wisely: Models Should Follow Your Use Case.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/choose-wisely-models-should-follow-your-use-case-9e1c420fbbf6?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:42:09 GMT"
-    },
-    {
-      "headline": "You Do Not Need 50 Diffusion Steps. Here Is What Nvidia Proved at GTC.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/you-do-not-need-50-diffusion-steps-here-is-what-nvidia-proved-at-gtc-b95606a7a167?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 25 Jun 2026 07:39:56 GMT"
-    },
-    {
-      "headline": "Dell Coupon Codes: 20% Off for June 2026",
-      "deck": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Thu, 25 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "50% Off DoorDash Promo Code | June 2026",
-      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "pubDate": "Thu, 25 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "NordVPN Coupons: 75% Off, Plus 3 Months Free in June 2026",
-      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Thu, 25 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Google Workspace Promo Codes: 14% Off for June",
-      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Thu, 25 Jun 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-      "deck": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.23927",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-      "deck": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in n",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.23938",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Critique of Agent Model",
-      "deck": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" too",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.23991",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-      "deck": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamenta",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24010",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-      "deck": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24014",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
-      "deck": "arXiv:2606.24026v1 Announce Type: new Abstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized components do remains labor-intensive and dif",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24026",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
-      "deck": "arXiv:2606.24042v1 Announce Type: new Abstract: Recommender systems often induce filter bubbles and semantic homogenization by monolithically optimizing for immediate user engagement. Standard single-objective models, in",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24042",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
-      "deck": "arXiv:2606.24047v1 Announce Type: new Abstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hards",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24047",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
-      "deck": "arXiv:2606.24064v1 Announce Type: new Abstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer r",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24064",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
-      "deck": "arXiv:2606.24099v1 Announce Type: new Abstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularit",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2606.24099",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Europe is pushing back on Washington&#8217;s chip war",
-      "deck": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "pubDate": "Thu, 25 Jun 2026 00:08:36 +0000"
-    },
-    {
-      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "deck": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "pubDate": "Wed, 24 Jun 2026 23:26:52 +0000"
-    },
-    {
-      "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "deck": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "pubDate": "Wed, 24 Jun 2026 22:41:41 +0000"
-    },
-    {
-      "headline": "Your design system runs on one person’s judgment-AI is about to prove it",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
-      "pubDate": "Wed, 24 Jun 2026 22:38:19 GMT"
-    },
-    {
-      "headline": "AI was supposed to kill engineering jobs, but new data suggests they&#8217;re the most resilient",
-      "deck": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "pubDate": "Wed, 24 Jun 2026 21:56:41 +0000"
-    },
-    {
-      "headline": "AI researchers continue to leave Google for its rivals",
-      "deck": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000"
-    },
-    {
-      "headline": "Claude Code Performance Optimization Commands",
-      "deck": "Top 9 commands that help you monitor token usage, control context growth, and keep Claude Code efficientContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-code-performance-optimization-commands-a21119ab7453?source=rss----819cc2aaeee0---4",
-      "pubDate": "Wed, 24 Jun 2026 18:15:12 GMT"
-    },
-    {
-      "headline": "Loop Engineering in Claude Code",
-      "deck": "Essential Skill for Working With AI AgentsContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss----819cc2aaeee0---4",
-      "pubDate": "Tue, 23 Jun 2026 15:11:47 GMT"
-    },
-    {
-      "headline": "How DesignOps roles are changing with new priorities",
-      "deck": "Design Vision Matters More than Ever, When AI is Integrating with DesignContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 23 Jun 2026 11:11:43 GMT"
     }
   ]
 }
