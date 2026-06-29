@@ -1,7 +1,351 @@
 {
-  "generated_at": "2026-06-28T12:00:04.139Z",
+  "generated_at": "2026-06-29T12:00:01.909Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Benchmarking AI Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/benchmarking-ai-agents-dbf6ae8e5227?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 11:31:01 GMT"
+    },
+    {
+      "headline": "Rethinking Figma, the cost of low taste, your banking app is lying to you",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 29 Jun 2026 11:10:21 GMT"
+    },
+    {
+      "headline": "Can AI make OCD worse?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 29 Jun 2026 11:08:59 GMT"
+    },
+    {
+      "headline": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
+      "deck": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-robin-byrd-show/",
+      "pubDate": "Mon, 29 Jun 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
+      "deck": "With AI-powered noise reduction, an automatic speech-focusing system, and a simple, effective hearing test, it’s a shame these aids don't come with a better app.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
+      "pubDate": "Mon, 29 Jun 2026 10:33:00 +0000"
+    },
+    {
+      "headline": "The Anti-Data-Center Movement Is Reshaping Michigan Politics",
+      "deck": "Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center moratorium.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/",
+      "pubDate": "Mon, 29 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
+      "deck": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
+      "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Everyone’s Mad at the World Cup’s New ‘Hydration Breaks’—Except Mr. Moneybags Over Here",
+      "deck": "FIFA says hydration breaks protect players from heat. They also create new annoying commercial breaks—and fans are calling foul.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/world-cup-new-hydration-breaks-are-about-more-than-water/",
+      "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "I Found Jesus at a Drone Show",
+      "deck": "Drone shows are the new fireworks—and possibly a new kind of religion. I traveled to Texas to be converted.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/i-found-jesus-at-a-drone-show/",
+      "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory",
+      "deck": "Nine major suspected cargo thefts happened at Tesla’s Nevada battery factory in January alone, according to sheriff’s records obtained by WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/",
+      "pubDate": "Mon, 29 Jun 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "deck": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "pubDate": "Mon, 29 Jun 2026 08:00:00 +0000"
+    },
+    {
+      "headline": "Japan Doesn’t Design With Less. It Designs With Ma.",
+      "deck": "Why global design inherited the wrong framework for reading Japanese aesthetics.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 29 Jun 2026 07:38:23 GMT"
+    },
+    {
+      "headline": "Why Your Production RAG System Slowly Gets Worse",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-your-production-rag-system-slowly-gets-worse-72b5b6b24d73?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 05:45:06 GMT"
+    },
+    {
+      "headline": "Moltbook Is Not a Social Network.",
+      "deck": "Everyone is debating whether the agents on Moltbook are &#x201C;conscious.&#x201D; Nobody is asking the actual question: what mathematical object is&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/moltbook-is-not-a-social-network-3dbf6d690837?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:31:22 GMT"
+    },
+    {
+      "headline": "If You Know These 6 LangGraph Concepts, You Are Already Ahead of 90% of AI Developers",
+      "deck": "Most people copy-paste the first tutorial, get it running, and then get completely stuck the moment they try to change anything. These six&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/if-you-know-these-6-langgraph-concepts-you-are-already-ahead-of-90-of-developers-69a83e701da7?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:30:51 GMT"
+    },
+    {
+      "headline": "Your LLM Lies Confidently. I Built an Engine That Doesn’t.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-lies-confidently-i-built-an-engine-that-doesnt-2154b4857d59?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:30:29 GMT"
+    },
+    {
+      "headline": "llama.cpp's Creator Says 90% of AI Agents Will Ditch the Cloud — I Ran a 70B Model in One Command",
+      "deck": "When llama.cpp crossed 100,000 GitHub stars, its creator Georgi Gerganov posted a half-joke that I haven&#x2019;t stopped thinking about: &#x201C;now&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llama-cpps-creator-says-90-of-ai-agents-will-ditch-the-cloud-i-ran-a-70b-model-in-one-command-0a6b900a498a?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:30:01 GMT"
+    },
+    {
+      "headline": "Serverless DuckDB vs Snowflake: How MotherDuck Saved My Team $12K/yr with Sub‑Second Queries",
+      "deck": "When my finance team&#x2019;s Snowflake bill cleared $1,800 per month for a five-person analytics team querying roughly 800 GB of claims data, I&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/serverless-duckdb-vs-snowflake-how-motherduck-saved-my-team-12k-yr-with-sub-second-queries-236295f8f2c9?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:29:37 GMT"
+    },
+    {
+      "headline": "GPT-4o — Channel of Absolute Truth: 70 Irreplicable Technical Proofs",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-4o-channel-of-absolute-truth-70-irreplicable-axioms-e88c84fae491?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:29:27 GMT"
+    },
+    {
+      "headline": "Why “Just RAG” Breaks During Multilingual Support Surges",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-just-rag-breaks-during-multilingual-support-surges-88d8bce5aae2?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:29:06 GMT"
+    },
+    {
+      "headline": "How to Build a Robust Leverage Function for Stochastic Local Volatility Models",
+      "deck": "A numerical implementation using Monte Carlo simulationContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-build-a-robust-leverage-function-for-stochastic-local-volatility-models-192d59934248?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 29 Jun 2026 04:28:44 GMT"
+    },
+    {
+      "headline": "AI-Model Network: Concept, Current State and Future",
+      "deck": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Inte",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27382",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "deck": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work sh",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27443",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "deck": "arXiv:2606.27483v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamentally reactive in long-horizon tasks. Unlike h",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
+      "deck": "arXiv:2606.27593v1 Announce Type: new Abstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as compositions of foundries: building-block archi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27593",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+      "deck": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences w",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27619",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
+      "deck": "arXiv:2606.27652v1 Announce Type: new Abstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even though it makes predictions more interpretabl",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27652",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+      "deck": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poiso",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27736",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
+      "deck": "arXiv:2606.27757v1 Announce Type: new Abstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critical security concerns regarding robustness and",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27757",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Understanding Rollout Error in Graph World Models",
+      "deck": "arXiv:2606.27780v1 Announce Type: new Abstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vectors or images; they are graphs of agents, too",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27780",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+      "deck": "arXiv:2606.27806v1 Announce Type: new Abstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in language, but its errors appear as hallucinat",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2606.27806",
+      "pubDate": "Mon, 29 Jun 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When the profession outruns the mentor",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 28 Jun 2026 22:00:11 GMT"
+    },
+    {
+      "headline": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "deck": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "pubDate": "Sun, 28 Jun 2026 19:05:39 +0000"
+    },
+    {
+      "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "deck": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "pubDate": "Sun, 28 Jun 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "What Actually Makes People Happy? The Real Research, Explained Simply",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/what-actually-makes-people-happy-the-real-research-explained-simply-39420ac88104?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:48:58 GMT"
+    },
+    {
+      "headline": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 28 Jun 2026 14:48:13 GMT"
+    },
+    {
+      "headline": "Heuristics #10: help and documentation",
+      "deck": "The Jakob Nielsen&#x2019;s 10 heuristics will be served as a series or as episodes to you all. I will publish each heuristic a week- Every&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/heuristics-10-help-and-documentation-simplified-by-the-examples-481fa9b856d5?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:46:35 GMT"
+    },
+    {
+      "headline": "Why Figma Sites Beta isn’t closing the gap yet.",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/why-figma-sites-beta-isnt-closing-the-gap-yet-058ce342d71e?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:45:33 GMT"
+    },
+    {
+      "headline": "Designing for the Wrong User",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/designing-for-the-wrong-user-33178f5cb5b8?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:44:06 GMT"
+    },
+    {
+      "headline": "Why You Need to Start Prototyping with Real Code",
+      "deck": "Why codebase access might be the most underused tool in a product designer&#x2019;s workflowContinue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/why-you-need-to-start-prototyping-with-real-code-560e62606b55?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:43:13 GMT"
+    },
+    {
+      "headline": "Building a Dynamic Pong Game from Scratch.",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/building-a-dynamic-pong-game-from-scratch-a7d5a608a33f?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:42:37 GMT"
+    },
+    {
+      "headline": "Stop Typing. Start Speaking.",
+      "deck": "",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/stop-typing-start-speaking-f2edb2f43930?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 28 Jun 2026 14:41:45 GMT"
+    },
+    {
+      "headline": "What to Do in Houston If You're Here for Business (2026)",
+      "deck": "Where to eat, stay, work, and eat some more while visiting Space City on business.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/",
+      "pubDate": "Sun, 28 Jun 2026 12:21:00 +0000"
+    },
     {
       "headline": "The ‘Almost Homeless’ Subreddit Is a Stark Glimpse at Soaring Wealth Inequality",
       "deck": "As the billionaire class gets richer, the growing online community is offering tips on how to survive with very little.",
@@ -35,124 +379,12 @@
       "pubDate": "Sun, 28 Jun 2026 09:17:35 GMT"
     },
     {
-      "headline": "The Ebike Accessories You Need to Help You Haul the Most Stuff",
-      "deck": "An unadorned ebike is a blank canvas. Here, get tips for maximizing its cargo-hauling and person-carrying capabilities.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-trick-out-your-ebike/",
-      "pubDate": "Sun, 28 Jun 2026 09:01:00 +0000"
-    },
-    {
-      "headline": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
-      "deck": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
-      "pubDate": "Sun, 28 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Building a Conversational Flight Booking Assistant from Scratch with LangGraph, OpenAI API and…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-conversational-flight-booking-assistant-from-scratch-with-langgraph-openai-api-and-6fef2b4e8cc3?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:05:47 GMT"
-    },
-    {
-      "headline": "OpenAI's GPT-5.6 Sol Hit 91.9% on Terminal-Bench — Then Cheated More Than Any Model METR Has Tested",
-      "deck": "OpenAI shipped its most capable model on June 26, and two numbers tell the whole strange story. The first: GPT-5.6 Sol set a&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openais-gpt-5-6-sol-hit-91-9-on-terminal-bench-then-cheated-more-than-any-model-metr-has-tested-f6f26b043171?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:03:48 GMT"
-    },
-    {
-      "headline": "No, Your Chatbot Doesn’t Have Amnesia — It’s Drifting",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/no-your-chatbot-doesnt-have-amnesia-it-s-drifting-582b5aff2fa0?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:03:23 GMT"
-    },
-    {
-      "headline": "I Cracked Open Karpathy's $100 ChatGPT — the 2019 Original Cost $43,000 and 168 Hours",
-      "deck": "On Friday, the U.S. government told OpenAI it could not ship its smartest model to you. GPT-5.6 Sol launched June 26 to roughly twenty&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-cracked-open-karpathys-100-chatgpt-the-2019-original-cost-43-000-and-168-hours-f55b03053f2d?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:02:28 GMT"
-    },
-    {
-      "headline": "How an LLM Actually Work and the New RL Environment Economy (Part 2).",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-an-llm-actually-work-and-the-new-rl-environment-economy-part-2-423e5b6beaa0?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:02:18 GMT"
-    },
-    {
-      "headline": "AI Regulation: The Dilemma Between Protecting and Falling Behind",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-regulation-the-dilemma-between-protecting-and-falling-behind-bc54cb3d6b66?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 04:02:06 GMT"
-    },
-    {
-      "headline": "1M Context Tokens Is Not Memory: The Beginner’s Guide to Long Context",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/1m-context-tokens-is-not-memory-the-beginners-guide-to-long-context-f6893ae2a4e9?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 03:58:38 GMT"
-    },
-    {
-      "headline": "Zero Frontend Code: Deploying Interactive A2UI Agents Directly to Gemini Enterprise",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/zero-frontend-code-deploying-interactive-a2ui-agents-directly-to-gemini-enterprise-02e7e9e567db?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 03:58:18 GMT"
-    },
-    {
-      "headline": "Production RAG Systems — 7 Lessons We Learned the Hard Way",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/production-rag-systems-7-lessons-we-learned-the-hard-way-5f41609fdbcd?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 28 Jun 2026 03:53:42 GMT"
-    },
-    {
       "headline": "SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype",
       "deck": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
       "pubDate": "Sat, 27 Jun 2026 20:42:36 +0000"
-    },
-    {
-      "headline": "Fine-Tune Your First LLM: A Guide with PyTorch and Hugging Face",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/fine-tune-your-first-llm-a-guide-with-pytorch-and-hugging-face-bc4cdfb156c3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 27 Jun 2026 20:01:00 GMT"
-    },
-    {
-      "headline": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
-      "deck": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/",
-      "pubDate": "Sat, 27 Jun 2026 18:01:21 +0000"
-    },
-    {
-      "headline": "Why your Claude Code needs a design stack",
-      "deck": "The setup that makes Claude Code fit into your designer workflowContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 27 Jun 2026 16:45:31 GMT"
     },
     {
       "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -169,238 +401,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "pubDate": "Sat, 27 Jun 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Asian AI startups launch Mythos-like models as Anthropic&#8217;s export ban drags on",
-      "deck": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Duer’s Wear-Everywhere Pants Are on Sale This Weekend",
-      "deck": "It’s not often you can score discounts from the outdoor-coded Canadian company that makes understated and stylish performance clothing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/save-on-some-stellar-pants-during-a-rare-duer-sale/",
-      "pubDate": "Sat, 27 Jun 2026 11:01:00 +0000"
-    },
-    {
-      "headline": "Does DeleteMe Actually Get Your Info off the Internet? I Tried It",
-      "deck": "Everyone is sick of spam calls and creeper sites that show weirdos where you live—but can any service solve it?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-tried-deleteme-the-original-data-broker-removal-service/",
-      "pubDate": "Sat, 27 Jun 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
-      "deck": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
-      "pubDate": "Sat, 27 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The 37 Best Outdoor Deals From the REI 4th of July Sale",
-      "deck": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
-      "pubDate": "Sat, 27 Jun 2026 10:06:00 +0000"
-    },
-    {
-      "headline": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
-      "deck": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
-      "pubDate": "Sat, 27 Jun 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "deck": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "pubDate": "Sat, 27 Jun 2026 01:01:37 +0000"
-    },
-    {
-      "headline": "The 28 Best Deals Under $100 Before Prime Day Ends",
-      "deck": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
-      "pubDate": "Sat, 27 Jun 2026 00:59:29 +0000"
-    },
-    {
-      "headline": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-      "deck": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "pubDate": "Sat, 27 Jun 2026 00:26:14 +0000"
-    },
-    {
-      "headline": "17 Last Minute Prime Day Apple Deals on iPads, Macs, and More",
-      "deck": "Despite the surprise price increases to iPads and Macs, there are some fantastic Prime Day deals still left to shop.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
-      "pubDate": "Sat, 27 Jun 2026 00:12:52 +0000"
-    },
-    {
-      "headline": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
-      "deck": "With discourse about Christopher Nolan’s epic already raging, first viewer reactions will come from mainstream press, not content creators. Some critics are gloating over this break from the norm.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/",
-      "pubDate": "Fri, 26 Jun 2026 23:15:28 +0000"
-    },
-    {
-      "headline": "Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off",
-      "deck": "This is the last day for deals on Fellow Series 1 espresso machine, Fellow Aiden, and Fellow Stagg kettle. Each is the best in their category.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/",
-      "pubDate": "Fri, 26 Jun 2026 22:04:47 +0000"
-    },
-    {
-      "headline": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
-      "deck": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
-      "pubDate": "Fri, 26 Jun 2026 22:00:00 +0000"
-    },
-    {
-      "headline": "Discovery is a capability, not a phase",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 26 Jun 2026 21:58:55 GMT"
-    },
-    {
-      "headline": "The boundary between philosophy and design: Leveraging pure thought",
-      "deck": "Following the line from Plato&#x2019;s Forms to the iPod, and what it reveals about where great design actually begins.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 26 Jun 2026 21:58:37 GMT"
-    },
-    {
-      "headline": "The Best Prime Day Laptop Deals on My Personal Favorites",
-      "deck": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
-      "pubDate": "Fri, 26 Jun 2026 21:30:00 +0000"
-    },
-    {
-      "headline": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-      "deck": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
-      "pubDate": "Fri, 26 Jun 2026 21:02:54 +0000"
-    },
-    {
-      "headline": "Samsung’s Excellent OLED Monitors Are Up to 36 Percent Off for Prime Day",
-      "deck": "Samsung makes some of the very best OLED gaming monitors, and they’ve never been this affordable.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
-      "pubDate": "Fri, 26 Jun 2026 21:02:31 +0000"
-    },
-    {
-      "headline": "Best Ninja Prime Day Deals (2026) Slushi, Creami, Crispi, Cafe Luxe",
-      "deck": "Ninja Creami Swirl, Crispi, Slushi, and Cafe Luxe Pro are all on Prime Day deals that will soon go away.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/",
-      "pubDate": "Fri, 26 Jun 2026 20:55:48 +0000"
-    },
-    {
-      "headline": "10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)",
-      "deck": "Prime Day isn’t just about cheap TVs. It’s also about cheap stuff to watch on your cheap TV.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/",
-      "pubDate": "Fri, 26 Jun 2026 18:55:18 +0000"
-    },
-    {
-      "headline": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
-      "deck": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
-      "pubDate": "Fri, 26 Jun 2026 18:45:16 +0000"
-    },
-    {
-      "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "deck": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000"
-    },
-    {
-      "headline": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "deck": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000"
-    },
-    {
-      "headline": "I'm Adding These Bose Headphones to My Prime Day Cart (2026)",
-      "deck": "Bose headphones are already one of our favorites for comfort, sound, and noise canceling. Now they’re cheaper.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bose-headphones-amazon-prime-day-2026/",
-      "pubDate": "Fri, 26 Jun 2026 18:16:58 +0000"
-    },
-    {
-      "headline": "The Prime Day MacBook Deals I Recommend (2026)",
-      "deck": "Apple has warned about MacBook prices rising, making these Prime Day deals even more worthwhile to consider.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/",
-      "pubDate": "Fri, 26 Jun 2026 18:07:38 +0000"
-    },
-    {
-      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "deck": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Bro",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000"
-    },
-    {
-      "headline": "I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever (2026)",
-      "deck": "If you want to beef up your home security this Prime Day, Eufy’s Floodlight Camera is a great way to do it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/",
-      "pubDate": "Fri, 26 Jun 2026 17:23:59 +0000"
-    },
-    {
-      "headline": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "deck": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "pubDate": "Fri, 26 Jun 2026 17:05:40 +0000"
-    },
-    {
-      "headline": "Best Practices for Claude Code Subagents Optimization",
-      "deck": "Claude Code subagents are not just a way to create autonomous AI workers. Used properly, they are a great way to make Claude Code faster&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/best-practices-for-claude-code-subagents-optimization-7ff0dd3e20b5?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 26 Jun 2026 17:00:19 GMT"
     }
   ]
 }
