@@ -1,86 +1,214 @@
 {
-  "generated_at": "2026-07-03T12:00:05.295Z",
+  "generated_at": "2026-07-04T12:00:04.973Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Reflection Agent Architecture: Eliminating LLM Hallucinations via Tool-Grounded Iterative…",
+      "headline": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
+      "deck": "Top up your Qi2 Android phone or MagSafe iPhone with a magnetic wireless charging stand, pad, car charger, or power bank.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-magsafe-wireless-chargers/",
+      "pubDate": "Sat, 04 Jul 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "Where NASA Posts Its Best Space Photos, and How to Find Them",
+      "deck": "Explore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which are free to use and share.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
+      "pubDate": "Sat, 04 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone",
+      "deck": "Apple built a tool for people with cognitive disabilities, but I accidentally discovered it’s also the best kids’ phone setup no one is talking about—not even Apple.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "pubDate": "Sat, 04 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
+      "deck": "Plus: Alleged Scattered Spider hacking member extradited, dozens of license plate reader errors, and Indian officials are concerned about WhatsApp’s username rollout.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
+      "pubDate": "Sat, 04 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease",
+      "deck": "Aa large-scale study demonstrates that preservatives widely used in everyday processed foods may exacerbate common health risks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/",
+      "pubDate": "Sat, 04 Jul 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The Best Fourth of July Mattress Sales on Beds We Actually Sleep On (2026)",
+      "deck": "From cooling hybrids to organic latex beds, these are the mattresses WIRED reviewers actually sleep on and recommend.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-july-fourth-mattress-deals-2026/",
+      "pubDate": "Sat, 04 Jul 2026 09:08:00 +0000"
+    },
+    {
+      "headline": "Scientists Have Identified a New Fossil Species of Axolotl in Mexico",
+      "deck": "Ambystoma quetzalcoatli is the first fossil salamander to be formally identified in Mexico, revealing that axolotls have inhabited the country for millions of years.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/",
+      "pubDate": "Sat, 04 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The Missing Layer Between Vision and Decision",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/reflection-agent-architecture-eliminating-llm-hallucinations-via-tool-grounded-iterative-9a61767cc979?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:49:28 GMT"
+      "url": "https://pub.towardsai.net/the-missing-layer-between-vision-and-decision-21c4db73740f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:06:45 GMT"
     },
     {
-      "headline": "What Is Meta-Harness for AI Agents and Why Now?",
-      "deck": "The layer above Claude Code and Codex that 2026 made unavoidable, from someone who ships itContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-is-a-meta-harness-in-ai-2af40e788c2e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:35:10 GMT"
-    },
-    {
-      "headline": "DAG: The Backbone of Every ML Pipeline",
-      "deck": "Airflow, Dagster, and Prefect all rely on the same idea. Here&#x2019;s the explanation most tutorials skip.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/dag-the-backbone-of-every-ml-pipeline-e93fc8d01153?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:34:59 GMT"
-    },
-    {
-      "headline": "DPO vs SFT vs RLHF: Which Training Method Does Your Model Actually Need?",
-      "deck": "Everyone&#x2019;s fine-tuning. Nobody agrees on how. Here&#x2019;s the honest breakdown of three methods, when each one earns its complexity, and why&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/dpo-vs-sft-vs-rlhf-which-training-method-does-your-model-actually-need-0c53be82e49d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:34:27 GMT"
-    },
-    {
-      "headline": "Claude Code Routines: Running Your Agent on Anthropic’s Clock, Not Yours",
-      "deck": "Part 5: Every other way to automate Claude Code needs your machine on. Routines run in Anthropic&#x2019;s cloud, which means the work finally&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-routines-running-your-agent-on-anthropics-clock-not-yours-b30cf6861d01?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:34:11 GMT"
-    },
-    {
-      "headline": "Claude Agent SDK Observability and Production Hardening: Your Agent Works.",
-      "deck": "Part 9: A demo agent prints prose to a terminal. A production agent feeds a database, a UI, or the next service in a pipeline, and nobody&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-agent-sdk-observability-and-production-hardening-your-agent-works-8fbc36a81806?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:34:00 GMT"
-    },
-    {
-      "headline": "One AI Agent Scored 16.9% Then 92.8% on the Same Task — the Fix Wasn't a Smarter Model",
-      "deck": "I gave a frontier agent the exact same question three times and got three different answers: 266 sequences it should have returned, then&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/one-ai-agent-scored-16-9-then-92-8-on-the-same-task-the-fix-wasnt-a-smarter-model-19d32398ebc5?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:33:40 GMT"
-    },
-    {
-      "headline": "Why Most AI Workflow Agents Forget Everything Between Runs (And How EasyClaw Fixes It)",
-      "deck": "Most AI automation tools run your agent cold every time. EasyClaw&#x2019;s local-first harness compiles that reasoning once, then executes it&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-most-ai-workflow-agents-forget-everything-between-runs-and-how-easyclaw-fixes-it-dc7d4c3db4d4?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:33:02 GMT"
-    },
-    {
-      "headline": "9 Modern AI Concepts That Finally Made Sense After I Automated My Inbox With Claude",
-      "deck": "LLM, Agents, MCP, Context engineering, Loop engineering, subagents, Harness engineering, and Human-in-the-loop, explained through one real&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/9-modern-ai-concepts-that-finally-made-sense-after-i-automated-my-inbox-with-claude-96906b3f5166?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:32:38 GMT"
-    },
-    {
-      "headline": "Silent AI Agent Failures Are the Production Risk No Dashboard Catches",
+      "headline": "Paper Walkthrough — MACT: A Multi-Agent Collaboration Framework for Visual Document Understanding",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/silent-ai-agent-failures-are-the-production-risk-no-dashboard-catches-b690d82b00bd?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 03 Jul 2026 11:32:24 GMT"
+      "url": "https://pub.towardsai.net/paper-walkthrough-mact-a-multi-agent-collaboration-framework-for-visual-document-understanding-12a907406a1b?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:06:28 GMT"
+    },
+    {
+      "headline": "Spec-Driven Development Has a Missing Layer: Organizational Memory",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/spec-driven-development-has-a-missing-layer-organizational-memory-efcb530374d3?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:06:14 GMT"
+    },
+    {
+      "headline": "The Metaphysics of Data Engineering: Resolving Schema Drift and Ontology Alignment via 4D Dual-Axis…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-metaphysics-of-data-engineering-resolving-schema-drift-and-ontology-alignment-via-4d-dual-axis-964a0372d491?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:05:42 GMT"
+    },
+    {
+      "headline": "Why I Chose Claude Over Copilot for My Siebel Project",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-i-chose-claude-over-copilot-for-my-siebel-project-b872db636383?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:04:49 GMT"
+    },
+    {
+      "headline": "Understanding Oracle Siebel in a Cheat Sheet",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/understanding-oracle-siebel-in-a-cheat-sheet-1e2d3d9a2e3a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:04:27 GMT"
+    },
+    {
+      "headline": "Backpropagation & Matrix Calculus: Understanding the Math through Code",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/backpropagation-matrix-calculus-understanding-the-math-through-code-bb400445769c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:04:00 GMT"
+    },
+    {
+      "headline": "AI Document Processing: What Production Systems Actually Need",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-document-processing-what-production-systems-actually-need-967569941761?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:03:30 GMT"
+    },
+    {
+      "headline": "Confidence Aware Reinforcement Learning: Advancing Large Language Models in Dynamic Environments",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/confidence-aware-reinforcement-learning-advancing-large-language-models-in-dynamic-environments-2baa443dd13b?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 07:02:59 GMT"
+    },
+    {
+      "headline": "What Is a Token? ChatGPT’s Smallest Building Block Explained Simply",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-is-a-token-chatgpts-smallest-building-block-explained-simply-728b1a81661a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "The only AI glossary you&#8217;ll need this year",
+      "deck": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000"
+    },
+    {
+      "headline": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+      "deck": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "pubDate": "Fri, 03 Jul 2026 18:43:00 +0000"
+    },
+    {
+      "headline": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+      "deck": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+      "pubDate": "Fri, 03 Jul 2026 18:13:15 +0000"
+    },
+    {
+      "headline": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "deck": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted ey",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "pubDate": "Fri, 03 Jul 2026 17:34:37 +0000"
+    },
+    {
+      "headline": "Stop Reporting UX Activity and Report Business Outcomes",
+      "deck": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 03 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Crafting AI Explanations for Every Role in Your Enterprise",
+      "deck": "Different enterprise roles need different types of explanations for AI outputs.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 03 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "deck": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "pubDate": "Fri, 03 Jul 2026 16:30:00 +0000"
+    },
+    {
+      "headline": "Users Don’t Need More Tools: They Need Seamless Integrations",
+      "deck": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns F",
+      "source": "Smashing Magazine",
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+      "pubDate": "Fri, 03 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "headline": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it an",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "pubDate": "Fri, 03 Jul 2026 12:10:00 +0000"
     },
     {
       "headline": "Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa",
@@ -187,86 +315,6 @@
       "pubDate": "Fri, 03 Jul 2026 05:00:00 +0000"
     },
     {
-      "headline": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-      "deck": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods su",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01306",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-      "deck": "arXiv:2607.01366v1 Announce Type: new Abstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01366",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "The Wiola Architecture for Efficient Small Language Models",
-      "deck": "arXiv:2607.01394v1 Announce Type: new Abstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family includi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01394",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-      "deck": "arXiv:2607.01425v1 Announce Type: new Abstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a significant challenge. Existing code summarizati",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01425",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-      "deck": "arXiv:2607.01426v1 Announce Type: new Abstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve firm records, apply service policies, and e",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01426",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-      "deck": "arXiv:2607.01433v1 Announce Type: new Abstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar responses to open-ended questions, in what has ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01433",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-      "deck": "arXiv:2607.01436v1 Announce Type: new Abstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregres",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01436",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
-      "deck": "arXiv:2607.01465v1 Announce Type: new Abstract: Large language models are trained to predict the next token, not to act inside a specific API. In niche enterprise SaaS workflows -- where success means hitting the right e",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01465",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
-      "deck": "arXiv:2607.01470v1 Announce Type: new Abstract: Clinical protocol-execution tasks -- checking a lab value, applying a threshold, placing a correctly structured FHIR order -- are natural candidates for RL from world feedb",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01470",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
-      "deck": "arXiv:2607.01480v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR), along with recent selfdistillation variants such as SDPO, evaluates each rollout against a verifier and updates the p",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.01480",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 -0400"
-    },
-    {
       "headline": "The seven AI tools I actually use and when",
       "deck": "",
       "source": "UX Collective",
@@ -353,54 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000"
-    },
-    {
-      "headline": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
-      "deck": "The federal agency says it will temporarily schedule the drug, which has been called “gas station heroin,” as a controlled substance—a boon for MAHA and the mainstream kratom industry.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/",
-      "pubDate": "Thu, 02 Jul 2026 16:21:40 +0000"
-    },
-    {
-      "headline": "Achieving operational excellence with AI",
-      "deck": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasi",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "pubDate": "Thu, 02 Jul 2026 15:37:08 +0000"
-    },
-    {
-      "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "deck": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000"
-    },
-    {
-      "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "deck": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000"
-    },
-    {
-      "headline": "7 Lesser-Known Google Account Settings You Should Change",
-      "deck": "Adjust your options for things like account recovery, ad personalization, and which parts of your Google profile are shared publicly.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
-      "pubDate": "Thu, 02 Jul 2026 13:30:00 +0000"
-    },
-    {
-      "headline": "Caveman for Claude Code",
-      "deck": "How It Works, Why Use It, and How to Set It UpContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 02 Jul 2026 12:59:11 GMT"
     }
   ]
 }
