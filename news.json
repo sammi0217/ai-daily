@@ -1,7 +1,199 @@
 {
-  "generated_at": "2026-07-04T12:00:04.973Z",
+  "generated_at": "2026-07-05T12:00:03.855Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Deciphering the Complex Terms in Machine Learning (Gradient Based Optimization, Stochastic…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/deciphering-the-complex-terms-in-machine-learning-part-1-fef5e9584619?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:28:53 GMT"
+    },
+    {
+      "headline": "Anthropic Crushed a 2-Year Science Job Into Days — With Zero New Models",
+      "deck": "A neuroscientist at the Allen Institute used to spend up to two years writing a single long-form computational review. Since late June he&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropic-crushed-a-2-year-science-job-into-days-with-zero-new-models-a273a84ed27a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:28:32 GMT"
+    },
+    {
+      "headline": "Advanced Patterns: Multi-Tenant Semantic Layers, Real-Time Metrics, Semantic Layer as API, and…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/advanced-patterns-multi-tenant-semantic-layers-real-time-metrics-semantic-layer-as-api-and-bea3b3e3cd63?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:28:21 GMT"
+    },
+    {
+      "headline": "How to Avoid Being Replaced Without Selling Out to AI",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-avoid-being-replaced-without-selling-out-to-ai-4ca54962d184?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:27:12 GMT"
+    },
+    {
+      "headline": "Context Window Management Is the New Memory Management",
+      "deck": "A practical guide to token budgeting, context pruning, and conversation compression for LLM applications that don&#x2019;t blow up at scaleContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/context-window-management-is-the-new-memory-management-3a2b8ad7768e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:26:29 GMT"
+    },
+    {
+      "headline": "Video Scene Graph Generation Using VLMs",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/video-scene-graph-generation-using-vlms-d469e506797d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:26:12 GMT"
+    },
+    {
+      "headline": "Enterprise Governance and Operating Model for Snowflake Horizon Context",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/enterprise-governance-and-operating-model-for-snowflake-horizon-context-91407923239a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 11:25:46 GMT"
+    },
+    {
+      "headline": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
+      "deck": "Wildfire survivors call fire-prediction markets “morally reprehensible” and worry they could increase the risk of arson.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/",
+      "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 40+",
+      "deck": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-wifi-routers/",
+      "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Review: TCL RM9L RGB-Mini LED (2026)",
+      "deck": "This massive 85-inch model is highly customizable but jaw-droppingly expensive.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/tcl-rm9l/",
+      "pubDate": "Sun, 05 Jul 2026 10:34:00 +0000"
+    },
+    {
+      "headline": "Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy",
+      "deck": "Eight Sleep’s Pod 5 is great at its job, but its job is also watching you sleep.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/eight-sleep-pod-5/",
+      "pubDate": "Sun, 05 Jul 2026 10:08:00 +0000"
+    },
+    {
+      "headline": "What Are Fish Oil Supplements Good For? Here’s Your Crash Course",
+      "deck": "A large-scale clinical trial has shown that even long-term consumption of DHA—an omega-3 fatty acid found in abundance in oily fish—may not lead to improvements in cognitive function.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/",
+      "pubDate": "Sun, 05 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map",
+      "deck": "A new study has succeeded in mapping, on a global scale, the fungal network that supports plant life and helps regulate our planet’s climate.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/",
+      "pubDate": "Sun, 05 Jul 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "How to Avoid Spoilers Online and in Chats",
+      "deck": "You can minimize the risk of films and shows being spoiled for you by muting comments, conversations, and keywords on various platforms.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-avoid-spoilers-online/",
+      "pubDate": "Sun, 05 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "How to Control AI Agent Actions in Real Production Systems",
+      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-control-ai-agent-actions-in-real-production-systems-241c277fa8ed?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 05 Jul 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "How to Design Tool Schemas That Prevent Bad LLM Tool Calls",
+      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-design-tool-schemas-that-prevent-bad-llm-tool-calls-b163944e5e2a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "The face was never the point",
+      "deck": "Animacy isn&#x2019;t something you design. It&#x2019;s something you trigger.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 04 Jul 2026 22:58:03 GMT"
+    },
+    {
+      "headline": "How AI Agents Coordinate Multiple Tools Without Losing Control",
+      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-ai-agents-coordinate-multiple-tools-without-losing-control-058cb02cee3d?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 04 Jul 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "deck": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000"
+    },
+    {
+      "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "deck": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000"
+    },
+    {
+      "headline": "Never mind the prompts, here’s the thinking",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 04 Jul 2026 16:37:02 GMT"
+    },
+    {
+      "headline": "Alibaba reportedly bans employees from using Claude Code",
+      "deck": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000"
+    },
+    {
+      "headline": "Submit Your Questions: Inside The World of Online Romance Scams",
+      "deck": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+      "pubDate": "Sat, 04 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "deck": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000"
+    },
     {
       "headline": "15 Best MagSafe Wireless Chargers (2026): Power Banks, Stands, Pads, and Travel Chargers",
       "deck": "Top up your Qi2 Android phone or MagSafe iPhone with a magnetic wireless charging stand, pad, car charger, or power bank.",
@@ -59,86 +251,6 @@
       "pubDate": "Sat, 04 Jul 2026 09:00:00 +0000"
     },
     {
-      "headline": "The Missing Layer Between Vision and Decision",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-missing-layer-between-vision-and-decision-21c4db73740f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:06:45 GMT"
-    },
-    {
-      "headline": "Paper Walkthrough — MACT: A Multi-Agent Collaboration Framework for Visual Document Understanding",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/paper-walkthrough-mact-a-multi-agent-collaboration-framework-for-visual-document-understanding-12a907406a1b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:06:28 GMT"
-    },
-    {
-      "headline": "Spec-Driven Development Has a Missing Layer: Organizational Memory",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/spec-driven-development-has-a-missing-layer-organizational-memory-efcb530374d3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:06:14 GMT"
-    },
-    {
-      "headline": "The Metaphysics of Data Engineering: Resolving Schema Drift and Ontology Alignment via 4D Dual-Axis…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-metaphysics-of-data-engineering-resolving-schema-drift-and-ontology-alignment-via-4d-dual-axis-964a0372d491?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:05:42 GMT"
-    },
-    {
-      "headline": "Why I Chose Claude Over Copilot for My Siebel Project",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-i-chose-claude-over-copilot-for-my-siebel-project-b872db636383?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:04:49 GMT"
-    },
-    {
-      "headline": "Understanding Oracle Siebel in a Cheat Sheet",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-oracle-siebel-in-a-cheat-sheet-1e2d3d9a2e3a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:04:27 GMT"
-    },
-    {
-      "headline": "Backpropagation & Matrix Calculus: Understanding the Math through Code",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/backpropagation-matrix-calculus-understanding-the-math-through-code-bb400445769c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:04:00 GMT"
-    },
-    {
-      "headline": "AI Document Processing: What Production Systems Actually Need",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-document-processing-what-production-systems-actually-need-967569941761?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:03:30 GMT"
-    },
-    {
-      "headline": "Confidence Aware Reinforcement Learning: Advancing Large Language Models in Dynamic Environments",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/confidence-aware-reinforcement-learning-advancing-large-language-models-in-dynamic-environments-2baa443dd13b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 07:02:59 GMT"
-    },
-    {
-      "headline": "What Is a Token? ChatGPT’s Smallest Building Block Explained Simply",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-is-a-token-chatgpts-smallest-building-block-explained-simply-728b1a81661a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 00:01:01 GMT"
-    },
-    {
       "headline": "The only AI glossary you&#8217;ll need this year",
       "deck": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "source": "TechCrunch",
@@ -164,7 +276,7 @@
     },
     {
       "headline": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "deck": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted ey",
+      "deck": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted ey",
       "source": "MIT Tech Review",
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -289,118 +401,6 @@
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
       "pubDate": "Fri, 03 Jul 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "The 11 Best TV Shows to Stream This Month (July 2026)",
-      "deck": "House of the Dragon, Adventure Time: Side Quests, and The Man Will Burn are just a few of the TV shows you should be watching right now.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-11-best-shows-to-stream-right-now/",
-      "pubDate": "Fri, 03 Jul 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
-      "deck": "In September, some PlayStation customers will no longer be able to access some purchased movies and shows. It underscores the fact that digital purchases are really more like long-term rentals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
-      "pubDate": "Fri, 03 Jul 2026 08:30:00 +0000"
-    },
-    {
-      "headline": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
-      "deck": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
-      "pubDate": "Fri, 03 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "The seven AI tools I actually use and when",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Jul 2026 03:56:18 GMT"
-    },
-    {
-      "headline": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
-      "deck": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
-      "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "headline": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
-      "deck": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000"
-    },
-    {
-      "headline": "I’ve Watched 10 UI Trends Rise and Die. Most Designers Still Can’t Name Half of Them.",
-      "deck": "You have touched all ten of these today. Maybe before you even got out of bed.Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/ui-design-styles-explained-670cfabdf430?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 02 Jul 2026 22:01:24 GMT"
-    },
-    {
-      "headline": "The Fable 5 Blackout: What It Proved About Running Claude Code and Hermes Together",
-      "deck": "Fable 5 went dark worldwide in under an hour. Here&#x2019;s the pattern that makes the vendor irrelevantContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/the-fable-5-blackout-what-it-proved-about-running-claude-code-and-hermes-together-6d35b65397b9?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 02 Jul 2026 22:00:52 GMT"
-    },
-    {
-      "headline": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-      "deck": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/love-island-usa-app/",
-      "pubDate": "Thu, 02 Jul 2026 20:47:27 +0000"
-    },
-    {
-      "headline": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-      "deck": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000"
-    },
-    {
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-      "deck": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "pubDate": "Thu, 02 Jul 2026 18:44:02 +0000"
-    },
-    {
-      "headline": "Anthropic is discussing a new custom chip with Samsung",
-      "deck": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "pubDate": "Thu, 02 Jul 2026 18:31:09 +0000"
-    },
-    {
-      "headline": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
-      "deck": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
-      "pubDate": "Thu, 02 Jul 2026 18:30:59 +0000"
-    },
-    {
-      "headline": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "deck": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "pubDate": "Thu, 02 Jul 2026 18:01:20 +0000"
     }
   ]
 }
