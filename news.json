@@ -1,62 +1,198 @@
 {
-  "generated_at": "2026-07-05T12:00:03.855Z",
+  "generated_at": "2026-07-06T12:00:05.703Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Deciphering the Complex Terms in Machine Learning (Gradient Based Optimization, Stochastic…",
+      "headline": "MCP Optimization Best Practices",
+      "deck": "Just like APIs before it, MCP is quickly becoming a must-have for organizations building B2B and B2C digital products. Many organizations&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 06 Jul 2026 11:35:19 GMT"
+    },
+    {
+      "headline": "Bentley Torcal EV: Price, Specs, Availability",
+      "deck": "The 300-mile Torcal arrives in September, but considering what's come before with Ferrari, Porsche and Mercedes, has the company timed its EV entry right?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
+      "pubDate": "Mon, 06 Jul 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "Design system debt, game UX, 39 principles for AI interaction",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 06 Jul 2026 11:25:19 GMT"
+    },
+    {
+      "headline": "9 Best Keyboards (2025), Tested and Reviewed",
+      "deck": "Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-keyboards/",
+      "pubDate": "Mon, 06 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
+      "deck": "This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/sony-bravia-7-mark-ii/",
+      "pubDate": "Mon, 06 Jul 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "Good News! Turns Out the Earth Will Never Be Swallowed by the Sun",
+      "deck": "A new study suggests that when our star becomes unstable in 5 billion years or so, Earth may avoid being engulfed by its fiery demise.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/",
+      "pubDate": "Mon, 06 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+      "deck": "Open the inspector on any Linear card, any Stripe input, any Vercel panel. Look for the border. Now look at the box-shadow property&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 06 Jul 2026 10:26:29 GMT"
+    },
+    {
+      "headline": "ICE’s Internal Watchdog Is Now Investigating Online Critics",
+      "deck": "The Office of Professional Responsibility has opened more than 100 cases over what ICE officials call “incidents of doxing and threats” against ICE employees.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ices-internal-watchdog-is-now-investigating-online-critics/",
+      "pubDate": "Mon, 06 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "What if the Universe Isn’t as Uniform as Scientists Think?",
+      "deck": "A study based on 47 million galaxies found that the cosmic web retains patterns on enormous scales, which could force a reevaluation of a pillar of cosmology.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-if-the-universe-wasnt-as-uniform-as-scientists-think/",
+      "pubDate": "Mon, 06 Jul 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "South Korea’s hottest new bachelors are chip workers",
+      "deck": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "pubDate": "Mon, 06 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "How Palestinians Are Building a Digital Archive That Can’t Be Erased",
+      "deck": "Distributed backups, cyber resilience, and a half-million records are preserving Palestinian history beyond any single building or border.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-palestinians-are-building-a-digital-archive-that-cant-be-erased/",
+      "pubDate": "Mon, 06 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Design as a function",
+      "deck": "The future of design isn&#x2019;t about pixels. It&#x2019;s about function. And the organisations that figure that out first will be the ones that win.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 06 Jul 2026 07:35:38 GMT"
+    },
+    {
+      "headline": "Wait, who made this?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 06 Jul 2026 07:33:56 GMT"
+    },
+    {
+      "headline": "We Doubled Our AI Tooling Budget. Our Release Rate Dropped Anyway",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/deciphering-the-complex-terms-in-machine-learning-part-1-fef5e9584619?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:28:53 GMT"
+      "url": "https://pub.towardsai.net/we-doubled-our-ai-tooling-budget-our-release-rate-dropped-anyway-b9ed66068198?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 07:01:24 GMT"
     },
     {
-      "headline": "Anthropic Crushed a 2-Year Science Job Into Days — With Zero New Models",
-      "deck": "A neuroscientist at the Allen Institute used to spend up to two years writing a single long-form computational review. Since late June he&#x2026;Continue reading on Towards AI »",
+      "headline": "A production RAG pipeline for real-world PDFs: structural retrieval, typed answers, cited lines",
+      "deck": "The four bricks, run end-to-end on a real 45-page car-insurance policy. One surprising coverage question, answered with a number and the&#x2026;Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/anthropic-crushed-a-2-year-science-job-into-days-with-zero-new-models-a273a84ed27a?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:28:32 GMT"
+      "url": "https://pub.towardsai.net/rag-why-top-k-embeddings-return-the-confidently-wrong-answer-and-how-routing-fixes-it-f9c6e1423567?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 07:00:34 GMT"
     },
     {
-      "headline": "Advanced Patterns: Multi-Tenant Semantic Layers, Real-Time Metrics, Semantic Layer as API, and…",
+      "headline": "Why WebSockets don’t scale easily — and how AWS changes the game",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/advanced-patterns-multi-tenant-semantic-layers-real-time-metrics-semantic-layer-as-api-and-bea3b3e3cd63?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:28:21 GMT"
+      "url": "https://pub.towardsai.net/why-websockets-dont-scale-easily-and-how-aws-changes-the-game-8fd9bb9ade9e?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 06:58:44 GMT"
     },
     {
-      "headline": "How to Avoid Being Replaced Without Selling Out to AI",
+      "headline": "How to Use OpenCode for Free in 2026",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-avoid-being-replaced-without-selling-out-to-ai-4ca54962d184?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:27:12 GMT"
+      "url": "https://pub.towardsai.net/opencode-free-ai-coding-agent-guide-90791d1a6d84?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:28:49 GMT"
     },
     {
-      "headline": "Context Window Management Is the New Memory Management",
-      "deck": "A practical guide to token budgeting, context pruning, and conversation compression for LLM applications that don&#x2019;t blow up at scaleContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/context-window-management-is-the-new-memory-management-3a2b8ad7768e?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:26:29 GMT"
-    },
-    {
-      "headline": "Video Scene Graph Generation Using VLMs",
+      "headline": "Building a Critic-Agent Loop: Scores, Refinement, and Guardrails",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/video-scene-graph-generation-using-vlms-d469e506797d?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:26:12 GMT"
+      "url": "https://pub.towardsai.net/building-a-critic-agent-loop-scores-refinement-and-guardrails-9e0ceaf69da4?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:25:46 GMT"
     },
     {
-      "headline": "Enterprise Governance and Operating Model for Snowflake Horizon Context",
+      "headline": "What Is Retrieval-Augmented Generation (RAG)? A Complete Guide for Businesses",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/enterprise-governance-and-operating-model-for-snowflake-horizon-context-91407923239a?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 11:25:46 GMT"
+      "url": "https://pub.towardsai.net/what-is-retrieval-augmented-generation-rag-a-complete-guide-for-businesses-eab6448e2c9a?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:25:33 GMT"
+    },
+    {
+      "headline": "LLM-as-a-Judge: The Complete Guide to Automated Evaluation at Scale with Azure",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-as-a-judge-the-complete-guide-to-automated-evaluation-at-scale-with-azure-ebe36b574e15?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:25:22 GMT"
+    },
+    {
+      "headline": "Loop Engineering vs. Harness Engineering: When to Use Each (And Why Most Teams Confuse Them)",
+      "deck": "A practical breakdown of the two disciplines reshaping how production AI agents get built in 2026, plus a framework for figuring out which&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/loop-engineering-vs-harness-engineering-when-to-use-each-and-why-most-teams-confuse-them-df1e0c3d21da?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:25:14 GMT"
+    },
+    {
+      "headline": "Write Once, Run on 20+ Agents: I Tested SKILL.md on 4 of Them, and Cursor Collapsed",
+      "deck": "I took a single 40-line SKILL.md file, copied it into four different AI coding agents without changing a character, and asked each one to&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/write-once-run-on-20-agents-i-tested-skill-md-on-4-of-them-and-cursor-collapsed-4c69c7f12d9b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:25:02 GMT"
+    },
+    {
+      "headline": "How to Deploy AI in Your Business: A Step-by-Step Guide for Startups & Enterprises",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-deploy-ai-in-your-business-a-step-by-step-guide-for-startups-enterprises-a8879691e631?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 06 Jul 2026 05:02:16 GMT"
+    },
+    {
+      "headline": "Amazon will stop accepting new customers for Mechanical Turk",
+      "deck": "These may be the last days of Amazon’s Mechanical Turk.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "pubDate": "Sun, 05 Jul 2026 17:43:36 +0000"
     },
     {
       "headline": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
@@ -115,36 +251,12 @@
       "pubDate": "Sun, 05 Jul 2026 09:00:00 +0000"
     },
     {
-      "headline": "How to Control AI Agent Actions in Real Production Systems",
-      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-control-ai-agent-actions-in-real-production-systems-241c277fa8ed?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 05 Jul 2026 00:01:01 GMT"
-    },
-    {
-      "headline": "How to Design Tool Schemas That Prevent Bad LLM Tool Calls",
-      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-design-tool-schemas-that-prevent-bad-llm-tool-calls-b163944e5e2a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 23:01:01 GMT"
-    },
-    {
       "headline": "The face was never the point",
       "deck": "Animacy isn&#x2019;t something you design. It&#x2019;s something you trigger.Continue reading on UX Collective »",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
       "pubDate": "Sat, 04 Jul 2026 22:58:03 GMT"
-    },
-    {
-      "headline": "How AI Agents Coordinate Multiple Tools Without Losing Control",
-      "deck": "AI Engineer Interview PreparationContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-ai-agents-coordinate-multiple-tools-without-losing-control-058cb02cee3d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 04 Jul 2026 22:01:01 GMT"
     },
     {
       "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -289,118 +401,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 03 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Crafting AI Explanations for Every Role in Your Enterprise",
-      "deck": "Different enterprise roles need different types of explanations for AI outputs.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 03 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "deck": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "pubDate": "Fri, 03 Jul 2026 16:30:00 +0000"
-    },
-    {
-      "headline": "Users Don’t Need More Tools: They Need Seamless Integrations",
-      "deck": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns F",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-      "pubDate": "Fri, 03 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "The Download: a smoking &#8220;endgame&#8221; and a new Elizabeth Bear story",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it an",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "pubDate": "Fri, 03 Jul 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Best Bone Conduction Headphones (2026): Shokz, Suunto, Mojawa",
-      "deck": "Everyone needs a safe way to listen to music on outdoor runs. We’ve found the bone conduction headphones to grab on your way out the door.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-bone-conduction-headphones/",
-      "pubDate": "Fri, 03 Jul 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Jul 2026 11:17:14 GMT"
-    },
-    {
-      "headline": "Did good UX break the job market?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 03 Jul 2026 11:16:44 GMT"
-    },
-    {
-      "headline": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
-      "deck": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
-      "pubDate": "Fri, 03 Jul 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Vibe Coding Is a Dead End",
-      "deck": "If I had to choose the buzzword of 2026, without any doubt it would be &#x201C;vibe coding.&#x201D;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/vibe-coding-is-a-dead-end-01f10ba40f46?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 03 Jul 2026 10:55:23 GMT"
-    },
-    {
-      "headline": "7 Best Phones You Can’t Buy in the US (2026)",
-      "deck": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
-      "pubDate": "Fri, 03 Jul 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn’t Mean They’re Safe",
-      "deck": "ZYN nicotine pouches, the FDA found, can be advertised as a less-harmful option for adult smokers. But quitting all tobacco and nicotine products remains the best idea.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-fda-ruled-that-zyn-pouches-are-safer-than-cigarettes-that-doesnt-mean-theyre-safe/",
-      "pubDate": "Fri, 03 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The Best Ultralight Backpacking Quilts (2026): Zenbivy, REI",
-      "deck": "Lighten your pack this summer—skip the sleeping bag and carry one of our favorite ultralight backpacking quilts instead.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-best-ultralight-backpacking-quilts/",
-      "pubDate": "Fri, 03 Jul 2026 10:06:00 +0000"
-    },
-    {
-      "headline": "When the Law Kills Your Electric Car Dealership",
-      "deck": "Dealers who invested in Polestar won’t be able to sell in the US next year after the federal government denied an authorization that would have allowed the company to avoid a Chinese tech ban.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/",
-      "pubDate": "Fri, 03 Jul 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "deck": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And the",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "pubDate": "Fri, 03 Jul 2026 09:00:00 +0000"
     }
   ]
 }
