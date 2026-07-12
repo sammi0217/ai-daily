@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-11T12:00:05.699Z",
+  "generated_at": "2026-07-12T12:00:03.323Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "deck": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "pubDate": "Sun, 12 Jul 2026 11:09:00 +0000"
+    },
+    {
+      "headline": "Here’s How Apple Is Updating Its Child Safety Features in iOS 27",
+      "deck": "Apple has announced several new Child Safety features coming soon to iPhones and other devices. Here’s what’s changing.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/apple-child-safety-ios-27/",
+      "pubDate": "Sun, 12 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "28 Best STEM Toys for Kids (2026): Learning Made Fun",
+      "deck": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+      "pubDate": "Sun, 12 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "How to Design a Production-Ready Dashboard with Claude Code",
+      "deck": "Dashboards are one of the best ways to test the real product-design capabilities of Claude Code.Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/how-to-design-a-production-ready-dashboard-with-claude-code-9a78c4585981?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sun, 12 Jul 2026 10:23:19 GMT"
+    },
+    {
+      "headline": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "deck": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "pubDate": "Sun, 12 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
+      "deck": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "pubDate": "Sun, 12 Jul 2026 09:33:00 +0000"
+    },
+    {
+      "headline": "The interface has left the building",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 12 Jul 2026 09:30:16 GMT"
+    },
+    {
+      "headline": "Did you verify that — or was it just too easy to believe?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/did-you-verify-that-or-was-it-just-too-easy-to-believe-664ff017a1a1?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 12 Jul 2026 09:28:48 GMT"
+    },
+    {
+      "headline": "The Kintsugi problem",
+      "deck": "The most important design decisions aren&#x2019;t made when everything works&#x200A;&#x2014;&#x200A;they&#x2019;re made when it doesn&#x2019;t.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-kintsugi-problem-7f5e5cbfb442?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 12 Jul 2026 09:28:24 GMT"
+    },
+    {
+      "headline": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+      "deck": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "pubDate": "Sun, 12 Jul 2026 09:05:00 +0000"
+    },
+    {
+      "headline": "How AI Agent Memory Actually Works - And How to Build It",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-ai-agent-memory-actually-works-and-how-to-build-it-0d0874e913bc?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "AI Created a Brand-New GTA 6 City That Feels Real",
+      "deck": "You&#x2019;re driving through a version of&#x2060; Miami at 3am. The palm trees bend in&#x200C; a storm tha&#x2060;t wasn&#x2019;t scripted.&#x200C; A b&#x200D;odeg&#x2060;a&#x200C; owner recognizes&#x2026;Continue readi",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-created-a-brand-new-gta-6-city-that-feels-real-41d854dc70f0?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Pydantic AI vs LangGraph: Understanding the Two Different Problems They Solve",
+      "deck": "IntroductionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/pydantic-ai-vs-langgraph-understanding-the-two-different-problems-they-solve-6a0292cd7478?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Context Engineering for Bedrock Agents: A Hands-On Guide Beyond Prompt Engineering",
+      "deck": "Build a layered context pipeline (persistent, time-sensitive, transient) that stops your agent from hallucinatingContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/context-engineering-for-bedrock-agents-a-hands-on-guide-beyond-prompt-engineering-d92aad36a839?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "Understand HNSW: Why Your Vector Search Returns Garbage (Build your own minimalist HNSW from…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/understand-hnsw-why-your-vector-search-returns-garbage-build-your-own-minimalist-hnsw-from-114415ddf28c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Grok 4.5 Is xAI's Coding Comeback. The Price Is the Shock.",
+      "deck": "The comeback story is not a leaderboard crown. It is a cheaper path through the same kind of work.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/grok-4-5-is-xais-coding-comeback-the-price-is-the-shock-c801931d027a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 19:01:01 GMT"
+    },
+    {
+      "headline": "Half the Answer Keys in Text-to-SQL Benchmarks Are Wrong.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/half-the-answer-keys-in-text-to-sql-benchmarks-are-wrong-9ab82ca2e7fa?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "Why AI Agent Memory Architecture Matters for Customer Service",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-ai-agent-memory-architecture-matters-for-customer-service-64fcb6ae6077?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "AI-First Desktop App Architecture: How Developers Should Build for Agentic Operating Systems",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-first-desktop-app-architecture-how-developers-should-build-for-agentic-operating-systems-b68183afdd91?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 17:01:01 GMT"
+    },
+    {
+      "headline": "5 Claude Code Plugins That Turned One Assistant Into an Engineering Team",
+      "deck": "A memory system, five parallel code reviewers, and a plugin that refuses to over engineer &#x2014; here&#x2019;s what changed when I stopped treating&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/5-claude-code-plugins-that-turned-one-assistant-into-an-engineering-team-35c26efb060c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 11 Jul 2026 16:31:01 GMT"
+    },
+    {
+      "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "deck": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000"
+    },
+    {
+      "headline": "Craft still matters, but it’s about outcomes",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 11 Jul 2026 13:29:41 GMT"
+    },
     {
       "headline": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
       "deck": "The AquaSense X brings self-cleaning technology to pool robots for the first time, but is it worth nearly twice the price of Beatbot’s flagship cleaner?",
@@ -35,52 +211,12 @@
       "pubDate": "Sat, 11 Jul 2026 10:30:00 +0000"
     },
     {
-      "headline": "OpenAI's Embeddings Fell to 13th of 15 — I'm Ditching Them for a Free Model That Wins by 11 Points",
-      "deck": "The most widely deployed embedding model in production RAG systems &#x2014; OpenAI&#x2019;s text-embedding-3-large &#x2014; now sits 13th out of 15 on the 2026&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openais-embeddings-fell-to-13th-of-15-i-m-ditching-them-for-a-free-model-that-wins-by-11-points-f3290a7ee4cc?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 10:05:13 GMT"
-    },
-    {
       "headline": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
       "deck": "More dog owners have begun cooking for their canine companions in recent years. When my own dog fell ill, I became part of this growing group.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/gourmet-dog-food/",
       "pubDate": "Sat, 11 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Orchestrating Parallel Intelligence: Building a Multi-Agent AI Grading System with LangGraph",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/orchestrating-parallel-intelligence-building-a-multi-agent-ai-grading-system-with-langgraph-9468daf9dd29?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:35:37 GMT"
-    },
-    {
-      "headline": "An Agent You Cannot Watch Is an Agent You Cannot Trust.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-an-agent-is-cheap-now-proving-it-works-is-the-skill-35bd2a5f62e9?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:35:25 GMT"
-    },
-    {
-      "headline": "I Built an AI Agent for NHS Cancer Waits. Its Best Feature Is the Question It Won’t Answer.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-built-an-ai-agent-for-nhs-cancer-waits-its-best-feature-is-the-question-it-wont-answer-99ab8127e6a2?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:35:10 GMT"
-    },
-    {
-      "headline": "Context Rot Is Why Your 2-Million-Token Window Keeps Forgetting the Middle",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/context-rot-is-why-your-2-million-token-window-keeps-forgetting-the-middle-10ee7bae1c1b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:34:10 GMT"
     },
     {
       "headline": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
@@ -91,52 +227,12 @@
       "pubDate": "Sat, 11 Jul 2026 09:32:00 +0000"
     },
     {
-      "headline": "AI Systems Need Coordination Planes, Not Just Control Planes",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-systems-need-coordination-planes-not-just-control-planes-fd10aeb93372?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:31:13 GMT"
-    },
-    {
-      "headline": "The Entity Lock Pattern: Preventing Hallucination When AI Agents Cross the SQL/Web Boundary",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/my-agent-kept-answering-with-the-wrong-company-heres-the-architectural-fix-0123edb41040?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:30:37 GMT"
-    },
-    {
-      "headline": "SEO vs. AI SEO: A Framework for Winning AI Search in 2026",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/seo-vs-ai-seo-a-framework-for-winning-ai-search-in-2026-77a699b40be1?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:30:17 GMT"
-    },
-    {
       "headline": "China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon",
       "deck": "The probe sent back the first pictures of the asteroid Kamo’oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
       "pubDate": "Sat, 11 Jul 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "You’re Losing Data (or Making It Worse) — The Right Way to Handle Null Values in PySpark",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/youre-losing-data-or-making-it-worse-the-right-way-to-handle-null-values-in-pyspark-c756179cd803?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:30:00 GMT"
-    },
-    {
-      "headline": "My CoWork Agent Burned Through $800 in Credits Before Anyone Noticed",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/my-cowork-agent-burned-through-800-in-credits-before-anyone-noticed-56e15319f6c3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 09:28:53 GMT"
     },
     {
       "headline": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
@@ -305,102 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
       "pubDate": "Fri, 10 Jul 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Which MacBook to Buy (2026): My Honest Advice on Which to Buy",
-      "deck": "MacBooks are now more expensive than ever, and having tested all the latest models, here’s my honest advice on which to buy.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
-      "pubDate": "Fri, 10 Jul 2026 11:31:00 +0000"
-    },
-    {
-      "headline": "The Best Pool Accessories to Upgrade Your Summer (2026)",
-      "deck": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-pool-accessories/",
-      "pubDate": "Fri, 10 Jul 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-      "deck": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-      "pubDate": "Fri, 10 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Sunshine and Saharan Dust Make Miami’s World Cup Quarter-Final a Dangerous Game for England Norway",
-      "deck": "England and Norway players will face off under extreme and dangerous levels of heat stress, scientists say, thanks to a wet-bulb index of nearly 90 degrees Fahrenheit.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sunshine-and-saharan-dust-make-miamis-world-cup-quarter-final-a-dangerous-game-for-england-norway/",
-      "pubDate": "Fri, 10 Jul 2026 09:33:45 +0000"
-    },
-    {
-      "headline": "Sperm donors need limits, says a European fertility group",
-      "deck": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous d",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "pubDate": "Fri, 10 Jul 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Designing excuses",
-      "deck": "So doing right doesn&#x2019;t stay caged by self-consciousnessContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 10 Jul 2026 07:28:15 GMT"
-    },
-    {
-      "headline": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "deck": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-      "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Ulta Promo Codes: Up to 50% Off in July 2026",
-      "deck": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chewy Promo Codes: $20 Off July 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more July 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Dell Coupon Codes: 20% Off for July 2026",
-      "deck": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Uber Eats Promo Codes: $15 Off│July 2026",
-      "deck": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Booking.com Promo Codes: 20% Off | July 2026",
-      "deck": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "pubDate": "Fri, 10 Jul 2026 05:00:00 +0000"
     }
   ]
 }
