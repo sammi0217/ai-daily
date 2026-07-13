@@ -1,7 +1,263 @@
 {
-  "generated_at": "2026-07-12T12:00:03.323Z",
+  "generated_at": "2026-07-13T12:00:03.886Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
+      "deck": "These butt-cleaning machines also offer luxe features like custom seat warming and adjustable water flows.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
+      "pubDate": "Mon, 13 Jul 2026 11:35:00 +0000"
+    },
+    {
+      "headline": "Who made this, Designing excuses, DesignOps in the age of AI",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 13 Jul 2026 11:11:11 GMT"
+    },
+    {
+      "headline": "4 Types of Loops You Can Create in Claude Code",
+      "deck": "When we interact with Claude Code, we typically go through repeated cycles when completing a task.Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/4-types-of-loops-you-can-create-in-claude-code-aff824404834?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 13 Jul 2026 11:09:55 GMT"
+    },
+    {
+      "headline": "When design becomes the organisation, and AI becomes the design",
+      "deck": "What happens when the entity that designs everything is itself being designed by machines?Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 13 Jul 2026 11:09:50 GMT"
+    },
+    {
+      "headline": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
+      "deck": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
+      "pubDate": "Mon, 13 Jul 2026 11:08:00 +0000"
+    },
+    {
+      "headline": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
+      "deck": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
+      "pubDate": "Mon, 13 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "White Supremacists Love Armie Hammer’s New Movie",
+      "deck": "Described as the “feel-good movie of white-boy summer” by one extremist, the movie Citizen Vigilante has been hailed by the far-right as a way to convert moderates to their cause.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-bunch-of-white-supremacists-love-armie-hammers-new-movie/",
+      "pubDate": "Mon, 13 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+      "deck": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+      "pubDate": "Mon, 13 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "12 Mobile Menu Patterns, and the One Question That Decides Which One You Need",
+      "deck": "We all know what it&#x2019;s like to be on a website that has a really bad mobile menu that&#x2019;s just super frustrating to interact with.Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/mobile-menu-patterns-1cfe8dd9fc55?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 13 Jul 2026 09:38:11 GMT"
+    },
+    {
+      "headline": "Best Kitchen Composters and Food Recyclers (2026)",
+      "deck": "Responsibly dispose of your food scraps with one of these indoor, (mostly) odor-free, WIRED-tested devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/home-composters-buying-guide/",
+      "pubDate": "Mon, 13 Jul 2026 09:31:00 +0000"
+    },
+    {
+      "headline": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "deck": "arXiv:2607.08773v1 Announce Type: new Abstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "deck": "arXiv:2607.08774v1 Announce Type: new Abstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantl",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "deck": "arXiv:2607.08894v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "deck": "arXiv:2607.08964v1 Announce Type: new Abstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish wit",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "deck": "arXiv:2607.08986v1 Announce Type: new Abstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activity as a formalization game. The objective is",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "deck": "arXiv:2607.09059v1 Announce Type: new Abstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constraints. ARCANA decomposes each task into itera",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "deck": "arXiv:2607.09076v1 Announce Type: new Abstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of traditional rule-based monitoring in indust",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "deck": "arXiv:2607.09099v1 Announce Type: new Abstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly structured, knowledge-heavy legal domains rem",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "deck": "arXiv:2607.09142v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "deck": "arXiv:2607.09153v1 Announce Type: new Abstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significantly boost the capabilities of LLM-based mul",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Multi-Agent Systems that Actually Need Multiple Agents",
+      "deck": "Most multi-agent tutorials start the same way.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/multi-agent-systems-that-actually-need-multiple-agents-10240a75081f?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 13 Jul 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "AI’s Biggest Bottleneck Isn’t GPUs Anymore",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ais-biggest-bottleneck-isn-t-gpus-anymore-15eca12ad3c3?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 23:31:00 GMT"
+    },
+    {
+      "headline": "How to Make Your Website Usable by AI Agents with WebMCP",
+      "deck": "I built a hotel booking demo to show how a LLM can discover website tools, call application actions, and update the interface through&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-make-your-website-usable-by-ai-agents-with-webmcp-af8d1d621939?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "DPO Fine-Tuning from First Principles in Python",
+      "deck": "Fine-tuning a Large Language Model (LLM) with human preferences used to require Reinforcement Learning from Human Feedback (RLHF): collect&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/dpo-fine-tuning-from-first-principles-in-python-0ef188377cb0?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 22:31:00 GMT"
+    },
+    {
+      "headline": "Unisound U2: The 266B Model That Scored 87.9% on PhD-Level Science for $0.15/M",
+      "deck": "On 7 June 2026, a Chinese speech-AI company that most people outside China have never heard of released a large language model that scored&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/unisound-u2-the-266b-model-that-scored-87-9-on-phd-level-science-for-0-15-m-c64034f37fd7?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Taste cannot be delegated",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 12 Jul 2026 21:32:06 GMT"
+    },
+    {
+      "headline": "One Line, Any Model: Multi-Provider Agents in Google ADK via LiteLLM",
+      "deck": "All Code Examples:: GitHub RepositoryContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/one-line-any-model-multi-provider-agents-in-google-adk-via-litellm-fe88acee24d8?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 21:31:00 GMT"
+    },
+    {
+      "headline": "Tencent Hy3 Review: 21B-Active Open MoE That Beat GLM-5.1 in a Blind Test",
+      "deck": "A deep look at Tencent Hy3: a 295B/21B-active Apache 2.0 MoE that beat GLM-5.1 in a blind expert review, plus its costs and limits.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/tencent-hy3-review-21b-active-open-moe-that-beat-glm-5-1-in-a-blind-test-f2e8700d5a5d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "Apple Is Suing OpenAI. The Real Story Is What OpenAI Can’t Build.",
+      "deck": "Apple&apos;s 2026 lawsuit against OpenAI reveals the real AI moat: not the model but the decades-deep hardware supply chain you can&apos;t buy or&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/apple-is-suing-openai-the-real-story-is-what-openai-cant-build-d21f587f10f5?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 20:31:00 GMT"
+    },
+    {
+      "headline": "Grok 4.5 Uses 4.2x Fewer Tokens and Costs 17x Less Than Opus 4.8",
+      "deck": "Grok 4.5 is the fourth-smartest model in the world, and that is not the interesting number. On Artificial Analysis&#x2019;s independent&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/grok-4-5-uses-4-2x-fewer-tokens-and-costs-17x-less-than-opus-4-8-6211d38806a2?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 20:01:00 GMT"
+    },
+    {
+      "headline": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+      "deck": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+      "pubDate": "Sun, 12 Jul 2026 19:55:37 +0000"
+    },
+    {
+      "headline": "AI Agent Production Deployment Best Practices",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agent-production-deployment-best-practices-d96d3b38686c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 12 Jul 2026 19:31:00 GMT"
+    },
     {
       "headline": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
       "deck": "Send the pool guy packing. Let one of these robotic buddies maintain your water quality instead.",
@@ -83,86 +339,6 @@
       "pubDate": "Sun, 12 Jul 2026 09:05:00 +0000"
     },
     {
-      "headline": "How AI Agent Memory Actually Works - And How to Build It",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-ai-agent-memory-actually-works-and-how-to-build-it-0d0874e913bc?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 12 Jul 2026 00:01:01 GMT"
-    },
-    {
-      "headline": "AI Created a Brand-New GTA 6 City That Feels Real",
-      "deck": "You&#x2019;re driving through a version of&#x2060; Miami at 3am. The palm trees bend in&#x200C; a storm tha&#x2060;t wasn&#x2019;t scripted.&#x200C; A b&#x200D;odeg&#x2060;a&#x200C; owner recognizes&#x2026;Continue readi",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-created-a-brand-new-gta-6-city-that-feels-real-41d854dc70f0?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 23:01:01 GMT"
-    },
-    {
-      "headline": "Pydantic AI vs LangGraph: Understanding the Two Different Problems They Solve",
-      "deck": "IntroductionContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/pydantic-ai-vs-langgraph-understanding-the-two-different-problems-they-solve-6a0292cd7478?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "Context Engineering for Bedrock Agents: A Hands-On Guide Beyond Prompt Engineering",
-      "deck": "Build a layered context pipeline (persistent, time-sensitive, transient) that stops your agent from hallucinatingContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/context-engineering-for-bedrock-agents-a-hands-on-guide-beyond-prompt-engineering-d92aad36a839?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 21:01:01 GMT"
-    },
-    {
-      "headline": "Understand HNSW: Why Your Vector Search Returns Garbage (Build your own minimalist HNSW from…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understand-hnsw-why-your-vector-search-returns-garbage-build-your-own-minimalist-hnsw-from-114415ddf28c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 20:01:01 GMT"
-    },
-    {
-      "headline": "Grok 4.5 Is xAI's Coding Comeback. The Price Is the Shock.",
-      "deck": "The comeback story is not a leaderboard crown. It is a cheaper path through the same kind of work.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/grok-4-5-is-xais-coding-comeback-the-price-is-the-shock-c801931d027a?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 19:01:01 GMT"
-    },
-    {
-      "headline": "Half the Answer Keys in Text-to-SQL Benchmarks Are Wrong.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/half-the-answer-keys-in-text-to-sql-benchmarks-are-wrong-9ab82ca2e7fa?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 18:01:01 GMT"
-    },
-    {
-      "headline": "Why AI Agent Memory Architecture Matters for Customer Service",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-ai-agent-memory-architecture-matters-for-customer-service-64fcb6ae6077?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 18:01:01 GMT"
-    },
-    {
-      "headline": "AI-First Desktop App Architecture: How Developers Should Build for Agentic Operating Systems",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-first-desktop-app-architecture-how-developers-should-build-for-agentic-operating-systems-b68183afdd91?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 17:01:01 GMT"
-    },
-    {
-      "headline": "5 Claude Code Plugins That Turned One Assistant Into an Engineering Team",
-      "deck": "A memory system, five parallel code reviewers, and a plugin that refuses to over engineer &#x2014; here&#x2019;s what changed when I stopped treating&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/5-claude-code-plugins-that-turned-one-assistant-into-an-engineering-team-35c26efb060c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 11 Jul 2026 16:31:01 GMT"
-    },
-    {
       "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
       "deck": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
       "source": "TechCrunch",
@@ -195,84 +371,12 @@
       "pubDate": "Sat, 11 Jul 2026 11:00:00 +0000"
     },
     {
-      "headline": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
-      "deck": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
-      "pubDate": "Sat, 11 Jul 2026 10:31:00 +0000"
-    },
-    {
-      "headline": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-      "deck": "Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
-      "deck": "More dog owners have begun cooking for their canine companions in recent years. When my own dog fell ill, I became part of this growing group.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gourmet-dog-food/",
-      "pubDate": "Sat, 11 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
-      "deck": "From strenuous hikes and serious summits to weekend rambles in the park, these boots help you make the most of your time outdoors.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-hiking-boots/",
-      "pubDate": "Sat, 11 Jul 2026 09:32:00 +0000"
-    },
-    {
-      "headline": "China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon",
-      "deck": "The probe sent back the first pictures of the asteroid Kamo’oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
-      "pubDate": "Sat, 11 Jul 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
-      "deck": "As the climate phenomenon sends warm water surging across the eastern Pacific, some parts of the fishing industry are suffering—but other regions are seeing a windfall.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
-      "pubDate": "Sat, 11 Jul 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
-      "deck": "Summer 2026 marks the 30th anniversary of Jay-Z’s debut Reasonable Doubt. To honor it, he put on a massive concert at Yankee Stadium—complete with performances from Beyoncé, Nas, and Alicia Keys.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
-      "pubDate": "Sat, 11 Jul 2026 04:51:14 +0000"
-    },
-    {
-      "headline": "OpenAI’s Head of Safety Is Leaving the Company",
-      "deck": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "pubDate": "Sat, 11 Jul 2026 01:07:26 +0000"
-    },
-    {
       "headline": "Meta removes controversial AI feature on Instagram after backlash",
       "deck": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this featur",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000"
-    },
-    {
-      "headline": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-      "deck": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
-      "pubDate": "Fri, 10 Jul 2026 23:16:56 +0000"
     },
     {
       "headline": "Apple sues OpenAI over alleged trade secret theft",
@@ -283,14 +387,6 @@
       "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000"
     },
     {
-      "headline": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "deck": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "pubDate": "Fri, 10 Jul 2026 20:44:05 +0000"
-    },
-    {
       "headline": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
       "deck": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and d",
       "source": "TechCrunch",
@@ -299,108 +395,12 @@
       "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000"
     },
     {
-      "headline": "Meet the Battery Startup Taking on China’s Giants",
-      "deck": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-      "pubDate": "Fri, 10 Jul 2026 18:00:00 +0000"
-    },
-    {
       "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "deck": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000"
-    },
-    {
-      "headline": "The 5 Qualities of Site-Specific AI Chatbots",
-      "deck": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 10 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Design-System Maturity: A 6-Dimension Framework",
-      "deck": "Use this maturity model to assess your design system’s health and identify where to focus next.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 10 Jul 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "What Watching a Soccer Final Does to Your Body, According to Science",
-      "deck": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
-      "pubDate": "Fri, 10 Jul 2026 15:41:31 +0000"
-    },
-    {
-      "headline": "Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing",
-      "deck": "Take on sand, snow, mud, gravel—this is the ebike for all your off-roading adventures.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/",
-      "pubDate": "Fri, 10 Jul 2026 15:22:13 +0000"
-    },
-    {
-      "headline": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
-      "deck": "Yes, Sarah Wynn-Williams violated her deal to stay silent. But the power disparity bolsters the view that Meta is a heartless bully.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
-      "pubDate": "Fri, 10 Jul 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
-      "deck": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and d",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "7 Design Rules That Take 10 Minutes to Learn and Fix Your UI Forever",
-      "deck": "You can write clean code. Your logic is solid. Your app works perfectly.Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/design-rules-to-learn-ui-ux-8be82e04a835?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 10 Jul 2026 13:07:47 GMT"
-    },
-    {
-      "headline": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-      "deck": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeho",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-      "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "The Download: Claude&#8217;s inner workings and OpenAI&#8217;s &#8220;super app&#8221;",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "pubDate": "Fri, 10 Jul 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "How to Stop Claude Code from Ruining Your Product Design",
-      "deck": "Claude Code can generate polished screens quickly, so it&#x2019;s relatively easy to fall into a trap of &#x201C;AI will drive the entire design&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/how-to-stop-claude-code-from-ruining-your-product-design-7fb10c3f5749?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 10 Jul 2026 12:07:14 GMT"
-    },
-    {
-      "headline": "How to Share Your Location on an iPhone or Android Phone (2026)",
-      "deck": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
-      "pubDate": "Fri, 10 Jul 2026 12:00:00 +0000"
     }
   ]
 }
