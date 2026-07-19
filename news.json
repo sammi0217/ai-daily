@@ -1,7 +1,143 @@
 {
-  "generated_at": "2026-07-18T12:00:06.381Z",
+  "generated_at": "2026-07-19T12:00:03.102Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "How to Disable Music Videos in Spotify",
+      "deck": "A recent update made video playback the default for songs and podcasts with a visual component. If you just want to listen to music—and save your data and battery—follow these tips.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/",
+      "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "deck": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "pubDate": "Sun, 19 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The 10 Best Electrolyte Powders (We Tested Over 20)",
+      "deck": "Get those lost minerals back with the help of our top electrolyte powders, tablets, drops, and chews for athletes, partiers, and everyone in between.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-electrolyte-powders/",
+      "pubDate": "Sun, 19 Jul 2026 10:32:00 +0000"
+    },
+    {
+      "headline": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
+      "deck": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
+      "pubDate": "Sun, 19 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage",
+      "deck": "Organizers want the show to be the most-viewed halftime show in history. Having Shakira, Justin Bieber, Coldplay, and BTS will surely help—but do soccer fans want it?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/",
+      "pubDate": "Sun, 19 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+      "deck": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
+      "pubDate": "Sun, 19 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "88% of Enterprise AI Projects Never Reach Production. The Reason Isn’t the Model.",
+      "deck": "I debugged a production agentic recently.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/88-of-enterprise-ai-projects-never-reach-production-the-reason-isnt-the-model-733ed715ed99?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:08:05 GMT"
+    },
+    {
+      "headline": "Agentic AI Workflow Patterns Every Builder Should Know (And How to Choose the Right One)",
+      "deck": "Most AI agent projects are using one workflow pattern for problems that need a different one. Here is how to fix that.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agentic-ai-workflow-patterns-every-builder-should-know-and-how-to-choose-the-right-one-53572035769a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:03:24 GMT"
+    },
+    {
+      "headline": "From Prompt Engineering to Fine-Tuning: Building Domain-Specific LLMs Step by Step",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-prompt-engineering-to-fine-tuning-building-domain-specific-llms-step-by-step-94e44a929014?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:03:13 GMT"
+    },
+    {
+      "headline": "What is Visual Prompting?",
+      "deck": "IntroductionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-is-visual-prompting-21c80dcb8e3d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:02:39 GMT"
+    },
+    {
+      "headline": "7 AI Agent Cost Optimization Strategies That Cut LLM Bills by Up to 90%",
+      "deck": "Fixes that bring an AI agent&#x2019;s bill down in productionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/7-ai-agent-cost-optimization-strategies-that-cut-llm-bills-by-up-to-90-baa9c8b46a40?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:02:20 GMT"
+    },
+    {
+      "headline": "Understanding AI Agents: What Actually Works When Building AI Products",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/understanding-ai-agents-what-actually-works-when-building-ai-products-7d16b9985052?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:02:03 GMT"
+    },
+    {
+      "headline": "Claude Cowork Has Five Moving Parts. Most People Only Use One.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-cowork-has-five-moving-parts-most-people-only-use-one-3743aad7e91b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:01:47 GMT"
+    },
+    {
+      "headline": "Building AI Agents in Rust - part 9",
+      "deck": "Sandboxed code executionContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-ai-agents-in-rust-part-9-0fbbaeb1f97a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:01:26 GMT"
+    },
+    {
+      "headline": "Loop Engineering: Why Some Developers Stopped Prompting Their AI Agents",
+      "deck": "Discover Loop Engineering: Why top developers are moving beyond manual prompting to design intelligent loops that power reliable&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/loop-engineering-why-some-developers-stopped-prompting-their-ai-agents-5e28c4cb2814?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:00:45 GMT"
+    },
+    {
+      "headline": "Beyond Prompt Injection: When AI Agents Mistake Content for Trusted Data",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-prompt-injection-when-ai-agents-mistake-content-for-trusted-data-9b2e5bb95ee1?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 19 Jul 2026 06:00:24 GMT"
+    },
+    {
+      "headline": "Kimi: Threat or menace?",
+      "deck": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "pubDate": "Sat, 18 Jul 2026 18:51:07 +0000"
+    },
     {
       "headline": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
       "deck": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
@@ -9,14 +145,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/best-walking-pads/",
       "pubDate": "Sat, 18 Jul 2026 11:03:00 +0000"
-    },
-    {
-      "headline": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-      "deck": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-      "pubDate": "Sat, 18 Jul 2026 10:30:00 +0000"
     },
     {
       "headline": "Your Period Tracker Is (Probably) Spying on You",
@@ -27,12 +155,12 @@
       "pubDate": "Sat, 18 Jul 2026 10:30:00 +0000"
     },
     {
-      "headline": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
-      "deck": "This year’s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
+      "headline": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+      "deck": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
-      "pubDate": "Sat, 18 Jul 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "pubDate": "Sat, 18 Jul 2026 10:30:00 +0000"
     },
     {
       "headline": "How Google’s New Gemini Rates Work and How to Track Your Usage",
@@ -40,6 +168,14 @@
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "pubDate": "Sat, 18 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
+      "deck": "This year’s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
       "pubDate": "Sat, 18 Jul 2026 10:00:00 +0000"
     },
     {
@@ -67,86 +203,6 @@
       "pubDate": "Sat, 18 Jul 2026 09:00:00 +0000"
     },
     {
-      "headline": "Anthropic’s Claude Certified Architect Exam (CCA-F): CLAUDE.md",
-      "deck": "CCA-F Part 4: The Claude Code configuration domain swings harder between CCA-F forms than any other. Here is the one mental model that&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropics-claude-certified-architect-exam-cca-f-claude-md-0d97d830a7e8?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 06:12:58 GMT"
-    },
-    {
-      "headline": "Introduction to Natural Language Processing — Applications, Challenges, and Real-World Examples",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/introduction-to-natural-language-processing-applications-challenges-and-real-world-examples-50e37e15f28d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:48:03 GMT"
-    },
-    {
-      "headline": "Enterprise AI Strategies for Next-Generation Banking: A Practical Roadmap for Financial…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/enterprise-ai-strategies-for-next-generation-banking-a-practical-roadmap-for-financial-b6bb8462bf83?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:47:48 GMT"
-    },
-    {
-      "headline": "The Loop Was the Easy Part: Evals, Observability, and Rollbacks for Your DIY Claude Code",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-loop-was-the-easy-part-evals-observability-and-rollbacks-for-your-diy-claude-code-45f2a9f1c99c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:46:19 GMT"
-    },
-    {
-      "headline": "“If It Works, Don’t Touch It” and Other Excuses That No Longer Hold — Jarroba",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/if-it-works-dont-touch-it-and-other-excuses-that-no-longer-hold-jarroba-8d994ae3748f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:45:55 GMT"
-    },
-    {
-      "headline": "Part III - Spark Catalyst Optimizer — Internals",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/spark-catalyst-optimizer-internals-2b762ce0b2e2?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:43:15 GMT"
-    },
-    {
-      "headline": "Part IV - Jobs, Stages & Tasks — How Spark Actually Decomposes Your Query",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/jobs-stages-tasks-how-spark-actually-decomposes-your-query-e50bc8ed768e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:43:00 GMT"
-    },
-    {
-      "headline": "From One Agent to the Claude Agent SDK",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-one-agent-to-the-claude-agent-sdk-8076a5c54a89?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:42:44 GMT"
-    },
-    {
-      "headline": "Running Google ADK with Gemma 4 and Ollama",
-      "deck": "Building a local AI agent that uses Google Maps and Open-Meteo through tool callingContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/running-google-adk-with-gemma-4-and-ollama-1602748bc08b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:42:03 GMT"
-    },
-    {
-      "headline": "What Is LLM Observability? A Beginner’s Guide to Monitoring AI Applications",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-is-llm-observability-a-beginners-guide-to-monitoring-ai-applications-3875bb34dfb4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 18 Jul 2026 05:41:50 GMT"
-    },
-    {
       "headline": "SteelSeries Coupon Codes: 15% Off in July 2026",
       "deck": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
       "source": "Wired",
@@ -161,86 +217,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000"
-    },
-    {
-      "headline": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-      "deck": "arXiv:2607.14093v1 Announce Type: new Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14093",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "deck": "arXiv:2607.14095v1 Announce Type: new Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. H",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14095",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "IMEX Interaction-Based Model Explanation",
-      "deck": "arXiv:2607.14096v1 Announce Type: new Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a t",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14096",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-      "deck": "arXiv:2607.14097v1 Announce Type: new Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14097",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "DialogueVPR: Towards Conversational Visual Place Recognition",
-      "deck": "arXiv:2607.14115v1 Announce Type: new Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14115",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-      "deck": "arXiv:2607.14126v1 Announce Type: new Abstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artifi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14126",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
-      "deck": "arXiv:2607.14141v1 Announce Type: new Abstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Curren",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14141",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
-      "deck": "arXiv:2607.14144v1 Announce Type: new Abstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of reality. We propose its",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14144",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
-      "deck": "arXiv:2607.14145v1 Announce Type: new Abstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents str",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14145",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-      "deck": "arXiv:2607.14149v1 Announce Type: new Abstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Mode",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2607.14149",
-      "pubDate": "Sat, 18 Jul 2026 00:00:00 -0400"
     },
     {
       "headline": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
@@ -387,12 +363,36 @@
       "pubDate": "Fri, 17 Jul 2026 14:00:00 +0000"
     },
     {
+      "headline": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
+      "deck": "Election deniers have spent years promoting the idea that the 2020 election was stolen. They believe Donald Trump’s speech finally proves them right.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/",
+      "pubDate": "Fri, 17 Jul 2026 13:48:38 +0000"
+    },
+    {
       "headline": "Google Stitch Just Got a Major Update",
       "deck": "Google Stitch is a very nice UI design tool that uses the full power of AI to craft user interfaces for web and mobile apps.Continue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/google-stitch-just-got-a-major-update-1dae251f54e7?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 17 Jul 2026 12:30:26 GMT"
+    },
+    {
+      "headline": "The Download: perimenopause misinformation and China&#8217;s latest AI leap",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopaus",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "pubDate": "Fri, 17 Jul 2026 12:10:00 +0000"
+    },
+    {
+      "headline": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
+      "deck": "We consulted preparedness experts and WIRED’s team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
+      "pubDate": "Fri, 17 Jul 2026 12:06:00 +0000"
     },
     {
       "headline": "AI just called design’s bluff",
