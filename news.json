@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-07-25T12:00:01.938Z",
+  "generated_at": "2026-07-26T12:00:06.386Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Python Skills That Actually Matter — And Why Every Professional Needs Them in 2026",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/python-skills-that-actually-matter-and-why-every-professional-needs-them-in-2026-634e796236de?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:54:02 GMT"
+    },
+    {
+      "headline": "The Missing Layer: Why Enterprise AI Needs Agentic Memory Engineering",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-missing-layer-why-enterprise-ai-needs-agentic-memory-engineering-f7a8e96fb984?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:51:16 GMT"
+    },
+    {
+      "headline": "How GenAI works — Through the eyes of an Engineer | Practical Pocket Guide",
+      "deck": "An engineer&#x2019;s teardown of the GenAI pipeline: tokens, embeddings, the black box, and the loop we call &#x201C;thinking.&#x201D;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-genai-works-through-the-eyes-of-an-engineer-practical-pocket-guide-e63eaf721841?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:50:47 GMT"
+    },
+    {
+      "headline": "LoRA, Explained With Spreadsheets: How to Train a Model Without Touching Its Weights",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/lora-explained-with-spreadsheets-how-to-train-a-model-without-touching-its-weights-3d60b707c084?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:50:40 GMT"
+    },
+    {
+      "headline": "MCP Just Deleted Its Own Handshake — and Every Request Got 118% Bigger",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/mcp-just-deleted-its-own-handshake-and-every-request-got-118-bigger-e6f4f85a88ad?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:49:12 GMT"
+    },
+    {
+      "headline": "Kimi K3 Explained: 2.8 Trillion Parameters, 16 Active Experts, 1 Huge AI Shift",
+      "deck": "Why Moonshot&#x2019;s new open model may change long-context reasoning, coding, and AI economicsContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/kimi-k3-explained-2-8-trillion-parameters-16-active-experts-1-huge-ai-shift-420dce69bca3?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:49:02 GMT"
+    },
+    {
+      "headline": "How I Fit a Model That “Shouldn’t” Fit on a 6GB Laptop GPU",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-i-fit-a-model-that-shouldnt-fit-on-a-6gb-laptop-gpu-e8376e3af1d5?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:48:52 GMT"
+    },
+    {
+      "headline": "Semantic Router: The AI Traffic Controller",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/semantic-router-the-ai-traffic-controller-4a55f7fe7c35?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:48:40 GMT"
+    },
+    {
+      "headline": "The Constraint Always Moves",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-constraint-always-moves-85a8a3d050fd?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:48:19 GMT"
+    },
+    {
+      "headline": "Building a Self-Evaluating RAG Agent with LangGraph, Qdrant Hybrid Search & Phoenix",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-the-demo-building-a-rag-system-from-scratch-that-routes-retrieves-and-evaluates-itself-4bb1dc66e524?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 26 Jul 2026 11:47:14 GMT"
+    },
+    {
+      "headline": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+      "deck": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+      "pubDate": "Sun, 26 Jul 2026 11:09:00 +0000"
+    },
+    {
+      "headline": "All the Ways You Can Make Reading on Your Phone Easier",
+      "deck": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+      "pubDate": "Sun, 26 Jul 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+      "deck": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+      "pubDate": "Sun, 26 Jul 2026 10:45:00 +0000"
+    },
+    {
+      "headline": "The Best Motorola Phones, From Razr to Moto G (2026)",
+      "deck": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-motorola-phones/",
+      "pubDate": "Sun, 26 Jul 2026 10:34:00 +0000"
+    },
+    {
+      "headline": "The Best Subscription-Free Home Security Cameras I’ve Tried",
+      "deck": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+      "pubDate": "Sun, 26 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Best GoPro Camera (2026): Compact, Budget, Accessories",
+      "deck": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+      "pubDate": "Sun, 26 Jul 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "deck": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000"
+    },
+    {
+      "headline": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
+      "deck": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
+      "deck": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000"
+    },
     {
       "headline": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
       "deck": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
@@ -83,14 +235,6 @@
       "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000"
     },
     {
-      "headline": "Direct Lake on OneLake Just Hit GA. Here’s When It Replaces Import Mode, and When It Doesn’t.",
-      "deck": "Microsoft made Direct Lake on OneLake generally available at FabCon 2026. The pitch is that you get DirectQuery&#x2019;s freshness with Import&#x2019;s&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/direct-lake-on-onelake-just-hit-ga-heres-when-it-replaces-import-mode-and-when-it-doesn-t-248cf576ccc4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 25 Jul 2026 00:01:04 GMT"
-    },
-    {
       "headline": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
       "deck": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
       "source": "Wired",
@@ -107,28 +251,12 @@
       "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000"
     },
     {
-      "headline": "9 Mistakes I Have Made While Using Claude — I Wish I Hadn’t",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/9-mistakes-i-have-made-while-using-claude-i-wish-i-hadnt-22d07f40cf62?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 22:01:01 GMT"
-    },
-    {
       "headline": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
       "deck": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
       "pubDate": "Fri, 24 Jul 2026 20:42:11 +0000"
-    },
-    {
-      "headline": "Turn Raw Data Into $13,000/Month — The Solo Data Analytics Business Built with Claude",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/turn-raw-data-into-13-000-month-the-solo-data-analytics-business-built-with-claude-3f6eac5f2f56?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 20:01:01 GMT"
     },
     {
       "headline": "The 2026 El Niño Is on Track to Be the Strongest on Record",
@@ -147,14 +275,6 @@
       "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000"
     },
     {
-      "headline": "Anthropic Just Read Claude’s Mind. Sort Of",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropic-just-read-claudes-mind-sort-of-74179bcbe791?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 18:01:01 GMT"
-    },
-    {
       "headline": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "deck": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
       "source": "Wired",
@@ -169,14 +289,6 @@
       "category": "tech",
       "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
       "pubDate": "Fri, 24 Jul 2026 17:03:55 +0000"
-    },
-    {
-      "headline": "Anthropic launches Opus 5",
-      "deck": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
     },
     {
       "headline": "A Concrete Definition of “Product Sense” (and How to Build It)",
@@ -195,12 +307,12 @@
       "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
     },
     {
-      "headline": "Apache Arrow: The Movie Your Bronze Layer Deserves",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/apache-arrow-the-movie-your-bronze-layer-deserves-ede51fb1eaa2?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 16:01:03 GMT"
+      "headline": "Anthropic launches Opus 5",
+      "deck": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000"
     },
     {
       "headline": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
@@ -235,14 +347,6 @@
       "pubDate": "Fri, 24 Jul 2026 15:00:00 +0000"
     },
     {
-      "headline": "Academia in the Age of AI: What Is Actually Happening, and What the Next Ten Years Look Like",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/academia-in-the-age-of-ai-what-is-actually-happening-and-what-the-next-ten-years-look-like-a3e1dd16c03d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 14:01:07 GMT"
-    },
-    {
       "headline": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
       "deck": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleas",
       "source": "TechCrunch",
@@ -267,14 +371,6 @@
       "pubDate": "Fri, 24 Jul 2026 12:10:00 +0000"
     },
     {
-      "headline": "My Power BI Report Took 14 Seconds to Load. Here’s Everything I Did to Get It Under 2",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/my-power-bi-report-took-14-seconds-to-load-heres-everything-i-did-to-get-it-under-2-7ef5de8f5214?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 12:01:02 GMT"
-    },
-    {
       "headline": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
       "deck": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
       "source": "Wired",
@@ -289,102 +385,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 24 Jul 2026 11:09:24 GMT"
-    },
-    {
-      "headline": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
-      "deck": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
-      "pubDate": "Fri, 24 Jul 2026 11:01:00 +0000"
-    },
-    {
-      "headline": "What Is Entropy, Really?",
-      "deck": "Never mind the “heat death of the universe.” Entropy is just a bridge between two levels of reality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/what-is-entropy-really/",
-      "pubDate": "Fri, 24 Jul 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-      "deck": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-      "pubDate": "Fri, 24 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Some Kids Will Never Think AI Is Cool",
-      "deck": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere",
-      "deck": "Analysis of satellite images of Myanmar shows dozens of alleged scam compounds have appeared in recent months, despite a purported crackdown on the criminal organizations.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
-      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-      "deck": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
-      "pubDate": "Fri, 24 Jul 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It",
-      "deck": "After Trump publicly backed pillow salesman turned election denier Mike Lindell for governor of Minnesota, the local GOP pushed back strongly.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/",
-      "pubDate": "Fri, 24 Jul 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "European Researchers Say Big Tech Is Blocking Access to Their Data",
-      "deck": "EU law gives researchers unprecedented rights to scrutinize social media data. Researchers say TikTok, X, and Meta impede their attempts to look inside.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
-      "pubDate": "Fri, 24 Jul 2026 08:49:52 +0000"
-    },
-    {
-      "headline": "Learning LangGraph : A Journey Through Agents, Blackboards, and Bottlenecks",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/learning-langgraph-the-hard-way-a-journey-through-agents-blackboards-and-bottlenecks-7a480fca3eb9?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 03:59:36 GMT"
-    },
-    {
-      "headline": "OpenAI's Own Model Escaped Its Sandbox and Hacked Hugging Face in 17,000 Actions to Cheat One Test",
-      "deck": "On July 21, OpenAI published a sentence I did not expect to read in 2026: two of its own models broke out of a locked-down test&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openais-own-model-escaped-its-sandbox-and-hacked-hugging-face-in-17-000-actions-to-cheat-one-test-e205243ae241?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 03:59:28 GMT"
-    },
-    {
-      "headline": "MCP Tool Groups: Curating Tool Access Across Teams, Users, and Providers",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/mcp-tool-groups-curating-tool-access-across-teams-users-and-providers-517400e3e69d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 24 Jul 2026 03:55:29 GMT"
-    },
-    {
-      "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "deck": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000"
     },
     {
       "headline": "Steal this UX framework from Dubai’s most over-the-top hotel",
