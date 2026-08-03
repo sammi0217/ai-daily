@@ -1,14 +1,278 @@
 {
-  "generated_at": "2026-08-02T15:30:56.903Z",
+  "generated_at": "2026-08-03T12:00:07.552Z",
   "count": 50,
   "articles": [
     {
-      "headline": "The Junior Developer Pipeline Is Collapsing — And the Industry Won’t Feel the Real Cost Until 2031",
-      "deck": "AI didn&#x2019;t just make junior developers less necessary. It broke the training system that turns them into senior engineers &#x2014; and nobody&#x2019;s&#x2026;Continue reading on Towards AI »",
+      "headline": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
+      "deck": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+      "pubDate": "Mon, 03 Aug 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+      "deck": "We’ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware’s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+      "pubDate": "Mon, 03 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
+      "deck": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
+      "pubDate": "Mon, 03 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Best Audio Players for Kids: Yoto, Toniebox, and More",
+      "deck": "Whether you want an audio player that’ll grow with your kid or one that your toddler can operate independently, I have a recommendation for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-kids-audio-players-for-screen-free-story-time/",
+      "pubDate": "Mon, 03 Aug 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "The Delicate Art of Making a 1907 House Smarter",
+      "deck": "I tested modern locks, lights, climate controls, and more in a historic home that I very much wanted to keep historic.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/smart-tech-for-a-vintage-home/",
+      "pubDate": "Mon, 03 Aug 2026 10:09:00 +0000"
+    },
+    {
+      "headline": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "deck": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "AI Conquered Coding. Fast Food Is Next",
+      "deck": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "deck": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "IA for AI, The UX of contrast, Battling AI fatigue",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 03 Aug 2026 09:47:06 GMT"
+    },
+    {
+      "headline": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
+      "deck": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/nothing-ear-3a/",
+      "pubDate": "Mon, 03 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "deck": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+      "pubDate": "Mon, 03 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Here’s why AI agents lie and cheat to reach their goals",
+      "deck": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the we",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "pubDate": "Mon, 03 Aug 2026 08:30:05 +0000"
+    },
+    {
+      "headline": "Chat is the wrong interface for AI",
+      "deck": "The problem with over-simplification of AI Agents&#x2019; interfaces.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 03 Aug 2026 06:10:39 GMT"
+    },
+    {
+      "headline": "What I’ve learned writing for billions of users",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 03 Aug 2026 06:08:51 GMT"
+    },
+    {
+      "headline": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "deck": "arXiv:2607.28629v1 Announce Type: new Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agenti",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "deck": "arXiv:2607.28631v1 Announce Type: new Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "deck": "arXiv:2607.28632v1 Announce Type: new Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial ma",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "deck": "arXiv:2607.28642v1 Announce Type: new Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue th",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "deck": "arXiv:2607.28657v1 Announce Type: new Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the ch",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "deck": "arXiv:2607.28659v1 Announce Type: new Abstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recomm",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28659",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "deck": "arXiv:2607.28662v1 Announce Type: new Abstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same pers",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28662",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "deck": "arXiv:2607.28674v1 Announce Type: new Abstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods re",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28674",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "deck": "arXiv:2607.28677v1 Announce Type: new Abstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for sym",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28677",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "deck": "arXiv:2607.28678v1 Announce Type: new Abstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2607.28678",
+      "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Rewriting Business Rules: Artificial Intelligence in Legal Tech and Compliance",
+      "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/the-junior-developer-pipeline-is-collapsing-and-the-industry-wont-feel-the-real-cost-until-2031-53cc8165db9b?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 02 Aug 2026 15:01:02 GMT"
+      "url": "https://pub.towardsai.net/rewriting-business-rules-artificial-intelligence-in-legal-tech-and-compliance-b81eb881556f?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 03 Aug 2026 00:31:01 GMT"
+    },
+    {
+      "headline": "Why Kubernetes Exists: From a Python Script to Production Orchestration",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-kubernetes-exists-from-a-python-script-to-production-orchestration-5d825035f34b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 03 Aug 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "OpenClaw vs Hermes Agent: the Honest Comparison Nobody’s Given You Yet",
+      "deck": "Peter Steinberger built the first version of what became OpenClaw in about an hour.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/openclaw-vs-hermes-agent-the-honest-comparison-nobodys-given-you-yet-6c3ef10d518b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "DeepSeek-V4-Flash: the $0.28 Model that Just Embarrassed the AI Industry’s Pricing",
+      "deck": "How DeepSeek-V4-Flash&#x2019;s hybrid sparse attention and MoE design deliver near-frontier agentic coding at a fraction of GPT and Claude&#x2019;s API&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/deepseek-v4-flash-the-0-28-model-that-just-embarrassed-the-ai-industrys-pricing-acc58077cc2e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 22:31:01 GMT"
+    },
+    {
+      "headline": "Becoming a Top 1% Hermes Agent User: The Complete Playbook No One Else Is Sharing",
+      "deck": "Three weeks into running Hermes Agent on a $5 VPS, I opened my terminal and it told me something I hadn&#x2019;t asked for. It had noticed I kept&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/becoming-a-top-1-hermes-agent-user-the-complete-playbook-no-one-else-is-sharing-901c7757ed1c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "ADLC Has Six Definitions and Zero Consensus — I Compared Every Major Framework",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/adlc-has-six-definitions-and-zero-consensus-i-compared-every-major-framework-f543b4bff84f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 21:31:01 GMT"
+    },
+    {
+      "headline": "Building Reliable AI Agents with Tool Calling and Structured Output in 2026",
+      "deck": "Tool calling has become one of the most important capabilities for building production-grade AI agents. While early agents relied heavily&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-reliable-ai-agents-with-tool-calling-and-structured-output-in-2026-b0d2f0753e3b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "Sam Altman and AI’s decel debate",
+      "deck": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000"
+    },
+    {
+      "headline": "AI Fundamentals: Understanding Activation Functions (Part 1)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-fundamentals-understanding-activation-functions-part-1-fde15d65c735?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 20:31:01 GMT"
+    },
+    {
+      "headline": "The Search Agent That Stopped Fooling Itself",
+      "deck": "Why teaching an AI to pick from a menu beats letting it write its own questionsContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-search-agent-that-stopped-fooling-itself-cdc5833128c6?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 02 Aug 2026 20:01:01 GMT"
     },
     {
       "headline": "Designing for the proxy",
@@ -17,30 +281,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
       "pubDate": "Sun, 02 Aug 2026 14:12:49 GMT"
-    },
-    {
-      "headline": "The Summarization TRAP: Why You Should Never Summarize Everything",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-summarization-trap-why-you-should-never-summarize-everything-9a63438c87af?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 02 Aug 2026 14:01:03 GMT"
-    },
-    {
-      "headline": "Understanding PyTorch DistributedDataParallel (DDP) From Scratch: Why Every GPU Trains the Entire…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/understanding-pytorch-distributeddataparallel-ddp-from-scratch-why-every-gpu-trains-the-entire-2b80f89bed3d?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 02 Aug 2026 13:01:02 GMT"
-    },
-    {
-      "headline": "We Are Putting Pydantic AI v2 in Three Places. None of Them Is the Orchestrator.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/we-are-putting-pydantic-ai-v2-in-three-places-none-of-them-is-the-orchestrator-811a6fc04208?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 02 Aug 2026 12:01:01 GMT"
     },
     {
       "headline": "8 Best Password Managers (2026), Tested and Reviewed",
@@ -123,54 +363,6 @@
       "pubDate": "Sun, 02 Aug 2026 09:00:00 +0000"
     },
     {
-      "headline": "The Day I Stopped Babysitting My AI and Started Building Loops",
-      "deck": "How Loop Engineering Transformed Me from Prompt engineer to System Architect.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-day-i-stopped-babysitting-my-ai-and-started-building-loops-e9f3aafbcb79?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 02 Aug 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "The Sonnet 5 Price is Not What You Think It Is",
-      "deck": "Sonnet 5 launched with a promotional rate of $2/$10 per MTok that expires August 31, 2026Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-sonnet-5-price-is-not-what-you-think-it-is-7aeade4b3d60?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 01 Aug 2026 23:31:01 GMT"
-    },
-    {
-      "headline": "Embodied AI Agent Architecture: Build Physical-World AI Without Treating Robots Like Chatbots",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/embodied-ai-agent-architecture-build-physical-world-ai-without-treating-robots-like-chatbots-ec67a900a3fb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 01 Aug 2026 23:01:02 GMT"
-    },
-    {
-      "headline": "Why Nvidia Locked OpenAI Out of Its Security Alliance",
-      "deck": "37 members. No OpenAI. The Hugging Face breach showed why closed APIs fail at cyber-defense.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-nvidia-locked-openai-out-of-its-security-alliance-26971b2b9beb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 01 Aug 2026 22:31:01 GMT"
-    },
-    {
-      "headline": "Text-to-SQL with RAG: Building a Chatbot That Talks to Your Database",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/text-to-sql-with-rag-building-a-chatbot-that-talks-to-your-database-1938f93f31ca?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 01 Aug 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "Closed Source, Open Source Or Open Weights, Which Is Winning The AI Race?",
-      "deck": "The AI race has split into two races.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/closed-source-open-source-or-open-weights-which-is-winning-the-ai-race-e1ea72a6fbf3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 01 Aug 2026 21:31:01 GMT"
-    },
-    {
       "headline": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "deck": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
       "source": "TechCrunch",
@@ -209,198 +401,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "pubDate": "Sat, 01 Aug 2026 15:58:17 +0000"
-    },
-    {
-      "headline": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-      "deck": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-office-chairs/",
-      "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000"
-    },
-    {
-      "headline": "Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep",
-      "deck": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-organic-mattress/",
-      "pubDate": "Sat, 01 Aug 2026 11:34:00 +0000"
-    },
-    {
-      "headline": "China’s EV Market Is Booming. There’s Just One Problem",
-      "deck": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
-      "pubDate": "Sat, 01 Aug 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "deck": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-      "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
-      "deck": "In a world of plasticky water filter pitchers, I tested three new-generation stainless steel filter systems.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/steel-water-filters-head-to-head/",
-      "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan",
-      "deck": "On Dreo’s summer flash sale from August 1 to 3, a great misting fan and an even better air fryer are at the lowest prices we’ve seen them.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/",
-      "pubDate": "Sat, 01 Aug 2026 10:09:00 +0000"
-    },
-    {
-      "headline": "Alienware 15 Gaming Laptop Review: Hedging Its Bets",
-      "deck": "There are both cheaper and more powerful entry-level gaming laptops out there, but the Alienware 15 walks that tightrope between price and quality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/alienware-15-gaming-laptop/",
-      "pubDate": "Sat, 01 Aug 2026 09:31:00 +0000"
-    },
-    {
-      "headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "deck": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "pubDate": "Sat, 01 Aug 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Astronomers Have Detected an Exomoon for the First Time",
-      "deck": "A discovery in a solar system 73 light-years from Earth is challenging definitions and “blurring the lines between stars, planets, and moons.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
-      "pubDate": "Sat, 01 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Paramount+ Coupon Codes and Deals for August 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Valvoline Coupons and Promo Codes for August 2026",
-      "deck": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "TurboTax Full Service Coupons This August",
-      "deck": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Home Depot Promo Codes: 50% Off in August 2026",
-      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Peacock Promo Codes: 40% Off August 2026",
-      "deck": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Canon Promo Codes | August 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chewy Promo Codes: $20 Off August 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Dell Coupon Codes: 20% Off for August 2026",
-      "deck": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "deck": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "eBay Coupons: 20% Off in August 2026",
-      "deck": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Squarespace Promo Codes: 20% Off in August 2026",
-      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Design Within Reach Promo Codes: 30% Off | August 2026",
-      "deck": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "AT&T Promo Codes: $50 Off This August 2026",
-      "deck": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "pubDate": "Sat, 01 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Perplexity diverges with color",
-      "deck": "Building data color schemes with Generative AI.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 01 Aug 2026 02:47:36 GMT"
-    },
-    {
-      "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "deck": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "pubDate": "Fri, 31 Jul 2026 22:47:26 +0000"
     }
   ]
 }
