@@ -1,7 +1,103 @@
 {
-  "generated_at": "2026-08-08T12:00:01.817Z",
+  "generated_at": "2026-08-09T12:00:02.046Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The Complicated Case of Passing On Your Digital Estate",
+      "deck": "There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are things you can do now to make the process easier for them.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/digital-estate-planning-tips/",
+      "pubDate": "Sun, 09 Aug 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+      "deck": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-compression-boots/",
+      "pubDate": "Sun, 09 Aug 2026 11:04:00 +0000"
+    },
+    {
+      "headline": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "deck": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "pubDate": "Sun, 09 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video",
+      "deck": "TCL’s hybrid tablet-digital notebook tries to be the best of both worlds, and it mostly succeeds.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/",
+      "pubDate": "Sun, 09 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "The 12 Best Anime to Watch if You Think You Hate Anime",
+      "deck": "Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-12-best-anime-to-watch-if-you-think-you-hate-anime/",
+      "pubDate": "Sun, 09 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+      "deck": "Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+      "pubDate": "Sun, 09 Aug 2026 09:37:00 +0000"
+    },
+    {
+      "headline": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "deck": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "pubDate": "Sun, 09 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "deck": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000"
+    },
+    {
+      "headline": "OpenAI acquires presentation startup NextSlide",
+      "deck": "NextSlide says its team members are now working on ChatGPT.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000"
+    },
+    {
+      "headline": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+      "deck": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+      "pubDate": "Sat, 08 Aug 2026 14:03:58 +0000"
+    },
+    {
+      "headline": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+      "deck": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+      "deck": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+      "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000"
+    },
     {
       "headline": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
       "deck": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
@@ -67,19 +163,19 @@
       "pubDate": "Sat, 08 Aug 2026 09:00:00 +0000"
     },
     {
-      "headline": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
-      "deck": "If you want to capture the sun’s power with solar panels, these are the best solar generators I’ve tested.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-solar-generators/",
-      "pubDate": "Sat, 08 Aug 2026 09:00:00 +0000"
-    },
-    {
       "headline": "WhatsApp Gets a Handy @all Feature for Group Chats",
       "deck": "A new software update builds on WhatsApp’s group chat chops by adding anonymous polls and introducing an easier way to start a smaller private chat away from the larger group.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+      "pubDate": "Sat, 08 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+      "deck": "If you want to capture the sun’s power with solar panels, these are the best solar generators I’ve tested.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-solar-generators/",
       "pubDate": "Sat, 08 Aug 2026 09:00:00 +0000"
     },
     {
@@ -297,102 +393,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
       "pubDate": "Fri, 07 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "deck": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
-      "deck": "Microplastics are in everything, especially your coffee. A new generation of plastic-free drip coffee brewers is trying to change this.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/plastic-free-coffee-makers/",
-      "pubDate": "Fri, 07 Aug 2026 09:32:00 +0000"
-    },
-    {
-      "headline": "Google Workspace Promo Codes: 14% Off for August 2026",
-      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hotels.com Coupon Codes for August 2026",
-      "deck": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Uber Eats Promo Codes: $15 Off│August 2026",
-      "deck": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Nike Promo Codes and Discounts: 30% for August 2026",
-      "deck": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "50% Off DoorDash Promo Code | August 2026",
-      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Surfshark Promo Codes: 87% Off | August 2026",
-      "deck": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/surfshark-coupon/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "deck": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "B&H Photo Promo Codes and Deals This August 2026",
-      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "LG Promo Codes and Coupons for August 2026",
-      "deck": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Ray-Ban Promo Codes: Save 50% in August 2026",
-      "deck": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ray-ban-promo-code/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:00 +0000"
     },
     {
       "headline": "What Star Trek got wrong about AI (so far)",
