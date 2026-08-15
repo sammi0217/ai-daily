@@ -1,7 +1,367 @@
 {
-  "generated_at": "2026-08-14T12:00:03.194Z",
+  "generated_at": "2026-08-15T12:00:04.324Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+      "deck": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+      "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+      "deck": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/retrospec-joe-rev-2/",
+      "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+      "deck": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+      "deck": "These are the Apple Watch accessories I recommend adding to your setup.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-apple-watch-accessories/",
+      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+      "deck": "Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+      "pubDate": "Sat, 15 Aug 2026 10:01:00 +0000"
+    },
+    {
+      "headline": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+      "deck": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+      "pubDate": "Sat, 15 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)",
+      "deck": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-apple-watch-bands/",
+      "pubDate": "Sat, 15 Aug 2026 09:33:00 +0000"
+    },
+    {
+      "headline": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+      "deck": "The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+      "pubDate": "Sat, 15 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "deck": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Building an AI Race Engineer (Part 1): From Race Replay to Crew Chief",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-an-ai-race-engineer-part-1-from-race-replay-to-crew-chief-6c746272ba04?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 06:29:12 GMT"
+    },
+    {
+      "headline": "Attention Is Structured Forgetting",
+      "deck": "Why Your Language Model Deletes 99% of What It ReadsContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/attention-is-structured-forgetting-d9ff0fa3e9c0?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 06:27:57 GMT"
+    },
+    {
+      "headline": "Azure Storage for AI Inference: Prompt Caching, KV Offload, and Faster Model Loading",
+      "deck": "How Azure Storage speeds up AI inference: prompt caching, KV cache offload to Blob, faster model loading, and grounding agents with&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/azure-storage-for-ai-inference-prompt-caching-kv-offload-and-faster-model-loading-dbb7350ac414?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 06:27:27 GMT"
+    },
+    {
+      "headline": "The Best Open-Source Coding LLMs in 2026 (Ranked by Real Developer Use Cases)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-best-open-source-coding-llms-in-2026-ranked-by-real-developer-use-cases-f8e5a25ed251?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 06:26:36 GMT"
+    },
+    {
+      "headline": "Google Workspace Promo Codes: 14% Off for August 2026",
+      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "pubDate": "Sat, 15 Aug 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Position: Reasoning is a Learnable Rule-Based Process",
+      "deck": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly e",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "deck": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce Int",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "deck": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malici",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "deck": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annota",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "deck": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent qualit",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "deck": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly hig",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "deck": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12373",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "deck": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stre",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12385",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "deck": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions.",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12389",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "deck": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.12395",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Why Is OpenAI Losing Money? Inside the $34 Billion Bet on ChatGPT’s Future",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-is-openai-losing-money-inside-the-34-billion-bet-on-chatgpts-future-070454a22937?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 03:26:53 GMT"
+    },
+    {
+      "headline": "Beyond RAG: Implementing Agentic Memory Architectures for Long-Horizon AI Systems",
+      "deck": "Your retrieval-augmented agent can answer questions about your documents. But ask it to remember what you told it three conversations ago&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/beyond-rag-implementing-agentic-memory-architectures-for-long-horizon-ai-systems-3e72b8b0ec84?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 15 Aug 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Claude Code MCP Server Configuration: Add Servers, Pick a Stack, Stay Small",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-mcp-server-configuration-add-servers-pick-a-stack-stay-small-41300081dbc7?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 14 Aug 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "Inside Kimi K3: How Moonshot AI Built the Largest Open-Source Model",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/inside-kimi-k3-how-moonshot-ai-built-the-largest-open-source-model-c4af3555e73a?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 14 Aug 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+      "deck": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+      "pubDate": "Fri, 14 Aug 2026 21:43:17 +0000"
+    },
+    {
+      "headline": "The Best Movies to Stream This Month (August 2026)",
+      "deck": "Avatar Aang, Heartstopper Forever, and Exit 8 are among the films deserving of your eyeballs this month.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "pubDate": "Fri, 14 Aug 2026 21:18:21 +0000"
+    },
+    {
+      "headline": "Claude Touched My Writing. Does That Make It AI-Generated?",
+      "deck": "A few days ago I came across the news that Claude was starting to mark AI-generated content, and for some reason my first thought was not&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-touched-my-writing-does-that-make-it-ai-generated-14f51b0f0e13?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 14 Aug 2026 21:01:02 GMT"
+    },
+    {
+      "headline": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "deck": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "pubDate": "Fri, 14 Aug 2026 20:59:03 +0000"
+    },
+    {
+      "headline": "Grok 4.6 x Cursor : Elon Musk Just Bought His Way Into the AI Coding War",
+      "deck": "Grok 4.6 does not dominate Claude or Codex. With frontier performance, aggressive pricing, and Cursor distribution, it may not need to.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 14 Aug 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Getting started is not getting it right",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 14 Aug 2026 19:26:57 GMT"
+    },
+    {
+      "headline": "One AI Output Is an Example, Not an Evaluation",
+      "deck": "One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Psychological Ownership: Own the Right Things",
+      "deck": "Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 14 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Google will now allow users to remove visible watermark from its AI generations",
+      "deck": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000"
+    },
+    {
+      "headline": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+      "deck": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind i",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000"
+    },
+    {
+      "headline": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
+      "deck": "AI agents are becoming more and more popular in many organizations. People tend to use agents in various scenarios, but this can cause a&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/3-types-of-agentic-workflows-in-claude-code-safe-risky-and-dangerous-6bcf401a2fb5?source=rss----819cc2aaeee0---4",
+      "pubDate": "Fri, 14 Aug 2026 15:12:54 GMT"
+    },
+    {
+      "headline": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "deck": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "pubDate": "Fri, 14 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Kog is going deeper to squeeze more inference out of GPUs",
+      "deck": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000"
+    },
+    {
+      "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "deck": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000"
+    },
+    {
+      "headline": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong",
+      "deck": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind i",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "The Download: Flock&#8217;s new rules, cloning&#8217;s future, and children&#8217;s cells",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance ba",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "pubDate": "Fri, 14 Aug 2026 12:17:21 +0000"
+    },
+    {
+      "headline": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "deck": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "pubDate": "Fri, 14 Aug 2026 12:00:00 +0000"
+    },
     {
       "headline": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
       "deck": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
@@ -35,372 +395,12 @@
       "pubDate": "Fri, 14 Aug 2026 10:31:00 +0000"
     },
     {
-      "headline": "I Wore an Electrical Muscle Stimulation Body Suit to Zap Myself Into Fitness",
-      "deck": "Can electrifying your workout offer a shortcut to a stronger, fitter you? I sweated in a skintight EMS suit for two months to find out.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-wore-a-pepper-electrical-muscle-stimulation-body-suit-to-zap-myself-into-fitness/",
-      "pubDate": "Fri, 14 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "deck": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "pubDate": "Fri, 14 Aug 2026 10:15:00 +0000"
-    },
-    {
-      "headline": "5 Weird Tricks for Having a Brain",
-      "deck": "From the multibrained octopus to the bitty brain organoid, we’re all just inference engines making flawed bets on the future. Here are the five insights your brain will need to survive.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/galaxy-brain/",
-      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Best Computer Monitors (2026): The Home Office Upgrade You Need",
-      "deck": "My expert advice on what computer monitor to buy for your home office, ranging from budget-tier to fully featured.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-monitors/",
-      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Her Brain Was Broken. It Was Fixed With Sound—Not a Scalpel",
-      "deck": "One woman’s meth addiction was so bad, the only option left might have been brain surgery. Then a single session of noninvasive, focused ultrasound seemed to do what years of treatment could not.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/brain-focused-ultrasound/",
-      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real",
-      "deck": "Ground Truth makes the shared rental bikes harder to pedal through rent-burdened neighborhoods, offering a tangible way for people to experience income inequality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/",
-      "pubDate": "Fri, 14 Aug 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Dell XPS 13 Review: Move Over, Neo",
-      "deck": "It’s amazing how few compromises Dell made to get the new XPS 13 down to $700, but I strongly recommend the $900 model, which comes with 16 GB of RAM.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/dell-xps-13-2026/",
-      "pubDate": "Fri, 14 Aug 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "This scientist is helping build a missing map of childhood",
-      "deck": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cel",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Job titles of the future: Space travel agent",
-      "deck": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Cloning could be used to save species—or make human “organ sacks”",
-      "deck": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male m",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "The Real Reason Data Center Gas Power Plants Are So Dirty",
-      "deck": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Engineering a Multi-Agent AI Platform — Part 2: The Bandit",
-      "deck": "This is Part 2 of a series on engineering AI systems that learn in production. Part 1 introduced the complexity classifier and three&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/engineering-a-multi-agent-ai-platform-part-2-the-bandit-dac2decd88f5?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 07:54:11 GMT"
-    },
-    {
-      "headline": "Training Was Never the Expensive Part. The Grid Just Sent the Bill.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/training-was-never-the-expensive-part-the-grid-just-sent-the-bill-ee2e9dd4a2b5?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:58:05 GMT"
-    },
-    {
-      "headline": "The Hidden Cost of Manual Literature Reviews, and How AI Changes the Math",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-hidden-cost-of-manual-literature-reviews-and-how-ai-changes-the-math-34157c309d92?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:56:46 GMT"
-    },
-    {
-      "headline": "The AI Act Is Not a Compliance Project: Five Lessons from BCBS 239",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-ai-act-is-not-a-compliance-project-five-lessons-from-bcbs-239-b7a65b076721?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:56:18 GMT"
-    },
-    {
-      "headline": "Securing Cross-Tenant Data Transfers in Microsoft Fabric Using Managed Private Endpoints",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/securing-cross-tenant-data-transfers-in-microsoft-fabric-using-managed-private-endpoints-58a477e98ced?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:55:11 GMT"
-    },
-    {
-      "headline": "Beyond PPO: Demystifying GRPO, Process Reward Models, and Reinforcement Learning for Reasoning LLMs",
-      "deck": "How critic-free reinforcement learning, step-level supervision, and verifiable reward functions are driving the next leap in frontier AI&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beyond-ppo-demystifying-grpo-process-reward-models-and-reinforcement-learning-for-reasoning-llms-9eaa6403dd73?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:51:38 GMT"
-    },
-    {
-      "headline": "Beyond Benchmarks: What Grok 4.6 Means for the Next Generation of Real-Time AI",
-      "deck": "How massive compute scaling, real-time context streaming, and hybrid reasoning architectures are reshaping the LLM ecosystem.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beyond-benchmarks-what-grok-4-6-means-for-the-next-generation-of-real-time-ai-1eac944cc768?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:51:23 GMT"
-    },
-    {
-      "headline": "Observability Is Becoming the Evidence Plane for AI Systems",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/observability-is-becoming-the-evidence-plane-for-ai-systems-4507a7ca3967?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:51:08 GMT"
-    },
-    {
-      "headline": "If You Understand These 5 AI Terms, You’re Ahead of 90% of People",
-      "deck": "Understand embeddings, AI agents, RAG, fine-tuning, context engineering, and grounding &#x2014; and learn what&#x2019;s actually happening inside modern&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-015cc1a9bcbe?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 14 Aug 2026 06:48:32 GMT"
-    },
-    {
-      "headline": "Layla Sleep Coupon: Save Up to $600 in August 2026",
-      "deck": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in August 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/layla-sleep-coupon/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Office Depot Coupons: Save With Promo Codes in August 2026",
-      "deck": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/office-depot-promo-codes/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "HelloFresh Promo Codes: 55% Off for August 2026",
-      "deck": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in August 2026. Discover our best codes and discounts to let you save time and money.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hellofresh-coupon/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Columbia Promo Codes: 15% Off | August 2026",
-      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Pura Promo Codes: $20 Off August 2026",
-      "deck": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/pura-promo-code/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Babbel Promo Code: Up to 65% Off in August 2026",
-      "deck": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/babbel-promo-code/",
-      "pubDate": "Fri, 14 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Position: Reasoning is a Learnable Rule-Based Process",
-      "deck": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly e",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12325",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "deck": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce Int",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12345",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "deck": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malici",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12346",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "deck": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annota",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12368",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "deck": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent qualit",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12371",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-      "deck": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly hig",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12372",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-      "deck": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12373",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-      "deck": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stre",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12385",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
-      "deck": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions.",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12389",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Research Assistant: AstraZeneca's Agentic System for R&D",
-      "deck": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.12395",
-      "pubDate": "Fri, 14 Aug 2026 00:00:00 -0400"
-    },
-    {
       "headline": "Rethinking design leadership with swarms and flocks",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
       "pubDate": "Thu, 13 Aug 2026 22:18:13 GMT"
-    },
-    {
-      "headline": "What Star Wars got wrong about AI (so far)",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 13 Aug 2026 22:17:13 GMT"
-    },
-    {
-      "headline": "Framer is killing the marketplace… or are they?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 13 Aug 2026 22:16:40 GMT"
-    },
-    {
-      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "deck": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000"
-    },
-    {
-      "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "deck": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000"
-    },
-    {
-      "headline": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "deck": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000"
-    },
-    {
-      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
-      "deck": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000"
-    },
-    {
-      "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "deck": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000"
-    },
-    {
-      "headline": "Top 5 Claude Design Tips & Tricks for Product Designers",
-      "deck": "Claude Design is quickly becoming my favorite tool for rapid prototyping. In this article, I want to share a collection of my favorite&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/top-5-claude-design-tips-tricks-for-product-designers-1f565d1a36a6?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 13 Aug 2026 17:03:46 GMT"
-    },
-    {
-      "headline": "New EU Guidelines For AI Labelling",
-      "deck": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT"
     }
   ]
 }
