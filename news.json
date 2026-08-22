@@ -1,7 +1,223 @@
 {
-  "generated_at": "2026-08-21T12:00:02.733Z",
+  "generated_at": "2026-08-22T12:00:01.837Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+      "deck": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-monitor-arms/",
+      "pubDate": "Sat, 22 Aug 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "Set Up a Separate Work Profile on Your Android Phone",
+      "deck": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
+      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
+      "deck": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/the-best-mattress-toppers/",
+      "pubDate": "Sat, 22 Aug 2026 10:32:00 +0000"
+    },
+    {
+      "headline": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
+      "deck": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
+      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+      "deck": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
+      "pubDate": "Sat, 22 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "LLM-as-a-Judge: Building LLM-Based Evaluation Pipelines for AI Applications",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-as-a-judge-building-automated-evaluation-pipelines-for-ai-applications-8680a412a1bd?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:10:17 GMT"
+    },
+    {
+      "headline": "GPT-5, Llama And Qwen Agree: YAML Is Smaller Than JSON And Costs More Tokens",
+      "deck": "Ten serialisations, seven production tokenizers. Across a hundred records YAML is 3% fewer bytes than minified JSON and 21% more tokens &#x2014;&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-5-llama-and-qwen-agree-yaml-is-smaller-than-json-and-costs-more-tokens-a9496ee62ff9?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:08:29 GMT"
+    },
+    {
+      "headline": "From Prompt to Diagram to Pull Request: Building AI-Powered Collaboration on a Visual Canvas",
+      "deck": "How Lucid&#x2019;s AI diagramming, AI whiteboarding, and the Lucid MCP server let AI agents create, share, and update living documents, with a&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-prompt-to-diagram-to-pull-request-building-ai-powered-collaboration-on-a-visual-canvas-75ff18008b88?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:07:16 GMT"
+    },
+    {
+      "headline": "Llama 3.2 Needs Eight Tokens For One Bengali Word. Gemma 3 Needs One.",
+      "deck": "Eight tokenizers, the same document, twenty-one languages.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llama-3-2-needs-eight-tokens-for-one-bengali-word-gemma-3-needs-one-51354a3ad8e8?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:06:40 GMT"
+    },
+    {
+      "headline": "Your LLM Retry Logic Has a Trapdoor at the Bottom",
+      "deck": "Three retries, one alert, and the request is gone. A DLQ took us to 0.1%.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-retry-logic-has-a-trapdoor-at-the-bottom-2337c0fddf4f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:03:16 GMT"
+    },
+    {
+      "headline": "Multi-Token Prediction and Its Descendants",
+      "deck": "How MTP, DFlash, DFlash 2, and DSpark each attack the same bottleneckContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/multi-token-prediction-and-its-descendants-5803577f3772?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:03:04 GMT"
+    },
+    {
+      "headline": "Physical AI vs. Agentic AI: What’s the Difference (and Why It Matters in 2026)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/physical-ai-vs-agentic-ai-whats-the-difference-and-why-it-matters-in-2026-de0785fabc7e?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 04:02:58 GMT"
+    },
+    {
+      "headline": "Why Microsoft Fabric Disaster Recovery Fails, And How to Architect Around It",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-microsoft-fabric-disaster-recovery-fails-and-how-to-architect-around-it-e0394f17ba11?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 03:56:49 GMT"
+    },
+    {
+      "headline": "Accelerate your ML models using RAPIDS AI",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/accelerate-your-ml-models-using-rapids-ai-ad032d530ae4?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 03:50:23 GMT"
+    },
+    {
+      "headline": "Contrastive Learning: The Secret Behind Today’s Smartest Vision Models",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 22 Aug 2026 03:47:08 GMT"
+    },
+    {
+      "headline": "The Unlikely Place at the Center of China’s AI Boom",
+      "deck": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "pubDate": "Fri, 21 Aug 2026 23:25:32 +0000"
+    },
+    {
+      "headline": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+      "deck": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+      "pubDate": "Fri, 21 Aug 2026 23:10:00 +0000"
+    },
+    {
+      "headline": "Anthropic’s Opus 4.6 is a smut-machine",
+      "deck": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000"
+    },
+    {
+      "headline": "Nvidia partners with data center developer Cloverleaf",
+      "deck": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000"
+    },
+    {
+      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "deck": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000"
+    },
+    {
+      "headline": "Artificial Intelligence: Glossary",
+      "deck": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "deck": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Meta’s Big Reckoning Is Here",
+      "deck": "Meta is in court again over child safety, and this time it’s a landmark case that could force significant changes to core features of Facebook and Instagram.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+      "pubDate": "Fri, 21 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "deck": "There's about to be a big fight to secure access to space.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "deck": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "Claude Design for UX: How to Design Complete User Flows, Not Just UI Screens",
+      "deck": "Claude Design is a very nice tool for quick prototyping. It helps you turn your idea into an interactive prototype in no time. But you can&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss----819cc2aaeee0---4",
+      "pubDate": "Fri, 21 Aug 2026 13:40:13 GMT"
+    },
+    {
+      "headline": "The Download: threats from space mirrors and credit for AI drugs",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the nigh",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "pubDate": "Fri, 21 Aug 2026 12:10:00 +0000"
+    },
     {
       "headline": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
       "deck": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
@@ -91,22 +307,6 @@
       "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000"
     },
     {
-      "headline": "Ray-Ban Promo Codes: Save 50% in August 2026",
-      "deck": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ray-ban-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Meta Quest Promo Codes and Coupons for August 2026",
-      "deck": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
       "headline": "Paramount+ Coupon Codes and Deals for August 2026",
       "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
       "source": "Wired",
@@ -123,35 +323,27 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
     },
     {
-      "headline": "B&H Photo Promo Codes and Deals This August 2026",
-      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Lenovo Coupon Codes: 15% Off in August 2026",
-      "deck": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Valvoline Coupons and Promo Codes for August 2026",
-      "deck": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
       "headline": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
       "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Ruggable Discount Code: 30% Off Rugs | August 2026",
+      "deck": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ruggable-discount-code/",
+      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Ray-Ban Promo Codes: Save 50% in August 2026",
+      "deck": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ray-ban-promo-code/",
       "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
     },
     {
@@ -163,11 +355,19 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
     },
     {
-      "headline": "Ruggable Discount Code: 30% Off Rugs | August 2026",
-      "deck": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
+      "headline": "Meta Quest Promo Codes and Coupons for August 2026",
+      "deck": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/ruggable-discount-code/",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "B&H Photo Promo Codes and Deals This August 2026",
+      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
       "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
     },
     {
@@ -187,166 +387,6 @@
       "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
     },
     {
-      "headline": "Squarespace Promo Codes: 20% Off in August 2026",
-      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Active Inference as Context Acquisition for AI Agents",
-      "deck": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed wi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19202",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-      "deck": "arXiv:2608.19214v1 Announce Type: new Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19214",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "How to Navigate Uncertainty About AI Consciousness",
-      "deck": "arXiv:2608.19215v1 Announce Type: new Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insent",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19215",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "deck": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19216",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Interaction valence reveals contrasting social networks in dairy cattle",
-      "deck": "arXiv:2608.19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19222",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-      "deck": "arXiv:2608.19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automat",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19299",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
-      "deck": "arXiv:2608.19303v1 Announce Type: new Abstract: When a tool call times out, the agent sees the failure and can route around it. A cached error page or negative price can instead arrive in the expected format and be consu",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19303",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
-      "deck": "arXiv:2608.19408v1 Announce Type: new Abstract: On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level superv",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19408",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
-      "deck": "arXiv:2608.19511v1 Announce Type: new Abstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific research communities. Symposium provides long",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19511",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
-      "deck": "arXiv:2608.19535v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes with overhead: retrieved context lengthens ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.19535",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "OpenAI Just Hit the Brakes on AI Development After Its AI Agent Hacked Hugging Face",
-      "deck": "I route most of my model calls through OpenRouter so I can swap providers in seconds. That habit is exactly why this story stopped me cold&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openai-just-hit-the-brakes-on-ai-development-after-its-ai-agent-hacked-hugging-face-e50be904e643?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:23:08 GMT"
-    },
-    {
-      "headline": "From Pretraining to Agentic K3: How Moonshot Trained the Architecture",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-pretraining-to-agentic-k3-how-moonshot-trained-the-architecture-fd8b5210845b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:16:43 GMT"
-    },
-    {
-      "headline": "From KV Cache to Depth Attention: The Bottlenecks Kimi K3 Had to Break",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-kv-cache-to-depth-attention-the-bottlenecks-kimi-k3-had-to-break-4f74418a7954?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:16:29 GMT"
-    },
-    {
-      "headline": "The 2.8-Trillion-Parameter Problem: Why Bigger Models Break the Old Playbook",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-2-8-trillion-parameter-problem-why-bigger-models-break-the-old-playbook-d7619d9c4fb1?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:16:16 GMT"
-    },
-    {
-      "headline": "Qdrant + Go: 768-Dim Vector Search With 4× Less Memory",
-      "deck": "Rust-backed speed, payload filters, and int8 quantization &#x2014; every snippet runs.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/qdrant-go-768-dim-vector-search-with-4-less-memory-6579595db251?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:16:02 GMT"
-    },
-    {
-      "headline": "NVIDIA NeMo Switchyard: Cut LLM Costs 44% With Smart Routing",
-      "deck": "It nails routing and protocol translation. Production still needs four more pieces.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/nvidia-nemo-switchyard-cut-llm-costs-44-with-smart-routing-a14acf5179af?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 21 Aug 2026 03:15:35 GMT"
-    },
-    {
-      "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "deck": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000"
-    },
-    {
-      "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "deck": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000"
-    },
-    {
-      "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "deck": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000"
-    },
-    {
       "headline": "What The Matrix got wrong about AI (so far)",
       "deck": "",
       "source": "UX Collective",
@@ -355,52 +395,12 @@
       "pubDate": "Thu, 20 Aug 2026 21:26:03 GMT"
     },
     {
-      "headline": "OK, can we actually cool data centers with our pee?",
-      "deck": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000"
-    },
-    {
-      "headline": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "deck": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000"
-    },
-    {
       "headline": "I Created a Complete Visual Identity for My Product With Claude Design",
       "deck": "Claude Design is an extremely valuable tool for quick design exploration. While many product teams use it to prototype web or mobile&#x2026;Continue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/i-created-a-complete-visual-identity-for-my-product-with-claude-design-ab9c0d095e8e?source=rss----819cc2aaeee0---4",
       "pubDate": "Thu, 20 Aug 2026 16:09:29 GMT"
-    },
-    {
-      "headline": "Timing Charts: A Blueprint For SMIL Animations",
-      "deck": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-      "pubDate": "Thu, 20 Aug 2026 13:00:00 GMT"
-    },
-    {
-      "headline": "Claude Watermark Explained: What Product Designers Need to Know",
-      "deck": "On August 14, 2026, Anthropic announced that Claude AI models will produce text containing an invisible statistical watermark. This&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-watermark-explained-what-product-designers-need-to-know-3d14049ca76b?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 20 Aug 2026 10:30:24 GMT"
-    },
-    {
-      "headline": "What nobody tells you about AI ethics",
-      "deck": "Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 20 Aug 2026 10:21:43 GMT"
     }
   ]
 }
