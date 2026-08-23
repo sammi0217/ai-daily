@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-08-22T12:00:01.837Z",
+  "generated_at": "2026-08-23T12:00:01.782Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Nobody wants a blank page. Nobody touches a perfect one.",
+      "deck": "Why people can&#x2019;t begin from nothing, and won&#x2019;t touch anything finished.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 23 Aug 2026 11:22:08 GMT"
+    },
+    {
+      "headline": "What’s the Best Kindle of 2026? (So Far)",
+      "deck": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "pubDate": "Sun, 23 Aug 2026 11:03:00 +0000"
+    },
+    {
+      "headline": "Transistors Changed Everything. Here’s How They Work",
+      "deck": "How a tiny little electronic switch sparked the computer revolution.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+      "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "deck": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+      "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000"
+    },
+    {
+      "headline": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 23 Aug 2026 09:35:34 GMT"
+    },
+    {
+      "headline": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+      "deck": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+      "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Is Expensive Bottled Water Actually Better for You?",
+      "deck": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+      "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Gemma Refuses Your System Prompt. Mistral Moves It. Llama Rewrites It.",
+      "deck": "I rendered the same chat &#x2014; one system message, one user message, then again at three and five turns &#x2014; through twelve production chat&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gemma-refuses-your-system-prompt-mistral-moves-it-llama-rewrites-it-56675719d168?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 05:11:26 GMT"
+    },
+    {
+      "headline": "How BitNet Run a Transformer With (Almost) No Multiplication?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-bitnets-run-a-transformer-with-almost-no-multiplication-5269b4e453f9?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:29:56 GMT"
+    },
+    {
+      "headline": "LLM Continuous Batching Explained: The Secret Behind Fast LLMs",
+      "deck": "The scheduling trick behind every fast LLM response, and the real reason your Claude replies don&#x2019;t crawl.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/llm-continuous-batching-explained-the-secret-behind-fast-llms-d4d8cbe083b6?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:29:42 GMT"
+    },
+    {
+      "headline": "Where Sandbox Ingress Speed Actually Comes From",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/where-sandbox-ingress-speed-actually-comes-from-7947f945f813?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:29:29 GMT"
+    },
+    {
+      "headline": "Calculus You Actually Need for Machine Learning",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/calculus-you-actually-need-for-machine-learning-a36ed0799901?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:28:39 GMT"
+    },
+    {
+      "headline": "Why learn from one source when you can learn from many? — MultiModal AI, a step towards AGI.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-learn-from-one-source-when-you-can-learn-from-many-multimodal-ai-a-step-towards-agi-41aad7ba5307?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:28:29 GMT"
+    },
+    {
+      "headline": "Qwen 3.8 27B: The Open-Weight Titan Challenging Closed Frontier Models",
+      "deck": "How Alibaba&#x2019;s 27B hybrid multimodal architecture delivers Opus-level coding and computer use directly to consumer hardware.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/qwen-3-8-27b-the-open-weight-titan-challenging-closed-frontier-models-945f3e2b3d69?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:27:51 GMT"
+    },
+    {
+      "headline": "The Best AI Agent Scores 34.8% on COBOL. It Cost IBM $30 Billion Anyway.",
+      "deck": "Six months after a blog post with no customers in it erased a quarter of IBM&#x2019;s market value, the only hard numbers anyone has produced&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-best-ai-agent-scores-34-8-on-cobol-it-cost-ibm-30-billion-anyway-d4a579f0c95d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:27:35 GMT"
+    },
+    {
+      "headline": "How I Built a Client Invoice System with Claude Code (Opus 5) in Under 2 Hours — Full Tutorial",
+      "deck": "I needed an invoice system for my freelance work. I was using Google Docs templates&#x2026; copying a doc, editing the client name, changing the&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-build-a-client-invoice-system-with-claude-code-opus-5-in-under-2-hours-full-tutorial-af9b90469ee9?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:26:56 GMT"
+    },
+    {
+      "headline": "Grok Bot, Claude Code, and Codex Share One Second Brain",
+      "deck": "Reads on main. Writes on a worktree/branch. How typed links and a write boundary stop agents from clobbering each other.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/grok-bot-claude-code-and-codex-share-one-second-brain-9c57310729fd?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 23 Aug 2026 04:26:26 GMT"
+    },
+    {
+      "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "deck": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000"
+    },
+    {
+      "headline": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "deck": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000"
+    },
+    {
+      "headline": "OpenAI says California should strengthen its AI safety bill",
+      "deck": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000"
+    },
+    {
+      "headline": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+      "deck": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+      "deck": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/saily-ultra-esim/",
+      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000"
+    },
     {
       "headline": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
       "deck": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
@@ -41,86 +217,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/",
       "pubDate": "Sat, 22 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "LLM-as-a-Judge: Building LLM-Based Evaluation Pipelines for AI Applications",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/llm-as-a-judge-building-automated-evaluation-pipelines-for-ai-applications-8680a412a1bd?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:10:17 GMT"
-    },
-    {
-      "headline": "GPT-5, Llama And Qwen Agree: YAML Is Smaller Than JSON And Costs More Tokens",
-      "deck": "Ten serialisations, seven production tokenizers. Across a hundred records YAML is 3% fewer bytes than minified JSON and 21% more tokens &#x2014;&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gpt-5-llama-and-qwen-agree-yaml-is-smaller-than-json-and-costs-more-tokens-a9496ee62ff9?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:08:29 GMT"
-    },
-    {
-      "headline": "From Prompt to Diagram to Pull Request: Building AI-Powered Collaboration on a Visual Canvas",
-      "deck": "How Lucid&#x2019;s AI diagramming, AI whiteboarding, and the Lucid MCP server let AI agents create, share, and update living documents, with a&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-prompt-to-diagram-to-pull-request-building-ai-powered-collaboration-on-a-visual-canvas-75ff18008b88?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:07:16 GMT"
-    },
-    {
-      "headline": "Llama 3.2 Needs Eight Tokens For One Bengali Word. Gemma 3 Needs One.",
-      "deck": "Eight tokenizers, the same document, twenty-one languages.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/llama-3-2-needs-eight-tokens-for-one-bengali-word-gemma-3-needs-one-51354a3ad8e8?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:06:40 GMT"
-    },
-    {
-      "headline": "Your LLM Retry Logic Has a Trapdoor at the Bottom",
-      "deck": "Three retries, one alert, and the request is gone. A DLQ took us to 0.1%.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-llm-retry-logic-has-a-trapdoor-at-the-bottom-2337c0fddf4f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:03:16 GMT"
-    },
-    {
-      "headline": "Multi-Token Prediction and Its Descendants",
-      "deck": "How MTP, DFlash, DFlash 2, and DSpark each attack the same bottleneckContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/multi-token-prediction-and-its-descendants-5803577f3772?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:03:04 GMT"
-    },
-    {
-      "headline": "Physical AI vs. Agentic AI: What’s the Difference (and Why It Matters in 2026)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/physical-ai-vs-agentic-ai-whats-the-difference-and-why-it-matters-in-2026-de0785fabc7e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 04:02:58 GMT"
-    },
-    {
-      "headline": "Why Microsoft Fabric Disaster Recovery Fails, And How to Architect Around It",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-microsoft-fabric-disaster-recovery-fails-and-how-to-architect-around-it-e0394f17ba11?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 03:56:49 GMT"
-    },
-    {
-      "headline": "Accelerate your ML models using RAPIDS AI",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/accelerate-your-ml-models-using-rapids-ai-ad032d530ae4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 03:50:23 GMT"
-    },
-    {
-      "headline": "Contrastive Learning: The Secret Behind Today’s Smartest Vision Models",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 22 Aug 2026 03:47:08 GMT"
     },
     {
       "headline": "The Unlikely Place at the Center of China’s AI Boom",
@@ -305,102 +401,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
       "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Paramount+ Coupon Codes and Deals for August 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Zoro Coupon Codes: 55% Off August",
-      "deck": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/zoro-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026",
-      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Ruggable Discount Code: 30% Off Rugs | August 2026",
-      "deck": "Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ruggable-discount-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Ray-Ban Promo Codes: Save 50% in August 2026",
-      "deck": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ray-ban-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Home Depot Promo Codes: 30% Off in August 2026",
-      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Meta Quest Promo Codes and Coupons for August 2026",
-      "deck": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "B&H Photo Promo Codes and Deals This August 2026",
-      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hoka Coupon Codes: 30% Off in August 2026",
-      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for August 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Canon Promo Codes | August 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "What The Matrix got wrong about AI (so far)",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 20 Aug 2026 21:26:03 GMT"
-    },
-    {
-      "headline": "I Created a Complete Visual Identity for My Product With Claude Design",
-      "deck": "Claude Design is an extremely valuable tool for quick design exploration. While many product teams use it to prototype web or mobile&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/i-created-a-complete-visual-identity-for-my-product-with-claude-design-ab9c0d095e8e?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 20 Aug 2026 16:09:29 GMT"
     }
   ]
 }
