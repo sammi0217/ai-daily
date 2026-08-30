@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-08-29T12:00:02.450Z",
+  "generated_at": "2026-08-30T12:00:01.824Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+      "deck": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+      "pubDate": "Sun, 30 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Why the Hottest New Wearables Want to Be Ignored",
+      "deck": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "pubDate": "Sun, 30 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Best Label Makers (2026): Brother, Niimbot, Dymo",
+      "deck": "Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/",
+      "pubDate": "Sun, 30 Aug 2026 10:03:00 +0000"
+    },
+    {
+      "headline": "How to Escape Group Chat Hell",
+      "deck": "Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-escape-from-group-chat-hell/",
+      "pubDate": "Sun, 30 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+      "deck": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+      "pubDate": "Sun, 30 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Compliance Is a Data Model: Designing Nigerian Data Systems for the NDPA 2023, GAID 2025 and the…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/compliance-is-a-data-model-designing-nigerian-data-systems-for-the-ndpa-2023-gaid-2025-and-the-72b208433646?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:49:52 GMT"
+    },
+    {
+      "headline": "Building a Local $2,000 Workstation for 300B Models",
+      "deck": "Balancing DDR5 channel memory bandwidth, PCIe topology, and active MoE parameter offloading to host 300B+ Mixture-of-Experts locally&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-a-local-2-000-workstation-for-300b-models-2ba1c7fc3473?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:49:34 GMT"
+    },
+    {
+      "headline": "GLM-5.3-Flash: The Sub-20B Active Parameter Titan Redefining Agentic Efficiency",
+      "deck": "How hybrid linear-sparse attention, manifold-constrained hyper-connections, and native visual trajectory RL turn a 320B open-weight MoE&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:47:42 GMT"
+    },
+    {
+      "headline": "Anthropic's Agent Skills Spec Has 7 Field Rules. Pi Checks 6 and Enforces 1.",
+      "deck": "The reference validator called 15 of my 16 SKILL.md files invalid. Pi 0.84.4&#x2019;s shipped loader read the same sixteen directories, loaded 12&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:47:03 GMT"
+    },
+    {
+      "headline": "Agile vs Waterfall: The Dinner-Table Explanation I Wish Someone Had Given Me on My First IT Job",
+      "deck": "My friend joined her first software company three weeks ago and walked out of a sprint planning meeting completely confused. Everyone kept&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agile-vs-waterfall-the-dinner-table-explanation-i-wish-someone-had-given-me-on-my-first-it-job-c9515d19367a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:46:33 GMT"
+    },
+    {
+      "headline": "‘Spooky Action’: An Intuition for Quantum Entanglement",
+      "deck": "Unpack the simplest form of quantum entanglement, where the state of two qubits becomes perfectly correlated, no matter how far apart they&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/spooky-action-an-intuition-for-quantum-entanglement-f294f3b81e0c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 02:36:13 GMT"
+    },
+    {
+      "headline": "LangGraph Agents: A Practical Guide to Building Stateful AI Workflows",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 30 Aug 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "The Breakpoint Protocol: The Vector Database Privilege Escalation",
+      "deck": "Why standard RAG pipelines strip enterprise document permissions, and how to build a deterministic, metadata-enforced Vector RBAC Gateway&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-breakpoint-protocol-the-vector-database-privilege-escalation-d05bc2b0238f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 29 Aug 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "Round-Robin Broke My Agent",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/round-robin-broke-my-agent-dda6885c0a25?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 29 Aug 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "7 Claude Code Mistakes That Quietly Burn Your Token Budget",
+      "deck": "A developer left it running overnight and woke up $6,000 poorer. The dashboard didn&#x2019;t warn him it runs days behind.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 29 Aug 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "deck": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000"
+    },
+    {
+      "headline": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "deck": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why ",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000"
+    },
+    {
+      "headline": "Nvidia’s AI advantage is moving beyond the GPU",
+      "deck": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000"
+    },
     {
       "headline": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
       "deck": "Outstanding call quality and an excellent price point put these earbuds way ahead of pricier competition.",
@@ -9,14 +153,6 @@
       "category": "tech",
       "url": "https://www.wired.com/review/soundcore-liberty-5-pro/",
       "pubDate": "Sat, 29 Aug 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Why Semantic Layers Are Not Enough for Reliable Talk to Data Queries",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-semantic-layers-are-not-enough-for-reliable-talk-to-data-queries-938843ad89cf?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:33:09 GMT"
     },
     {
       "headline": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
@@ -33,78 +169,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
       "pubDate": "Sat, 29 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "NVIDIA's New Agent Framework Turned 10 of My 20 Python Method Bodies Into AI Agents",
-      "deck": "The rule is supposed to be simple: a body of ... means the LLM writes it. I wrote twenty bodies to find the edge of that rule, and then I&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/nvidias-new-agent-framework-turned-10-of-my-20-python-method-bodies-into-ai-agents-2b0dbbcfdd15?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:04:39 GMT"
-    },
-    {
-      "headline": "AI Agents: From Chatbots to Autonomous Systems in 2026",
-      "deck": "Explore the pivotal architectural shifts and infrastructure that transformed AI agents from simple tools into autonomous systems that now&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-agents-from-chatbots-to-autonomous-systems-in-2026-7c3a81f53737?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:04:20 GMT"
-    },
-    {
-      "headline": "The SRE series: Agentic AI Is Powerful, But Most Teams Use It Wrong",
-      "deck": "The Hard Truth About Agentic AI in ProductionContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-sre-series-agentic-ai-is-powerful-but-most-teams-use-it-wrong-1ba42306b182?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:04:05 GMT"
-    },
-    {
-      "headline": "Build Your Own Coding Agent in 30 Minutes with Snowflake’s New code_toolset_all",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/build-your-own-coding-agent-in-30-minutes-with-snowflakes-new-code-toolset-all-e05241d0c572?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:03:00 GMT"
-    },
-    {
-      "headline": "Beyond Bugs: An Engineering Guide to Strategic Application Testing with Python",
-      "deck": "Executive Summary: The Strategic Value of TestingContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beyond-bugs-an-engineering-guide-to-strategic-application-testing-with-python-91539a4c9138?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:02:25 GMT"
-    },
-    {
-      "headline": "Governing Production AI Without Standing Up a Second Gateway",
-      "deck": "Use Azure API Management to apply token limits, content safety, telemetry, caching, and policy across models, MCP tools, and A2A agents.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/azure-api-management-ai-gateway-production-ai-382dd2f52b19?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:02:13 GMT"
-    },
-    {
-      "headline": "Online Evaluation: Building AI Evaluation Pipelines for Real User Interactions",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/online-evaluation-building-ai-evaluation-pipelines-for-real-user-interactions-a25081a8f390?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:01:59 GMT"
-    },
-    {
-      "headline": "Tencent Just Dropped a 770B AI Model That Manages Its Own Codex Sessions.",
-      "deck": "I almost skipped this release. Another week, another &#x201C;biggest open source model yet&#x201D; headline. I have three of those in my drafts folder&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/tencent-just-dropped-a-770b-ai-model-that-manages-its-own-codex-sessions-7c7307710666?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:01:42 GMT"
-    },
-    {
-      "headline": "The Complete Production Guide to Medallion Architecture in Microsoft Fabric",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-complete-production-guide-to-medallion-architecture-in-microsoft-fabric-6e113827b659?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 10:01:02 GMT"
     },
     {
       "headline": "How to Run a Chatbot on Your Own Computer",
@@ -129,86 +193,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/motorola-coupon-code/",
       "pubDate": "Sat, 29 Aug 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "deck": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing mode",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "deck": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large lang",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "deck": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid stora",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "deck": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specificat",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "deck": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Alth",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "deck": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26116",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-      "deck": "arXiv:2608.26134v1 Announce Type: new Abstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-cr",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26134",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-      "deck": "arXiv:2608.26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context wind",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26145",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-      "deck": "arXiv:2608.26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexi",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26149",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-      "deck": "arXiv:2608.26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic lite",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2608.26150",
-      "pubDate": "Sat, 29 Aug 2026 00:00:00 -0400"
     },
     {
       "headline": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
@@ -385,6 +369,22 @@
       "category": "tech",
       "url": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
       "pubDate": "Fri, 28 Aug 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "How to sign up for a virtual power plant—and decide whether you should",
+      "deck": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies i",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "pubDate": "Fri, 28 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
+      "deck": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
+      "pubDate": "Fri, 28 Aug 2026 09:00:00 +0000"
     },
     {
       "headline": "What Blade Runner got wrong about AI (so far)",
