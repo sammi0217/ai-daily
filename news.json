@@ -1,7 +1,263 @@
 {
-  "generated_at": "2026-08-30T12:00:01.824Z",
+  "generated_at": "2026-08-31T12:00:04.203Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "UX in 2027 may be less about interfaces and more about behavior",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 31 Aug 2026 11:09:53 GMT"
+    },
+    {
+      "headline": "Why Food Keeps Making Everybody Sick This Summer",
+      "deck": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and bacteria outbreaks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
+      "pubDate": "Mon, 31 Aug 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Many Faces Of September (2026 Wallpapers Edition)",
+      "deck": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make yo",
+      "source": "Smashing Magazine",
+      "category": "ux",
+      "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+      "pubDate": "Mon, 31 Aug 2026 11:00:00 GMT"
+    },
+    {
+      "headline": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "deck": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "pubDate": "Mon, 31 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
+      "deck": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-magsafe-grips/",
+      "pubDate": "Mon, 31 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
+      "deck": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
+      "pubDate": "Mon, 31 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Deceptive Patterns as a Sociotechnical Phenomenon: Review, Catalog, and Discussion",
+      "deck": "arXiv:2608.27684v1 Announce Type: new Abstract: Background: Deceptive patterns are interface design strategies aimed at misleading users or favoring specific interests, compromising user experiences and ethical privacy p",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.27684",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "How Much Can AI Understand? Toward AI-Assisted Sensemaking of Collaborative Discussion in Groups with Shared History",
+      "deck": "arXiv:2608.27799v1 Announce Type: new Abstract: AI tools that support collaborative discussion typically treat the discussion as a standalone task, focusing only on its content and setting aside the social context of the",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.27799",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Guidelines Are Not Rules: Characterizing Terminologies around Visualization Design Guidelines",
+      "deck": "arXiv:2608.27842v1 Announce Type: new Abstract: A common expectation in visualization research is that outcomes recommend how researchers and practitioners take action or make design decisions. We often express these as ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.27842",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Graphionale: How Graph Visualizations of LLM Rationales Affect Human Decision Making",
+      "deck": "arXiv:2608.27932v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly equipped with augmented reasoning capabilities to generate rationales that support human decision-making. Yet these text-dense",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.27932",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "FocusGen: Expanding Visual Design Exploration with a Simulated Focus Group of Persona Agents",
+      "deck": "arXiv:2608.28001v1 Announce Type: new Abstract: Creative professionals rarely design for themselves--they design for audiences whose preferences they must anticipate. Yet current text-to-image exploration tools derive di",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.28001",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Too Much of the Same: From Algorithmic to Human Bias in Learning to Defer",
+      "deck": "arXiv:2608.28050v1 Announce Type: new Abstract: Learning to Defer (LtD) extends supervised learning by allowing a Machine Learning (ML) model to defer harder or less confident decisions to a human expert. Despite being g",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.28050",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "User Preferences for UI Anchoring in MR: Effects of Task Mobility and Interface Properties",
+      "deck": "arXiv:2608.28064v1 Announce Type: new Abstract: Anchoring - the choice of frame of reference for mixed reality (MR) interface elements - is a critical design decision involving trade-offs between accessibility, interacti",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.28064",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AI as Teammate: Rethinking Task Distribution in Medical Training",
+      "deck": "arXiv:2608.28373v1 Announce Type: new Abstract: Integrating Artificial Intelligence (AI), particularly generative AI, into medical training has prompted concerns about learner over-reliance, misuse, and erosion of founda",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.28373",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Between Algorithm (AI) and Intuition (Human): Preserving Designer Agency in AI-Assisted Sensemaking of Qualitative UX Data",
+      "deck": "arXiv:2608.28420v1 Announce Type: new Abstract: The integration of AI into qualitative design research presents a fundamental tension: how do we leverage AI while preserving the subjective, intuitive judgments that defin",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.28420",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "deck": "arXiv:2608.27464v1 Announce Type: cross Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunste",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2608.27464",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "deck": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "pubDate": "Mon, 31 Aug 2026 02:34:00 +0000"
+    },
+    {
+      "headline": "From ChatGPT and Codex to an Agentic Terraform Platform",
+      "deck": "What repeated infrastructure work taught me about deterministic discovery, probabilistic reasoning, guardrails, and keeping humans in&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-chatgpt-and-codex-to-an-agentic-terraform-platform-cdff2053d6f3?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:27:58 GMT"
+    },
+    {
+      "headline": "Your Sandbox Shouldn’t Keep Its Install-Time Network Access",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-sandbox-shouldnt-keep-its-install-time-network-access-218096916e60?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:24:30 GMT"
+    },
+    {
+      "headline": "The World Is Filling Up With AI Slop. People Are Starting to Say Enough.",
+      "deck": "AI can create almost anything in seconds, but a growing number of artists and businesses believe fast and cheap should never replace&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-world-is-filling-up-with-ai-slop-people-are-starting-to-say-enough-1917d35bedb2?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:23:58 GMT"
+    },
+    {
+      "headline": "RLHF vs RLAIF: Who Should Teach an AI What “Good” Looks Like?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/rlhf-vs-rlaif-who-should-teach-an-ai-what-good-looks-like-933271dce3e2?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:23:15 GMT"
+    },
+    {
+      "headline": "Inside Databricks Knowledge Assistant: The Architecture Behind Smarter, Faster Enterprise Search",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/inside-databricks-knowledge-assistant-the-architecture-behind-smarter-faster-enterprise-search-94fa9848027b?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:22:32 GMT"
+    },
+    {
+      "headline": "Can AI Design Quantum Algorithms Better Than Humans?",
+      "deck": "AI is now evolving beyond simple optimization to become a creative partner, automatically discovering novel and efficient quantum&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/can-ai-design-quantum-algorithms-better-than-humans-f9eae4a3c0ed?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:22:02 GMT"
+    },
+    {
+      "headline": "Build a Self-Correcting AI Agent with Self-RAG & LangGraph",
+      "deck": "Move beyond basic RAG. Learn to build a dynamic, self-correcting retrieval agent using LangGraph&#x2019;s state machines to grade context&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/build-a-self-correcting-ai-agent-with-self-rag-langgraph-eeb69aedbcbc?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:21:45 GMT"
+    },
+    {
+      "headline": "The Rise of Sovereign AI: A New Global Arms Race for Compute",
+      "deck": "Beyond corporate clouds, nations are now racing to build their own AI infrastructure. This is not just about technology &#x2014; it&#x2019;s a bid for&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-rise-of-sovereign-ai-a-new-global-arms-race-for-compute-bd83c3cbebad?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:21:27 GMT"
+    },
+    {
+      "headline": "GPT-5.6 Sol vs Claude Opus 5.",
+      "deck": "The Benchmark Gap Is 0.4 Points. Here&#x2019;s What That Actually Means for Your Codebase.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-5-6-sol-vs-claude-opus-5-509433e9e1e8?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:21:00 GMT"
+    },
+    {
+      "headline": "Every AI Tool Shows You Sources Now. I Checked Whether They Actually Say What the AI Claims.",
+      "deck": "The answer is: often not. And catching it turned out to cost nothing.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/every-ai-tool-shows-you-sources-now-i-checked-whether-they-actually-say-what-the-ai-claims-83156533f030?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 31 Aug 2026 02:20:52 GMT"
+    },
+    {
+      "headline": "Neuroqueering design practice",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 30 Aug 2026 21:46:34 GMT"
+    },
+    {
+      "headline": "Rethinking success beyond the corporate stairs in the world of design",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 30 Aug 2026 19:20:13 GMT"
+    },
+    {
+      "headline": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "deck": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and h",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "pubDate": "Sun, 30 Aug 2026 16:54:25 +0000"
+    },
+    {
+      "headline": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+      "deck": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+      "pubDate": "Sun, 30 Aug 2026 16:16:24 +0000"
+    },
+    {
+      "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "deck": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000"
+    },
     {
       "headline": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
       "deck": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
@@ -41,86 +297,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
       "pubDate": "Sun, 30 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Compliance Is a Data Model: Designing Nigerian Data Systems for the NDPA 2023, GAID 2025 and the…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/compliance-is-a-data-model-designing-nigerian-data-systems-for-the-ndpa-2023-gaid-2025-and-the-72b208433646?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:49:52 GMT"
-    },
-    {
-      "headline": "Building a Local $2,000 Workstation for 300B Models",
-      "deck": "Balancing DDR5 channel memory bandwidth, PCIe topology, and active MoE parameter offloading to host 300B+ Mixture-of-Experts locally&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-local-2-000-workstation-for-300b-models-2ba1c7fc3473?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:49:34 GMT"
-    },
-    {
-      "headline": "GLM-5.3-Flash: The Sub-20B Active Parameter Titan Redefining Agentic Efficiency",
-      "deck": "How hybrid linear-sparse attention, manifold-constrained hyper-connections, and native visual trajectory RL turn a 320B open-weight MoE&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/glm-5-3-flash-the-sub-20b-active-parameter-titan-redefining-agentic-efficiency-91c08556204d?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:47:42 GMT"
-    },
-    {
-      "headline": "Anthropic's Agent Skills Spec Has 7 Field Rules. Pi Checks 6 and Enforces 1.",
-      "deck": "The reference validator called 15 of my 16 SKILL.md files invalid. Pi 0.84.4&#x2019;s shipped loader read the same sixteen directories, loaded 12&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropics-agent-skills-spec-has-7-field-rules-pi-checks-6-and-enforces-1-3eb7e4169456?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:47:03 GMT"
-    },
-    {
-      "headline": "Agile vs Waterfall: The Dinner-Table Explanation I Wish Someone Had Given Me on My First IT Job",
-      "deck": "My friend joined her first software company three weeks ago and walked out of a sprint planning meeting completely confused. Everyone kept&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agile-vs-waterfall-the-dinner-table-explanation-i-wish-someone-had-given-me-on-my-first-it-job-c9515d19367a?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:46:33 GMT"
-    },
-    {
-      "headline": "‘Spooky Action’: An Intuition for Quantum Entanglement",
-      "deck": "Unpack the simplest form of quantum entanglement, where the state of two qubits becomes perfectly correlated, no matter how far apart they&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/spooky-action-an-intuition-for-quantum-entanglement-f294f3b81e0c?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 02:36:13 GMT"
-    },
-    {
-      "headline": "LangGraph Agents: A Practical Guide to Building Stateful AI Workflows",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/langgraph-agents-a-practical-guide-to-building-stateful-ai-workflows-cbbcd30310e8?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 30 Aug 2026 00:01:01 GMT"
-    },
-    {
-      "headline": "The Breakpoint Protocol: The Vector Database Privilege Escalation",
-      "deck": "Why standard RAG pipelines strip enterprise document permissions, and how to build a deterministic, metadata-enforced Vector RBAC Gateway&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-breakpoint-protocol-the-vector-database-privilege-escalation-d05bc2b0238f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 23:01:01 GMT"
-    },
-    {
-      "headline": "Round-Robin Broke My Agent",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/round-robin-broke-my-agent-dda6885c0a25?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 22:01:01 GMT"
-    },
-    {
-      "headline": "7 Claude Code Mistakes That Quietly Burn Your Token Budget",
-      "deck": "A developer left it running overnight and woke up $6,000 poorer. The dashboard didn&#x2019;t warn him it runs days behind.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 29 Aug 2026 21:01:01 GMT"
     },
     {
       "headline": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -219,188 +395,12 @@
       "pubDate": "Fri, 28 Aug 2026 19:44:11 +0000"
     },
     {
-      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "deck": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000"
-    },
-    {
-      "headline": "Microsoft Teams Has Become a Haven for Scammers in China",
-      "deck": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-      "pubDate": "Fri, 28 Aug 2026 18:23:17 +0000"
-    },
-    {
-      "headline": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "deck": "There's a lot of capital pouring into the business of giving models away.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000"
-    },
-    {
-      "headline": "Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart",
-      "deck": "“Do we need to look at the ceiling before going to the bathroom? Can we actually trust the water is safe to drink?” asks one GSA worker.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/",
-      "pubDate": "Fri, 28 Aug 2026 17:14:19 +0000"
-    },
-    {
       "headline": "AI Can't Replace Real Research in Empathy Mapping",
       "deck": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
       "source": "Nielsen Norman Group",
       "category": "ux",
       "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "The Custodial Era of UX: Cleaning Up After AI",
-      "deck": "AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 28 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "deck": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "pubDate": "Fri, 28 Aug 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "The Horrible State of AI-Powered Product Design in 2026",
-      "deck": "AI-powered product design process in 2026 is simultaneously incredible and deeply disappointing.Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 28 Aug 2026 14:24:38 GMT"
-    },
-    {
-      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "deck": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000"
-    },
-    {
-      "headline": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio R",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "pubDate": "Fri, 28 Aug 2026 12:35:27 +0000"
-    },
-    {
-      "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "deck": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000"
-    },
-    {
-      "headline": "The 31 Best Deals From the REI Labor Day Sale",
-      "deck": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "pubDate": "Fri, 28 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "deck": "I’ve been reviewing laptops for over a decade, and here's my advice on how to find the right laptop for you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-laptops/",
-      "pubDate": "Fri, 28 Aug 2026 11:39:00 +0000"
-    },
-    {
-      "headline": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "deck": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "pubDate": "Fri, 28 Aug 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "deck": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "pubDate": "Fri, 28 Aug 2026 10:56:22 +0000"
-    },
-    {
-      "headline": "The Easiest Ways to Share Anything Between Android and iOS",
-      "deck": "Transferring files and data across platforms is more straightforward than ever.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
-      "pubDate": "Fri, 28 Aug 2026 10:45:00 +0000"
-    },
-    {
-      "headline": "XGIMI Vibe One Battery-Powered Projector Review (2026)",
-      "deck": "With the curtains closed and the power cable nearby, this affordable Full HD smart projector is a compact delight.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/",
-      "pubDate": "Fri, 28 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "I Asked 100 Companies for My Data. I Got Deletion Notices Instead",
-      "deck": "California residents have a legal right to access the data that companies collect about them. Actually exercising that right is a burdensome nightmare.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/",
-      "pubDate": "Fri, 28 Aug 2026 10:15:00 +0000"
-    },
-    {
-      "headline": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
-      "deck": "Influential right-wing conspiracy theorists and MAGA-aligned pundits are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination advocate and philanthropist.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
-      "pubDate": "Fri, 28 Aug 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "How to sign up for a virtual power plant—and decide whether you should",
-      "deck": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies i",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "pubDate": "Fri, 28 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
-      "deck": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
-      "pubDate": "Fri, 28 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "What Blade Runner got wrong about AI (so far)",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 27 Aug 2026 20:22:49 GMT"
-    },
-    {
-      "headline": "How to Design AI Products Users Can Trust",
-      "deck": "Handling AI Uncertainty with Claude DesignContinue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 27 Aug 2026 14:34:09 GMT"
     }
   ]
 }
