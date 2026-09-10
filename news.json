@@ -1,46 +1,390 @@
 {
-  "generated_at": "2026-09-09T12:00:03.071Z",
+  "generated_at": "2026-09-10T12:00:01.828Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
-      "deck": "Get all the news when it happens, as our reporters bring you live updates from Apple Park, the company’s headquarters in Cupertino, California.",
-      "source": "Wired",
+      "headline": "Powering AI is an architecture problem",
+      "deck": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first tim",
+      "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
-      "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000"
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000"
     },
     {
-      "headline": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-      "deck": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
-      "source": "Wired",
+      "headline": "This road map could help us decide whether to deploy solar geoengineering",
+      "deck": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re",
+      "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-      "pubDate": "Wed, 09 Sep 2026 10:30:00 +0000"
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000"
     },
     {
-      "headline": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
-      "deck": "A team-up with Waymo in Nashville has former Lyft drivers maintaining self-driving cars. What’s next?",
+      "headline": "Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More",
+      "deck": "I tested portable speakers of all shapes and sizes, from pocket to party-sized.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/best-bluetooth-speakers/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000"
     },
     {
-      "headline": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
-      "deck": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
+      "headline": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
+      "deck": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
+      "pubDate": "Thu, 10 Sep 2026 10:45:00 +0000"
     },
     {
-      "headline": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
-      "deck": "Cofertility lets women freeze their eggs for free—as long as they give half of them back to the company. What happens next is anyone’s guess.",
+      "headline": "9 Windows Laptops That Give MacBooks a Run for Their Money",
+      "deck": "Windows laptops have never been so good, and they’re only going to get better as we move through 2026.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/gallery/best-windows-laptops/",
+      "pubDate": "Thu, 10 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Everything New You Can Do With Siri AI",
+      "deck": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "pubDate": "Thu, 10 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Imagining a Future Where a Spy Could Disappear",
+      "deck": "In Emily St. John Mandel’s new novel Exit Party, becoming a “ghost” means running afoul of the state. In this excerpt, a secret agent discovers it doesn’t take much.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/",
+      "pubDate": "Thu, 10 Sep 2026 10:15:00 +0000"
+    },
+    {
+      "headline": "Vari Electric Standing Desk Review (2026): Form and Value",
+      "deck": "The Vari Ergo electric standing desk is compact, easy to assemble, affordable, and gently sloped to fit my natural posture and shape.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/vari-ergo-electric-standing-desk/",
+      "pubDate": "Thu, 10 Sep 2026 10:05:00 +0000"
+    },
+    {
+      "headline": "Can the US battery market untangle from China?",
+      "deck": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "deck": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "A Teen Girl’s Death Is Prompting Calls to Ban Choking in Porn",
+      "deck": "Despite the many health risks, sexual strangulation has become popular among young people—with some experts blaming adult content for normalizing it.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-teen-girls-death-is-prompting-calls-to-ban-choking/",
+      "pubDate": "Thu, 10 Sep 2026 09:45:00 +0000"
+    },
+    {
+      "headline": "Want to Get Off Your Phone? Mina Kimes Suggests Having a Baby",
+      "deck": "“I think that's been the most helpful thing,” says the ESPN journalist. “So there you go, Zoomers. There's a reason to have children.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/user-behavior-mina-kimes/",
+      "pubDate": "Thu, 10 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "A Satellite Falling Out of Orbit Embarks on Its Final Mission",
+      "deck": "Before reentering our atmosphere, the telescopes onboard NASA’s Neil Gehrels Swift Observatory have been restarted to take their last observations.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/",
+      "pubDate": "Thu, 10 Sep 2026 09:15:00 +0000"
+    },
+    {
+      "headline": "God told them to sell crypto. Their investors lost everything.",
+      "deck": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "pubDate": "Thu, 10 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
+      "deck": "The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
+      "pubDate": "Thu, 10 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Healthcare AI’s next test is integration",
+      "deck": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinic",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "pubDate": "Thu, 10 Sep 2026 08:58:01 +0000"
+    },
+    {
+      "headline": "Trump Probably Won't Give $5,000 to Every American if Republicans Win the Midterms",
+      "deck": "The eyebrow-raising proposal, delivered during the president’s speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
+      "pubDate": "Thu, 10 Sep 2026 06:30:32 +0000"
+    },
+    {
+      "headline": "NZXT Discount Codes: 50% Off in September 2026",
+      "deck": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nzxt-discount-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Hungryroot Coupon Codes: 30% Off This September 2026",
+      "deck": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hungryroot-promo-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Norton Coupon Codes: Up to 58% Off",
+      "deck": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/norton-coupon-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Govee Discount Codes and Deals: 30% Off",
+      "deck": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Herman Miller Promo Codes: 40% Off September 2026",
+      "deck": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in September 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Coleman Promo Codes and Deals: Up to 75% Off in September 2026",
+      "deck": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/coleman-promo-code/",
+      "pubDate": "Thu, 10 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "deck": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). Howe",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "deck": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedba",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "deck": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not wh",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "deck": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified rew",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "deck": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit sel",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Compiling VGDL into Causal Models",
+      "deck": "arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+      "deck": "arXiv:2609.05461v1 Announce Type: new Abstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferred if its predicted future embedding lands cl",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05461",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "RAPID: Reliability-Aware Pair Importance Distillation",
+      "deck": "arXiv:2609.05481v1 Announce Type: new Abstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within a mini batch. Computing all pairs has quadra",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05481",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+      "deck": "arXiv:2609.05488v1 Announce Type: new Abstract: Clinical deterioration unfolds through coupled, partially observed trajectories, not a single diagnostic label. We introduce PGP-Clinical-TimeKAN, a trajectory-first framew",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05488",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+      "deck": "arXiv:2609.05505v1 Announce Type: new Abstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language models (LLMs) typically examine review stages in",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.05505",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Understanding Entropy for Data Science and AI — Part 1",
+      "deck": "An intuitive introduction to the mathematics of uncertaintyContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/understanding-entropy-for-data-science-and-ai-part-1-5b358a271294?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 10 Sep 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "deck": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000"
+    },
+    {
+      "headline": "What Shakespeare got right about AI",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
+      "pubDate": "Wed, 09 Sep 2026 23:04:39 GMT"
+    },
+    {
+      "headline": "The origins — the birth, lonely childhood, and adoption of software",
+      "deck": "Side A, meaning is irrelevant to the problemContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4",
+      "pubDate": "Wed, 09 Sep 2026 23:04:27 GMT"
+    },
+    {
+      "headline": "DGX Spark vs Strix Halo: What the Extra $1,250 Buys You",
+      "deck": "Both boxes hold 128GB and write at close to the same speed once a real context is loaded. Reading a long prompt is where the Spark pulls&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/dgx-spark-vs-strix-halo-what-the-extra-1-250-buys-you-e5d441039c44?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 09 Sep 2026 23:01:01 GMT"
+    },
+    {
+      "headline": "OpenAI adds a prominent AI doomer to its board of directors",
+      "deck": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000"
+    },
+    {
+      "headline": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "deck": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "pubDate": "Wed, 09 Sep 2026 22:11:55 +0000"
+    },
+    {
+      "headline": "What If Attention Isn’t All You Need? Inside Mamba and the Quiet Rewiring of Modern LLMs",
+      "deck": "From 1960s rocket-control math to IBM Granite 4.0 and NVIDIA Nemotron- how the O(n) architecture finally got practical, and why hybrids&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-if-attention-isnt-all-you-need-inside-mamba-and-the-quiet-rewiring-of-modern-llms-e7187e3e4e65?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 09 Sep 2026 22:01:02 GMT"
+    },
+    {
+      "headline": "Massachusetts hits data centers with new clean power rules",
+      "deck": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000"
+    },
+    {
+      "headline": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "deck": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "pubDate": "Wed, 09 Sep 2026 21:15:27 +0000"
+    },
+    {
+      "headline": "Kubernetes for LLM Inference: How AI Workloads Run Across a GPU Cluster",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/kubernetes-for-llm-inference-how-ai-workloads-run-across-a-gpu-cluster-424f0dcfab8c?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 09 Sep 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "A Year After Charlie Kirk’s Death, Turning Point Plans to Spend Big on the Midterms",
+      "deck": "Turning Point will spend tens of millions on ads and turnout, sources say, with a focus on New Hampshire, Arizona, and Nevada.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/",
+      "pubDate": "Wed, 09 Sep 2026 21:00:00 +0000"
+    },
+    {
+      "headline": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening",
+      "deck": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000"
+    },
+    {
+      "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "deck": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000"
+    },
+    {
+      "headline": "GPT-6 Astra for Web Design",
+      "deck": "In this article, I&#x2019;ll share the 4-step process I follow to craft a new web project with GPT-6. I&#x2019;ll show you how to design a landing page&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/gpt-6-astra-for-web-design-d273a818ca78?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 09 Sep 2026 14:17:00 GMT"
     },
     {
       "headline": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -51,356 +395,12 @@
       "pubDate": "Wed, 09 Sep 2026 10:00:00 GMT"
     },
     {
-      "headline": "The Fairphone (Gen 6+) Review: Finally in the US",
-      "deck": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
-      "pubDate": "Wed, 09 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Batteries just broke another record in the US",
-      "deck": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Understanding the thermal ceiling in portable power",
-      "deck": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "pubDate": "Wed, 09 Sep 2026 08:18:13 +0000"
-    },
-    {
-      "headline": "20% Off Brooks Promo Code | September 2026",
-      "deck": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "TurboTax Full Service Coupons This September 2026",
-      "deck": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hotels.com Coupon Codes for September 2026",
-      "deck": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Uber Eats Promo Codes: $15 Off │September 2026",
-      "deck": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Nike Promo Codes and Discounts: 30% for September 2026",
-      "deck": "Check out our deals for Nike this September 2026, including 15% off select purchases.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Google Workspace Promo Codes: 14% Off for September 2026",
-      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Valvoline Coupons and Promo Codes for September 2026",
-      "deck": "We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Squarespace Promo Codes: 20% Off in September 2026",
-      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Alo Discount Code: 20% Off September 2026",
-      "deck": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "deck": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-      "deck": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/legalzoom-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026",
-      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sony-promo-code/",
-      "pubDate": "Wed, 09 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Learn Matplotlib for Data Science: From Your First Plot to Real-World Visualizations",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/learn-matplotlib-for-data-science-from-your-first-plot-to-real-world-visualizations-284962f2eb77?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:31:21 GMT"
-    },
-    {
-      "headline": "The 6 Claude Code Skills That Replaced My Entire Prompt Library",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-6-claude-code-skills-that-replaced-my-entire-prompt-library-a2e4bae42d1e?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:31:06 GMT"
-    },
-    {
-      "headline": "I Watched an AI Agent Run Code on My Machine and Asked One Question: Where?",
-      "deck": "Windows now runs AI coding agents inside enforced boundaries, from a process sandbox to a disposable cloud PC. Here is how containment&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-agent-security-windows-containment-identity-e105bd7da747?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:30:56 GMT"
-    },
-    {
-      "headline": "Can Quantum Computing Actually Speed Up AI? A Practical Guide",
-      "deck": "A look beyond the hype at where quantum algorithms truly offer an advantage for AI, focusing on practical speedups, energy efficiency, and&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/can-quantum-computing-actually-speed-up-ai-a-practical-guide-11f703e293d4?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:27:57 GMT"
-    },
-    {
-      "headline": "Beyond Keywords: Mastering Hybrid Search with BM25 & Vectors",
-      "deck": "Stop choosing between keyword precision and semantic recall. Learn to combine BM25 and vector search to build superior, context-aware&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beyond-keywords-mastering-hybrid-search-with-bm25-vectors-8e93180f8532?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:27:28 GMT"
-    },
-    {
-      "headline": "LangFuse I: The Ticket You Cannot Reconstruct Is Why You Need Langfuse",
-      "deck": "Part 1: The ticket you cannot reconstruct is not a logging problem; it is a missing record of the prompt, the model, and the reply, and&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/langfuse-i-the-ticket-you-cannot-reconstruct-is-why-you-need-langfuse-b0759c5ccd67?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:27:09 GMT"
-    },
-    {
-      "headline": "How Nemotron Solves the Transformer vs. State-Space Tradeoff",
-      "deck": "You&#x2019;re building a large language model.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-nemotron-solves-the-transformer-vs-state-space-tradeoff-7d5f618e6b5c?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:17:43 GMT"
-    },
-    {
-      "headline": "Agentic LangGraph — From First Principles to a Working Multi-Agent System",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agentic-langgraph-from-first-principles-to-a-working-multi-agent-system-9034d56a5b38?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 03:17:29 GMT"
-    },
-    {
-      "headline": "What OpenAI’s latest controversy tells us about the future of math",
-      "deck": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "pubDate": "Wed, 09 Sep 2026 03:10:08 +0000"
-    },
-    {
-      "headline": "Europe Wants to Become an “AI Continent”: A Perspective from Nepal",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/europe-wants-to-become-an-ai-continent-a-perspective-from-nepal-4c2097198a5a?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 02:56:06 GMT"
-    },
-    {
-      "headline": "Gemma 4 vs Qwen 3.8 vs GPT OSS: I Ran All Three Locally So You Do Not Have To",
-      "deck": "Here is Friends link&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gemma-4-vs-qwen-3-8-vs-gpt-oss-i-ran-all-three-locally-so-you-do-not-have-to-b18b15bd0e75?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 09 Sep 2026 02:53:30 GMT"
-    },
-    {
-      "headline": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
-      "deck": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
-      "pubDate": "Tue, 08 Sep 2026 21:15:00 +0000"
-    },
-    {
-      "headline": "Hackers are stealing Claude tokens from subscribers",
-      "deck": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000"
-    },
-    {
-      "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "deck": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000"
-    },
-    {
       "headline": "Most AI problems are really human problems",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
       "pubDate": "Tue, 08 Sep 2026 20:37:28 GMT"
-    },
-    {
-      "headline": "Persistent lessons in human-centered automation",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 08 Sep 2026 20:34:18 GMT"
-    },
-    {
-      "headline": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "deck": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "pubDate": "Tue, 08 Sep 2026 20:12:51 +0000"
-    },
-    {
-      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "deck": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "headline": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
-      "deck": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
-      "pubDate": "Tue, 08 Sep 2026 18:13:26 +0000"
-    },
-    {
-      "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "deck": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000"
-    },
-    {
-      "headline": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "deck": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "pubDate": "Tue, 08 Sep 2026 16:42:05 +0000"
-    },
-    {
-      "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "deck": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000"
-    },
-    {
-      "headline": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
-      "deck": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
-      "pubDate": "Tue, 08 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "headline": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "deck": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000"
-    },
-    {
-      "headline": "Mistral raises €3B as sovereign AI becomes big business",
-      "deck": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000"
-    },
-    {
-      "headline": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
-      "deck": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
-      "pubDate": "Tue, 08 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "The Download: our 35 Innovators Under 35 this year",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the nex",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-      "pubDate": "Tue, 08 Sep 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "GPT-6 Astra vs Opus 5: Which one is better for product design?",
-      "deck": "&#x201C;Which AI model should I use for product design?&#x201D; is the question I get asked most often right now. With so many AI models available, it&#x2019;s&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-which-one-is-better-for-product-design-009f772846fb?source=rss----819cc2aaeee0---4",
-      "pubDate": "Tue, 08 Sep 2026 11:56:03 GMT"
-    },
-    {
-      "headline": "If you can externalize your design process, you can win back your time",
-      "deck": "How Skill.MD helps you spell out the depth of your work for your team and organizationContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 08 Sep 2026 11:13:56 GMT"
     }
   ]
 }
