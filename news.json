@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-09-12T12:00:01.972Z",
+  "generated_at": "2026-09-13T12:00:01.800Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "deck": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "pubDate": "Sun, 13 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
+      "deck": "Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
+      "pubDate": "Sun, 13 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
+      "deck": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "pubDate": "Sun, 13 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+      "deck": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/coway-airmega-halo/",
+      "pubDate": "Sun, 13 Sep 2026 10:05:00 +0000"
+    },
+    {
+      "headline": "AI Agents Are Thirsty for Power",
+      "deck": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "pubDate": "Sun, 13 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+      "deck": "“There’s no reason we can’t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+      "pubDate": "Sun, 13 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "DS4 vs DS4.1: Sudoku Challenge",
+      "deck": "What a point release does to an agent, measured on the same eleven wordsContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ds4-vs-ds4-1-sudoku-challenge-c01f600f0225?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:22:15 GMT"
+    },
+    {
+      "headline": "The Algebra of Encrypted Audiences",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-algebra-of-encrypted-audiences-a9d2a8195bbb?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:59 GMT"
+    },
+    {
+      "headline": "How to Reduce Claude Tokens (and Actually Get More Out of Claude Code)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-reduce-claude-tokens-and-actually-get-more-out-of-claude-code-e65ec874fad9?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:45 GMT"
+    },
+    {
+      "headline": "The Only GenAI Security Glossary You’ll Actually Need",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-only-genai-security-glossary-youll-actually-need-bf29c679010b?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:33 GMT"
+    },
+    {
+      "headline": "The 3.1 Agent-Workday Illusion and What OpenAI Isn’t Saying About Agentic AI",
+      "deck": "OpenAI just published a number that sounds revolutionary:Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-3-1-agent-workday-illusion-and-what-openai-isnt-saying-about-agentic-ai-cb97f04aabe0?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:27 GMT"
+    },
+    {
+      "headline": "Anthropic’s Claude Transcript Deal Creates a New Security Boundary",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropics-claude-transcript-deal-creates-a-new-security-boundary-812fa33a2b70?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:20 GMT"
+    },
+    {
+      "headline": "Best AI Tools for Beginners to Try in 2026: The Amazing List",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/best-ai-tools-for-beginners-to-try-in-2026-the-amazing-list-427140ac13ea?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:21:04 GMT"
+    },
+    {
+      "headline": "AI Agents for Beginners Explained: The Amazing 2026 Guide!!",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agents-for-beginners-explained-the-amazing-2026-guide-0a9c93e7576c?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:20:54 GMT"
+    },
+    {
+      "headline": "AI Models Are Learning to Guess Ahead — And It’s Making Inference Much Faster",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-models-are-learning-to-guess-ahead-and-its-making-inference-much-faster-8e1498d995fa?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:20:50 GMT"
+    },
+    {
+      "headline": "How to Hire for AI-Native Skills",
+      "deck": "This year every growing company wants AI-native people. What that actually looks like on a resume is far less obvious, and it is the&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-hire-for-ai-native-skills-ea5159c2f157?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 13 Sep 2026 07:20:39 GMT"
+    },
+    {
+      "headline": "The real reason everyone hates the viral AI food slop images",
+      "deck": "We&#x2019;ve always made food look better than it is. So why does it feel different when AI does it?Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+      "pubDate": "Sat, 12 Sep 2026 21:40:38 GMT"
+    },
+    {
+      "headline": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+      "deck": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000"
+    },
+    {
+      "headline": "Anthropic CEO outlines plan to slow AI development",
+      "deck": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000"
+    },
     {
       "headline": "10 Best Standing Desks Worth Buying in 2026",
       "deck": "Take your home office to new heights with our favorite motorized standing desks.",
@@ -19,54 +171,6 @@
       "pubDate": "Sat, 12 Sep 2026 11:00:00 +0000"
     },
     {
-      "headline": "Steering Agent Loops",
-      "deck": "A code review that never got written, on two very different models, and what finally steered itContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-loop-was-not-the-quantization-652688118dfb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:32:45 GMT"
-    },
-    {
-      "headline": "Streamline Your End-to-End Developer Workflow With AI",
-      "deck": "Four phases, four kinds of friction: a practical map of an AI workflow using GitHub Copilot, Microsoft Teams, and a programmable control&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-developer-workflow-four-phases-efddea4d7dde?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:32:22 GMT"
-    },
-    {
-      "headline": "Why Quantum Computers Still Need Classical Supercomputers",
-      "deck": "Discover the essential hybrid architecture where classical supercomputers manage data, control, and error correction, enabling quantum&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-quantum-computers-still-need-classical-supercomputers-47dbe5ab0886?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:31:37 GMT"
-    },
-    {
-      "headline": "Inference by Hand",
-      "deck": "Every number in Bayes&#x2019; theorem, computed from one table of 10,000 transactionsContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/inference-by-hand-396a2c7decff?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:31:31 GMT"
-    },
-    {
-      "headline": "Fryday #8: 10 Agent Harnesses That Change What the Same Model Can Do",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/fryday-8-10-agent-harnesses-that-change-what-the-same-model-can-do-4b5a84771fc7?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:31:19 GMT"
-    },
-    {
-      "headline": "How INT8 Quantization Made My Neural Network 60% Smaller: A TinyML Model Compression Experiment",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-int8-quantization-made-my-neural-network-60-smaller-a-tinyml-model-compression-experiment-23791ba9b485?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:31:04 GMT"
-    },
-    {
       "headline": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
       "deck": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
       "source": "Wired",
@@ -81,14 +185,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "pubDate": "Sat, 12 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Glitch Tokens Compared to Fragile Tokens",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/glitch-tokens-compared-to-fragile-tokens-f39aa379281b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 10:25:18 GMT"
     },
     {
       "headline": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
@@ -113,110 +209,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
       "pubDate": "Sat, 12 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "deck": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "deck": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "deck": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a m",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "deck": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "deck": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{w",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "deck": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we t",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "deck": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and depe",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "deck": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard resp",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10728",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "deck": "arXiv:2609.10824v1 Announce Type: new Abstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10824",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-      "deck": "arXiv:2609.10873v1 Announce Type: new Abstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admission must be assessed through both error cont",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.10873",
-      "pubDate": "Sat, 12 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Why Was My Mac Config Wrong for Running LLMs",
-      "deck": "I spent a week convinced I needed a faster machine. The machine was fine. The default was wrong.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-was-my-mac-config-wrong-for-running-llms-df9fdc98871e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 12 Sep 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "GPT-6 Astra’s 1M Context Window Is a Trap here is why",
-      "deck": "GPT-6 Astra offers a 1M-token context window but &#x2026; there is always a butContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gpt-6-astras-1m-context-window-is-a-trap-here-is-why-15a8cba3a9fc?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 11 Sep 2026 23:31:01 GMT"
-    },
-    {
-      "headline": "Building a Next Best Action System with Offline RL",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-next-best-action-system-with-offline-rl-a6031325027d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 11 Sep 2026 23:01:02 GMT"
     },
     {
       "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -267,7 +259,7 @@
       "pubDate": "Fri, 11 Sep 2026 20:30:17 +0000"
     },
     {
-      "headline": "Roundtables: AI’s apocalypse crisis",
+      "headline": "Roundtables: Could AI really kill us all?",
       "deck": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review exec",
       "source": "MIT Tech Review",
       "category": "tech",
@@ -395,12 +387,20 @@
       "pubDate": "Fri, 11 Sep 2026 10:45:00 +0000"
     },
     {
-      "headline": "Design Critique with Claude Code",
-      "deck": "Claude Code can be used not only to create product prototypes but also to critique design. In this article, I will share everything you&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 11 Sep 2026 10:11:50 GMT"
+      "headline": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "deck": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-mushroom-coffee/",
+      "pubDate": "Fri, 11 Sep 2026 10:33:00 +0000"
+    },
+    {
+      "headline": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
+      "deck": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
+      "pubDate": "Fri, 11 Sep 2026 10:30:00 +0000"
     }
   ]
 }
