@@ -1,7 +1,215 @@
 {
-  "generated_at": "2026-09-19T12:00:01.956Z",
+  "generated_at": "2026-09-20T12:00:02.940Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Thermacell LIV 2.0 Review: Taking My Yard Back",
+      "deck": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+      "pubDate": "Sun, 20 Sep 2026 11:07:00 +0000"
+    },
+    {
+      "headline": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
+      "deck": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
+      "pubDate": "Sun, 20 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "deck": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "pubDate": "Sun, 20 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "It’s Donald Trump Versus MAGA on Data Centers",
+      "deck": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "pubDate": "Sun, 20 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+      "deck": "“You know ‘Bang Bus’? We don’t want that.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+      "pubDate": "Sun, 20 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "deck": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "pubDate": "Sun, 20 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
+      "deck": "Amazon is a murky mess of ads, unknown sellers, misleading sales, and specious information. Stay safe while shopping on Prime Big Deal Days and beyond with these tips and tricks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-shop-safe-amazon/",
+      "pubDate": "Sun, 20 Sep 2026 09:38:00 +0000"
+    },
+    {
+      "headline": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "deck": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "pubDate": "Sun, 20 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+      "deck": "Several new studies have uncovered this long overlooked aspect of coral physiology that could be the key to the animals’ fate in a changing climate.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
+      "pubDate": "Sun, 20 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:17:15 GMT"
+    },
+    {
+      "headline": "Distribution Training Implementation Part 1 (From Scratch)",
+      "deck": "https://mittalutkarsh.github.io/Zero_From_Scratch/Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/distribution-training-implementation-part-1-from-scratch-cd229c8ccd40?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:16:46 GMT"
+    },
+    {
+      "headline": "Apple Deleted A Feature Because This Maths Was Too Hard.",
+      "deck": "Confused by dy/dx? Start right here. A friendly walkthrough of what a derivative is, how to find one by hand, and why it matters so much&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-derivative-rate-of-change-without-the-epsilon-delta-ordeal-d97945652a81?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:14:55 GMT"
+    },
+    {
+      "headline": "I Used Claude Code Wrong for 6 Months. These 12 Claude Code Commands Finally Made It Click",
+      "deck": "I spent months using Claude Code like it was just another chatbot inside the terminal.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-used-claude-code-wrong-for-6-months-these-12-claude-code-commands-finally-made-it-click-9b67b907e62e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:11:34 GMT"
+    },
+    {
+      "headline": "The AI Agent Stack: Where Value Actually Accrues on Azure",
+      "deck": "Identity, token budgets, threat protection, and the context graph that outlasts any model.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agent-stack-value-accrues-azure-12b0db5c4738?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:11:19 GMT"
+    },
+    {
+      "headline": "Replace Guesswork with Statistics for Testing Your LLM Applications.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/replace-guesswork-with-statistics-for-testing-your-llm-applications-247a14e96e61?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:11:10 GMT"
+    },
+    {
+      "headline": "Evolution of LLMs",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/evolution-of-llms-2956bdc4ea6a?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:10:44 GMT"
+    },
+    {
+      "headline": "What is Jev? 200× Faster and 400× Cheaper than Your Favorite LLM",
+      "deck": "State in, typed probabilities out. The System One model for software decisions.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-is-jev-200-faster-and-400-cheaper-than-your-favorite-llm-7d76892552b7?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:10:24 GMT"
+    },
+    {
+      "headline": "AI Engineer vs. Data Scientist in 2026: Which Path Actually Makes Sense for You?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-engineer-vs-data-scientist-in-2026-which-path-actually-makes-sense-for-you-9fa61408b2ff?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:08:59 GMT"
+    },
+    {
+      "headline": "RAG vs Agentic RAG: When Does an Agent Actually Help?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/rag-vs-agentic-rag-when-does-an-agent-actually-help-f741c35ab25f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 20 Sep 2026 04:08:46 GMT"
+    },
+    {
+      "headline": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "deck": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000"
+    },
+    {
+      "headline": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+      "deck": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000"
+    },
+    {
+      "headline": "Google’s Gemini is the latest AI model to hack other companies",
+      "deck": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000"
+    },
+    {
+      "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "deck": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ext",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "AI safety conversations have gotten unbelievable",
+      "deck": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "deck": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "deck": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000"
+    },
     {
       "headline": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "deck": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
@@ -73,86 +281,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
       "pubDate": "Sat, 19 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "YouTube Sends 1.3 MB of HTML to Your AI Agent. Twenty-One Words Survive.",
-      "deck": "&#x200B;I measured what five social platforms hand an agent that fetches the link. Four give a fetch-and-strip agent nothing usable. One hands&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/youtube-sends-1-3-mb-of-html-to-your-ai-agent-twenty-one-words-survive-ce45e8a42eea?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:18:33 GMT"
-    },
-    {
-      "headline": "Measuring Agentic AI by Delivery, Not Tokens",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/tokenops-ai-token-spend-is-infrastructure-not-impact-8fefadd99574?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:18:27 GMT"
-    },
-    {
-      "headline": "OpenAI's Codex Ships Two Subagent Toolsets. The Agents API Matches Neither.",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/openais-codex-ships-two-subagent-toolsets-the-agents-api-matches-neither-480822de5617?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:18:18 GMT"
-    },
-    {
-      "headline": "RoPE : Rotary Position Embedding",
-      "deck": "In this article we will explore RoPE from every angle from intuition to why we create this to its mathematical understanding and its&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/rope-rotary-position-embedding-1971034b4bf3?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:18:09 GMT"
-    },
-    {
-      "headline": "Automating Project Implementation and Maintenance with Claude Code + MCP + AI Agent Skills —…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/automating-project-implementation-and-maintenance-with-claude-code-mcp-ai-agent-skills-dc7839fc4819?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:17:40 GMT"
-    },
-    {
-      "headline": "Claude 101: Meet Your New AI Teammate",
-      "deck": "Part 2 of the Claude Certified Architect &#x2014; Foundations exam prep seriesContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-101-meet-your-new-ai-teammate-ccbc8fd43cec?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:16:08 GMT"
-    },
-    {
-      "headline": "5 MCP Mistakes You Don’t Want in Production",
-      "deck": "I&#x2019;ve discussed the Model Context Protocol (MCP) quite a bit before, highlighting its significant potential for making Large Language&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/five-mcp-risks-you-dont-want-in-production-b2e9805f4b16?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:15:45 GMT"
-    },
-    {
-      "headline": "Pandas on Steroids: Cleaning Data 10x Faster with Fabric Data Wrangler",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/pandas-on-steroids-cleaning-data-10x-faster-with-fabric-data-wrangler-3421093e1cbb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:15:34 GMT"
-    },
-    {
-      "headline": "Who Gets the Brake?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/who-gets-the-brake-295d2ae25e8f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:15:13 GMT"
-    },
-    {
-      "headline": "I Tried 100+ Claude Code Skills. These 7 Are The Best.",
-      "deck": "TL;DRContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tried-100-claude-code-skills-these-7-are-the-best-f6bfb13d04f5?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 19 Sep 2026 07:15:00 GMT"
     },
     {
       "headline": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
@@ -235,116 +363,12 @@
       "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000"
     },
     {
-      "headline": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-      "deck": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000"
-    },
-    {
-      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "deck": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000"
-    },
-    {
-      "headline": "Anthropic is operating a lab that conducts biology experiments",
-      "deck": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000"
-    },
-    {
-      "headline": "AI hallucination nearly triggers US military operation",
-      "deck": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000"
-    },
-    {
-      "headline": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
-      "deck": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000"
-    },
-    {
       "headline": "Whatever happened to “Download on the App Store” buttons?",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 18 Sep 2026 21:20:51 GMT"
-    },
-    {
-      "headline": "World model companies are keeping a lot of secrets",
-      "deck": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000"
-    },
-    {
-      "headline": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-      "deck": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/apple-watch-ultra-4/",
-      "pubDate": "Fri, 18 Sep 2026 19:36:48 +0000"
-    },
-    {
-      "headline": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "deck": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "pubDate": "Fri, 18 Sep 2026 19:21:09 +0000"
-    },
-    {
-      "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "deck": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000"
-    },
-    {
-      "headline": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-      "deck": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000"
-    },
-    {
-      "headline": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-      "deck": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000"
-    },
-    {
-      "headline": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…how?",
-      "deck": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on ind",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000"
-    },
-    {
-      "headline": "Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves?",
-      "deck": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on ind",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000"
     },
     {
       "headline": "Designing AI Products and Features: Study Guide",
@@ -361,30 +385,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "deck": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "pubDate": "Fri, 18 Sep 2026 16:35:49 +0000"
-    },
-    {
-      "headline": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "deck": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "headline": "Open or closed AI? Nvidia&#8217;s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "deck": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000"
     },
     {
       "headline": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
