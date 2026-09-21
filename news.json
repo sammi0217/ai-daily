@@ -1,7 +1,287 @@
 {
-  "generated_at": "2026-09-20T12:00:02.940Z",
+  "generated_at": "2026-09-21T12:00:03.253Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 21 Sep 2026 11:36:07 GMT"
+    },
+    {
+      "headline": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "deck": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "pubDate": "Mon, 21 Sep 2026 10:34:43 +0000"
+    },
+    {
+      "headline": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
+      "deck": "The Bambu Lab P2S Combo makes useful, polished objects without requiring advanced technical skills.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
+      "pubDate": "Mon, 21 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Search for Silicon Valley’s Most Powerful Woman",
+      "deck": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Justice for CSS",
+      "deck": "In defense of the girliest programming language.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/justice-for-css/",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
+      "deck": "WIRED dedicating an entire issue to women in 2026 might seem regressive, or obvious, or even unnecessary. We disagree.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/wired-women-editors-letter/",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
+      "deck": "Executives happily automating their days with AI. New hires confronting bro culture. Women in tech have a lot to say—and they told it all to WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/women-in-tech-survey/",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
+      "deck": "Factor home-delivery meals have mastered the art of a juicy, medium-rare steak. But inconsistency is still an issue.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/factor-perpared-meals-2026/",
+      "pubDate": "Mon, 21 Sep 2026 09:37:00 +0000"
+    },
+    {
+      "headline": "After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury",
+      "deck": "Following a difficult journey, the probe will soon begin unravelling the mysteries of Mercury’s magnetic field and internal structure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/",
+      "pubDate": "Mon, 21 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "How I Built a Persistent Remote Workspace for Developers and Coding Agents",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-i-built-a-persistent-remote-workspace-for-developers-and-coding-agents-cd103ca2c341?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:45:47 GMT"
+    },
+    {
+      "headline": "2 Numbers Out of 128 Destroy the Entire KV Cache — Why LLM Compression Keeps Failing",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/2-numbers-out-of-128-destroy-the-entire-kv-cache-why-llm-compression-keeps-failing-79cb21164286?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:04:56 GMT"
+    },
+    {
+      "headline": "The AI Slowdown Isn’t About Intelligence. It’s About Economics.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-ai-slowdown-isnt-about-intelligence-it-s-about-economics-a4845a7245de?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:04:42 GMT"
+    },
+    {
+      "headline": "Why Does LangChain's New Jev Auto Mode Forget Your Request at Tool Call 16?",
+      "deck": "&#x200B;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-does-langchains-new-jev-auto-mode-forget-your-request-at-tool-call-16-493b5018a259?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:03:06 GMT"
+    },
+    {
+      "headline": "The 6 AI Agent Design Patterns Every Engineer Should Know (And When Not to Use Them)",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-6-ai-agent-design-patterns-every-engineer-should-know-and-when-not-to-use-them-3720ac3b5b90?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:02:49 GMT"
+    },
+    {
+      "headline": "DeepSeek-V3: The Engineering Behind a Frontier Language Model — Part 1",
+      "deck": "This is the is full series of Deepseek-V3 technical report, where i explain all the technical details in simpler words with code&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/inside-deepseek-v3-the-engineering-behind-a-frontier-language-model-part-1-7e2b371abb05?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 05:02:20 GMT"
+    },
+    {
+      "headline": "Building Intelligent Feedback Systems: A Deep Dive into Conditional Agentic Workflows with…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-intelligent-feedback-systems-a-deep-dive-into-conditional-agentic-workflows-with-c40daa159d74?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 04:57:52 GMT"
+    },
+    {
+      "headline": "Orchestrating Parallel Intelligence: Building a Multi-Agent AI Grading System with LangGraph",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/orchestrating-parallel-intelligence-building-a-multi-agent-ai-grading-system-with-langgraph-9468daf9dd29?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 04:57:43 GMT"
+    },
+    {
+      "headline": "Demystifying Sequential Agentic Workflows: The Theoretical Foundations of LangGraph, State…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/demystifying-sequential-agentic-workflows-the-theoretical-foundations-of-langgraph-state-3856b232623a?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 04:57:38 GMT"
+    },
+    {
+      "headline": "Why LLMs Predict Tokens Instead of Words",
+      "deck": "Here&#x2019;s the friend link&#x2026;.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-llms-predict-tokens-instead-of-words-bf1df39d4a16?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 21 Sep 2026 04:54:40 GMT"
+    },
+    {
+      "headline": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "deck": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse bloc",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "deck": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We prop",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "deck": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine th",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "deck": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, back",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "deck": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analy",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "deck": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "deck": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introd",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21139",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "deck": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21149",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "deck": "arXiv:2609.21157v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design be",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+      "deck": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective co",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.21165",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "deck": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "pubDate": "Sun, 20 Sep 2026 21:41:08 +0000"
+    },
+    {
+      "headline": "World model companies are keeping a lot of secrets",
+      "deck": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "pubDate": "Sun, 20 Sep 2026 20:29:07 +0000"
+    },
+    {
+      "headline": "Is the AI industry really ready to slow down?",
+      "deck": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000"
+    },
+    {
+      "headline": "Vocci&#8217;s ring adds a new form factor to meeting note-taking",
+      "deck": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "pubDate": "Sun, 20 Sep 2026 18:32:52 +0000"
+    },
+    {
+      "headline": "ScrollEd wants to turn textbooks into TikTok",
+      "deck": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disr",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "pubDate": "Sun, 20 Sep 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "AI nutrition facts",
+      "deck": "Designing an interface between writers, readers, and AIContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 20 Sep 2026 12:36:44 GMT"
+    },
     {
       "headline": "Thermacell LIV 2.0 Review: Taking My Yard Back",
       "deck": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
@@ -75,86 +355,6 @@
       "pubDate": "Sun, 20 Sep 2026 09:00:00 +0000"
     },
     {
-      "headline": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:17:15 GMT"
-    },
-    {
-      "headline": "Distribution Training Implementation Part 1 (From Scratch)",
-      "deck": "https://mittalutkarsh.github.io/Zero_From_Scratch/Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/distribution-training-implementation-part-1-from-scratch-cd229c8ccd40?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:16:46 GMT"
-    },
-    {
-      "headline": "Apple Deleted A Feature Because This Maths Was Too Hard.",
-      "deck": "Confused by dy/dx? Start right here. A friendly walkthrough of what a derivative is, how to find one by hand, and why it matters so much&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-derivative-rate-of-change-without-the-epsilon-delta-ordeal-d97945652a81?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:14:55 GMT"
-    },
-    {
-      "headline": "I Used Claude Code Wrong for 6 Months. These 12 Claude Code Commands Finally Made It Click",
-      "deck": "I spent months using Claude Code like it was just another chatbot inside the terminal.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-used-claude-code-wrong-for-6-months-these-12-claude-code-commands-finally-made-it-click-9b67b907e62e?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:11:34 GMT"
-    },
-    {
-      "headline": "The AI Agent Stack: Where Value Actually Accrues on Azure",
-      "deck": "Identity, token budgets, threat protection, and the context graph that outlasts any model.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-agent-stack-value-accrues-azure-12b0db5c4738?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:11:19 GMT"
-    },
-    {
-      "headline": "Replace Guesswork with Statistics for Testing Your LLM Applications.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/replace-guesswork-with-statistics-for-testing-your-llm-applications-247a14e96e61?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:11:10 GMT"
-    },
-    {
-      "headline": "Evolution of LLMs",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/evolution-of-llms-2956bdc4ea6a?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:10:44 GMT"
-    },
-    {
-      "headline": "What is Jev? 200× Faster and 400× Cheaper than Your Favorite LLM",
-      "deck": "State in, typed probabilities out. The System One model for software decisions.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-is-jev-200-faster-and-400-cheaper-than-your-favorite-llm-7d76892552b7?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:10:24 GMT"
-    },
-    {
-      "headline": "AI Engineer vs. Data Scientist in 2026: Which Path Actually Makes Sense for You?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-engineer-vs-data-scientist-in-2026-which-path-actually-makes-sense-for-you-9fa61408b2ff?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:08:59 GMT"
-    },
-    {
-      "headline": "RAG vs Agentic RAG: When Does an Agent Actually Help?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/rag-vs-agentic-rag-when-does-an-agent-actually-help-f741c35ab25f?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 20 Sep 2026 04:08:46 GMT"
-    },
-    {
       "headline": "Flock reportedly tries to shrink workforce with employee buyouts",
       "deck": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "source": "TechCrunch",
@@ -179,190 +379,6 @@
       "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000"
     },
     {
-      "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "deck": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ext",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "AI safety conversations have gotten unbelievable",
-      "deck": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "deck": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "deck": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "headline": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "deck": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "pubDate": "Sat, 19 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
-      "deck": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
-      "pubDate": "Sat, 19 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
-      "deck": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
-      "pubDate": "Sat, 19 Sep 2026 10:08:00 +0000"
-    },
-    {
-      "headline": "An Editor’s Picks: The Best Gifts for Bird Lovers",
-      "deck": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
-      "pubDate": "Sat, 19 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Mathematicians Hate AI. They Can’t Quit It",
-      "deck": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "pubDate": "Sat, 19 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "deck": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
-      "pubDate": "Sat, 19 Sep 2026 09:39:00 +0000"
-    },
-    {
-      "headline": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "deck": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-      "pubDate": "Sat, 19 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "6 Best VPN Services (2026), Tested and Reviewed",
-      "deck": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-vpn/",
-      "pubDate": "Sat, 19 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Join the WIRED World Fair in Miami on November 4",
-      "deck": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "pubDate": "Sat, 19 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-      "deck": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "pubDate": "Sat, 19 Sep 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Paramount+ Coupon Codes and Deals for September 2026",
-      "deck": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "B&H Photo Promo Codes and Deals This September 2026",
-      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "KitchenAid Promo Codes: Save Up to 20%",
-      "deck": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Newegg Promo Codes and Coupons for September 2026",
-      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Whoop Promo Codes: 20% Off This September 2026",
-      "deck": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "eBay Coupons: 20% Off in September 2026",
-      "deck": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "20% Off Samsung Promo Code | September 2026",
-      "deck": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "pubDate": "Sat, 19 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Flock Offers Employees Buyouts as Customers Flee",
-      "deck": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-      "pubDate": "Sat, 19 Sep 2026 02:22:54 +0000"
-    },
-    {
-      "headline": "India forces caller-ID apps to feed spam reports to telcos",
-      "deck": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000"
-    },
-    {
       "headline": "Whatever happened to “Download on the App Store” buttons?",
       "deck": "",
       "source": "UX Collective",
@@ -385,22 +401,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
-      "deck": "Google Stitch and Figma AI both make it super easy to prototype a new design. All you need to do is submit a prompt, wait for a few&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 18 Sep 2026 14:48:44 GMT"
-    },
-    {
-      "headline": "Altman and Amodei’s “unsafe at any prompt” moment for AI",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 18 Sep 2026 07:38:53 GMT"
     }
   ]
 }
