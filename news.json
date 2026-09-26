@@ -1,9 +1,345 @@
 {
-  "generated_at": "2026-09-25T12:00:02.302Z",
+  "generated_at": "2026-09-26T12:00:02.317Z",
   "count": 50,
   "articles": [
     {
-      "headline": "The Trump Administration Is Trying to Get Musk and X out of a $137 Million EU Fine",
+      "headline": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
+      "deck": "Bring the gift everyone will want to win from this year’s holiday party, from a cute jacket for a beer can to magnets they’ll wish they could eat.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
+      "pubDate": "Sat, 26 Sep 2026 11:36:00 +0000"
+    },
+    {
+      "headline": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+      "deck": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+      "pubDate": "Sat, 26 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "deck": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "pubDate": "Sat, 26 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "This Browser Extension Lets You Snooze Open Tabs Until Later",
+      "deck": "The free add-on Tuck brings one of the best features of modern email—the ability to hide something for a bit—to that tangle of tabs in your browser.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
+      "pubDate": "Sat, 26 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
+      "deck": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
+      "pubDate": "Sat, 26 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "deck": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
+      "pubDate": "Sat, 26 Sep 2026 09:05:00 +0000"
+    },
+    {
+      "headline": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+      "deck": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "pubDate": "Sat, 26 Sep 2026 01:08:57 +0000"
+    },
+    {
+      "headline": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "deck": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+      "pubDate": "Sat, 26 Sep 2026 00:02:00 +0000"
+    },
+    {
+      "headline": "Silent Schema Drift: Why Your Agent Broke and Your Database Didn’t",
+      "deck": "Data contracts for a consumer that never throws a type error &#x2014; it just quietly reasons over the wrong column.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/silent-schema-drift-why-your-agent-broke-and-your-database-didnt-b7ea04132470?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 26 Sep 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "deck": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000"
+    },
+    {
+      "headline": "A Blueprint for Production Agentic AI Systems in the Enterprise",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/a-blueprint-for-production-agentic-ai-systems-in-the-enterprise-750596b15a7e?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 23:01:03 GMT"
+    },
+    {
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+      "deck": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000"
+    },
+    {
+      "headline": "[Day 16/100] Document Loaders, Text Splitters, and Output Parsers",
+      "deck": "Your agent has spent fifteen days living entirely inside the model&#x2019;s own knowledge, plus whatever a weather API or a clock told it. It has&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 22:01:02 GMT"
+    },
+    {
+      "headline": "Is this the line for burgers?",
+      "deck": "On something already in the scene solving a problem outside its briefContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 25 Sep 2026 21:51:14 GMT"
+    },
+    {
+      "headline": "GPT-6 Sol vs. Claude Opus 5.5: What the Actual Benchmark Numbers Say",
+      "deck": "Both models launched back to back, aimed squarely at coding and agentic workloads. One is cheaper. The other wins more benchmarks. The&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-6-sol-vs-claude-opus-5-5-what-the-actual-benchmark-numbers-say-07c91d0dba07?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 21:01:02 GMT"
+    },
+    {
+      "headline": "Meta opens early access program for new Muse features",
+      "deck": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000"
+    },
+    {
+      "headline": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "deck": "They wanted the silicon. They got the sand.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "pubDate": "Fri, 25 Sep 2026 20:30:40 +0000"
+    },
+    {
+      "headline": "From AI Feature to AI-Native SaaS: How the Right Development Partner Shapes Your Roadmap",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "deck": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of ",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000"
+    },
+    {
+      "headline": "How Anthropic’s Claude Discovered the ART Enzyme System (and Failed 10 Reruns)",
+      "deck": "Anthropic deployed 950 Claude agents across 21 hours and found a genuine CRISPR-like system, yet the pipeline reproduced the finding only&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-anthropics-claude-discovered-the-art-enzyme-system-and-failed-10-reruns-c9509823f3a4?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 19:01:02 GMT"
+    },
+    {
+      "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "deck": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000"
+    },
+    {
+      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "deck": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "pubDate": "Fri, 25 Sep 2026 18:33:59 +0000"
+    },
+    {
+      "headline": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "deck": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;An",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "pubDate": "Fri, 25 Sep 2026 18:22:47 +0000"
+    },
+    {
+      "headline": "What Actually Makes a Brand Visible in AI Search",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-actually-makes-a-brand-visible-in-ai-search-097ffa6ba96e?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 18:01:01 GMT"
+    },
+    {
+      "headline": "Some Supabase customers are publicly exposing reams of people&#8217;s data to the web",
+      "deck": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "pubDate": "Fri, 25 Sep 2026 17:29:46 +0000"
+    },
+    {
+      "headline": "Astra and Opus just passed Turing&#8217;s other test",
+      "deck": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "pubDate": "Fri, 25 Sep 2026 17:24:36 +0000"
+    },
+    {
+      "headline": "The Best Local Coding Model for the $899 Mac mini",
+      "deck": "What runs on the 16GB M6, how to set it up for autocomplete and Claude Code, and why the app you run it in matters as much as the model.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-best-local-coding-model-for-the-899-mac-mini-2dbb4d2071ba?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 17:01:03 GMT"
+    },
+    {
+      "headline": "How AI Works and How Users Think About It: Study Guide",
+      "deck": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "When Should You Disclose AI Use? The PACED Framework",
+      "deck": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "deck": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "pubDate": "Fri, 25 Sep 2026 16:58:20 +0000"
+    },
+    {
+      "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "deck": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000"
+    },
+    {
+      "headline": "uv is 200x faster than pip. Put it in Docker and it’s 4x.",
+      "deck": "I measured it on PyTorch installs. It&#x2019;s still the tool I&#x2019;d switch to.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/uv-is-200x-faster-than-pip-put-it-in-docker-and-its-4x-e3851d45b8eb?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 16:01:05 GMT"
+    },
+    {
+      "headline": "Meta’s AI Tamagotchi bet is…working?",
+      "deck": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;An",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "headline": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
+      "deck": "The latest unauthorized agent swarms were discovered by researchers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000"
+    },
+    {
+      "headline": "Anthropic&#8217;s founders seek voting control ahead of IPO",
+      "deck": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000"
+    },
+    {
+      "headline": "How Do LLMs See Images? From Pixels to Visual Tokens",
+      "deck": "A simple explanation of the visual encoder, image embeddings, and how an LLM answers questions about a pictureContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-do-llms-see-images-from-pixels-to-visual-tokens-75b6a78379d8?source=rss----98111c9905da---4",
+      "pubDate": "Fri, 25 Sep 2026 15:01:02 GMT"
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "deck": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass befor",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "War Bros Didn’t Always Rule Silicon Valley",
+      "deck": "Some say that tech was always about the money and the military. Don’t buy that argument.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "deck": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "pubDate": "Fri, 25 Sep 2026 14:15:00 +0000"
+    },
+    {
+      "headline": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "deck": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "pubDate": "Fri, 25 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "I Tested Opus 5.5 at Every Effort Level for UI Design",
+      "deck": "I was curious how different effort levels impact the quality of output Opus 5.5 produces. So I tested Opus 5.5 at every effort level, from&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
+      "pubDate": "Fri, 25 Sep 2026 12:16:48 GMT"
+    },
+    {
+      "headline": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "pubDate": "Fri, 25 Sep 2026 12:10:00 +0000"
+    },
+    {
+      "headline": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
       "deck": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
       "source": "Wired",
       "category": "tech",
@@ -59,348 +395,12 @@
       "pubDate": "Fri, 25 Sep 2026 10:00:00 +0000"
     },
     {
-      "headline": "The 34 Best Gifts for Dads (2026)",
-      "deck": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
-      "pubDate": "Fri, 25 Sep 2026 09:31:00 +0000"
-    },
-    {
-      "headline": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "deck": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "pubDate": "Fri, 25 Sep 2026 09:16:25 +0000"
-    },
-    {
-      "headline": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
-      "deck": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/tesla-semi/",
-      "pubDate": "Fri, 25 Sep 2026 09:15:00 +0000"
-    },
-    {
-      "headline": "10 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds",
-      "deck": "We tried dozens of the best coffee subscriptions to find freshly roasted, delicious coffee for every taste.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-coffee-subscription/",
-      "pubDate": "Fri, 25 Sep 2026 09:01:00 +0000"
-    },
-    {
-      "headline": "Young organs may not be a fountain of youth for recipients",
-      "deck": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "pubDate": "Fri, 25 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "The Room Where the Backlog Gets Real: What Sprint Planning Taught Me About Priorities",
-      "deck": "A fresher&#x2019;s first sprint planning meeting &#x2014; and the quiet lesson in priorities that changed how she worksContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-room-where-the-backlog-gets-real-what-sprint-planning-taught-me-about-priorities-2959b47fed34?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:30:50 GMT"
-    },
-    {
-      "headline": "Claude's New addTools() Can Reuse 98.7% of Your Next Request. Editing tools[] Reuses None.",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claudes-new-addtools-can-reuse-98-7-of-your-next-request-editing-tools-reuses-none-ef1cfe0cc862?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:29:23 GMT"
-    },
-    {
-      "headline": "Four Ways to Reach a Model in Another Azure Region From Microsoft Foundry",
-      "deck": "How each pattern handles identity, routing, and private networking, and which Foundry features stop working when a gateway sits in the&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/microsoft-foundry-cross-region-models-247bfc22e396?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:29:12 GMT"
-    },
-    {
-      "headline": "How to Fall Back to Default Logic When LLM Output is Unsatisfactory",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-fall-back-to-default-logic-when-llm-output-is-unsatisfactory-e5cdb3b63964?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:29:02 GMT"
-    },
-    {
-      "headline": "Build an AI Agent Evaluation with JEV",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/build-an-ai-agent-evaluation-with-jev-392c146ca816?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:27:14 GMT"
-    },
-    {
-      "headline": "Beyond Context Windows: Why AI Still Needs RAG",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beyond-context-windows-why-ai-still-needs-rag-287e0b383fca?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:26:52 GMT"
-    },
-    {
-      "headline": "Anthropic’s Opus 5.5 Prompting Guide Has 11 Sections, and More of Them Say Delete Than Add",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/anthropics-opus-5-5-prompting-guide-has-11-sections-and-more-of-them-say-delete-than-add-b241dcc1500e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:26:42 GMT"
-    },
-    {
-      "headline": "Agentic Skill Decay: How to Use AI Coding Agents Without Losing Your Edge",
-      "deck": "Two Anthropic studies, one uncomfortable idea, and five habits that keep you learning while the agent worksContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agentic-skill-decay-how-to-use-ai-coding-agents-without-losing-your-edge-73d1cd91a52b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:26:27 GMT"
-    },
-    {
-      "headline": "Friction Was the Filter",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/friction-was-the-filter-07fe7836ce87?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:25:43 GMT"
-    },
-    {
-      "headline": "How to Transition from a DevOps/Cloud Role to an AI Engineer / AI Infra Role",
-      "deck": "How to Transition from DevOps to AI Engineer: Skills, Roadmap, and CertificationsContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-transition-from-a-devops-cloud-role-to-an-ai-engineer-ai-infra-role-164b301b974e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 05:25:04 GMT"
-    },
-    {
-      "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "deck": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Reebok Discount Code: 15% Off - September 2026",
-      "deck": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/reebok-discount-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Gametime Promo Code: Save on Tickets in September 2026",
-      "deck": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gametime-promo-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Hoka Coupon Codes: 30% Off in September 2026",
-      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for September 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Ulta Promo Codes: Up to 20% Off in September 2026",
-      "deck": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Birdfy Discount Codes: 15% Off Sitewide",
-      "deck": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/birdfy-discount-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Therabody Promo Codes: 15% Off September 2026",
-      "deck": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/therabody-promo-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Altra Running Promo Codes: 10% Off September 2026",
-      "deck": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/altra-promo-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chatbooks Promo Code: 40% Off | September 2026",
-      "deck": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chatbooks-promo-code/",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "deck": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We st",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28475",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-      "deck": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28506",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "PAWS: Policy-driven Agentic World Simulation",
-      "deck": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely co",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28547",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Pistis Technical Report",
-      "deck": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28554",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "deck": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate es",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28557",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-      "deck": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28570",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-      "deck": "arXiv:2609.28575v1 Announce Type: new Abstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving user beliefs and memory state. TWIST is a prop",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28575",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-      "deck": "arXiv:2609.28609v1 Announce Type: new Abstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social simulation. Recent RL methods typically trai",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28609",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Training Object Permanence in World Models",
-      "deck": "arXiv:2609.28654v1 Announce Type: new Abstract: Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28654",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-      "deck": "arXiv:2609.28690v1 Announce Type: new Abstract: Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. However, plausible individual responses do not ensure that simulated",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2609.28690",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 -0400"
-    },
-    {
       "headline": "What the Bible got right about AI",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
       "pubDate": "Thu, 24 Sep 2026 22:03:16 GMT"
-    },
-    {
-      "headline": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "deck": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000"
-    },
-    {
-      "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "deck": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000"
-    },
-    {
-      "headline": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "deck": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000"
-    },
-    {
-      "headline": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
-      "deck": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "pubDate": "Thu, 24 Sep 2026 17:39:24 +0000"
-    },
-    {
-      "headline": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
-      "deck": "Anthropic recently updated its flagship AI model, Opus.Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
-      "pubDate": "Thu, 24 Sep 2026 12:26:11 GMT"
-    },
-    {
-      "headline": "Claude Opus 5.5 for Product Designers",
-      "deck": "Anthropic just updated its frontier AI model, Opus. The new model, Opus 5.5, demonstrates even better results than its predecessor, Opus 5.Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/claude-opus-5-5-for-product-designers-6d354142d5ac?source=rss----819cc2aaeee0---4",
-      "pubDate": "Wed, 23 Sep 2026 11:08:35 GMT"
-    },
-    {
-      "headline": "Why the best resume may be the wrong resume for a design team",
-      "deck": "What design leadership gets wrong about experience, expertise, and innovation on a team.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
-      "pubDate": "Wed, 23 Sep 2026 04:06:17 GMT"
-    },
-    {
-      "headline": "The origins, side B — birth of the un-cool",
-      "deck": "Software adoption followed crises of complexity&#x2026; and then it kept growingContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
-      "pubDate": "Wed, 23 Sep 2026 04:04:28 GMT"
     }
   ]
 }
