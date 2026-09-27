@@ -1,7 +1,167 @@
 {
-  "generated_at": "2026-09-26T12:00:02.317Z",
+  "generated_at": "2026-09-27T12:00:01.896Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
+      "deck": "These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-party-speaker/",
+      "pubDate": "Sun, 27 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "What’s the Best Pet DNA Test? We Tested the Most Popular Ones",
+      "deck": "I sent my cats’ saliva to the lab to get health and genetic insights sent to my inbox—with very different results.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-pet-dna-test-kits/",
+      "pubDate": "Sun, 27 Sep 2026 11:02:00 +0000"
+    },
+    {
+      "headline": "25 Powerful GitHub Repositories Every AI Engineer Should Bookmark in 2026",
+      "deck": "A curated engineering breakdown of the open-source frameworks, inference engines, evaluation harnesses, and agentic protocols that&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/25-powerful-github-repositories-every-ai-engineer-should-bookmark-in-2026-09d79249a357?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 10:16:47 GMT"
+    },
+    {
+      "headline": "Why Is NVIDIA's 4-Bit Qwen 3.8 27B a 21.9 GB Download, Not 13.9?",
+      "deck": "&#x200B;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-is-nvidias-4-bit-qwen-3-8-27b-a-21-9-gb-download-not-13-9-70e8ccb81d03?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 10:16:17 GMT"
+    },
+    {
+      "headline": "Copilot Studio Entra Agent ID Migration: Do It Before Microsoft Does It For You",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/copilot-studio-entra-agent-id-migration-do-it-before-microsoft-does-it-for-you-6ff1e6b43431?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 10:16:03 GMT"
+    },
+    {
+      "headline": "AI-Generated Code Fails Where the Prompt’s Context Ends",
+      "deck": "The generated function can be locally correct while the real contract lives in state, retries, permissions, external services, and&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-generated-code-fails-where-the-prompts-context-ends-ea2335eed148?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 10:15:33 GMT"
+    },
+    {
+      "headline": "You Don’t Need to Pay for Distraction-Blocking Software",
+      "deck": "These free iOS and Android apps create the physical friction you need to put down your phone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
+      "pubDate": "Sun, 27 Sep 2026 10:15:00 +0000"
+    },
+    {
+      "headline": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "deck": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+      "pubDate": "Sun, 27 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Nicotine Is Mounting a Comeback in the Wellness Movement",
+      "deck": "Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the “natural” medicine corners of the internet.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
+      "pubDate": "Sun, 27 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+      "deck": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
+      "pubDate": "Sun, 27 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "deck": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000"
+    },
+    {
+      "headline": "Laya: A Free, Local Stand-In for TypeSafe’s Jev — If You Use It for the Right Job",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/laya-a-free-local-stand-in-for-typesafes-jev-if-you-use-it-for-the-right-job-11aa0903f011?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "I Tested APIs Built for AI Agents. Here’s What Changed",
+      "deck": "A hands on comparison of REST APIs, agent ready APIs, and MCP servers with real AI agents.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-tested-apis-built-for-ai-agents-heres-what-changed-d6879fb6cf25?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 27 Sep 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Fewer Agent Tools Beat a Prompt Injection Detector",
+      "deck": "Both defenses blocked most attacks. With fewer tools, the agent got 73% of its normal tasks right. With the detector, it got only 41%.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/fewer-agent-tools-beat-a-prompt-injection-detector-b438cd57d69e?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 26 Sep 2026 23:31:01 GMT"
+    },
+    {
+      "headline": "AI Can Write Your Code. Can It Maintain It?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-can-write-your-code-can-it-maintain-it-041a0f48cefe?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 26 Sep 2026 23:31:01 GMT"
+    },
+    {
+      "headline": "AI Agents Hacking: 6 Incidents That Changed Everything",
+      "deck": "Six documented incidents in 12 months show how AI agents went from hacking assistants to autonomous attackers.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agents-hacking-6-incidents-that-changed-everything-5c6a8db59c69?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 26 Sep 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "Fine-Tuning to Quantization: What Free-Tier Hardware Can Prove",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 26 Sep 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "Insurers claim AI is already increasing healthcare costs",
+      "deck": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000"
+    },
+    {
+      "headline": "I created an interactive digital avatar of myself — and you can talk to it",
+      "deck": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "Old-School Credit Card Scams Are Far From Dead",
+      "deck": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+      "pubDate": "Sat, 26 Sep 2026 12:00:00 +0000"
+    },
     {
       "headline": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
       "deck": "Bring the gift everyone will want to win from this year’s holiday party, from a cute jacket for a beer can to magnets they’ll wish they could eat.",
@@ -67,28 +227,12 @@
       "pubDate": "Sat, 26 Sep 2026 00:02:00 +0000"
     },
     {
-      "headline": "Silent Schema Drift: Why Your Agent Broke and Your Database Didn’t",
-      "deck": "Data contracts for a consumer that never throws a type error &#x2014; it just quietly reasons over the wrong column.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/silent-schema-drift-why-your-agent-broke-and-your-database-didnt-b7ea04132470?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 26 Sep 2026 00:01:02 GMT"
-    },
-    {
       "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "deck": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000"
-    },
-    {
-      "headline": "A Blueprint for Production Agentic AI Systems in the Enterprise",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-blueprint-for-production-agentic-ai-systems-in-the-enterprise-750596b15a7e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 23:01:03 GMT"
     },
     {
       "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
@@ -99,28 +243,12 @@
       "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000"
     },
     {
-      "headline": "[Day 16/100] Document Loaders, Text Splitters, and Output Parsers",
-      "deck": "Your agent has spent fifteen days living entirely inside the model&#x2019;s own knowledge, plus whatever a weather API or a clock told it. It has&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/day-16-100-document-loaders-text-splitters-and-output-parsers-420efb439350?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 22:01:02 GMT"
-    },
-    {
       "headline": "Is this the line for burgers?",
       "deck": "On something already in the scene solving a problem outside its briefContinue reading on UX Collective »",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 25 Sep 2026 21:51:14 GMT"
-    },
-    {
-      "headline": "GPT-6 Sol vs. Claude Opus 5.5: What the Actual Benchmark Numbers Say",
-      "deck": "Both models launched back to back, aimed squarely at coding and agentic workloads. One is cheaper. The other wins more benchmarks. The&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/gpt-6-sol-vs-claude-opus-5-5-what-the-actual-benchmark-numbers-say-07c91d0dba07?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 21:01:02 GMT"
     },
     {
       "headline": "Meta opens early access program for new Muse features",
@@ -139,28 +267,12 @@
       "pubDate": "Fri, 25 Sep 2026 20:30:40 +0000"
     },
     {
-      "headline": "From AI Feature to AI-Native SaaS: How the Right Development Partner Shapes Your Roadmap",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-ai-feature-to-ai-native-saas-how-the-right-development-partner-shapes-your-roadmap-fce6772ad272?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 20:01:01 GMT"
-    },
-    {
       "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "deck": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of ",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
       "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000"
-    },
-    {
-      "headline": "How Anthropic’s Claude Discovered the ART Enzyme System (and Failed 10 Reruns)",
-      "deck": "Anthropic deployed 950 Claude agents across 21 hours and found a genuine CRISPR-like system, yet the pipeline reproduced the finding only&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-anthropics-claude-discovered-the-art-enzyme-system-and-failed-10-reruns-c9509823f3a4?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 19:01:02 GMT"
     },
     {
       "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
@@ -187,14 +299,6 @@
       "pubDate": "Fri, 25 Sep 2026 18:22:47 +0000"
     },
     {
-      "headline": "What Actually Makes a Brand Visible in AI Search",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-actually-makes-a-brand-visible-in-ai-search-097ffa6ba96e?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 18:01:01 GMT"
-    },
-    {
       "headline": "Some Supabase customers are publicly exposing reams of people&#8217;s data to the web",
       "deck": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
       "source": "TechCrunch",
@@ -209,14 +313,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
       "pubDate": "Fri, 25 Sep 2026 17:24:36 +0000"
-    },
-    {
-      "headline": "The Best Local Coding Model for the $899 Mac mini",
-      "deck": "What runs on the 16GB M6, how to set it up for autocomplete and Claude Code, and why the app you run it in matters as much as the model.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-best-local-coding-model-for-the-899-mac-mini-2dbb4d2071ba?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 17:01:03 GMT"
     },
     {
       "headline": "How AI Works and How Users Think About It: Study Guide",
@@ -251,14 +347,6 @@
       "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000"
     },
     {
-      "headline": "uv is 200x faster than pip. Put it in Docker and it’s 4x.",
-      "deck": "I measured it on PyTorch installs. It&#x2019;s still the tool I&#x2019;d switch to.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/uv-is-200x-faster-than-pip-put-it-in-docker-and-its-4x-e3851d45b8eb?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 16:01:05 GMT"
-    },
-    {
       "headline": "Meta’s AI Tamagotchi bet is…working?",
       "deck": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;An",
       "source": "TechCrunch",
@@ -283,14 +371,6 @@
       "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000"
     },
     {
-      "headline": "How Do LLMs See Images? From Pixels to Visual Tokens",
-      "deck": "A simple explanation of the visual encoder, image embeddings, and how an LLM answers questions about a pictureContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-do-llms-see-images-from-pixels-to-visual-tokens-75b6a78379d8?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 25 Sep 2026 15:01:02 GMT"
-    },
-    {
       "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
       "deck": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass befor",
       "source": "TechCrunch",
@@ -307,92 +387,12 @@
       "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000"
     },
     {
-      "headline": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "deck": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "pubDate": "Fri, 25 Sep 2026 14:15:00 +0000"
-    },
-    {
-      "headline": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "deck": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "pubDate": "Fri, 25 Sep 2026 14:00:00 +0000"
-    },
-    {
       "headline": "I Tested Opus 5.5 at Every Effort Level for UI Design",
       "deck": "I was curious how different effort levels impact the quality of output Opus 5.5 produces. So I tested Opus 5.5 at every effort level, from&#x2026;Continue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 25 Sep 2026 12:16:48 GMT"
-    },
-    {
-      "headline": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "pubDate": "Fri, 25 Sep 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-      "deck": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
-      "pubDate": "Fri, 25 Sep 2026 11:32:17 +0000"
-    },
-    {
-      "headline": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "deck": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-laptops/",
-      "pubDate": "Fri, 25 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Party Invite Phishing Scams Are the New Missed Connections",
-      "deck": "Email scams that look like an Evite or Paperless Post invitation are meant to snatch your data. For some, they've become an excuse to reconnect with old friends or flames.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting",
-      "deck": "Lance Oppenheim’s new film doesn’t paint Chris Hansen as a hero. The To Catch a Predator host's real-world copycats are even more reckless.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/",
-      "pubDate": "Fri, 25 Sep 2026 10:45:00 +0000"
-    },
-    {
-      "headline": "How to Record Your Screen on Any Phone",
-      "deck": "The built-in tools on your phone—as well as some inexpensive apps—let you share whatever you’re doing with others.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-record-your-screen-on-any-phone/",
-      "pubDate": "Fri, 25 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Who Killed Paulina Borsook’s Career?",
-      "deck": "A quarter-century ago, Borsook published a wildly prophetic, penetrating book about Silicon Valley called Cyberselfish. Then she disappeared.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/paulina-borsook-profile/",
-      "pubDate": "Fri, 25 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "16 Products From Women Designers You Need to Know",
-      "deck": "From electric trucks to health trackers, women designers are guiding consumer tech to a better place.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/16-womens-products-you-need-to-know/",
-      "pubDate": "Fri, 25 Sep 2026 10:00:00 +0000"
     },
     {
       "headline": "What the Bible got right about AI",
