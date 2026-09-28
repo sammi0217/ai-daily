@@ -1,7 +1,279 @@
 {
-  "generated_at": "2026-09-27T12:00:01.896Z",
+  "generated_at": "2026-09-28T12:00:02.629Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "deck": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "pubDate": "Mon, 28 Sep 2026 11:32:19 +0000"
+    },
+    {
+      "headline": "Regulating AI, Quantifying stress, The variance problem",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 28 Sep 2026 11:14:59 GMT"
+    },
+    {
+      "headline": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+      "deck": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+      "pubDate": "Mon, 28 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
+      "deck": "From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-apple-watch/",
+      "pubDate": "Mon, 28 Sep 2026 10:36:00 +0000"
+    },
+    {
+      "headline": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+      "deck": "Keep an eye on home wherever you are with the best security cameras, including indoor and outdoor, subscription services, AI smarts, and local recording options.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-security-cameras/",
+      "pubDate": "Mon, 28 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "deck": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "pubDate": "Mon, 28 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "deck": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "pubDate": "Mon, 28 Sep 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "deck": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+      "pubDate": "Mon, 28 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "deck": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "pubDate": "Mon, 28 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Who’s liable when AI agents go rogue?",
+      "deck": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "pubDate": "Mon, 28 Sep 2026 08:06:22 +0000"
+    },
+    {
+      "headline": "Product Owner vs Scrum Master vs Project Manager: The Simple Explanation I Wish I’d Heard on Day…",
+      "deck": "Confused about who does what in your first IT job? Here&apos;s the story that finally made it click.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/product-owner-vs-scrum-master-vs-project-manager-the-simple-explanation-i-wish-id-heard-on-day-f74e2f9c7448?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 07:10:04 GMT"
+    },
+    {
+      "headline": "Building a Nuclear-Inspired Digital Twin with V-JEPA",
+      "deck": "Inside the simulator, frozen video models, physics residuals, and experiments that showed why good anomaly scores can still produce bad&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-a-nuclear-inspired-digital-twin-with-v-jepa-b69dbc884a01?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:56:16 GMT"
+    },
+    {
+      "headline": "The 7 API Protocols Every Working Engineer Needs to Know",
+      "deck": "REST, GraphQL, gRPC, tRPC, WebSocket, Webhooks, and MCP: what each one is, when each one wins and where each one breaksContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-7-api-protocols-every-working-engineer-needs-to-know-bffda20bf0b4?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:56:05 GMT"
+    },
+    {
+      "headline": "Gradient-Boosted Decision Trees: A Practical Tool for Smarter Ranking Decisions",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gradient-boosted-decision-trees-a-practical-tool-for-smarter-ranking-decisions-2fe995eb028f?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:55:56 GMT"
+    },
+    {
+      "headline": "Anthropic Called For pacing. Its Next Flagship Arrived 10 Days Later",
+      "deck": "A release-history and system-card audit shows what changed in Opus 5.5, what did not, and why Claude builders should care.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropic-called-for-pacing-its-next-flagship-arrived-10-days-later-32f850e217b0?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:55:47 GMT"
+    },
+    {
+      "headline": "The Memory Wall, How a Giant Model Is Trained Across Thousands of GPUs",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-memory-wall-how-a-giant-model-is-trained-across-thousands-of-gpus-e1b5afeca5ce?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:55:22 GMT"
+    },
+    {
+      "headline": "Implement Agentic Memory with Databricks Lakebase",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/implement-agentic-memory-with-databricks-lakebase-60a9aa8634c5?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:54:48 GMT"
+    },
+    {
+      "headline": "Coding an Agent: One Binary, Many Agents",
+      "deck": "Turning a terminal coding agent into a family of specialized ones, and the quirks that came with itContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/one-binary-many-agents-3a3527b9ff8e?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:54:17 GMT"
+    },
+    {
+      "headline": "Your Agent Got Worse as the Context Window Grew, and Doubling the Window Costs 4x the Attention",
+      "deck": "It is called context rot, it is a gradient rather than a cliff, and it has an architectural cause. Also: context engineering did not&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-agent-got-worse-as-the-context-window-grew-and-doubling-the-window-costs-4x-the-attention-1be07ecfff01?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:53:37 GMT"
+    },
+    {
+      "headline": "I Wasted Months Using Claude Code Wrong. These 14 Commands Changed My Workflow.",
+      "deck": "I kept asking for better answers when the real problem was how I started, steered, and checked each session.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/i-wasted-months-using-claude-code-wrong-these-14-commands-changed-my-workflow-e8bbe9d4ae70?source=rss----98111c9905da---4",
+      "pubDate": "Mon, 28 Sep 2026 06:53:23 GMT"
+    },
+    {
+      "headline": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "deck": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical chall",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "deck": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "deck": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indist",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "deck": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "deck": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "deck": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of grou",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Predicting Transmembrane Protein Topology from 3D Structure",
+      "deck": "arXiv:2609.30446v1 Announce Type: new Abstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30446",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+      "deck": "arXiv:2609.30456v1 Announce Type: new Abstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecti",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30456",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+      "deck": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsup",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30469",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+      "deck": "arXiv:2609.30484v1 Announce Type: new Abstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: do these models truly comprehend context or ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2609.30484",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+      "deck": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000"
+    },
+    {
+      "headline": "Can Muse overcome Meta’s trust issues?",
+      "deck": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000"
+    },
+    {
+      "headline": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4",
+      "pubDate": "Sun, 27 Sep 2026 19:38:02 GMT"
+    },
+    {
+      "headline": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+      "deck": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000"
+    },
     {
       "headline": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
       "deck": "These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.",
@@ -17,38 +289,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/best-pet-dna-test-kits/",
       "pubDate": "Sun, 27 Sep 2026 11:02:00 +0000"
-    },
-    {
-      "headline": "25 Powerful GitHub Repositories Every AI Engineer Should Bookmark in 2026",
-      "deck": "A curated engineering breakdown of the open-source frameworks, inference engines, evaluation harnesses, and agentic protocols that&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/25-powerful-github-repositories-every-ai-engineer-should-bookmark-in-2026-09d79249a357?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 10:16:47 GMT"
-    },
-    {
-      "headline": "Why Is NVIDIA's 4-Bit Qwen 3.8 27B a 21.9 GB Download, Not 13.9?",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-is-nvidias-4-bit-qwen-3-8-27b-a-21-9-gb-download-not-13-9-70e8ccb81d03?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 10:16:17 GMT"
-    },
-    {
-      "headline": "Copilot Studio Entra Agent ID Migration: Do It Before Microsoft Does It For You",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/copilot-studio-entra-agent-id-migration-do-it-before-microsoft-does-it-for-you-6ff1e6b43431?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 10:16:03 GMT"
-    },
-    {
-      "headline": "AI-Generated Code Fails Where the Prompt’s Context Ends",
-      "deck": "The generated function can be locally correct while the real contract lives in state, retries, permissions, external services, and&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-generated-code-fails-where-the-prompts-context-ends-ea2335eed148?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 10:15:33 GMT"
     },
     {
       "headline": "You Don’t Need to Pay for Distraction-Blocking Software",
@@ -89,54 +329,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "pubDate": "Sun, 27 Sep 2026 01:30:00 +0000"
-    },
-    {
-      "headline": "Laya: A Free, Local Stand-In for TypeSafe’s Jev — If You Use It for the Right Job",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/laya-a-free-local-stand-in-for-typesafes-jev-if-you-use-it-for-the-right-job-11aa0903f011?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "I Tested APIs Built for AI Agents. Here’s What Changed",
-      "deck": "A hands on comparison of REST APIs, agent ready APIs, and MCP servers with real AI agents.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/i-tested-apis-built-for-ai-agents-heres-what-changed-d6879fb6cf25?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 27 Sep 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "Fewer Agent Tools Beat a Prompt Injection Detector",
-      "deck": "Both defenses blocked most attacks. With fewer tools, the agent got 73% of its normal tasks right. With the detector, it got only 41%.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/fewer-agent-tools-beat-a-prompt-injection-detector-b438cd57d69e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 26 Sep 2026 23:31:01 GMT"
-    },
-    {
-      "headline": "AI Can Write Your Code. Can It Maintain It?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-can-write-your-code-can-it-maintain-it-041a0f48cefe?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 26 Sep 2026 23:31:01 GMT"
-    },
-    {
-      "headline": "AI Agents Hacking: 6 Incidents That Changed Everything",
-      "deck": "Six documented incidents in 12 months show how AI agents went from hacking assistants to autonomous attackers.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-agents-hacking-6-incidents-that-changed-everything-5c6a8db59c69?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 26 Sep 2026 23:01:02 GMT"
-    },
-    {
-      "headline": "Fine-Tuning to Quantization: What Free-Tier Hardware Can Prove",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/fine-tuning-to-quantization-what-free-tier-hardware-can-prove-bb4359c2a5cd?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 26 Sep 2026 23:01:02 GMT"
     },
     {
       "headline": "Insurers claim AI is already increasing healthcare costs",
@@ -187,132 +379,12 @@
       "pubDate": "Sat, 26 Sep 2026 10:30:00 +0000"
     },
     {
-      "headline": "This Browser Extension Lets You Snooze Open Tabs Until Later",
-      "deck": "The free add-on Tuck brings one of the best features of modern email—the ability to hide something for a bit—to that tangle of tabs in your browser.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
-      "pubDate": "Sat, 26 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
-      "deck": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
-      "pubDate": "Sat, 26 Sep 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "deck": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
-      "pubDate": "Sat, 26 Sep 2026 09:05:00 +0000"
-    },
-    {
-      "headline": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-      "deck": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "pubDate": "Sat, 26 Sep 2026 01:08:57 +0000"
-    },
-    {
-      "headline": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
-      "deck": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
-      "pubDate": "Sat, 26 Sep 2026 00:02:00 +0000"
-    },
-    {
-      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "deck": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000"
-    },
-    {
-      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-      "deck": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000"
-    },
-    {
       "headline": "Is this the line for burgers?",
       "deck": "On something already in the scene solving a problem outside its briefContinue reading on UX Collective »",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 25 Sep 2026 21:51:14 GMT"
-    },
-    {
-      "headline": "Meta opens early access program for new Muse features",
-      "deck": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000"
-    },
-    {
-      "headline": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "deck": "They wanted the silicon. They got the sand.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-      "pubDate": "Fri, 25 Sep 2026 20:30:40 +0000"
-    },
-    {
-      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "deck": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of ",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000"
-    },
-    {
-      "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "deck": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000"
-    },
-    {
-      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "deck": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "pubDate": "Fri, 25 Sep 2026 18:33:59 +0000"
-    },
-    {
-      "headline": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "deck": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;An",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "pubDate": "Fri, 25 Sep 2026 18:22:47 +0000"
-    },
-    {
-      "headline": "Some Supabase customers are publicly exposing reams of people&#8217;s data to the web",
-      "deck": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "pubDate": "Fri, 25 Sep 2026 17:29:46 +0000"
-    },
-    {
-      "headline": "Astra and Opus just passed Turing&#8217;s other test",
-      "deck": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "pubDate": "Fri, 25 Sep 2026 17:24:36 +0000"
     },
     {
       "headline": "How AI Works and How Users Think About It: Study Guide",
@@ -329,78 +401,6 @@
       "category": "ux",
       "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
       "pubDate": "Fri, 25 Sep 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "deck": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "pubDate": "Fri, 25 Sep 2026 16:58:20 +0000"
-    },
-    {
-      "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "deck": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000"
-    },
-    {
-      "headline": "Meta’s AI Tamagotchi bet is…working?",
-      "deck": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;An",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000"
-    },
-    {
-      "headline": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-      "deck": "The latest unauthorized agent swarms were discovered by researchers.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000"
-    },
-    {
-      "headline": "Anthropic&#8217;s founders seek voting control ahead of IPO",
-      "deck": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000"
-    },
-    {
-      "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "deck": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass befor",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "War Bros Didn’t Always Rule Silicon Valley",
-      "deck": "Some say that tech was always about the money and the military. Don’t buy that argument.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
-      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "I Tested Opus 5.5 at Every Effort Level for UI Design",
-      "deck": "I was curious how different effort levels impact the quality of output Opus 5.5 produces. So I tested Opus 5.5 at every effort level, from&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
-      "pubDate": "Fri, 25 Sep 2026 12:16:48 GMT"
-    },
-    {
-      "headline": "What the Bible got right about AI",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 24 Sep 2026 22:03:16 GMT"
     }
   ]
 }
