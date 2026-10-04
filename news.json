@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-03T12:00:01.718Z",
+  "generated_at": "2026-10-04T12:00:03.146Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "deck": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "pubDate": "Sun, 04 Oct 2026 11:03:00 +0000"
+    },
+    {
+      "headline": "The Best Gifts Under $25 for Everyone on Your List (2026)",
+      "deck": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
+      "pubDate": "Sun, 04 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+      "deck": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+      "deck": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/meta-glasses-gen-3/",
+      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "deck": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "pubDate": "Sun, 04 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Claude Code Caveman Eval: Two Sentences Took the Median Cut From 14.6% to 50.6%",
+      "deck": "&#x200B;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-caveman-eval-two-sentences-took-the-median-cut-from-14-6-to-50-6-3a4bad197b6e?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:37:25 GMT"
+    },
+    {
+      "headline": "GPT-6.1 Sol Shipped. Most AI Frameworks Still Don’t Know It.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-6-1-sol-shipped-most-ai-frameworks-still-dont-know-it-3079630cbe57?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:37:06 GMT"
+    },
+    {
+      "headline": "Claude Code Tool Search Nearly Halves Your Context Bill",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-tool-search-nearly-halves-your-context-bill-a14defdf42f3?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:36:53 GMT"
+    },
+    {
+      "headline": "Build an Art Recommender from scratch with CLIP and ChromaDB",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/build-an-art-recommender-from-scratch-with-clip-and-chromadb-d6c948a7b979?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:36:30 GMT"
+    },
+    {
+      "headline": "An AI Agent Workflow That Survives kill -9: Inside Microsoft Agent Framework’s Latest Update",
+      "deck": "A reproducible crash test, then AG-UI, Foundry memory, and Hyperlight CodeAct in .NET and Python, with the one guarantee each feature&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/microsoft-agent-framework-kill-9-crash-recovery-ag-ui-memory-codeact-d4812e5a7bd2?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:36:17 GMT"
+    },
+    {
+      "headline": "Why Vector Search Fails at Multi-Hop Reasoning: Building an Auditable GraphRAG Engine with Neo4j…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-vector-search-fails-at-multi-hop-reasoning-building-an-auditable-graphrag-engine-with-neo4j-fb116ce935f4?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:36:03 GMT"
+    },
+    {
+      "headline": "10 Best Runpod Alternatives in 2026 for Training, Inference, and GPU Compute",
+      "deck": "Compare the Runpod alternatives for GPU pricing, availability, serverless inference, storage, and reliability.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/runpod-alternatives-e9f7bf4a9040?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 09:35:49 GMT"
+    },
+    {
+      "headline": "Keurig Alta First-Look: No More Plastic K-Cups",
+      "deck": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
+      "pubDate": "Sun, 04 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+      "deck": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "pubDate": "Sun, 04 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The Hamster Paradox",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-hamster-paradox-36dd0d950568?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 04 Oct 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Multi-tenancy != Distributed System: The Common Pitfall of AI and Software Engineering Practices",
+      "deck": "Two ideas get welded together in a lot of engineering rooms, and the weld is wrong. Someone says &#x201C;we&#x2019;re going multi-tenant,&#x201D; and within a&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/multi-tenancy-distributed-system-the-common-pitfall-of-ai-and-software-engineering-practices-147932e05fe9?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 03 Oct 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "AI Agent Evaluation: A Practical Guide with a Working Application",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agent-evaluation-a-practical-guide-with-a-working-application-093e00a22ec2?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 03 Oct 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "deck": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000"
+    },
+    {
+      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "deck": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "pubDate": "Sat, 03 Oct 2026 18:00:00 +0000"
+    },
+    {
+      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "deck": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000"
+    },
+    {
+      "headline": "All the AI agents that can live in your text messages",
+      "deck": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "deck": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "pubDate": "Sat, 03 Oct 2026 12:00:00 +0000"
+    },
     {
       "headline": "How to Collect CDs",
       "deck": "Fed up with paying to stream music you’ll never actually own? Give the little silver disc a spin. Here’s how to start a CD collection or get more out of one you already have.",
@@ -99,52 +275,12 @@
       "pubDate": "Sat, 03 Oct 2026 00:45:39 +0000"
     },
     {
-      "headline": "Convolutional Neural Networks Explained: How AI Understands Images",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/convolutional-neural-networks-explained-how-ai-understands-images-71f98f7191bf?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 03 Oct 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "Why Neural Networks Overfit: Regularization, Dropout, and Early Stopping Explained",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-neural-networks-overfit-regularization-dropout-and-early-stopping-explained-8fec163c487d?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 23:01:02 GMT"
-    },
-    {
-      "headline": "Cloudflare’s Answer to Jev",
-      "deck": "And It&#x2019;s Open SourceContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/cloudflares-answer-to-jev-a6731c537b90?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 22:01:01 GMT"
-    },
-    {
       "headline": "Sean Parker is rebuilding Stability AI around music",
       "deck": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000"
-    },
-    {
-      "headline": "Best Open-Weight LLMs Tested: DeepSeek V4 vs Qwen3.8 vs Kimi K3 vs GLM-5.3",
-      "deck": "I skipped the vendor tables and lined up the independent runs: 113 real coding tasks, four tries each, with the bill attached.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/best-open-weight-llms-tested-deepseek-v4-vs-qwen3-8-vs-kimi-k3-vs-glm-5-3-063e6e191ca2?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 21:01:01 GMT"
-    },
-    {
-      "headline": "Your Agent’s Memory Is a Liability: Track State, Not History",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-agents-memory-is-a-liability-track-state-not-history-295e29167c5b?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 20:01:02 GMT"
     },
     {
       "headline": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
@@ -155,36 +291,12 @@
       "pubDate": "Fri, 02 Oct 2026 19:52:36 +0000"
     },
     {
-      "headline": "RAG vs. Long Context in 2026: When Retrieval Still Wins",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/rag-vs-long-context-in-2026-when-retrieval-still-wins-e6ebad9a4096?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 19:31:01 GMT"
-    },
-    {
       "headline": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "deck": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
       "source": "TechCrunch",
       "category": "ai",
       "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000"
-    },
-    {
-      "headline": "Qwen 4 Is in Training. You Can Already Run Its Architecture.",
-      "deck": "What&#x2019;s new in Flash-Next, and the Mac and PC setups that get its long-prompt speed today.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/qwen-4-is-in-training-you-can-already-run-its-architecture-49db4fb4a363?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 19:01:01 GMT"
-    },
-    {
-      "headline": "Your AI Isn’t Hallucinating. Your Data Is Lying to It.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-ai-isnt-hallucinating-your-data-is-lying-to-it-076386ddc9fb?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 18:31:02 GMT"
     },
     {
       "headline": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
@@ -201,14 +313,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000"
-    },
-    {
-      "headline": "How Does Jev Work? A Technical Reconstruction from 5 Public Clues",
-      "deck": "Disclosure: I drafted this article with AI assistance, adapting the script and research from my own video. The analysis, sources and&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-does-jev-work-a-technical-reconstruction-from-5-public-clues-c32b29dcb3d5?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 18:01:03 GMT"
     },
     {
       "headline": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -233,14 +337,6 @@
       "category": "ai",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "pubDate": "Fri, 02 Oct 2026 17:32:05 +0000"
-    },
-    {
-      "headline": "How Many Tokens Does an AI Workload Actually Need?",
-      "deck": "We modeled seven managed services workloads to build sizing ranges that enterprises can actually budget against and found a cost driver&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-many-tokens-does-an-ai-workload-actually-need-c07a45432e01?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 02 Oct 2026 17:31:01 GMT"
     },
     {
       "headline": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
@@ -291,38 +387,6 @@
       "pubDate": "Fri, 02 Oct 2026 15:49:04 +0000"
     },
     {
-      "headline": "Pope Leo XIV is not a fan of AI-generated art",
-      "deck": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms l",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000"
-    },
-    {
-      "headline": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "deck": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "deck": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "pubDate": "Fri, 02 Oct 2026 14:30:00 +0000"
-    },
-    {
-      "headline": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "deck": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies,",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000"
-    },
-    {
       "headline": "3D Modeling with Claude Code: A Practical Blender Workflow",
       "deck": "Claude Code can be used for various design tasks, including 3D modelling. But the best way to use Claude Code for 3D modeling is to treat&#x2026;Continue reading on UX Planet »",
       "source": "UX Planet",
@@ -331,76 +395,12 @@
       "pubDate": "Fri, 02 Oct 2026 12:37:51 GMT"
     },
     {
-      "headline": "The Download: a biological de-aging contest and why LLMs don&#8217;t reason",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biologi",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "pubDate": "Fri, 02 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Amazon Says It’s No Longer Using NDAs for Data Centers",
-      "deck": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/",
-      "pubDate": "Fri, 02 Oct 2026 11:47:58 +0000"
-    },
-    {
-      "headline": "Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive",
-      "deck": "After months of monitoring Basil’s activity and sleep, I found that Fi and Tractive cat trackers come with their own trade-offs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-smart-cat-tracker/",
-      "pubDate": "Fri, 02 Oct 2026 11:35:00 +0000"
-    },
-    {
       "headline": "In/tension modeling: what gives us the right?",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
       "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
       "pubDate": "Fri, 02 Oct 2026 11:09:56 GMT"
-    },
-    {
-      "headline": "Your Driverless Cab Is Spying on You",
-      "deck": "Self-driving cars from Waymo, Zoox, and Tesla are studded with cameras and sensors. Some of them are pointing at riders.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
-      "pubDate": "Fri, 02 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
-      "deck": "Dozens and dozens of high-profile MAGA influencers and pundits have weighed in. “The laughable fake polls are rolling out,” Catturd posted on X.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
-      "pubDate": "Fri, 02 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "deck": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "pubDate": "Fri, 02 Oct 2026 09:45:00 +0000"
-    },
-    {
-      "headline": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "deck": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-      "pubDate": "Fri, 02 Oct 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "31 Best STEM Toys for Kids (2026): Learning Made Fun",
-      "deck": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
-      "pubDate": "Fri, 02 Oct 2026 09:30:00 +0000"
     }
   ]
 }
