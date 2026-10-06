@@ -1,7 +1,399 @@
 {
-  "generated_at": "2026-10-05T12:00:02.555Z",
+  "generated_at": "2026-10-06T12:00:01.799Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "94 Best Prime Day Deals We’re Shopping This October (2026)",
+      "deck": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 11:48:23 +0000"
+    },
+    {
+      "headline": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
+      "deck": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/gamercard/",
+      "pubDate": "Tue, 06 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The Best Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026)",
+      "deck": "Some gadgets don’t live up to their promises. These automatic feeders, litter boxes, fountains, and cameras earned my recommendation.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-pet-deals-10-6-2026/",
+      "pubDate": "Tue, 06 Oct 2026 10:48:45 +0000"
+    },
+    {
+      "headline": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
+      "deck": "The Nothing Headphone (1) is one of my favorites for its stylish design, tactile on-ear controls, and fun sound. It’s over $100 off for Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
+      "pubDate": "Tue, 06 Oct 2026 10:43:57 +0000"
+    },
+    {
+      "headline": "The Best Power Station Is 30 Percent Off for Prime Day",
+      "deck": "The Bluetti Elite 300, my favorite portable power station, is on sale, and it’s perfect if you want to go off-grid or have a backup at home.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 10:41:31 +0000"
+    },
+    {
+      "headline": "2026 Climate Tech Companies to Watch",
+      "deck": "",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Here’s how our climate team picked 10 promising companies to watch",
+      "deck": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling th",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "WeLion New Energy and its semi-solid-state batteries",
+      "deck": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and dr",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Form Energy and its iron batteries",
+      "deck": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce el",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "X-energy and its helium-cooled nuclear reactors",
+      "deck": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and c",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Energy Dome and its carbon dioxide batteries",
+      "deck": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "deck": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "WaveSave and its portable rubber dam",
+      "deck": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store ",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "BasiGo and its fleet of electric buses",
+      "deck": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs mo",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Moment Energy and its shipping containers packed with old EV batteries",
+      "deck": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
+      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
+    },
+    {
+      "headline": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "deck": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Best Prime Day Apple Deals on Our Favorite MacBooks, AirPods and More (2026)",
+      "deck": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 10:26:48 +0000"
+    },
+    {
+      "headline": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
+      "deck": "Soon, hundreds of new top-level domains, including .meow and .fart, could be added to the internet. WIRED goes inside the backroom shenanigans of ICANN, the organization at the helm.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/icann-top-level-domains-meow/",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Save 30 Percent With These Prime Day Soundbars Deals (2026)",
+      "deck": "A soundbar is the easiest way to upgrade your home entertainment setup. Grab one of our favorites on sale during October Prime Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-soundbar-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:52:16 +0000"
+    },
+    {
+      "headline": "12 Best Prime Day Deals on Our Favorite Toys (October 2026)",
+      "deck": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:47:36 +0000"
+    },
+    {
+      "headline": "14 Best Prime Day Deals on Fitness and Recovery Gear (2026)",
+      "deck": "I’ve rounded up the best Amazon Prime Big Deal Days discounts on fitness trackers, percussive therapy, LED masks, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:43:28 +0000"
+    },
+    {
+      "headline": "Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ",
+      "deck": "Bose’s sequel to the QuietComfort Headphones is incredibly comfortable and has excellent noise-canceling, but those traits are no longer enough to beat the competition.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/bose-quietcomfort-second-generation/",
+      "pubDate": "Tue, 06 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+      "deck": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:27:23 +0000"
+    },
+    {
+      "headline": "I Found the Best Prime Day TV Deals For That Big Theater Feel",
+      "deck": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:19:34 +0000"
+    },
+    {
+      "headline": "Amazon Prime Day Deals Under $50 in October 2026",
+      "deck": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:17:08 +0000"
+    },
+    {
+      "headline": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
+      "deck": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 09:10:19 +0000"
+    },
+    {
+      "headline": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "deck": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 08:37:23 +0000"
+    },
+    {
+      "headline": "BERT: In-Depth Exploration of Architecture, Workflow, Code, and Mathematical Foundations [Updated]",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/bert-in-depth-exploration-of-architecture-workflow-code-and-mathematical-foundations-updated-c5f593d3277f?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 06 Oct 2026 06:23:40 GMT"
+    },
+    {
+      "headline": "Nomad Goods Promo Codes: Get 25% Off in October 2026",
+      "deck": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in October 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nomad-discount-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Priceline Promo Codes & Coupons: 10% Off October 2026",
+      "deck": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Sportsman's Warehouse Promo Code: Save in October 2026",
+      "deck": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in October 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "KitchenAid Promo Codes: Save Up to 20%",
+      "deck": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026",
+      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "25% Off Adidas Promo Code | October 2026",
+      "deck": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "HostGator Coupon Codes: 76% Off Hosting in October 2026",
+      "deck": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hostgator-coupon/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Litter-Robot Promo Codes: Up to $150 Off",
+      "deck": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/litter-robot-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "iRobot Promo Code: 15% Off",
+      "deck": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/irobot-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "PlayStation Discount Code: 15% Off | October 2026",
+      "deck": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/playstation-discount-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Alo Discount Code: 20% Off October 2026",
+      "deck": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "deck": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "deck": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 05 Oct 2026 22:00:31 GMT"
+    },
+    {
+      "headline": "AI skill atrophy: Are we forgetting how to think?",
+      "deck": "The hidden cost of outsourcing our thinking to AI.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 05 Oct 2026 22:00:12 GMT"
+    },
+    {
+      "headline": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 05 Oct 2026 21:59:40 GMT"
+    },
+    {
+      "headline": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "deck": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000"
+    },
+    {
+      "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "deck": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000"
+    },
+    {
+      "headline": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "deck": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000"
+    },
+    {
+      "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "deck": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000"
+    },
+    {
+      "headline": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
+      "deck": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000"
+    },
+    {
+      "headline": "Claude Code Mods are game changers",
+      "deck": "Mods let you customize Claude Code to fit your specific needs. In this article, I&#x2019;ll explain everything you need to know about mods and&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 05 Oct 2026 12:12:58 GMT"
+    },
     {
       "headline": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
       "deck": "",
@@ -9,398 +401,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
       "pubDate": "Mon, 05 Oct 2026 11:01:01 GMT"
-    },
-    {
-      "headline": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "deck": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "pubDate": "Mon, 05 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Withings BodyScan 2 Review: Worth Its Weight",
-      "deck": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/withings-bodyscan-2/",
-      "pubDate": "Mon, 05 Oct 2026 10:36:00 +0000"
-    },
-    {
-      "headline": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
-      "deck": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy watch train running.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-      "pubDate": "Mon, 05 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "A Prediction Market About the Past? Sure, Why Not!",
-      "deck": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-      "pubDate": "Mon, 05 Oct 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
-      "deck": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/staples-print-and-marketing-services/",
-      "pubDate": "Mon, 05 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "People really hate AI, so why can’t they get enough?",
-      "deck": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "pubDate": "Mon, 05 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "headline": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-      "deck": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements a",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02260",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-      "deck": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02267",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-      "deck": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, p",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02281",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "deck": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across p",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02300",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-      "deck": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decis",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02330",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-      "deck": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexpl",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02331",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
-      "deck": "arXiv:2610.02342v1 Announce Type: new Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties. However, not all des",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02342",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
-      "deck": "arXiv:2610.02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action a",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02351",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
-      "deck": "arXiv:2610.02372v1 Announce Type: new Abstract: Text-to-image generation enables users to explore several images generated from the same prompt. For these generated images to be useful, each one must reflect the user's p",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02372",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
-      "deck": "arXiv:2610.02378v1 Announce Type: new Abstract: In Recirculating Aquaculture Systems (RAS), precision feeding is critical for minimizing costs and improving fish welfare. However, existing methods lack cognitive alignmen",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.02378",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "EmTech Future 2026: When AI Meets Everything",
-      "deck": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "pubDate": "Mon, 05 Oct 2026 04:00:00 +0000"
-    },
-    {
-      "headline": "Stop Waiting for Spark: Enabling High Concurrency Mode in Fabric Notebooks",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/stop-waiting-for-spark-enabling-high-concurrency-mode-in-fabric-notebooks-386afb319f0f?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:45:14 GMT"
-    },
-    {
-      "headline": "Deepseek-v3 : Deepseek MOE Architecture — Part 2",
-      "deck": "This is the full series of Deepseek-V3 technical report, where i explain all the technical details in simpler words with code&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/deepseek-v3-deepseek-moe-architecture-part-2-c356660bca22?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:44:49 GMT"
-    },
-    {
-      "headline": "Claude Forgets My Rules After an Hour. A Hook Doesn’t.",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-forgets-my-rules-after-an-hour-a-hook-doesnt-f0561061d60a?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:44:30 GMT"
-    },
-    {
-      "headline": "Stop Writing If/Else to Handle Human Replies in LangGraph",
-      "deck": "Replace hand-written validation with response_schema in interrupt()Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/stop-writing-if-else-to-handle-human-replies-in-langgraph-d3ac2c590b72?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:44:21 GMT"
-    },
-    {
-      "headline": "Claude Code Costs About $13 a Day per Developer, and Agent Teams Use Roughly 7x the Tokens",
-      "deck": "The headline average is in Anthropic&#x2019;s own documentation. So is the fact that 90% of users stay under $30 a day, which means there is a&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-costs-about-13-a-day-per-developer-and-agent-teams-use-roughly-7x-the-tokens-8fdea1ea40ad?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:44:06 GMT"
-    },
-    {
-      "headline": "The Romeo and Juliet Problem, a Soft Introduction to Double Integrals",
-      "deck": "You and a friend each wait 15 minutes at a station. You&#x2019;ll meet only 44% of the time. Here&#x2019;s the double integral behind that, explained in&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/double-integrals-joint-distributions-station-meeting-d771b7f6628f?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:43:56 GMT"
-    },
-    {
-      "headline": "Qwen3.8-Flash-Next on 4 GPUs: device_map=\"auto\" Leaves GPU 0 Empty and Offloads 22 GB",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/qwen3-8-flash-next-on-4-gpus-device-map-auto-leaves-gpu-0-empty-and-offloads-22-gb-4440442f24f7?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 05 Oct 2026 03:43:38 GMT"
-    },
-    {
-      "headline": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "deck": "AI slop seems to be overwhelming bug bounty programs.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000"
-    },
-    {
-      "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "deck": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000"
-    },
-    {
-      "headline": "Feature Flags for Behavior, Not Features",
-      "deck": "Progressive rollout of prompts, policies, and tool loadouts &#x2014; plus why percentage rollouts lie when the metric is quality.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/feature-flags-for-behavior-not-features-1237691efa74?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 04 Oct 2026 20:01:02 GMT"
-    },
-    {
-      "headline": "7 Things About DeepSeek Harness Most Developers Overlook",
-      "deck": "DeepSeek Harness is an open source agent runtime, not just a Claude Code rival. Here are the seven details developers are missing before&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/7-things-about-deepseek-harness-most-developers-overlook-53d4cc54c898?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 04 Oct 2026 19:01:01 GMT"
-    },
-    {
-      "headline": "Jev and RLCD: Architecture, Open-Source Models, and Practical Agent Use Cases",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/jev-and-rlcd-architecture-open-source-models-and-practical-agent-use-cases-bd8ab990fc44?source=rss----98111c9905da---4",
-      "pubDate": "Sun, 04 Oct 2026 18:01:01 GMT"
-    },
-    {
-      "headline": "Trump unveils his new Super Intelligence Force",
-      "deck": "This new task force is Trump's latest response to the debate over AI safety.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "pubDate": "Sun, 04 Oct 2026 15:15:10 +0000"
-    },
-    {
-      "headline": "The building was there first",
-      "deck": "A style&#x2019;s real output isn&#x2019;t what it makes. It&#x2019;s the category it installs in whoever looks.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
-      "pubDate": "Sun, 04 Oct 2026 14:34:28 GMT"
-    },
-    {
-      "headline": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-      "deck": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-office-chairs/",
-      "pubDate": "Sun, 04 Oct 2026 11:03:00 +0000"
-    },
-    {
-      "headline": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "deck": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
-      "pubDate": "Sun, 04 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-      "deck": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/meta-glasses-gen-3/",
-      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "deck": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "deck": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "pubDate": "Sun, 04 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Keurig Alta First-Look: No More Plastic K-Cups",
-      "deck": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
-      "pubDate": "Sun, 04 Oct 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
-      "deck": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
-      "pubDate": "Sun, 04 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "deck": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000"
-    },
-    {
-      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "deck": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "pubDate": "Sat, 03 Oct 2026 18:00:00 +0000"
-    },
-    {
-      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "deck": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000"
-    },
-    {
-      "headline": "All the AI agents that can live in your text messages",
-      "deck": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "deck": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "pubDate": "Sat, 03 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "How to Collect CDs",
-      "deck": "Fed up with paying to stream music you’ll never actually own? Give the little silver disc a spin. Here’s how to start a CD collection or get more out of one you already have.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-collect-cds/",
-      "pubDate": "Sat, 03 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "The feed I produce myself",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
-      "pubDate": "Sat, 03 Oct 2026 11:12:42 GMT"
-    },
-    {
-      "headline": "The Best E-Readers That Aren't a Kindle (2026): Kobo, Boox",
-      "deck": "Want to untether your reading from Amazon? These Kindle alternatives deserve a spot on your nightstand.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-ereaders/",
-      "pubDate": "Sat, 03 Oct 2026 11:05:00 +0000"
-    },
-    {
-      "headline": "Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026)",
-      "deck": "After years of testing repellents, traps, and sprays, I found a few ways to keep the bugs at bay—and plenty that aren’t worth the effort.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-mosquito-repellents/",
-      "pubDate": "Sat, 03 Oct 2026 10:03:00 +0000"
-    },
-    {
-      "headline": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
-      "deck": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Empathy Mapping: The First Step in Design Thinking",
-      "deck": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
-      "source": "Nielsen Norman Group",
-      "category": "ux",
-      "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000"
     }
   ]
 }
