@@ -1,198 +1,350 @@
 {
-  "generated_at": "2026-10-06T12:00:01.799Z",
+  "generated_at": "2026-10-07T12:00:03.076Z",
   "count": 50,
   "articles": [
     {
-      "headline": "94 Best Prime Day Deals We’re Shopping This October (2026)",
-      "deck": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 11:48:23 +0000"
-    },
-    {
-      "headline": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
-      "deck": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/gamercard/",
-      "pubDate": "Tue, 06 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Best Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026)",
-      "deck": "Some gadgets don’t live up to their promises. These automatic feeders, litter boxes, fountains, and cameras earned my recommendation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-pet-deals-10-6-2026/",
-      "pubDate": "Tue, 06 Oct 2026 10:48:45 +0000"
-    },
-    {
-      "headline": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
-      "deck": "The Nothing Headphone (1) is one of my favorites for its stylish design, tactile on-ear controls, and fun sound. It’s over $100 off for Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
-      "pubDate": "Tue, 06 Oct 2026 10:43:57 +0000"
-    },
-    {
-      "headline": "The Best Power Station Is 30 Percent Off for Prime Day",
-      "deck": "The Bluetti Elite 300, my favorite portable power station, is on sale, and it’s perfect if you want to go off-grid or have a backup at home.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 10:41:31 +0000"
-    },
-    {
-      "headline": "2026 Climate Tech Companies to Watch",
-      "deck": "",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Here’s how our climate team picked 10 promising companies to watch",
-      "deck": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling th",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "WeLion New Energy and its semi-solid-state batteries",
-      "deck": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and dr",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Form Energy and its iron batteries",
-      "deck": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce el",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "X-energy and its helium-cooled nuclear reactors",
-      "deck": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and c",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Energy Dome and its carbon dioxide batteries",
-      "deck": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-      "deck": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "WaveSave and its portable rubber dam",
-      "deck": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "BasiGo and its fleet of electric buses",
-      "deck": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs mo",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Moment Energy and its shipping containers packed with old EV batteries",
-      "deck": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000"
-    },
-    {
-      "headline": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "deck": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The Best Prime Day Apple Deals on Our Favorite MacBooks, AirPods and More (2026)",
-      "deck": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 10:26:48 +0000"
-    },
-    {
-      "headline": "The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier",
-      "deck": "Soon, hundreds of new top-level domains, including .meow and .fart, could be added to the internet. WIRED goes inside the backroom shenanigans of ICANN, the organization at the helm.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/icann-top-level-domains-meow/",
-      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Save 30 Percent With These Prime Day Soundbars Deals (2026)",
-      "deck": "A soundbar is the easiest way to upgrade your home entertainment setup. Grab one of our favorites on sale during October Prime Day.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-soundbar-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:52:16 +0000"
-    },
-    {
-      "headline": "12 Best Prime Day Deals on Our Favorite Toys (October 2026)",
+      "headline": "Save Up to 44% With the 18 Best Prime Day Toy Deals (2026)",
       "deck": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:47:36 +0000"
+      "url": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 11:40:49 +0000"
     },
     {
-      "headline": "14 Best Prime Day Deals on Fitness and Recovery Gear (2026)",
-      "deck": "I’ve rounded up the best Amazon Prime Big Deal Days discounts on fitness trackers, percussive therapy, LED masks, and more.",
+      "headline": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "deck": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:43:28 +0000"
-    },
-    {
-      "headline": "Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ",
-      "deck": "Bose’s sequel to the QuietComfort Headphones is incredibly comfortable and has excellent noise-canceling, but those traits are no longer enough to beat the competition.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/bose-quietcomfort-second-generation/",
-      "pubDate": "Tue, 06 Oct 2026 09:30:00 +0000"
+      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 11:11:05 +0000"
     },
     {
       "headline": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
       "deck": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:27:23 +0000"
+      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 11:10:17 +0000"
     },
     {
-      "headline": "I Found the Best Prime Day TV Deals For That Big Theater Feel",
-      "deck": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
+      "headline": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "deck": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:19:34 +0000"
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "pubDate": "Wed, 07 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Save Up to $200 on the Best Prime Day Apple Deals (2026)",
+      "deck": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 10:48:04 +0000"
+    },
+    {
+      "headline": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
+      "deck": "The National Design Studio has been something of a successor agency to DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit run by SpaceXAI’s general counsel.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
+      "pubDate": "Wed, 07 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+      "deck": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
+      "pubDate": "Wed, 07 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
+      "deck": "My favorite MacBook, gaming PC, and budget laptop are all on sale for Prime Day, some at the lowest prices I’ve seen in months.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 09:21:57 +0000"
+    },
+    {
+      "headline": "The 30 Best Prime Day Deals Under $100 (2026)",
+      "deck": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 09:08:10 +0000"
+    },
+    {
+      "headline": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+      "deck": "To follow Elon Musk’s America PAC money, WIRED created a live-updating tracker that highlights the trillionaire’s overall influence on November’s elections.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
+      "pubDate": "Wed, 07 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Your Next Great Read Might Be Certified ‘Organic’",
+      "deck": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "pubDate": "Wed, 07 Oct 2026 08:30:00 +0000"
+    },
+    {
+      "headline": "117 Best Prime Day Deals We’re Shopping This October (2026)",
+      "deck": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 08:18:18 +0000"
+    },
+    {
+      "headline": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)",
+      "deck": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 07:50:08 +0000"
+    },
+    {
+      "headline": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+      "deck": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
+      "pubDate": "Wed, 07 Oct 2026 07:34:54 +0000"
+    },
+    {
+      "headline": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "deck": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a parti",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "deck": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "deck": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existin",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "deck": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a s",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "deck": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalitie",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "deck": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "deck": "arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06964",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "deck": "arXiv:2610.06971v1 Announce Type: new Abstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability to",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06971",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+      "deck": "arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback wi",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06986",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+      "deck": "arXiv:2610.06992v1 Announce Type: new Abstract: Improved traffic forecasts do not necessarily yield better signal-control decisions. We investigate this gap through a layered diagnostic study using 29 days of reconstruct",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2610.06992",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400"
+    },
+    {
+      "headline": "Eigenvectors Are the Directions a Matrix Can’t Rotate",
+      "deck": "What do they tell us about a linear transformation?Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/linear-algebra-eigenvectors-2bcf217881c5?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 03:17:08 GMT"
+    },
+    {
+      "headline": "The Chunking Dilemma: Why RAG Fails Before Retrieval Even Starts",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-chunking-dilemma-why-rag-fails-before-retrieval-even-starts-ed5c83adaf07?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:59:39 GMT"
+    },
+    {
+      "headline": "Reducing Guardrail Code With a Shared Jev Decision Layer",
+      "deck": "A phased agentic workflow that centralizes interpretation while preserving execution authorityContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/reducing-guardrail-code-with-a-shared-jev-decision-layer-7442bbc9e024?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:59:23 GMT"
+    },
+    {
+      "headline": "Delete Is a Promise: A Security Researcher’s Look at AI Conversation Privacy",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/delete-is-a-promise-a-security-researchers-look-at-ai-conversation-privacy-c4295c00d59e?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:59:13 GMT"
+    },
+    {
+      "headline": "My RTX 5090 Fell from 77 to 7 Tokens Per Second. VRAM Pressure Was the Culprit",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/my-rtx-5090-fell-from-77-to-7-tokens-per-second-vram-pressure-was-the-culprit-38ecf388772c?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:59:04 GMT"
+    },
+    {
+      "headline": "Vector Databases for Production RAG: Indexing, Hybrid Search, and Scaling Retrieval",
+      "deck": "Complete RAG Engineering Series, Part 6 | A practical guide to HNSW, IVF, product quantization, FAISS, Pinecone, Weaviate, Qdrant, Milvus&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/vector-databases-for-production-rag-indexing-hybrid-search-and-scaling-retrieval-fa68a70d815a?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:58:46 GMT"
+    },
+    {
+      "headline": "The Only 5 AI Papers You Need to Read in 2026",
+      "deck": "What each paper really says, why it still matters, and what to read next.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-only-5-ai-papers-you-need-to-read-in-2026-c6b31e022164?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:58:23 GMT"
+    },
+    {
+      "headline": "How Does AI Game Merging Actually Work?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-game-merging-works-043063de3706?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 02:58:10 GMT"
+    },
+    {
+      "headline": "Best Local LLMs for Your Mac in October 2026: 24GB to 128GB Picks",
+      "deck": "Qwen3.8-27B on a 24GB MacBook, Flash-Next on a 64GB mini, which Studio stack to pick, and the Ollama default that quietly breaks agents.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 07 Oct 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
+      "deck": "Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "headline": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 06 Oct 2026 23:35:43 GMT"
+    },
+    {
+      "headline": "Why designers need to stop reporting and start recommending at work",
+      "deck": "Sticky notes don&#x2019;t help your team. They need your directionContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 06 Oct 2026 23:35:06 GMT"
+    },
+    {
+      "headline": "How apps know us better than we do and influence our decisions",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 06 Oct 2026 23:34:41 GMT"
+    },
+    {
+      "headline": "You Probably Aren’t Going to Get the Plague",
+      "deck": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-we-know-about-plague-russia/",
+      "pubDate": "Tue, 06 Oct 2026 23:09:20 +0000"
+    },
+    {
+      "headline": "Claude Code Mods Are Here: Watch What Claude Is Doing",
+      "deck": "Don&#x2019;t read the logs. Watch the crab.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-code-mods-are-here-watch-what-claude-is-doing-2c440982ed16?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 06 Oct 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "deck": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000"
+    },
+    {
+      "headline": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
+      "deck": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 21:30:41 +0000"
+    },
+    {
+      "headline": "The Best Anti–Prime Day Deals for Amazon Haters",
+      "deck": "Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
+      "pubDate": "Tue, 06 Oct 2026 21:17:39 +0000"
+    },
+    {
+      "headline": "We’re Tracking October Prime Day Live (2026)",
+      "deck": "Our team is tracking Prime Day deals in real time. Here’s what’s worth buying today.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
+      "pubDate": "Tue, 06 Oct 2026 20:47:43 +0000"
     },
     {
       "headline": "Amazon Prime Day Deals Under $50 in October 2026",
@@ -200,207 +352,55 @@
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:17:08 +0000"
+      "pubDate": "Tue, 06 Oct 2026 20:43:38 +0000"
     },
     {
-      "headline": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
-      "deck": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 09:10:19 +0000"
-    },
-    {
-      "headline": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "deck": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-      "pubDate": "Tue, 06 Oct 2026 08:37:23 +0000"
-    },
-    {
-      "headline": "BERT: In-Depth Exploration of Architecture, Workflow, Code, and Mathematical Foundations [Updated]",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/bert-in-depth-exploration-of-architecture-workflow-code-and-mathematical-foundations-updated-c5f593d3277f?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 06 Oct 2026 06:23:40 GMT"
-    },
-    {
-      "headline": "Nomad Goods Promo Codes: Get 25% Off in October 2026",
-      "deck": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in October 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Priceline Promo Codes & Coupons: 10% Off October 2026",
-      "deck": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Sportsman's Warehouse Promo Code: Save in October 2026",
-      "deck": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in October 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "KitchenAid Promo Codes: Save Up to 20%",
-      "deck": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026",
-      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/sony-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "25% Off Adidas Promo Code | October 2026",
-      "deck": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "HostGator Coupon Codes: 76% Off Hosting in October 2026",
-      "deck": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hostgator-coupon/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Litter-Robot Promo Codes: Up to $150 Off",
-      "deck": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/litter-robot-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "iRobot Promo Code: 15% Off",
-      "deck": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/irobot-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "PlayStation Discount Code: 15% Off | October 2026",
-      "deck": "Want to stretch your gaming budget? Learn how to unlock massive savings on PS5 games, DualSense controllers, and PlayStation Plus memberships using gift cards and exclusive promotional codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/playstation-discount-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Alo Discount Code: 20% Off October 2026",
-      "deck": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-      "deck": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/legalzoom-promo-code/",
-      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Is Meta’s new AI agent easier to trust because it’s cute?",
-      "deck": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 05 Oct 2026 22:00:31 GMT"
-    },
-    {
-      "headline": "AI skill atrophy: Are we forgetting how to think?",
-      "deck": "The hidden cost of outsourcing our thinking to AI.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 05 Oct 2026 22:00:12 GMT"
-    },
-    {
-      "headline": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 05 Oct 2026 21:59:40 GMT"
-    },
-    {
-      "headline": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-      "deck": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "headline": "How AI decision models could change content moderation",
+      "deck": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000"
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000"
     },
     {
-      "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "deck": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec",
+      "headline": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "deck": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000"
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000"
     },
     {
-      "headline": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "deck": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio",
+      "headline": "The next hurdle for AI agents: getting websites to let them in",
+      "deck": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000"
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000"
     },
     {
-      "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "deck": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "headline": "Hark releases an AI personal assistant with a focus on privacy",
+      "deck": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000"
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000"
     },
     {
-      "headline": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
-      "deck": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000"
-    },
-    {
-      "headline": "Claude Code Mods are game changers",
-      "deck": "Mods let you customize Claude Code to fit your specific needs. In this article, I&#x2019;ll explain everything you need to know about mods and&#x2026;Continue reading on UX Planet »",
+      "headline": "GPT-6 Astra vs Claude Opus 5.5: Which Is Better for Game Design?",
+      "deck": "OpenAI and Anthropic recently updated their flagship AI models, Astra and Opus. And it&#x2019;s a great opportunity to test both models on one of&#x2026;Continue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
-      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
-      "pubDate": "Mon, 05 Oct 2026 12:12:58 GMT"
+      "url": "https://uxplanet.org/gpt-6-astra-vs-claude-opus-5-5-which-is-better-for-game-design-35e47babf36d?source=rss----819cc2aaeee0---4",
+      "pubDate": "Tue, 06 Oct 2026 14:51:58 GMT"
     },
     {
-      "headline": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
-      "deck": "",
-      "source": "UX Collective",
+      "headline": "A Practical Guide To Naming Things",
+      "deck": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+      "source": "Smashing Magazine",
       "category": "ux",
-      "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 05 Oct 2026 11:01:01 GMT"
+      "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT"
     }
   ]
 }
