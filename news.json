@@ -1,7 +1,311 @@
 {
-  "generated_at": "2026-10-09T12:00:03.122Z",
+  "generated_at": "2026-10-10T12:00:01.852Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
+      "deck": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
+      "pubDate": "Sat, 10 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
+      "deck": "Whether you want a weight log on your phone or a bathroom gadget packed with sensors, I’ve found an option for you.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-smart-scales/",
+      "pubDate": "Sat, 10 Oct 2026 11:04:00 +0000"
+    },
+    {
+      "headline": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
+      "deck": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+      "pubDate": "Sat, 10 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "How This Tiny Startup Built the World’s Safest Bike Helmet",
+      "deck": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
+      "pubDate": "Sat, 10 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "10 Free Claude Code Plugins Worth Installing Right Now",
+      "deck": "A working engineer&#x2019;s tour of the official marketplace: what each plugin actually does, what it won&#x2019;t do and the order to install them inContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/10-free-claude-code-plugins-worth-installing-right-now-a18c20602c3f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:48:57 GMT"
+    },
+    {
+      "headline": "Don't Copy Notion's MCP Server: 71% of Its Tool Tokens Are Unused Copies",
+      "deck": "&#x200B;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/dont-copy-notion-s-mcp-server-71-of-its-tool-tokens-are-unused-copies-97f1bd184fc2?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:48:34 GMT"
+    },
+    {
+      "headline": "15 Best MCP Servers for Claude in 2026: Tools, Use Cases & Official Links",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/15-best-mcp-servers-for-claude-in-2026-tools-use-cases-official-links-8c1995e1b15e?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:48:19 GMT"
+    },
+    {
+      "headline": "What Happens When an AI Agent Can Control an Entire Video Pipeline?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/what-happens-when-an-ai-agent-can-control-an-entire-video-pipeline-0a3fc2f19257?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:48:09 GMT"
+    },
+    {
+      "headline": "Elasticsearch to Azure Cosmos DB: What Translates, What Doesn’t, and What It Costs",
+      "deck": "Mappings become four container policies, boosts become rank fusion, and &#x201C;new&#x201D; drops out of every query. With policies, queries, and a&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/migrate-elasticsearch-to-azure-cosmos-db-full-text-search-c99146f36e26?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:47:59 GMT"
+    },
+    {
+      "headline": "Resuming Sessions, Working in Parallel, and Keeping Costs Sensible — Automating Project…",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/resuming-sessions-working-in-parallel-and-keeping-costs-sensible-automating-project-21bed8b3ae26?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:47:15 GMT"
+    },
+    {
+      "headline": "A README Can Hijack Your Coding Agent. Here’s What Actually Stops It",
+      "deck": "Detection is a speed bump. The sandbox is the load-bearing wall.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/a-readme-can-hijack-your-coding-agent-heres-what-actually-stops-it-cc65d743076f?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:47:08 GMT"
+    },
+    {
+      "headline": "How to Fix AWS Strands Agents Context Bloat: One Plugin Cut 252K Tokens to 9K",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-to-fix-aws-strands-agents-context-bloat-one-plugin-cut-252k-tokens-to-9k-f47b357496bd?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:46:57 GMT"
+    },
+    {
+      "headline": "An Amazon AGI Lab Talk Says Your Agent Needs 90%. How Many Runs Prove It? Not 20.",
+      "deck": "&#x200B;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/an-amazon-agi-lab-talk-says-your-agent-needs-90-how-many-runs-prove-it-not-20-69c243a96931?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:46:50 GMT"
+    },
+    {
+      "headline": "Your LLM Is Fast in Testing. Why Does It Slow Down in Production?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/your-llm-is-fast-in-testing-why-does-it-slow-down-in-production-835778d6974d?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 06:46:41 GMT"
+    },
+    {
+      "headline": "LG Promo Codes and Coupons for October 2026",
+      "deck": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "30% Off Canon Promo Codes | October 2026",
+      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Home Depot Promo Codes: 30% Off in October 2026",
+      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Disney Plus Discount Codes: 52% Off October 2026",
+      "deck": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/disney-plus-discounts/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Altra Running Promo Codes: 10% Off October 2026",
+      "deck": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "eBay Coupons: 20% Off in October 2026",
+      "deck": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ebay-coupon-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "deck": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000"
+    },
+    {
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "deck": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000"
+    },
+    {
+      "headline": "Designing for an idea before it exists",
+      "deck": "On empty seats, metaphors, and the useful parts that don&#x2019;t quite fitContinue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+      "pubDate": "Fri, 09 Oct 2026 20:32:02 GMT"
+    },
+    {
+      "headline": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
+      "deck": "The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
+      "pubDate": "Fri, 09 Oct 2026 20:18:15 +0000"
+    },
+    {
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "deck": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000"
+    },
+    {
+      "headline": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "deck": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000"
+    },
+    {
+      "headline": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
+      "deck": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
+      "pubDate": "Fri, 09 Oct 2026 18:30:00 +0000"
+    },
+    {
+      "headline": "The New Siri’s Biggest Strength Is Not Intelligence",
+      "deck": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "deck": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "source": "Nielsen Norman Group",
+      "category": "ux",
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000"
+    },
+    {
+      "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "deck": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash aga",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000"
+    },
+    {
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "deck": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash aga",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "pubDate": "Fri, 09 Oct 2026 16:53:02 +0000"
+    },
+    {
+      "headline": "Danu Robotics&#8217; fight to build a better recycling robot",
+      "deck": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "pubDate": "Fri, 09 Oct 2026 16:45:00 +0000"
+    },
+    {
+      "headline": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
+      "deck": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000"
+    },
+    {
+      "headline": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+      "deck": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+      "pubDate": "Fri, 09 Oct 2026 16:09:08 +0000"
+    },
+    {
+      "headline": "a16z’s Olivia Moore on the state of consumer AI",
+      "deck": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000"
+    },
+    {
+      "headline": "I’m Still Convinced the iPod Was the Perfect Gadget",
+      "deck": "Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "deck": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI mode",
+      "source": "MIT Tech Review",
+      "category": "tech",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "pubDate": "Fri, 09 Oct 2026 12:10:00 +0000"
+    },
     {
       "headline": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It",
       "deck": "Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
@@ -91,316 +395,12 @@
       "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000"
     },
     {
-      "headline": "10 AI Agent Terms I Wish I’d Known Before Building My First Agent",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/10-ai-agent-terms-i-wish-id-known-before-building-my-first-agent-d14b3ea90835?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 09 Oct 2026 06:16:22 GMT"
-    },
-    {
-      "headline": "TurboTax Full Service Coupons This October 2026",
-      "deck": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
       "headline": "Ulta Promo Codes: Up to 20% Off in October 2026",
       "deck": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/ulta-coupon/",
       "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "deck": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/lowes-promo-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Valvoline Coupons and Promo Codes for October 2026",
-      "deck": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-      "deck": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/lovehoney-discount-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Instacart Promo Code: $15 Off | October 2026",
-      "deck": "Find the best Instacart promo code for massive savings in October 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Chewy Promo Codes: $20 Off October 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "deck": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/we-vibe-discount-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "deck": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hr-block-coupon/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Herman Miller Promo Codes: 40% Off October 2026",
-      "deck": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in October 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/herman-miller-promo-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "30% VistaPrint Coupon & Promo Codes | October 2026",
-      "deck": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
-      "deck": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
-      "pubDate": "Fri, 09 Oct 2026 04:46:11 +0000"
-    },
-    {
-      "headline": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "deck": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "deck": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on e",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "deck": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "deck": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "deck": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a rec",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "deck": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions;",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10635",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "deck": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "deck": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10805",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-      "deck": "arXiv:2610.10833v1 Announce Type: new Abstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productiv",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10833",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-      "deck": "arXiv:2610.10857v1 Announce Type: new Abstract: Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual information over long horizons. Existing policy",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.10857",
-      "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-      "deck": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-      "pubDate": "Fri, 09 Oct 2026 03:30:00 +0000"
-    },
-    {
-      "headline": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "deck": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "pubDate": "Fri, 09 Oct 2026 00:08:24 +0000"
-    },
-    {
-      "headline": "Jev AI for Developers: Build a Confidence-Gated Ticket Router in Python",
-      "deck": "Choice, score and noul questions, the exact wire format, the limits TypeSafe documents, and what to do when the model isn&#x2019;t sure.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4",
-      "pubDate": "Fri, 09 Oct 2026 00:01:03 GMT"
-    },
-    {
-      "headline": "Tesler’s Law: complexity moved to a different part of the journey",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 08 Oct 2026 23:17:58 GMT"
-    },
-    {
-      "headline": "Are synthetic users (really) the future of UX research?",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 08 Oct 2026 23:16:42 GMT"
-    },
-    {
-      "headline": "Synthetic users are making me rethink “imperfect research”",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 08 Oct 2026 23:16:30 GMT"
-    },
-    {
-      "headline": "AI-generated UI is fast design, not UX",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 08 Oct 2026 23:16:10 GMT"
-    },
-    {
-      "headline": "What the AI era owes you",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
-      "pubDate": "Thu, 08 Oct 2026 23:15:43 GMT"
-    },
-    {
-      "headline": "Tuning Jev as a Risk Judge: A Decision Model vs.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/tuning-jev-as-a-risk-judge-a-decision-model-vs-db4c012a835a?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 08 Oct 2026 23:01:04 GMT"
-    },
-    {
-      "headline": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-      "deck": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
-      "pubDate": "Thu, 08 Oct 2026 22:40:11 +0000"
-    },
-    {
-      "headline": "How Large Language Models Actually Work — Daily AI Post",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4",
-      "pubDate": "Thu, 08 Oct 2026 22:01:02 GMT"
-    },
-    {
-      "headline": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-      "deck": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000"
-    },
-    {
-      "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "deck": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000"
-    },
-    {
-      "headline": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "deck": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000"
-    },
-    {
-      "headline": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "deck": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000"
-    },
-    {
-      "headline": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-      "deck": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000"
     }
   ]
 }
