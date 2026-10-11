@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-10-10T12:00:01.852Z",
+  "generated_at": "2026-10-11T12:00:01.788Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "I Made Terrible Games With Google’s AI Playground",
+      "deck": "A long day’s haul in the video game slop mines.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "deck": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000"
+    },
+    {
+      "headline": "Inside the Muslim Manosphere Policing Women Online",
+      "deck": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "pubDate": "Sun, 11 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "deck": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "pubDate": "Sun, 11 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "How the 2026 Super El Niño and Climate Change Are Related",
+      "deck": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "pubDate": "Sun, 11 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+      "deck": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+      "pubDate": "Sun, 11 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The Context Bleed: Why LLMs Fail at Patient Privacy",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-context-bleed-why-llms-fail-at-patient-privacy-feb4af141d64?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 11 Oct 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "[Playbook] Zero Trust Architecture for MCP",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/playbook-zero-trust-architecture-for-mcp-f4196aaf00b0?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 23:31:01 GMT"
+    },
+    {
+      "headline": "Meta Muse Code Wants Your Repo More Than Your Money",
+      "deck": "Did you know Meta doesn&#x2019;t just want to build the next AI model? It wants to replace your programming assistant too.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/meta-muse-code-wants-your-repo-more-than-your-money-c11af8bf14f9?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 23:01:02 GMT"
+    },
+    {
+      "headline": "Run MCP Servers Through Docker With Secrets in the Keychain",
+      "deck": "Add a server from Docker&#x2019;s catalog to a profile, write a catalog entry for your own Postgres server, and see where its password actually&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/run-mcp-servers-through-docker-with-secrets-in-the-keychain-12bbd3fba048?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 22:31:02 GMT"
+    },
+    {
+      "headline": "The Omission Bug: Measuring What the Agent Didn’t Do",
+      "deck": "Every eval suite grades output. Almost none grade absence &#x2014; the skipped check, the unsent alert, the file never opened.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-omission-bug-measuring-what-the-agent-didnt-do-d3f9fa631acc?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "deck": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000"
+    },
+    {
+      "headline": "Microsoft Just Shipped an AI Agent Feature Whose Entire Job Is Not Trusting the Agent",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/microsoft-just-shipped-an-ai-agent-feature-whose-entire-job-is-not-trusting-the-agent-78a93b6fe469?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 21:31:01 GMT"
+    },
+    {
+      "headline": "Which AI Model Is Best for Web Design? 5 Picks for 2026",
+      "deck": "Leaderboard rankings, prices and one honest limit for each model, plus a simple three-prompt test you can run yourself.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/top-5-ai-models-for-web-design-6b7b5abfb937?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "OpenAI Decisions API Rollout: Build Fast AI Routing Without Letting It Make the Final Call",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/openai-decisions-api-rollout-build-fast-ai-routing-without-letting-it-make-the-final-call-794da1adf83c?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 20:31:01 GMT"
+    },
+    {
+      "headline": "GPT-6.1 Sol Ultrafast: Build Coding Agent Workflows That Stay Fast and Steerable",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/gpt-6-1-sol-ultrafast-build-coding-agent-workflows-that-stay-fast-and-steerable-fd880a045b53?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "deck": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000"
+    },
+    {
+      "headline": "Claude Haiku 5.5 Work Queues: Design High-Volume AI Pipelines That Know When to Stop",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/claude-haiku-5-5-work-queues-design-high-volume-ai-pipelines-that-know-when-to-stop-83343a5f83cd?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 10 Oct 2026 19:31:01 GMT"
+    },
+    {
+      "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "deck": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "deck": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "headline": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "deck": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000"
+    },
     {
       "headline": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
       "deck": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
@@ -35,84 +203,12 @@
       "pubDate": "Sat, 10 Oct 2026 09:00:00 +0000"
     },
     {
-      "headline": "10 Free Claude Code Plugins Worth Installing Right Now",
-      "deck": "A working engineer&#x2019;s tour of the official marketplace: what each plugin actually does, what it won&#x2019;t do and the order to install them inContinue reading on Towards AI »",
-      "source": "Other",
+      "headline": "Home Depot Promo Codes: 30% Off in October 2026",
+      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "source": "Wired",
       "category": "tech",
-      "url": "https://pub.towardsai.net/10-free-claude-code-plugins-worth-installing-right-now-a18c20602c3f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:48:57 GMT"
-    },
-    {
-      "headline": "Don't Copy Notion's MCP Server: 71% of Its Tool Tokens Are Unused Copies",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/dont-copy-notion-s-mcp-server-71-of-its-tool-tokens-are-unused-copies-97f1bd184fc2?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:48:34 GMT"
-    },
-    {
-      "headline": "15 Best MCP Servers for Claude in 2026: Tools, Use Cases & Official Links",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/15-best-mcp-servers-for-claude-in-2026-tools-use-cases-official-links-8c1995e1b15e?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:48:19 GMT"
-    },
-    {
-      "headline": "What Happens When an AI Agent Can Control an Entire Video Pipeline?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-happens-when-an-ai-agent-can-control-an-entire-video-pipeline-0a3fc2f19257?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:48:09 GMT"
-    },
-    {
-      "headline": "Elasticsearch to Azure Cosmos DB: What Translates, What Doesn’t, and What It Costs",
-      "deck": "Mappings become four container policies, boosts become rank fusion, and &#x201C;new&#x201D; drops out of every query. With policies, queries, and a&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/migrate-elasticsearch-to-azure-cosmos-db-full-text-search-c99146f36e26?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:47:59 GMT"
-    },
-    {
-      "headline": "Resuming Sessions, Working in Parallel, and Keeping Costs Sensible — Automating Project…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/resuming-sessions-working-in-parallel-and-keeping-costs-sensible-automating-project-21bed8b3ae26?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:47:15 GMT"
-    },
-    {
-      "headline": "A README Can Hijack Your Coding Agent. Here’s What Actually Stops It",
-      "deck": "Detection is a speed bump. The sandbox is the load-bearing wall.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/a-readme-can-hijack-your-coding-agent-heres-what-actually-stops-it-cc65d743076f?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:47:08 GMT"
-    },
-    {
-      "headline": "How to Fix AWS Strands Agents Context Bloat: One Plugin Cut 252K Tokens to 9K",
-      "deck": "Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-fix-aws-strands-agents-context-bloat-one-plugin-cut-252k-tokens-to-9k-f47b357496bd?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:46:57 GMT"
-    },
-    {
-      "headline": "An Amazon AGI Lab Talk Says Your Agent Needs 90%. How Many Runs Prove It? Not 20.",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/an-amazon-agi-lab-talk-says-your-agent-needs-90-how-many-runs-prove-it-not-20-69c243a96931?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:46:50 GMT"
-    },
-    {
-      "headline": "Your LLM Is Fast in Testing. Why Does It Slow Down in Production?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-llm-is-fast-in-testing-why-does-it-slow-down-in-production-835778d6974d?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 10 Oct 2026 06:46:41 GMT"
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
     },
     {
       "headline": "LG Promo Codes and Coupons for October 2026",
@@ -128,14 +224,6 @@
       "source": "Wired",
       "category": "tech",
       "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
-    },
-    {
-      "headline": "Home Depot Promo Codes: 30% Off in October 2026",
-      "deck": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
       "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000"
     },
     {
@@ -299,30 +387,6 @@
       "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000"
     },
     {
-      "headline": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI mode",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "pubDate": "Fri, 09 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It",
-      "deck": "Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dunking-on-dating-app-profiles-is-content-gold-people-are-getting-sick-of-it/",
-      "pubDate": "Fri, 09 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?",
-      "deck": "Apple’s Mac desktops have become some of the most sought-after computers this year, driven by surging interest in agentic AI. Here’s which model to buy depending on your use case.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-mac-desktop/",
-      "pubDate": "Fri, 09 Oct 2026 11:00:00 +0000"
-    },
-    {
       "headline": "15 Figma Tools That Solve Problems Nobody Wants to Deal With",
       "deck": "5 powerful tools for serious UX work, and 10 tiny plugins that can rescue you from hours of repetitive design tasks.Continue reading on UX Planet »",
       "source": "UX Planet",
@@ -337,70 +401,6 @@
       "category": "ux",
       "url": "https://uxplanet.org/i-tried-claude-with-figma-on-an-800-screen-project-it-never-reached-the-hard-part-7735b120f43a?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 09 Oct 2026 10:17:51 GMT"
-    },
-    {
-      "headline": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
-      "deck": "It’s finally time to ditch the gas canister—I tested these cordless leaf blowers on gravel, wood chips, and even a 5-pound concrete paver.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-battery-powered-leaf-blowers/",
-      "pubDate": "Fri, 09 Oct 2026 10:10:00 +0000"
-    },
-    {
-      "headline": "Even ‘Law & Order’ Is Terrified of AI",
-      "deck": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
-      "deck": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
-      "pubDate": "Fri, 09 Oct 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "We’re putting too much faith in AI’s ability to say no",
-      "deck": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Job titles of the future: Delivery drone air traffic controller",
-      "deck": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wi",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "deck": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "America’s Hybrid Hype Has Hit the Used Market",
-      "deck": "Demand is so high that some used cars are selling for more than new ones.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "deck": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000"
     }
   ]
 }
