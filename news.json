@@ -1,190 +1,262 @@
 {
-  "generated_at": "2026-10-12T12:00:03.163Z",
+  "generated_at": "2026-10-13T12:00:02.825Z",
   "count": 50,
   "articles": [
     {
-      "headline": "On M.F. Husain and multiple meanings of the colour orange",
-      "deck": "The painting that introduced me to the power and purpose of artContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 12 Oct 2026 11:35:46 GMT"
-    },
-    {
-      "headline": "Borrowed slopes",
-      "deck": "When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 12 Oct 2026 11:35:36 GMT"
-    },
-    {
-      "headline": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
-      "deck": "To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
+      "headline": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "deck": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
-      "pubDate": "Mon, 12 Oct 2026 11:15:00 +0000"
+      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "pubDate": "Tue, 13 Oct 2026 11:30:00 +0000"
     },
     {
-      "headline": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-      "deck": "Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesota state Senate candidate.",
+      "headline": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+      "deck": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
-      "pubDate": "Mon, 12 Oct 2026 11:00:00 +0000"
+      "url": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+      "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000"
     },
     {
-      "headline": "AlterMe Review: Fitness Built Around My DNA",
-      "deck": "Six months with AlterMe’s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I’d hoped.",
+      "headline": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "deck": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
-      "pubDate": "Mon, 12 Oct 2026 10:34:00 +0000"
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000"
     },
     {
-      "headline": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
-      "deck": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+      "headline": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+      "deck": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
-      "pubDate": "Mon, 12 Oct 2026 10:30:00 +0000"
+      "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+      "pubDate": "Tue, 13 Oct 2026 10:30:00 +0000"
     },
     {
-      "headline": "Far-Right Election Groups Are Now Targeting Nursing Homes",
-      "deck": "Inspired by new guidance from the Trump administration, right-wing election groups are targeting nursing homes, baselessly claiming that left-wing groups are stealing residents’ votes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/",
-      "pubDate": "Mon, 12 Oct 2026 10:15:00 +0000"
-    },
-    {
-      "headline": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
-      "deck": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "pubDate": "Mon, 12 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The Best Gifts for the Techie in Your Life (2026)",
-      "deck": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-tech-gifts/",
-      "pubDate": "Mon, 12 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Mars may be a hellhole, but the moon is not far behind",
-      "deck": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface b",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "deck": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
       "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "pubDate": "Mon, 12 Oct 2026 09:37:02 +0000"
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000"
     },
     {
-      "headline": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+      "headline": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "deck": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "What’s the Best Kindle of 2026 (So Far)?",
+      "deck": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-kindle/",
+      "pubDate": "Tue, 13 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "headline": "The synth everyone owned and few could program: a lesson for AI design",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
-      "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 12 Oct 2026 09:07:53 GMT"
+      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 13 Oct 2026 09:03:24 GMT"
     },
     {
-      "headline": "Kindle Aluminum Review (2026): Gorgeous, but Expensive",
-      "deck": "The gorgeous blue finish and premium feel won me over, but the reading experience offers few reasons to replace a working Kindle.",
+      "headline": "6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)",
+      "deck": "We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/kindle-aluminum-2026/",
-      "pubDate": "Mon, 12 Oct 2026 09:04:00 +0000"
+      "url": "https://www.wired.com/gallery/best-coffee-grinders-2026/",
+      "pubDate": "Tue, 13 Oct 2026 09:02:00 +0000"
     },
     {
-      "headline": "The ecologist revealing the invisible networks that revive rainforests",
-      "deck": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a sen",
+      "headline": "AI labs are buying data from dead startups to train their models",
+      "deck": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives ",
       "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "pubDate": "Mon, 12 Oct 2026 09:00:00 +0000"
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000"
     },
     {
-      "headline": "ChatGPT’s Next Evolution: 7 Changes That Could Redefine Conversational AI",
-      "deck": "The next big shift in conversational AI may not be better answers, but what happens after you ask a question.Continue reading on Towards AI »",
-      "source": "Other",
+      "headline": "What Flock Actually Costs Cities Across the Country",
+      "deck": "WIRED examined contracts from over two dozen cities and towns that shed light on how Flock’s pricing and business model functions, and how it stacks up against its peers.",
+      "source": "Wired",
       "category": "tech",
-      "url": "https://pub.towardsai.net/chatgpts-next-evolution-7-changes-that-could-redefine-conversational-ai-0fea5d73f8e0?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:21:09 GMT"
+      "url": "https://www.wired.com/story/how-much-does-flock-actually-cost-cities/",
+      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000"
     },
     {
-      "headline": "Claude Sees Screenshots Sharper Now. Your Agent Can Send 2.7x the Tokens.",
+      "headline": "What are we willing to sacrifice for AI?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 13 Oct 2026 07:30:43 GMT"
+    },
+    {
+      "headline": "B&H Photo Promo Codes and Deals This October 2026",
+      "deck": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Wayfair Coupons: Up to 80% Off October 2026",
+      "deck": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Lego Promo Code | 20% Off October 2026",
+      "deck": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "deck": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Nike Promo Codes and Discounts: 30% for October 2026",
+      "deck": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Booking.com Promo Codes: 20% Off | October 2026",
+      "deck": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Newegg Promo Codes and Coupons for October 2026",
+      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "Squarespace Promo Codes: 20% Off in October 2026",
+      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "ExpressVPN Coupons: 80% Off",
+      "deck": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/expressvpn-coupons/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "20% Off Samsung Promo Code | October 2026",
+      "deck": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000"
+    },
+    {
+      "headline": "An AI Agent Turned a Net $784K Into $5.3M of Debt. One Diff Catches It.",
       "deck": "&#x200B;Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/claude-sees-screenshots-sharper-now-your-agent-can-send-2-7x-the-tokens-73dabc991398?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:20:28 GMT"
+      "url": "https://pub.towardsai.net/an-ai-agent-turned-a-net-784k-into-5-3m-of-debt-one-diff-catches-it-a41ca8b61732?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:05:37 GMT"
     },
     {
-      "headline": "Claude Code Told Me “All Tests Pass.” It Hadn’t Run a Single One.",
-      "deck": "Three skills that make your agent show real command output, or admit &#x201C;Not executed.&#x201D;Continue reading on Towards AI »",
+      "headline": "Mean Squared Error (MSE): The Loss Function That Makes Big Mistakes Expensive",
+      "deck": "Loss Functions Deep Dive &#x2014; Part 4 of 30Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-told-me-all-tests-pass-it-hadnt-run-a-single-one-0ee076c1be51?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:20:21 GMT"
+      "url": "https://pub.towardsai.net/mean-squared-error-mse-the-loss-function-that-makes-big-mistakes-expensive-3ef7b053bd19?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:05:18 GMT"
     },
     {
-      "headline": "MiniMax M3 in vLLM: Why FP8 KV Cache Gives You 1.5x, Not 2x",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/minimax-m3-in-vllm-why-fp8-kv-cache-gives-you-1-5x-not-2x-3cae2c989550?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:20:17 GMT"
-    },
-    {
-      "headline": "From Mathematical Formula to Working Code: Build a Loss Function From Scratch",
-      "deck": "Loss Functions Deep Dive &#x2014; Part 3 of 30Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/from-mathematical-formula-to-working-code-build-a-loss-function-from-scratch-bf64e9e2f827?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:19:52 GMT"
-    },
-    {
-      "headline": "AI Decision Models: What They Are and How They Work",
-      "deck": "Decision models are a new category of AI that specializes in making typed and calibrated decisions, rather than generating text. In this&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-decision-models-what-they-are-and-how-they-work-8f395cbe1a6e?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:19:43 GMT"
-    },
-    {
-      "headline": "Building a Production-Grade Dimensional Model on Snowflake with Cortex Code using Skills",
+      "headline": "How I Fine-Tuned Laya to Solve an Important Problem in Scientometrics — With Claude Code",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-production-grade-dimensional-model-on-snowflake-with-cortex-code-using-skills-76cbb73f6295?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:19:34 GMT"
+      "url": "https://pub.towardsai.net/how-i-fine-tuned-laya-to-crack-scientometrics-quietest-open-problem-with-claude-code-a4b641434fb3?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:04:48 GMT"
     },
     {
-      "headline": "Inner Products Give Vector Spaces Their Geometry",
-      "deck": "How do we measure length, angle, and perpendicularity in a vector space?Continue reading on Towards AI »",
+      "headline": "What’s So Imaginary About Complex Numbers?",
+      "deck": "Understanding complex numbers through pairs, rotations, and a different multiplication.Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/inner-products-give-vector-spaces-their-geometry-341bf7a2c4df?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:19:24 GMT"
+      "url": "https://pub.towardsai.net/whats-so-imaginary-about-complex-numbers-73c5a526a792?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:04:22 GMT"
     },
     {
-      "headline": "How Did I Write My First FlashAttention Kernel in CUDA ?",
+      "headline": "Azure Document Intelligence or Content Understanding? Route by Document Type",
+      "deck": "Both services share one OCR and layout layer and split at field extraction. Here&#x2019;s how that split maps to forms, contracts, RAG&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/azure-document-intelligence-vs-content-understanding-2026-cc87e1770ee6?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:04:10 GMT"
+    },
+    {
+      "headline": "AI-Native Tag Insights in SLR: Visualizing Patterns and Inconsistencies",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/how-did-i-write-my-first-flashattention-kernel-in-cuda-bb5727e66ce5?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:19:13 GMT"
+      "url": "https://pub.towardsai.net/ai-native-tag-insights-in-slr-visualizing-patterns-and-inconsistencies-b25b6b1f31db?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:04:02 GMT"
     },
     {
-      "headline": "Qwen3.8-Flash-Next: Which Quant to Run From 16GB to 128GB in 2026",
-      "deck": "Strata runs a 125-billion-parameter model on a 12GB consumer GPU. The quantization you pick decides whether that matters.Continue reading on Towards AI »",
+      "headline": "The Critic Who Cannot Plan",
+      "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/qwen3-8-flash-next-on-strata-which-quant-to-run-from-16gb-to-128gb-in-2026-843778d218a1?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 12 Oct 2026 04:18:53 GMT"
+      "url": "https://pub.towardsai.net/the-critic-who-cannot-plan-d66f908b792c?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:03:48 GMT"
+    },
+    {
+      "headline": "Daily Scrum Explained: Why Scrum Teams Meet Every Day and What a Scrum Master Really Does",
+      "deck": "Ever wondered why your team meets every single morning, and who that &#x201C;Scrum Master&#x201D; person really is?Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/daily-scrum-explained-why-scrum-teams-meet-every-day-and-what-a-scrum-master-really-does-de487a264c9c?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:03:38 GMT"
+    },
+    {
+      "headline": "Self-Adjoint Matrices and the Geometry Behind Symmetry",
+      "deck": "What does the adjoint tell us about a linear transformation?Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/self-adjoint-matrices-and-the-geometry-behind-symmetry-0f3b4b51faf6?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 13 Oct 2026 04:03:20 GMT"
     },
     {
       "headline": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -192,7 +264,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12493",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "EliteTable: Self-Improving Program Search for Executable Control Policies",
@@ -200,7 +272,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12536",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
@@ -208,7 +280,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12542",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
@@ -216,7 +288,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12593",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
@@ -224,7 +296,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12596",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
@@ -232,7 +304,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12598",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
@@ -240,7 +312,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12655",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
@@ -248,7 +320,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12659",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
@@ -256,7 +328,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12762",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
       "headline": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
@@ -264,143 +336,71 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2610.12781",
-      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400"
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400"
     },
     {
-      "headline": "Will the HomeView be Apple’s first smart home success?",
-      "deck": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000"
-    },
-    {
-      "headline": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "deck": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000"
-    },
-    {
-      "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "deck": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000"
-    },
-    {
-      "headline": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
-      "deck": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "I Made Terrible Games With Google’s AI Playground",
-      "deck": "A long day’s haul in the video game slop mines.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "13 Best Gifts Every Traveler Should Have (2026)",
-      "deck": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
-      "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000"
-    },
-    {
-      "headline": "Inside the Muslim Manosphere Policing Women Online",
-      "deck": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
-      "pubDate": "Sun, 11 Oct 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "These Midterm Races Will Decide Data Centers’ Political Fate",
-      "deck": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
-      "pubDate": "Sun, 11 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "How the 2026 Super El Niño and Climate Change Are Related",
-      "deck": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
-      "pubDate": "Sun, 11 Oct 2026 09:30:00 +0000"
-    },
-    {
-      "headline": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
-      "deck": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
-      "pubDate": "Sun, 11 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "deck": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000"
-    },
-    {
-      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "deck": "Is Apple hoping to get into the AI-generated podcast business?",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000"
-    },
-    {
-      "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "deck": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "deck": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "headline": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "deck": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Designing for an idea before it exists",
-      "deck": "On empty seats, metaphors, and the useful parts that don&#x2019;t quite fitContinue reading on UX Collective »",
+      "headline": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+      "deck": "",
       "source": "UX Collective",
       "category": "ux",
-      "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 09 Oct 2026 20:32:02 GMT"
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 12 Oct 2026 20:19:31 GMT"
     },
     {
-      "headline": "The New Siri’s Biggest Strength Is Not Intelligence",
-      "deck": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
-      "source": "Nielsen Norman Group",
+      "headline": "AI is hollowing out the middle of design, leaving an hourglass behind",
+      "deck": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking.Continue reading on UX Collective »",
+      "source": "UX Collective",
       "category": "ux",
-      "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000"
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+      "pubDate": "Mon, 12 Oct 2026 20:17:45 GMT"
+    },
+    {
+      "headline": "5 Best Claude Code Mods You Should Try in 2026",
+      "deck": "Mods let you customize your Claude Code to fit your specific needs. Previously, I&#x2019;ve discussed how to create a new mod for Claude Code&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/5-best-claude-code-mods-you-should-try-in-2026-580eee0aec57?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 12 Oct 2026 20:15:04 GMT"
+    },
+    {
+      "headline": "Meta releases its first frontier model, Muse Wonder",
+      "deck": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000"
+    },
+    {
+      "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "deck": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000"
+    },
+    {
+      "headline": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "deck": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000"
+    },
+    {
+      "headline": "Microsoft president says UK is best placed to drive AI regulation",
+      "deck": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000"
+    },
+    {
+      "headline": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "deck": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000"
     }
   ]
 }
