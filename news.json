@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-10-17T12:00:02.025Z",
+  "generated_at": "2026-10-18T12:00:03.387Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "deck": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "pubDate": "Sun, 18 Oct 2026 11:01:00 +0000"
+    },
+    {
+      "headline": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "deck": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "deck": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
+      "deck": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
+      "pubDate": "Sun, 18 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
+      "deck": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-airpods-case/",
+      "pubDate": "Sun, 18 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Climate Change Has It In for the World’s Best Surfing",
+      "deck": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
+      "pubDate": "Sun, 18 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+      "deck": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+      "pubDate": "Sun, 18 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "The Un-Coded Allergy: Why AI Agents Miss Free-Text Clinical Notes",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-un-coded-allergy-why-ai-agents-miss-free-text-clinical-notes-02cbc3647f7f?source=rss----98111c9905da---4",
+      "pubDate": "Sun, 18 Oct 2026 00:01:01 GMT"
+    },
+    {
+      "headline": "TikTok’s AI Feed Had a Reset Button. For Some Teens, It Was a Placebo.",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/tiktoks-ai-feed-had-a-reset-button-for-some-teens-it-was-a-placebo-5de6fcf36a34?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 22:01:02 GMT"
+    },
+    {
+      "headline": "Meta removes language that raised scraping and AI training concerns",
+      "deck": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000"
+    },
+    {
+      "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "deck": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000"
+    },
+    {
+      "headline": "Tuning Jev, Part 3: Tuning Is Task-Specific, Four Places to Put Few-Shot Examples",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/tuning-jev-part-3-tuning-is-task-specific-four-places-to-put-few-shot-examples-751ab60e90e9?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 20:01:01 GMT"
+    },
+    {
+      "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "deck": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000"
+    },
+    {
+      "headline": "Train Once, Reuse Later: Three Tests of Skipping BCI Calibration",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/train-once-reuse-later-three-tests-of-skipping-bci-calibration-59641e38b4ae?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 18:01:02 GMT"
+    },
+    {
+      "headline": "Cloudflare Clef Makes Your Agent Router Obsolete",
+      "deck": "On Cloudflare&#x2019;s own RouterBench run, Clef scores 79.7 and Jev 79.9. I priced the call, wrote the routing policy Clef leaves to you, and&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/cloudflare-clef-makes-your-agent-router-obsolete-c42871b4dd68?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 17:01:02 GMT"
+    },
+    {
+      "headline": "WebMCP Takes 27 Lines. Securing It Means Auditing Every Script on Your Page.",
+      "deck": "What WebMCP is, who&#x2019;s shipping it, how to implement it, and what Chrome 154 actually enforces once an AI agent can call your site.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/webmcp-takes-27-lines-securing-it-means-auditing-every-script-on-your-page-eca9c0ab9f27?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 16:01:02 GMT"
+    },
+    {
+      "headline": "Why AI Makes Things Up: A Complete Guide to LLM Hallucination",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-ai-makes-things-up-a-complete-guide-to-llm-hallucination-39a5b2a838a6?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 15:01:01 GMT"
+    },
+    {
+      "headline": "Are AI Agents Going Rogue? What’s Actually Happening?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/are-ai-agents-going-rogue-whats-actually-happening-2d029935ebea?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 14:01:03 GMT"
+    },
+    {
+      "headline": "My AI Drafts My Follow-Up Emails Every Morning. I Still Press Send.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/my-ai-drafts-my-follow-up-emails-every-morning-i-still-press-send-049cf4bdb06a?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 13:01:02 GMT"
+    },
+    {
+      "headline": "Stop Parsing PDFs for RAG. Show the AI the Page Instead.",
+      "deck": "I pointed a vision model at a 592-page ship engine manual. It worked, right up until it confidently gave me half a torque value.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/stop-parsing-pdfs-for-rag-show-the-ai-the-page-instead-fc6525cb5954?source=rss----98111c9905da---4",
+      "pubDate": "Sat, 17 Oct 2026 12:01:01 GMT"
+    },
+    {
+      "headline": "Encryption Is Getting Squeezed From All Sides",
+      "deck": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000"
+    },
     {
       "headline": "The Best LED Grow Lights for Houseplants This Winter (2026)",
       "deck": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
@@ -9,86 +177,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/best-led-grow-lights/",
       "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Building a Virtual Factory: A Reproducible Testbed for Industrial Data | UNS to Lakehouse — Part 2",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-a-virtual-factory-a-reproducible-testbed-for-industrial-data-uns-to-lakehouse-part-2-01e5c32074e0?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:24:35 GMT"
-    },
-    {
-      "headline": "LLM Harness Engineering: The Missing Architecture Behind Reliable AI Agents",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/llm-harness-engineering-the-missing-architecture-behind-reliable-ai-agents-cf3a07454ced?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:05:20 GMT"
-    },
-    {
-      "headline": "10 Silent Defaults That Make Your Local LLM Look Dumber Than It Is",
-      "deck": "If your local model forgets things or replies with nothing, it may never have seen your full prompt. Ollama, llama.cpp and Open WebUI can&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/10-silent-defaults-that-make-your-local-llm-look-dumber-than-it-is-96a65f41b96c?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:04:54 GMT"
-    },
-    {
-      "headline": "How to Turn Off Claude's 1,000-Agent Flows (None Turns Them On)",
-      "deck": "&#x200B;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-turn-off-claudes-1-000-agent-flows-none-turns-them-on-d9eafc8ceda4?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:04:09 GMT"
-    },
-    {
-      "headline": "The System Design Cheat Sheet: Every Question Is One of 6 Problems",
-      "deck": "Scale reads, scale writes, real-time data, long-running jobs, reliability and splitting reads from writes: the patterns behind almost&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-system-design-cheat-sheet-every-question-is-one-of-6-problems-3aff50a68698?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:03:59 GMT"
-    },
-    {
-      "headline": "Langfuse VIII: The Playground Looked Fine. That Is Not a Langfuse Experiment.",
-      "deck": "LangFuse Part 8: Scoring live traces is how you notice a miss.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/langfuse-viii-the-playground-looked-fine-that-is-not-a-langfuse-experiment-448122584bc5?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:03:47 GMT"
-    },
-    {
-      "headline": "LangFuse VII: You Changed the Prompt Without a Deploy.",
-      "deck": "Part 7: A Langfuse score is one named judgment. Thumbs, judges, code evaluators, and create_score all write that same object onto the live&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/langfuse-vii-you-changed-the-prompt-without-a-deploy-24cab6d7b451?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:03:39 GMT"
-    },
-    {
-      "headline": "Small Models Are Becoming Operational Models",
-      "deck": "For two years, the AI conversation has been dominated by the biggest models: more parameters, longer context, stronger reasoning, higher&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/small-models-are-becoming-operational-models-73df848242bb?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:03:11 GMT"
-    },
-    {
-      "headline": "Bringing an Agent Plugin to Microsoft Copilot: 4 Checks Before You Share",
-      "deck": "A WIQD deep dive: how skills and MCP servers become one Microsoft 365 package, where validation stops, and why connector auth differs&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/bring-agent-plugin-microsoft-copilot-wiqd-69618ad43097?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:02:17 GMT"
-    },
-    {
-      "headline": "10 GitHub Repositories That Make AI Engineers 10x More Productive",
-      "deck": "You spend an afternoon wiring a model API into your app. Then you rewrite the glue code because you switched providers. A retrieval step&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/10-github-repositories-that-make-ai-engineers-10x-more-productive-62ac6fc7514b?source=rss----98111c9905da---4",
-      "pubDate": "Sat, 17 Oct 2026 11:02:08 GMT"
     },
     {
       "headline": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
@@ -137,14 +225,6 @@
       "category": "tech",
       "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
       "pubDate": "Fri, 16 Oct 2026 21:31:35 +0000"
-    },
-    {
-      "headline": "Replit is no longer working with Anthropic, CEO says",
-      "deck": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000"
     },
     {
       "headline": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
@@ -307,92 +387,12 @@
       "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000"
     },
     {
-      "headline": "The Download: failed social media bans, and extending pets&#8217; lives",
-      "deck": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need t",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-      "pubDate": "Fri, 16 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "headline": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "deck": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "pubDate": "Fri, 16 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
-      "deck": "A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
-      "pubDate": "Fri, 16 Oct 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight",
-      "deck": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "pubDate": "Fri, 16 Oct 2026 10:32:00 +0000"
-    },
-    {
       "headline": "Is Your Organization Messing Up AI Adoption?",
-      "deck": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - B",
+      "deck": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today.",
       "source": "Smashing Magazine",
       "category": "ux",
       "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
       "pubDate": "Fri, 16 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "headline": "Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins",
-      "deck": "This direct-to-consumer brand’s latest top-of-the-line devices work well but only showcase incremental improvements over previous models.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/review-jabra-enhance-select-m3/",
-      "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The New Fan’s Guide to the Unreal World of Nathan Fielder",
-      "deck": "Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/",
-      "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "This implant can restore sight for patients with macular degeneration",
-      "deck": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Love is infrastructure",
-      "deck": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Bot",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "deck": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time s",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "headline": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
-      "deck": "Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/",
-      "pubDate": "Fri, 16 Oct 2026 09:00:00 +0000"
     },
     {
       "headline": "Human in the loop means making sure the human is not out of the loop",
