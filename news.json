@@ -1,7 +1,135 @@
 {
-  "generated_at": "2026-10-31T12:00:03.089Z",
+  "generated_at": "2026-11-01T13:00:01.951Z",
   "count": 50,
   "articles": [
+    {
+      "headline": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "deck": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+      "pubDate": "Sun, 01 Nov 2026 12:30:00 +0000"
+    },
+    {
+      "headline": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "deck": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+      "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+      "deck": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+      "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "deck": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
+      "pubDate": "Sun, 01 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "deck": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "pubDate": "Sun, 01 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "What Democrats Can Learn From New York’s Data Center Moratorium",
+      "deck": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+      "deck": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-best-travel-mugs/",
+      "pubDate": "Sun, 01 Nov 2026 10:31:00 +0000"
+    },
+    {
+      "headline": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "deck": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "pubDate": "Sun, 01 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
+      "deck": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-chromebooks/",
+      "pubDate": "Sun, 01 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
+      "deck": "A dying star 1,600 light-years from Earth is surrounded by two rings of gas and dust that astronomers believe are the remnants of the planetary bodies it once hosted.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
+      "pubDate": "Sun, 01 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "deck": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000"
+    },
+    {
+      "headline": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "deck": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000"
+    },
+    {
+      "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "deck": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000"
+    },
+    {
+      "headline": "OpenAI reportedly lowers funding target for new round",
+      "deck": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000"
+    },
+    {
+      "headline": "5 NEW Claude Mods that will change how you work",
+      "deck": "Mod is an add-on that changes how Claude Code looks and behaves. Mods work in both Claude Code for CLI (in a terminal window) and Claude&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
+      "pubDate": "Sat, 31 Oct 2026 15:07:38 GMT"
+    },
+    {
+      "headline": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "deck": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000"
+    },
     {
       "headline": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
       "deck": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
@@ -99,86 +227,6 @@
       "pubDate": "Sat, 31 Oct 2026 05:00:00 +0000"
     },
     {
-      "headline": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "deck": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placemen",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37720",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "deck": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37731",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "deck": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forw",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37732",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "deck": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluati",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "deck": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, wh",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37786",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "deck": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema make",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37809",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "deck": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart cont",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37830",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "deck": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behaviour",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37849",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Evaluating and improving AI agents for sequencing protocol understanding",
-      "deck": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocol",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37851",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
-      "headline": "Seq@K: Evaluating Language Models Under Sequential Feedback",
-      "deck": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iter",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.37859",
-      "pubDate": "Sat, 31 Oct 2026 00:00:00 -0400"
-    },
-    {
       "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "deck": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "source": "TechCrunch",
@@ -196,7 +244,7 @@
     },
     {
       "headline": "My Model Thought Tamil Was Telugu: Open-Source Language ID for Hinglish, Tanglish and Kanglish",
-      "deck": "",
+      "deck": "Bhasha tags every word of code-mixed Indian text with its language. My test said Tamil scored 0.87; human-labelled comments said 0.72.Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
       "url": "https://pub.towardsai.net/my-model-thought-tamil-was-telugu-open-source-language-id-for-hinglish-tanglish-and-kanglish-604547310cd0?source=rss----98111c9905da---4",
@@ -331,14 +379,6 @@
       "pubDate": "Fri, 30 Oct 2026 19:01:01 GMT"
     },
     {
-      "headline": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
-      "deck": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000"
-    },
-    {
       "headline": "The Role of UX in Agentic Software Factories",
       "deck": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
       "source": "Nielsen Norman Group",
@@ -355,52 +395,12 @@
       "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000"
     },
     {
-      "headline": "Google&#8217;s first data center satellite is online and writing poetry",
-      "deck": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000"
-    },
-    {
-      "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
-      "deck": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000"
-    },
-    {
-      "headline": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
-      "deck": "The fanfic site could be down for weeks due to a “security incident.” Users are not taking it well.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/",
-      "pubDate": "Fri, 30 Oct 2026 15:57:35 +0000"
-    },
-    {
       "headline": "Claude 5.5 Model Mistakes You’re Still Making",
       "deck": "8 common mistakes and how to fix themContinue reading on UX Planet »",
       "source": "UX Planet",
       "category": "ux",
       "url": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
       "pubDate": "Fri, 30 Oct 2026 15:48:55 GMT"
-    },
-    {
-      "headline": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-      "deck": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "headline": "The people using AI should set its strategy",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
-      "pubDate": "Fri, 30 Oct 2026 07:06:26 GMT"
     }
   ]
 }
