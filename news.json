@@ -1,406 +1,406 @@
 {
-  "generated_at": "2026-11-03T13:00:02.020Z",
+  "generated_at": "2026-11-04T13:00:01.917Z",
   "count": 50,
   "articles": [
     {
-      "headline": "Loop Engineering Is the New Prompt Engineering. Here’s What It Takes to Get It Right",
-      "deck": "The real challenge isn&#x2019;t getting AI agents to work autonomously &#x2014; it&#x2019;s knowing how to keep them on track, verify their work, and stay in&#x2026;Continue reading on Towards AI »",
+      "headline": "When the Model Writes the Proof, Who Checks It?",
+      "deck": "In one October week, AI models claimed to refute a pillar of complexity theory and to settle the Kakeya conjecture in every dimension, and&#x2026;Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/loop-engineering-is-the-new-prompt-engineering-heres-what-it-takes-to-get-it-right-d9bdba91388c?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 12:01:03 GMT"
+      "url": "https://pub.towardsai.net/when-the-model-writes-the-proof-who-checks-it-5688b65160bc?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 12:01:02 GMT"
     },
     {
-      "headline": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
-      "deck": "NBC’s go-to data guru also isn’t quite sure what a subreddit is.",
+      "headline": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
+      "deck": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-      "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000"
+      "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
+      "pubDate": "Wed, 04 Nov 2026 11:36:00 +0000"
     },
     {
-      "headline": "Apple AirPods 5 Review: Better Than Before but Not Quite Pro",
-      "deck": "Apple finally made ANC standard across the AirPods lineup. But should you still spring for the AirPods Pro 3?",
+      "headline": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
+      "deck": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/apple-airpods-5/",
-      "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000"
+      "url": "https://www.wired.com/story/best-wireless-earbuds/",
+      "pubDate": "Wed, 04 Nov 2026 11:00:00 +0000"
     },
     {
-      "headline": "ICE Is Inspiring Latinos to Vote in Historic Numbers",
-      "deck": "“I did a Latino community event [and said] we have to actually fucking vote to tell these motherfuckers to fuck off,” Nevada secretary of state Cisco Aguilar tells WIRED.",
+      "headline": "New Jersey’s New Ebike Law Is Causing Chaos",
+      "deck": "Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/",
-      "pubDate": "Tue, 03 Nov 2026 11:30:00 +0000"
+      "url": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
+      "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000"
     },
     {
-      "headline": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "deck": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "headline": "What’s the Difference Between an Ebike and an E-Moto?",
+      "deck": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000"
+      "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
+      "pubDate": "Wed, 04 Nov 2026 10:45:00 +0000"
     },
     {
-      "headline": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
-      "deck": "The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.",
+      "headline": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+      "deck": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
-      "pubDate": "Tue, 03 Nov 2026 10:45:00 +0000"
+      "url": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+      "pubDate": "Wed, 04 Nov 2026 10:00:00 +0000"
     },
     {
-      "headline": "How “reverse game theory” could keep AI agents in check",
-      "deck": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-      "source": "MIT Tech Review",
+      "headline": "Your Claude Agent Costs 9x More Without Prompt Caching",
+      "deck": "",
+      "source": "Other",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "pubDate": "Tue, 03 Nov 2026 10:43:41 +0000"
+      "url": "https://pub.towardsai.net/your-claude-agent-costs-9x-more-without-prompt-caching-be6aab53375e?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:45 GMT"
     },
     {
-      "headline": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
-      "deck": "Catch more Z’s with soothing background noise from our favorite sound machines.",
+      "headline": "The Real Fight in Agentic Commerce Is Over Who Holds the Card",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-real-fight-in-agentic-commerce-is-over-who-holds-the-card-8af453eb88ab?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:44 GMT"
+    },
+    {
+      "headline": "A Friendly Guide To Reading Statistics Formulas For Beginners",
+      "deck": "Statistics Notation For People Who Panic At Greek LettersContinue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/read-a-statistics-formula-without-panicking-f8956a907e02?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:42 GMT"
+    },
+    {
+      "headline": "How a Vibe Coding Can Become a Game of Dice and What you can Do About it",
+      "deck": "You let Claude build you something, then tell it to review its own work. Back come a few valid points.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-a-vibe-coding-can-become-a-game-of-dice-and-what-you-can-do-about-it-22baae31c3b6?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:40 GMT"
+    },
+    {
+      "headline": "How Can Two Matrices of Different Sizes Have the Same Eigenvalues?",
+      "deck": "Why a large eigenvalue problem can be solved through a much smaller matrix.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/how-can-two-matrices-of-different-sizes-have-the-same-eigenvalues-e40684d6cc1a?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:39 GMT"
+    },
+    {
+      "headline": "Flipkart: Machine Coding Round Agentic AI is Kinda Brutal",
+      "deck": "The problem wasn&#x2019;t the feature flag service. The problem was that I almost started coding before I understood it.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/flipkart-machine-coding-round-agentic-ai-is-kinda-brutal-1efe61b51837?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 06:54:37 GMT"
+    },
+    {
+      "headline": "50% Off DoorDash Promo Code | November 2026",
+      "deck": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/best-white-noise-machines/",
-      "pubDate": "Tue, 03 Nov 2026 10:35:00 +0000"
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
     },
     {
-      "headline": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-      "deck": "The 4.1-billion-year-old meteorite is a “Rosetta Stone for Mars,” preserving clues about how the Martian environment has changed since the solar system formed.",
+      "headline": "Hoka Coupon Codes: 30% Off in November 2026",
+      "deck": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
-      "pubDate": "Tue, 03 Nov 2026 10:15:00 +0000"
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
     },
     {
-      "headline": "What I learned teaching AI prototyping at university",
+      "headline": "SteelSeries Coupon Codes: 15% Off in November 2026",
+      "deck": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/steelseries-coupon-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
+      "deck": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Columbia Promo Codes: 15% Off | November 2026",
+      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "25% Off Adidas Promo Code | November 2026",
+      "deck": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "deck": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
+      "deck": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hulu-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Hostinger Promo Code: 79% Off for November 2026",
+      "deck": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hostinger-coupon-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Shark Promo Codes for November 2026",
+      "deck": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/shark-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Whoop Promo Codes: 20% Off This November 2026",
+      "deck": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Alo Discount Code: 20% Off November 2026",
+      "deck": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "deck": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "pubDate": "Wed, 04 Nov 2026 04:42:46 +0000"
+    },
+    {
+      "headline": "Compaction Is Lossy: How to Measure What Your Summary Threw Away",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/compaction-is-lossy-how-to-measure-what-your-summary-threw-away-eeaa89b72a9b?source=rss----98111c9905da---4",
+      "pubDate": "Wed, 04 Nov 2026 00:01:02 GMT"
+    },
+    {
+      "headline": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "deck": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "pubDate": "Tue, 03 Nov 2026 22:44:01 +0000"
+    },
+    {
+      "headline": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "deck": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000"
+    },
+    {
+      "headline": "Everyone is building AI agents. Who’s designing the stop button?",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
-      "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 03 Nov 2026 10:09:09 GMT"
+      "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 03 Nov 2026 22:40:34 GMT"
     },
     {
-      "headline": "The pole and the stake",
-      "deck": "On going with the current, changing it, and what designers are asked to doContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/the-pole-and-the-stake-2cfba6c08bca?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 03 Nov 2026 10:08:25 GMT"
-    },
-    {
-      "headline": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It",
-      "deck": "On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
-      "pubDate": "Tue, 03 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-      "deck": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000"
-    },
-    {
-      "headline": "One Agent, Many Presentations: An Architecture for In-Person, Voice-First AI Assistants",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/one-agent-many-presentations-an-architecture-for-in-person-voice-first-ai-assistants-a1ee5eaa466d?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:20 GMT"
-    },
-    {
-      "headline": "30 Tech Concepts I Learned in October as a New AI Engineer",
-      "deck": "Tokens, RAG, embeddings, vector databases, agents and the mental model shifts nobody warned me about.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/30-tech-concepts-i-learned-in-october-as-a-new-ai-engineer-0607f385e874?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:18 GMT"
-    },
-    {
-      "headline": "Agent Skills: The Folder That Replaced Your Prompt Library",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/agent-skills-the-folder-that-replaced-your-prompt-library-bba2150e976e?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:14 GMT"
-    },
-    {
-      "headline": "Where to Start With AI Agents If You Have 1 Hour a Day",
-      "deck": "A four-week, 20-session plan for busy engineers: what to learn each day, which free resources to use, starter code for every week and the&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/where-to-start-with-ai-agents-if-you-have-1-hour-a-day-dc4b9c58c833?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:07 GMT"
-    },
-    {
-      "headline": "The Rashomon Set: Why Two “Equally Good” Models Can Tell You Completely Different Stories",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/the-rashomon-set-why-two-equally-good-models-can-tell-you-completely-different-stories-305f4819232f?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:05 GMT"
-    },
-    {
-      "headline": "AI Search Is Becoming Infrastructure: Billing, Multimodal Retrieval, and Private Backends",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-search-is-becoming-infrastructure-billing-multimodal-retrieval-and-private-backends-bf2bb380a9c9?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:03 GMT"
-    },
-    {
-      "headline": "Stop Hand-Building Agent Loops: A Deep Dive Into the Microsoft Copilot Harness in Foundry",
-      "deck": "Architecture, skills, sandboxes, and egress controls, plus the preview limits to check before you build and when hosted agents are the&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/microsoft-copilot-harness-foundry-agent-service-a204b1977b3a?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 06:20:02 GMT"
-    },
-    {
-      "headline": "Uber Eats Promo Codes: $15 Off│November 2026",
-      "deck": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Hotels.com Coupon Codes for November 2026",
-      "deck": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "20% Off Brooks Promo Code | November 2026",
-      "deck": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/brooks-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Chewy Promo Codes: $20 Off November 2026",
-      "deck": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Dell Coupon Codes: 20% Off for November 2026",
-      "deck": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "30% Off Canon Promo Codes | November 2026",
-      "deck": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "AT&T Promo Codes: $50 Off This November 2026",
-      "deck": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "KitchenAid Promo Codes: Save Up to 20%",
-      "deck": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Newegg Promo Codes and Coupons for November 2026",
-      "deck": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "eBay Coupons: 20% Off in November 2026",
-      "deck": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Forget Choosing K: How the Distance-Dependent Chinese Restaurant Process Learns Clusters…",
-      "deck": "An engineer-focused walkthrough of non-parametric Bayesian clustering &#x2014; showing how dd-CRP and Gibbs sampling jointly infer the number of&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/nonparametric-clustering-of-deep-neural-embeddings-a-gentle-guide-to-the-distance-dependent-crp-d104d5c5b05a?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 05:57:08 GMT"
-    },
-    {
-      "headline": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
-      "deck": "arXiv:2610.41172v1 Announce Type: cross Abstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41172",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
-      "deck": "arXiv:2610.41199v1 Announce Type: cross Abstract: Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. Traditionally, this process required thousands of images of b",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41199",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
-      "deck": "arXiv:2610.41210v1 Announce Type: cross Abstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscu",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41210",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
-      "deck": "arXiv:2610.41231v1 Announce Type: cross Abstract: Coarse-to-fine 3D-native generation relies heavily on the first-stage sparse structure, which determines the global orientation and overall geometry for subsequent refine",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41231",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
-      "deck": "arXiv:2610.41272v1 Announce Type: cross Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41272",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-      "deck": "arXiv:2610.41291v1 Announce Type: cross Abstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will ra",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41291",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control",
-      "deck": "arXiv:2610.41304v1 Announce Type: cross Abstract: Particle image velocimetry (PIV) measures fluid motion from images of tracer particles, but its accuracy depends on choices throughout the estimation pipeline, including ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41304",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
-      "deck": "arXiv:2610.41307v1 Announce Type: cross Abstract: Multimodal indirect prompt injection embeds malicious instructions in external media that also contains information needed for the user's task. Existing defenses can bloc",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41307",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
-      "deck": "arXiv:2610.41314v1 Announce Type: cross Abstract: Dynamic spatial reasoning is essential for connecting visual intelligence to thephysical world, yet remains challenging for vision-language models (VLMs), which must pres",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41314",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
-      "deck": "arXiv:2610.41322v1 Announce Type: cross Abstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward frontiers in drug discovery. Unlike tradition",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2610.41322",
-      "pubDate": "Tue, 03 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "deck": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "pubDate": "Tue, 03 Nov 2026 04:18:47 +0000"
-    },
-    {
-      "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "deck": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000"
-    },
-    {
-      "headline": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-      "deck": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000"
-    },
-    {
-      "headline": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "deck": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, ",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000"
-    },
-    {
-      "headline": "Your RAG Retriever Is Fast but Not Smart: Hybrid Search and Re-Ranking in LangChain",
-      "deck": "BM25, dense vectors, RRF and cross-encoders: the retrieval stack that finds the answer your embeddings missed.Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-rag-retriever-is-fast-but-not-smart-hybrid-search-and-re-ranking-in-langchain-c81565304ad9?source=rss----98111c9905da---4",
-      "pubDate": "Tue, 03 Nov 2026 00:01:02 GMT"
-    },
-    {
-      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "deck": "The one-year-old startup is now valued at $300 million.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000"
-    },
-    {
-      "headline": "State of a system",
+      "headline": "I let AI build. I don’t let AI decide.",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
-      "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 02 Nov 2026 17:56:46 GMT"
+      "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 03 Nov 2026 22:37:40 GMT"
     },
     {
-      "headline": "Virtue ethics in everyday interface design",
+      "headline": "What do you do when a design solution is already pre-built?",
+      "deck": "How to deal with the &#x201C;Fastest Idea in the Room&#x201D;Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 03 Nov 2026 22:36:49 GMT"
+    },
+    {
+      "headline": "Agents struggle with the same bad UX we do",
       "deck": "",
       "source": "UX Collective",
       "category": "ux",
-      "url": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 02 Nov 2026 17:55:34 GMT"
+      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 03 Nov 2026 22:36:33 GMT"
     },
     {
-      "headline": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP",
+      "headline": "Data centers are turning to old jet engines as the wait for power grows",
+      "deck": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000"
+    },
+    {
+      "headline": "Building and Evaluating Three Multi-Agent Research Systems with LangGraph",
       "deck": "",
-      "source": "UX Collective",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/building-and-evaluating-three-multi-agent-research-systems-with-langgraph-595209ceff86?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 03 Nov 2026 22:01:01 GMT"
+    },
+    {
+      "headline": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "deck": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000"
+    },
+    {
+      "headline": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "deck": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+      "pubDate": "Tue, 03 Nov 2026 21:25:25 +0000"
+    },
+    {
+      "headline": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+      "deck": "Influencers, watchdogs, and MAGA pundits are convinced that election fraud is everywhere today, despite a lack of apparent evidence.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+      "pubDate": "Tue, 03 Nov 2026 21:11:00 +0000"
+    },
+    {
+      "headline": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+      "deck": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "pubDate": "Tue, 03 Nov 2026 21:05:55 +0000"
+    },
+    {
+      "headline": "When AI Acts: What Did We Authorise?",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/when-ai-acts-what-did-we-authorise-4fea247d4be9?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 03 Nov 2026 21:01:01 GMT"
+    },
+    {
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "deck": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000"
+    },
+    {
+      "headline": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "deck": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "pubDate": "Tue, 03 Nov 2026 19:04:58 +0000"
+    },
+    {
+      "headline": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on your mood",
+      "deck": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000"
+    },
+    {
+      "headline": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "deck": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "pubDate": "Tue, 03 Nov 2026 18:04:07 +0000"
+    },
+    {
+      "headline": "Anthropic is still grappling with the economics of compute",
+      "deck": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "pubDate": "Tue, 03 Nov 2026 17:07:01 +0000"
+    },
+    {
+      "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "deck": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000"
+    },
+    {
+      "headline": "Apple restricts dating apps and AI companions to users 18 and up",
+      "deck": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000"
+    },
+    {
+      "headline": "Here’s Why You Shouldn’t Use AI to Vote",
+      "deck": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "pubDate": "Tue, 03 Nov 2026 14:45:08 +0000"
+    },
+    {
+      "headline": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "deck": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "pubDate": "Tue, 03 Nov 2026 14:30:00 +0000"
+    },
+    {
+      "headline": "6 Tricks to Level Up Claude Design",
+      "deck": "This collection of 6 tricks will help you make the most of Claude Code and Claude Design when generating designs.Continue reading on UX Planet »",
+      "source": "UX Planet",
       "category": "ux",
-      "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 02 Nov 2026 10:22:22 GMT"
+      "url": "https://uxplanet.org/6-tricks-to-level-up-claude-design-7ed86375be49?source=rss----819cc2aaeee0---4",
+      "pubDate": "Tue, 03 Nov 2026 14:14:26 GMT"
+    },
+    {
+      "headline": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+      "deck": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:34 +0000"
     }
   ]
 }
