@@ -1,14 +1,398 @@
 {
-  "generated_at": "2026-11-09T13:00:03.308Z",
+  "generated_at": "2026-11-10T13:00:03.650Z",
   "count": 50,
   "articles": [
     {
-      "headline": "AI Coding Agent Learning Loop: Ship Faster Without Outsourcing Understanding",
+      "headline": "One Model’s Confidence Was Honest. The Other Said 100% on Its Mistakes.",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/ai-coding-agent-learning-loop-ship-faster-without-outsourcing-understanding-ce4640fd4b6e?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 12:31:01 GMT"
+      "url": "https://pub.towardsai.net/one-models-confidence-was-honest-the-other-said-100-on-its-mistakes-42ab9f387d21?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 12:31:01 GMT"
+    },
+    {
+      "headline": "What being the new kid taught me about persuasion as a designer",
+      "deck": "People don&#x2019;t say yes to ideas. They say yes to who they get to be.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Nov 2026 12:09:18 GMT"
+    },
+    {
+      "headline": "Every new medium gets called cheating",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
+      "pubDate": "Tue, 10 Nov 2026 12:09:06 GMT"
+    },
+    {
+      "headline": "Human-in-the-Loop Approvals for AI Payments",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/human-in-the-loop-approvals-for-ai-payments-a17ce4c9a20e?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 12:01:02 GMT"
+    },
+    {
+      "headline": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+      "deck": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+      "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "headline": "Louis Rossmann Wants More People to Care About the Right to Repair",
+      "deck": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+      "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "deck": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "headline": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "deck": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "deck": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "headline": "Huupe Mini 2 Review: More Game Than It Can Handle",
+      "deck": "The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/review/huupe-mini-2/",
+      "pubDate": "Tue, 10 Nov 2026 10:08:00 +0000"
+    },
+    {
+      "headline": "Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane",
+      "deck": "NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
+      "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Otter AI can now follow conversations across 30+ languages",
+      "deck": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "headline": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "deck": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "headline": "Valvoline Coupons and Promo Codes for November 2026",
+      "deck": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Rover Promo Codes and Referral Deals for November 2026",
+      "deck": "Score your Rover promo code for November 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/rover-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "deck": "Shop the Naturepedic sale this November 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/naturepedic-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Sam's Club Promo Codes and Membership Deals for November 2026",
+      "deck": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sams-club-coupon/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Office Depot Coupons: $20 Off November 2026",
+      "deck": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Bose Promo Code: 40% Off for November 2026",
+      "deck": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Chirp Discount Codes: 67% Off",
+      "deck": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "deck": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/barkbox-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Sealy Promo Codes: $100 Off",
+      "deck": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals for November 2026 will have you waking up refreshed—and with cash left in your wallet.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sealy-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Babbel Promo Code: Up to 65% Off in November 2026",
+      "deck": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/babbel-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "deck": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/hr-block-coupon/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Braun Promo Codes: 15% Off November 2026",
+      "deck": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/braun-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Casetify Promo Codes | 15% Off November 2026",
+      "deck": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/casetify-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Dyson Promo Codes: 25% Off in November 2026",
+      "deck": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Breville Promo Code: $700 Off | November 2026",
+      "deck": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/breville-promo-code/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Agentic AI in Action- Part 32: One Name, Two Definitions, and a CoCo Skill That Picks the Right One",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/agentic-ai-in-action-part-32-one-name-two-definitions-and-a-coco-skill-that-picks-the-right-one-4b38db5a6077?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:05:17 GMT"
+    },
+    {
+      "headline": "Why Your Self-Hosted vLLM Server Never Says No",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/why-your-self-hosted-vllm-server-never-says-no-b0612bfd32e3?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:05:11 GMT"
+    },
+    {
+      "headline": "Managing Application Logs in Kubernetes: A Practical Guide to Viewing and Troubleshooting Pod Logs",
+      "deck": "Learn how Docker and Kubernetes handle application logs, how to stream live logs, and how to inspect logs when a pod runs multiple&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/managing-application-logs-in-kubernetes-a-practical-guide-to-viewing-and-troubleshooting-pod-logs-8e9a95691f56?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:05:06 GMT"
+    },
+    {
+      "headline": "A trip ‘round NeurIPS 2026 – What Six NeurIPS 2026 Papers Reveal About Building Better AI",
+      "deck": "Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/a-trip-round-neurips-2026-what-six-neurips-2026-papers-reveal-about-building-better-ai-2a6563ba3577?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:05:03 GMT"
+    },
+    {
+      "headline": "Anthropic Abuse Policy",
+      "deck": "Do Tables of Numbers Have Feelings?Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/anthropic-abuse-policy-313daf11db22?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:04:58 GMT"
+    },
+    {
+      "headline": "The World Bank Thinks AI Can Save Developing Nations. They Forgot About the Power Grid.",
+      "deck": "Inside World Bank WDR 2026: Why AI threatens only 4.5% of emerging market jobs, the power grid bottleneck, and the rise of offline Small&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/the-world-bank-thinks-ai-can-save-developing-nations-they-forgot-about-the-power-grid-3611cc34e409?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:04:56 GMT"
+    },
+    {
+      "headline": "Automate ZCode Free Start‑Plan Claims Using zcode‑claim‑9router",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/automate-zcode-free-start-plan-claims-using-zcode-claim-9router-53523204549c?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:04:48 GMT"
+    },
+    {
+      "headline": "AI agents can write the code now. A 1995 Seinfeld episode shows the two things still worth owning.",
+      "deck": "",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/ai-agents-can-write-the-code-now-a-1995-seinfeld-episode-shows-the-two-things-still-worth-owning-b0e0a1de5ea0?source=rss----98111c9905da---4",
+      "pubDate": "Tue, 10 Nov 2026 05:04:43 GMT"
+    },
+    {
+      "headline": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "deck": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "pubDate": "Tue, 10 Nov 2026 05:01:00 +0000"
+    },
+    {
+      "headline": "Anthropic reportedly plans to move forward with IPO plans",
+      "deck": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "pubDate": "Tue, 10 Nov 2026 01:27:12 +0000"
+    },
+    {
+      "headline": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "deck": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000"
+    },
+    {
+      "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "deck": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000"
+    },
+    {
+      "headline": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
+      "deck": "I tested Anthropic&#x2019;s new flagship AI model against Opus 5.5 on a real product design task. Here&#x2019;s what I learned about design quality&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 09 Nov 2026 22:55:33 GMT"
+    },
+    {
+      "headline": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
+      "deck": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "pubDate": "Mon, 09 Nov 2026 22:46:09 +0000"
+    },
+    {
+      "headline": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+      "deck": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "pubDate": "Mon, 09 Nov 2026 22:40:10 +0000"
+    },
+    {
+      "headline": "The race is on to sue Nvidia",
+      "deck": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all ",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "pubDate": "Mon, 09 Nov 2026 22:23:42 +0000"
+    },
+    {
+      "headline": "The Home Depot Best Early Black Friday Deals (2026)",
+      "deck": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
+      "pubDate": "Mon, 09 Nov 2026 22:15:00 +0000"
+    },
+    {
+      "headline": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
+      "deck": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
+      "pubDate": "Mon, 09 Nov 2026 22:00:00 +0000"
+    },
+    {
+      "headline": "The 9 Best TV Shows to Stream This Month (November 2026)",
+      "deck": "Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "pubDate": "Mon, 09 Nov 2026 20:47:28 +0000"
+    },
+    {
+      "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "deck": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "pubDate": "Mon, 09 Nov 2026 20:09:06 +0000"
+    },
+    {
+      "headline": "5 Underrated Claude Code Tools That Fix Its Biggest Problems",
+      "deck": "Claude Code is great for rapid prototyping, but when it comes to production-ready design, Claude has a few problems: the UI it generates&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/5-underrated-claude-code-tools-that-fix-its-biggest-problems-1b6007eddf4f?source=rss----819cc2aaeee0---4",
+      "pubDate": "Mon, 09 Nov 2026 14:27:53 GMT"
     },
     {
       "headline": "Design by numbers, Teaching AI prototyping, Context is the new UI",
@@ -17,390 +401,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
       "pubDate": "Mon, 09 Nov 2026 12:20:07 GMT"
-    },
-    {
-      "headline": "What a ruler leaves out",
-      "deck": "On designing tools as rules &#x2014; and what they quietly subtract from the worldContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Nov 2026 12:13:57 GMT"
-    },
-    {
-      "headline": "Five pairs of hands: what the typesetters can teach designers about AI",
-      "deck": "",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Nov 2026 12:13:36 GMT"
-    },
-    {
-      "headline": "Infinite tokens: the new country club flex",
-      "deck": "Well-chosen constraints organize your thinking.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Nov 2026 12:11:27 GMT"
-    },
-    {
-      "headline": "Before you ship your Wrapped this year",
-      "deck": "What last December&#x2019;s recaps got right, what changed in 2026, and the step almost nobody takes.Continue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
-      "pubDate": "Mon, 09 Nov 2026 12:11:16 GMT"
-    },
-    {
-      "headline": "Phishing Website Detection with Machine Learning: A Step-by-Step PySpark Guide",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/phishing-website-detection-with-machine-learning-a-step-by-step-pyspark-guide-adf7f7945184?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 12:01:02 GMT"
-    },
-    {
-      "headline": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
-      "deck": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
-      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
-      "deck": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
-      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
-      "deck": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
-      "pubDate": "Mon, 09 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Scientists May Have Discovered a Massive Starless Galaxy",
-      "deck": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
-      "pubDate": "Mon, 09 Nov 2026 11:15:00 +0000"
-    },
-    {
-      "headline": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
-      "deck": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
-      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "deck": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "These Robotic Arms Are Powered by Algae. Watch How They Move",
-      "deck": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-      "pubDate": "Mon, 09 Nov 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "The climate case for AI has not been made",
-      "deck": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
-      "deck": "The AI detector will now check your incoming emails for machine-generated text.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office",
-      "deck": "Homeland Security Investigations estimates that it has sent out more administrative subpoenas since January 2025 than it did in more than six and a half years between 2016 and mid-August 2022.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "How to Fine-Tune Qwen2.5 with LoRA and Publish Your Model on Hugging Face: A Step-by-Step Guide",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/how-to-fine-tune-qwen2-5-with-lora-and-publish-your-model-on-hugging-face-a-step-by-step-guide-d7188ed330f8?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:29 GMT"
-    },
-    {
-      "headline": "Claude Code Missed $800K in Contracts. Here’s How to Check Yours​",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-missed-800k-in-contracts-heres-how-to-check-yours-e8090336744b?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:24 GMT"
-    },
-    {
-      "headline": "Beagle Lesson #3: How to Stop an AI Agent from Changing What You Approved",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/beagle-lesson-3-how-to-stop-an-ai-agent-from-changing-what-you-approved-e79593f6fd28?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:18 GMT"
-    },
-    {
-      "headline": "Stop Building AI Agents From Scratch. Try These 12 GitHub Repos",
-      "deck": "I went through the READMEs, release notes and permission scopes of this month&#x2019;s trending agent tools. Most are worth it. A few can quietly&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:14 GMT"
-    },
-    {
-      "headline": "Multi Query Attention vs Grouped Query Attention — Understanding the perfect use case for each and…",
-      "deck": "This is behind the performance of your LLMs!Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/multi-query-attention-vs-grouped-query-attention-understanding-the-perfect-use-case-for-each-and-512b3db186fc?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:08 GMT"
-    },
-    {
-      "headline": "MAP@k vs Precision@k vs MRR: Building Capability to choose the right one for each situation",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/map-k-vs-precision-k-vs-mrr-building-capability-to-choose-the-right-one-for-each-situation-5279e9ad2c8b?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:31:04 GMT"
-    },
-    {
-      "headline": "MRR vs Recall@k vs Precision@k",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/mrr-vs-recall-k-vs-precision-k-c96a35d70df7?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:30:59 GMT"
-    },
-    {
-      "headline": "Building and deploying full blown ChatGPT with ReAct, PostgreSQL, FastAPI, Keycloak and Envoy…",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/building-and-deploying-full-blown-chatgpt-with-react-postgresql-fastapi-keycloak-and-envoy-2199e8038d0d?source=rss----98111c9905da---4",
-      "pubDate": "Mon, 09 Nov 2026 08:30:53 GMT"
-    },
-    {
-      "headline": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "deck": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-      "pubDate": "Mon, 09 Nov 2026 08:00:00 +0000"
-    },
-    {
-      "headline": "Welcome to Weed Island",
-      "deck": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
-      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0000"
-    },
-    {
-      "headline": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "deck": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "pubDate": "Mon, 09 Nov 2026 05:26:29 +0000"
-    },
-    {
-      "headline": "Relic and Gumi: Governing Memory, Safety, and Continuity in Diegetic Relational Agents",
-      "deck": "arXiv:2611.08504v1 Announce Type: new Abstract: Longitudinal relational agents rely on memory for continuity, but remembering can lead to intrusion, clinical overconfidence, emotional manipulation, and opacity. We presen",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08504",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Seeing Is Not Knowing: The Epistemic Limits of LLM-Based Mental Health Inference from Youth Social Media Conversations",
-      "deck": "arXiv:2611.08565v1 Announce Type: new Abstract: Adolescents increasingly use social media for private conversations, sharing experiences and seeking support. These interactions generate digital traces, prompting efforts ",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08565",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Goals as a Representational Layer for Human-AI Collaboration",
-      "deck": "arXiv:2611.08757v1 Announce Type: new Abstract: Goals are central to how people, teams, and organizations structure their work. Yet, while generative artificial intelligence (AI) systems increasingly operate across a wor",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08757",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Learning from How Users Interpret: Personalizing Recommendation Explanation Order",
-      "deck": "arXiv:2611.08785v1 Announce Type: new Abstract: Personalized explanations typically adapt their content or presentation based on preferences, interaction histories, or other user characteristics. We examine whether regul",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08785",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "MotionDecipher: LLM-Assisted Clinical Interpretation of Human Motion Signals for Efficient Gait Analysis",
-      "deck": "arXiv:2611.08795v1 Announce Type: new Abstract: Clinical gait and motion analysis is widely used to guide targeted interventions for patients with neurological disorders, the outcome of which is typically a report with d",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08795",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Driver Takeovers and Longitudinal Responses Analysis from Naturalistic Driving",
-      "deck": "arXiv:2611.08798v1 Announce Type: new Abstract: As Level 2 advanced driver-assistance systems (ADAS) become more widely used, understanding driver-system interaction is increasingly important for traffic safety. However,",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08798",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Lea: An Agent Backbone for Mathematician-Controlled Formalization in Lean",
-      "deck": "arXiv:2611.08849v1 Announce Type: new Abstract: Agentic systems now formalize research-level mathematics in Lean, but they are built for autonomy: the mathematician states a target and inspects a result. The alternative,",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08849",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "\"I had nobody to turn to\": Why LGBTQ+ People Choose (Not) to Use AI Chatbots for Personal Health and Relationship Advice",
-      "deck": "arXiv:2611.08854v1 Announce Type: new Abstract: While there is an abundance of research into large language model (LLM) biases against LGBTQ+ communities, far less research has examined how and why LGBTQ+ people choose t",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08854",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Bidirectional Modeling of mmWave Human Signals for Enhancement & Synthesis",
-      "deck": "arXiv:2611.08870v1 Announce Type: new Abstract: Millimeter-wave (mmWave) is attractive for human-centered robotics in smoke, darkness, and privacy-sensitive indoor spaces: it measures reflections rather than visually ide",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08870",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "The Relational Capacity Framework: A Lens for AI-Mediated Relationality",
-      "deck": "arXiv:2611.08877v1 Announce Type: new Abstract: A growing literature examines the impact of engaging with AI chatbots on our relationality: our ability to form relationships with others, maintain them through life's chan",
-      "source": "arXiv",
-      "category": "academic",
-      "url": "https://arxiv.org/abs/2611.08877",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500"
-    },
-    {
-      "headline": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "deck": "In a memo to the company, Huang admitted that he had an affair.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000"
-    },
-    {
-      "headline": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "deck": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-computer-speakers/",
-      "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "deck": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "deck": "More evidence that magnets are magical.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "pubDate": "Sun, 08 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "deck": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "pubDate": "Sun, 08 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "deck": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-      "pubDate": "Sun, 08 Nov 2026 10:30:00 +0000"
-    },
-    {
-      "headline": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "deck": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "deck": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "deck": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "pubDate": "Sun, 08 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "deck": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "pubDate": "Sat, 07 Nov 2026 22:07:22 +0000"
-    },
-    {
-      "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "deck": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "pubDate": "Sat, 07 Nov 2026 21:17:08 +0000"
-    },
-    {
-      "headline": "Crusoe sells troubled Wyoming data center project to Google",
-      "deck": "The deal highlights the challenges of developing massive AI data centers.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000"
     }
   ]
 }
