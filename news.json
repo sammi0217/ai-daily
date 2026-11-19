@@ -1,198 +1,246 @@
 {
-  "generated_at": "2026-11-18T13:00:02.739Z",
+  "generated_at": "2026-11-19T13:00:02.590Z",
   "count": 50,
   "articles": [
     {
-      "headline": "SFT vs. Knowledge Distillation: Which Generalizes Better in Small LLMs?",
+      "headline": "Cursor AI vs GitHub Copilot vs Claude Code: Which One Should Developers Choose?",
+      "deck": "A few years ago, choosing an AI coding tool was simple. You installed one autocomplete plugin, accepted line suggestions, and kept typing.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/cursor-ai-vs-github-copilot-vs-claude-code-which-one-should-developers-choose-e13427754a8c?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 19 Nov 2026 12:31:01 GMT"
+    },
+    {
+      "headline": "Does AI Tutoring Help Students Learn Without AI?",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/sft-vs-knowledge-distillation-which-generalizes-better-in-small-llms-dfabdfcec3a0?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 12:31:01 GMT"
+      "url": "https://pub.towardsai.net/does-ai-tutoring-help-students-learn-without-ai-7ea9c9b8523d?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 19 Nov 2026 12:01:02 GMT"
     },
     {
-      "headline": "Part 2: Model Interaction Callbacks -Peeking Inside the Brain",
-      "deck": "TL;DR: Intercept what goes into and comes out of the LLM using before_model_callback, after_model_callback, and on_model_error_callback&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/part-2-model-interaction-callbacks-peeking-inside-the-brain-61acf4a33507?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 12:01:03 GMT"
-    },
-    {
-      "headline": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "deck": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "deck": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-under-25-2026/",
-      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "headline": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
-      "deck": "The Nubia Redmagic 12 Pro offers a slick, big-screen experience and long battery life, but there are caveats",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/review/nubia-redmagic-12-pro/",
-      "pubDate": "Wed, 18 Nov 2026 11:45:00 +0000"
-    },
-    {
-      "headline": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "deck": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "I Will Never Stop Playing ‘Grand Theft Auto’",
-      "deck": "The best part of GTA isn’t the hyperviolence or the driving. It’s the friends and family we explode along the way.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/",
-      "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Early Black Friday Deals Under $100 (2026)",
-      "deck": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
-      "pubDate": "Wed, 18 Nov 2026 11:19:00 +0000"
-    },
-    {
-      "headline": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
-      "deck": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
-      "pubDate": "Wed, 18 Nov 2026 11:15:00 +0000"
-    },
-    {
-      "headline": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
-      "deck": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
-      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "This smell startup says its AI nose is as good as a human’s",
-      "deck": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
+      "headline": "A human liver has been kept alive outside the body for a record seven weeks",
+      "deck": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending ",
       "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "pubDate": "Wed, 18 Nov 2026 10:20:30 +0000"
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "Apple HomeView Review (2026): Should’ve Been Better",
-      "deck": "Apple’s HomeView marks a very late arrival to the smart display world, and one that didn’t blow me away.",
+      "headline": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+      "deck": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/review/apple-homeview-review/",
-      "pubDate": "Wed, 18 Nov 2026 10:18:00 +0000"
+      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
-      "deck": "If you’re going to spend a third of your life in bed, it might as well be a smart one. Here are our favorites.",
+      "headline": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "deck": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/gallery/best-smart-bed/",
-      "pubDate": "Wed, 18 Nov 2026 10:07:00 +0000"
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "House Democrats Are Officially Coming for Trump’s Orbit",
-      "deck": "The incoming head of the House Oversight Committee sent record preservation requests to Donald Trump Jr., Eric Trump, JD Vance, Stephen Miller, and other administration officials.",
+      "headline": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "deck": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/",
-      "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "Lovable Wants You to Vibe Code Your Dream Job",
-      "deck": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "headline": "The Best Early Black Friday Deals on Laptops I’ve Tested Myself (2026)",
+      "deck": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
-      "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000"
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+      "pubDate": "Thu, 19 Nov 2026 11:30:00 +0000"
     },
     {
-      "headline": "Loop Earplugs Discount Codes: 25% Off",
-      "deck": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "source": "Wired",
+      "headline": "What a billion-dollar deal says about the US battery market",
+      "deck": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to",
+      "source": "MIT Tech Review",
       "category": "tech",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000"
     },
     {
-      "headline": "Columbia Promo Codes: 15% Off | November 2026",
-      "deck": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "headline": "Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect",
+      "deck": "Dyson’s early Black Friday deals start today, and these are the vacuum deals you don’t want to skip.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000"
     },
     {
-      "headline": "Walmart Promo Codes: 20% Off for November 2026",
-      "deck": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "headline": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+      "deck": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000"
     },
     {
-      "headline": "Birdfy Discount Codes: 15% Off Sitewide",
-      "deck": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "headline": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "deck": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/birdfy-discount-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "pubDate": "Thu, 19 Nov 2026 10:30:00 +0000"
     },
     {
-      "headline": "Priceline Promo Codes & Coupons: 10% Off November 2026",
-      "deck": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "headline": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+      "deck": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+      "pubDate": "Thu, 19 Nov 2026 10:30:00 +0000"
     },
     {
-      "headline": "Squarespace Promo Codes: 55% Off in November 2026",
-      "deck": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "headline": "14 Best Gifts for Travelers Who Have Everything (2026)",
+      "deck": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "pubDate": "Thu, 19 Nov 2026 10:04:00 +0000"
     },
     {
-      "headline": "Maytag Promo Codes: 15% Off Appliances",
-      "deck": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "headline": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+      "deck": "Inspection reports detailing elder care facilities show that little to no worker onboarding can lead to dangerous mistakes and overwhelmed nurses, a WIRED and Proof News investigation has found.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/maytag-promo-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/shiftkey-gig-nursing/",
+      "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000"
     },
     {
-      "headline": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
-      "deck": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "headline": "Lego Promo Code | 20% Off November 2026",
+      "deck": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "headline": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "deck": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "headline": "Reebok Discount Code: 15% Off: November 2026",
+      "deck": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-      "pubDate": "Wed, 18 Nov 2026 05:01:00 +0000"
+      "url": "https://www.wired.com/story/reebok-discount-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "deck": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "TurboTax Full Service Coupons This November 2026",
+      "deck": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Sportsman's Warehouse Promo Code: Save in November 2026",
+      "deck": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "deck": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Home Chef Promo Codes for November 2026",
+      "deck": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Fanatics Promo Code: 10% Off",
+      "deck": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/fanatics-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "50% Off Blue Apron Promo Codes | November 2026",
+      "deck": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/blue-apron-coupon/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Litter-Robot Promo Codes: Up to $150 Off",
+      "deck": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/litter-robot-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026",
+      "deck": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/sony-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "ExpressVPN Coupons: 80% Off",
+      "deck": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/expressvpn-coupons/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Target Promo Code: $50 Off | November 2026",
+      "deck": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/target-promo-code/",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "headline": "Stripe’s AI Software Factory: How 1,300+ Minion PRs Get Merged Each Week",
+      "deck": "The model writes the code. The factory around it makes the code mergeable: what Stripe&#x2019;s Minions teach about AI software factories.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/stripes-ai-software-factory-how-1-300-minion-prs-get-merged-each-week-1adf9fa17cd2?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 19 Nov 2026 05:28:42 GMT"
+    },
+    {
+      "headline": "Always-On Agents mostly Sleep: Anthropic published Building Always-on Agents",
+      "deck": "Anthropic&#x2019;s guide to building always-on AI agents comes down to five parts: an event inbox, timers, memory, unattended permissions, and an&#x2026;Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/always-on-agents-mostly-sleep-anthropic-published-building-always-on-agents-436294465b4a?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 19 Nov 2026 05:28:38 GMT"
+    },
+    {
+      "headline": "PCA Is Just Diagonalizing the Covariance Matrix",
+      "deck": "The principal components are its eigenvectors, and the variance each one carries is its eigenvalue.Continue reading on Towards AI »",
+      "source": "Other",
+      "category": "tech",
+      "url": "https://pub.towardsai.net/pca-is-just-diagonalizing-the-covariance-matrix-6e647ac4a001?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 19 Nov 2026 05:28:36 GMT"
     },
     {
       "headline": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -200,7 +248,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21682",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
@@ -208,7 +256,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21799",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
@@ -216,7 +264,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21827",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
@@ -224,15 +272,15 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21832",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "Language Models Can Rewrite Their Own Weights",
-      "deck": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone on",
+      "deck": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the tas",
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21885",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
@@ -240,7 +288,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21925",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "SLED: Sensor SLicing from Edge to Datacenter",
@@ -248,7 +296,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21937",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
@@ -256,7 +304,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21946",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
@@ -264,7 +312,7 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21948",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
       "headline": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
@@ -272,95 +320,79 @@
       "source": "arXiv",
       "category": "academic",
       "url": "https://arxiv.org/abs/2611.21950",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500"
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500"
     },
     {
-      "headline": "Why Modern LLMs Don’t Look Like the Original Transformer",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/why-modern-llms-dont-look-like-the-original-transformer-291e08903586?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:44 GMT"
-    },
-    {
-      "headline": "Microsoft’s Qubit Now Lasts 20 Seconds. The Hard Question Is Still Open.",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/microsofts-qubit-now-lasts-20-seconds-the-hard-question-is-still-open-9399daa0bcd1?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:39 GMT"
-    },
-    {
-      "headline": "RAG Without Leaving Snowflake",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/rag-without-leaving-snowflake-d705bb7e3025?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:34 GMT"
-    },
-    {
-      "headline": "Does Smarter Tuning Pay Off? Confopt vs Optuna’s Default on 131 Datasets",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/does-a-noise-aware-hyperparameter-search-beat-tpe-confopt-on-131-small-datasets-fe490a7786fa?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:29 GMT"
-    },
-    {
-      "headline": "Unified Radix Cache Explained: One Tree for Full Attention, Sliding Window and Mamba",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/unified-radix-cache-explained-one-tree-for-full-attention-sliding-window-and-mamba-be2035121ddc?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:23 GMT"
-    },
-    {
-      "headline": "Your Dashboard Says “200 OK,” but Your AI Agent Gave the Wrong Answer. Now What?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/your-dashboard-says-200-ok-but-your-ai-agent-gave-the-wrong-answer-now-what-999263cd974c?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:17 GMT"
-    },
-    {
-      "headline": "AI Gives You the Accelerator. But Do We Know Where We Are Going?",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/ai-gives-you-the-accelerator-but-do-we-know-where-we-are-going-26c400b01c37?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:12 GMT"
-    },
-    {
-      "headline": "What Is a Model (And Why a Straight Line Already Counts As One)",
-      "deck": "",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/what-is-a-model-and-why-a-straight-line-already-counts-as-one-jarroba-dc32c20dbb0b?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 18 Nov 2026 03:06:07 GMT"
-    },
-    {
-      "headline": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "deck": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "deck": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000"
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000"
     },
     {
-      "headline": "Nvidia promises that revenue will keep soaring — for now",
-      "deck": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "headline": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+      "deck": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000"
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000"
     },
     {
-      "headline": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
-      "deck": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "headline": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+      "deck": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000"
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000"
+    },
+    {
+      "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "deck": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "pubDate": "Wed, 18 Nov 2026 23:17:28 +0000"
+    },
+    {
+      "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "deck": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000"
+    },
+    {
+      "headline": "CLAUDE.md NEW Best Practices",
+      "deck": "CLAUDE.md is a Markdown file that Claude Code loads every time it works on a project. Before the release of Opus 5.5 and Fable 5.2, this&#x2026;Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 18 Nov 2026 20:47:03 GMT"
+    },
+    {
+      "headline": "If AI works from anywhere, why are we commuting to watch it?",
+      "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+      "pubDate": "Wed, 18 Nov 2026 20:17:39 GMT"
+    },
+    {
+      "headline": "Too Claudified",
+      "deck": "A client rejected my motion work for looking machine-made. I&#x2019;d published the diagnosis five months earlier.Continue reading on UX Collective »",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+      "pubDate": "Wed, 18 Nov 2026 20:17:05 GMT"
+    },
+    {
+      "headline": "GPT-6.2 Astra for UI Design",
+      "deck": "GPT-6.2 Astra is the latest and most powerful AI model from OpenAI.Continue reading on UX Planet »",
+      "source": "UX Planet",
+      "category": "ux",
+      "url": "https://uxplanet.org/gpt-6-2-astra-for-ui-design-5960175a77e7?source=rss----819cc2aaeee0---4",
+      "pubDate": "Wed, 18 Nov 2026 13:32:21 GMT"
     },
     {
       "headline": "What is a researcher’s worth?",
@@ -369,38 +401,6 @@
       "category": "ux",
       "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
       "pubDate": "Tue, 17 Nov 2026 23:26:24 GMT"
-    },
-    {
-      "headline": "Everyone knows sparkles mean AI. Use them to make design audits easier",
-      "deck": "How to decipher your PM&#x2019;s AI-generated mockup without losing hoursContinue reading on UX Collective »",
-      "source": "UX Collective",
-      "category": "ux",
-      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
-      "pubDate": "Tue, 17 Nov 2026 23:25:21 GMT"
-    },
-    {
-      "headline": "Anthropic Just Released New Rules of Claude Code",
-      "deck": "Things move fast in the AI space, and what we considered best practices for Claude Code just a few months ago may already be outdated with&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/anthropic-just-released-new-rules-of-claude-code-d3adc96d4867?source=rss----819cc2aaeee0---4",
-      "pubDate": "Tue, 17 Nov 2026 21:01:18 GMT"
-    },
-    {
-      "headline": "Jev can 10x your Claude Code",
-      "deck": "Jev is a new AI model from a co-inventor of ChatGPT, and this model has created a lot of buzz in the product design & development space&#x2026;Continue reading on UX Planet »",
-      "source": "UX Planet",
-      "category": "ux",
-      "url": "https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4",
-      "pubDate": "Tue, 17 Nov 2026 13:57:50 GMT"
-    },
-    {
-      "headline": "Meet AI 2027 Conference (Dec 1)",
-      "deck": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 a",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-      "pubDate": "Tue, 17 Nov 2026 12:00:00 GMT"
     }
   ]
 }
