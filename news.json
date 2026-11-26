@@ -1,142 +1,14 @@
 {
-  "generated_at": "2026-11-25T13:00:01.861Z",
+  "generated_at": "2026-11-26T13:00:02.770Z",
   "count": 50,
   "articles": [
-    {
-      "headline": "Breaking Out of the Box",
-      "deck": "CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach. Round d",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/breaking-out-of-the-box/",
-      "pubDate": "2026-11-25T13:00:01.838Z"
-    },
-    {
-      "headline": "How to Sell UX Research with Two Simple Questions",
-      "deck": "Do you find yourself designing screens with only a vague idea of how the things on the screen relate to the things elsewhere in the system? Do you leave stakeholder meetings with unclear directives that often seem to con",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/how-to-sell-ux-research/",
-      "pubDate": "2026-11-25T13:00:01.838Z"
-    },
-    {
-      "headline": "A Content Model Is Not a Design System",
-      "deck": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichanne",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
-      "pubDate": "2026-11-25T13:00:01.838Z"
-    },
-    {
-      "headline": "Design for Safety, An Excerpt",
-      "deck": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tec",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/design-for-safety-excerpt/",
-      "pubDate": "2026-11-25T13:00:01.838Z"
-    },
-    {
-      "headline": "Sustainable Web Design, An Excerpt",
-      "deck": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/sustainable-web-design-excerpt/",
-      "pubDate": "2026-11-25T13:00:01.838Z"
-    },
-    {
-      "headline": "Designed for a Dead Language",
-      "deck": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you. In 1788, Prussia introduced ",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "Good designers, bad websites: a proposal",
-      "deck": "I want to discuss accessibility because it is the most important thing for making websites. Other A List Apart articles give you innovation and insight. This article will give you homework. These are just my personal vie",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "Design for Amiability: Lessons from Vienna",
-      "deck": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments. Social media sites",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "Design Dialects: Breaking the Rules, Not the System",
-      "deck": "&#8220;Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.&#8221; — Kenneth L. Pike The web has accents. So should our design sys",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "An Holistic Framework for Shared Design Leadership",
-      "deck": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has the right skills to ta",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "From Beta to Bedrock: Build Products that Stick.",
-      "deck": "As a product builder over too many years to mention, I&#8217;ve lost count of the number of times I&#8217;ve seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months. Financial products,",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "User Research Is Storytelling",
-      "deck": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things that Indiana Jones di",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/user-research-is-storytelling/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
-      "deck": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented a personalization engine. Either way, you’re designing ",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/prepersonalization-workshop/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "The Wax and the Wane of the Web",
-      "deck": "I offer a single bit of advice to friends and family when they become new parents: When you start to think that you’ve got everything figured out, everything will change. Just as you start to get the hang of feedings, di",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/the-wax-and-the-wane-of-the-web/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "Opportunities for AI in Accessibility",
-      "deck": "In reading Joe Dolson’s recent piece on the intersection of AI and accessibility, I absolutely appreciated the skepticism that he has for AI in general as well as for the ways that many have been using it. In fact, I’m v",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/opportunities-for-ai-in-accessibility/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
-    {
-      "headline": "I am a creative.",
-      "deck": "I am a creative. What I do is alchemy. It is a mystery. I do not so much do it, as let it be done through me. I am a creative. Not all creative people like this label. Not all see themselves this way. Some creative peopl",
-      "source": "A List Apart",
-      "category": "ux",
-      "url": "https://alistapart.com/article/i-am-a-creative/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
-    },
     {
       "headline": "Humility: An Essential Value",
       "deck": "Humility, a designer’s essential value—that has a nice ring to it. What about humility, an office manager’s essential value? Or a dentist’s? Or a librarian’s? They all sound great. When humility is our guiding light, the",
       "source": "A List Apart",
       "category": "ux",
       "url": "https://alistapart.com/article/humility-an-essential-value/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
       "headline": "Personalization Pyramid: A Framework for Designing with User Data",
@@ -144,7 +16,7 @@
       "source": "A List Apart",
       "category": "ux",
       "url": "https://alistapart.com/article/personalization-pyramid/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
       "headline": "Mobile-First CSS: Is It Time for a Rethink?",
@@ -152,7 +24,7 @@
       "source": "A List Apart",
       "category": "ux",
       "url": "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
       "headline": "Designers, (Re)define Success First",
@@ -160,247 +32,375 @@
       "source": "A List Apart",
       "category": "ux",
       "url": "https://alistapart.com/article/redefine-success-first/",
-      "pubDate": "2026-11-25T13:00:01.837Z"
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
-      "headline": "RIGHT Way to Create a New Skill for Claude Code",
-      "deck": "A skill is a very powerful way to improve Claude Code&#x2019;s performance when it completes a particular task for you.Continue reading on UX Planet »",
-      "source": "UX Planet",
+      "headline": "Breaking Out of the Box",
+      "deck": "CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach. Round d",
+      "source": "A List Apart",
       "category": "ux",
-      "url": "https://uxplanet.org/right-way-to-create-a-new-skill-for-claude-code-0bbd93e40082?source=rss----819cc2aaeee0---4",
-      "pubDate": "Wed, 25 Nov 2026 12:41:56 GMT"
+      "url": "https://alistapart.com/article/breaking-out-of-the-box/",
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
-      "headline": "Claude Code Skips 5 Screen States Unless You Name Them. Here’s the CLAUDE.md Block I Use.",
-      "deck": "What loading, empty, no results, error and offline should each show, plus the block I paste in and 3 checks that take a minuteContinue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/claude-code-skips-5-screen-states-unless-you-name-them-heres-the-claude-md-block-i-use-ac4018c2f42c?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 12:31:02 GMT"
+      "headline": "How to Sell UX Research with Two Simple Questions",
+      "deck": "Do you find yourself designing screens with only a vague idea of how the things on the screen relate to the things elsewhere in the system? Do you leave stakeholder meetings with unclear directives that often seem to con",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/how-to-sell-ux-research/",
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
-      "headline": "Cancel Your Annual AI Subscription",
-      "deck": "Having the best model around only last so much&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/cancel-your-annual-ai-subscription-f21c967b74ec?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 12:01:02 GMT"
+      "headline": "A Content Model Is Not a Design System",
+      "deck": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichanne",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+      "pubDate": "2026-11-26T13:00:02.720Z"
     },
     {
-      "headline": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
-      "deck": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+      "headline": "Design for Safety, An Excerpt",
+      "deck": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tec",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/design-for-safety-excerpt/",
+      "pubDate": "2026-11-26T13:00:02.720Z"
+    },
+    {
+      "headline": "Sustainable Web Design, An Excerpt",
+      "deck": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+      "pubDate": "2026-11-26T13:00:02.720Z"
+    },
+    {
+      "headline": "Designed for a Dead Language",
+      "deck": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you. In 1788, Prussia introduced ",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/designed-for-a-dead-language/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "Good designers, bad websites: a proposal",
+      "deck": "I want to discuss accessibility because it is the most important thing for making websites. Other A List Apart articles give you innovation and insight. This article will give you homework. These are just my personal vie",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "Design for Amiability: Lessons from Vienna",
+      "deck": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!” to cure your ailments. Social media sites",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/design-for-amiability-lessons-from-vienna/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "Design Dialects: Breaking the Rules, Not the System",
+      "deck": "&#8220;Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.&#8221; — Kenneth L. Pike The web has accents. So should our design sys",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "An Holistic Framework for Shared Design Leadership",
+      "deck": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about whether the team has the right skills to ta",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "From Beta to Bedrock: Build Products that Stick.",
+      "deck": "As a product builder over too many years to mention, I&#8217;ve lost count of the number of times I&#8217;ve seen promising ideas go from zero to hero in a few weeks, only to fizzle out within months. Financial products,",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "User Research Is Storytelling",
+      "deck": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d get to do the things that Indiana Jones di",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/user-research-is-storytelling/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+      "deck": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented a personalization engine. Either way, you’re designing ",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/prepersonalization-workshop/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "The Wax and the Wane of the Web",
+      "deck": "I offer a single bit of advice to friends and family when they become new parents: When you start to think that you’ve got everything figured out, everything will change. Just as you start to get the hang of feedings, di",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/the-wax-and-the-wane-of-the-web/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "Opportunities for AI in Accessibility",
+      "deck": "In reading Joe Dolson’s recent piece on the intersection of AI and accessibility, I absolutely appreciated the skepticism that he has for AI in general as well as for the ways that many have been using it. In fact, I’m v",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/opportunities-for-ai-in-accessibility/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "I am a creative.",
+      "deck": "I am a creative. What I do is alchemy. It is a mystery. I do not so much do it, as let it be done through me. I am a creative. Not all creative people like this label. Not all see themselves this way. Some creative peopl",
+      "source": "A List Apart",
+      "category": "ux",
+      "url": "https://alistapart.com/article/i-am-a-creative/",
+      "pubDate": "2026-11-26T13:00:02.719Z"
+    },
+    {
+      "headline": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "deck": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
       "source": "Wired",
       "category": "tech",
-      "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
-      "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000"
+      "url": "https://www.wired.com/gallery/best-office-chairs/",
+      "pubDate": "Thu, 26 Nov 2026 12:35:00 +0000"
     },
     {
-      "headline": "The 36 Best Gifts for Dads (2026)",
-      "deck": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
-      "pubDate": "Wed, 25 Nov 2026 11:49:00 +0000"
-    },
-    {
-      "headline": "The Best TVs We’ve Tested (2026): Samsung, LG, TCL, Sony, and More.",
-      "deck": "Affordable QLEDs, glorious RGB, premium OLEDs—these are our favorite televisions across every category.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-tvs/",
-      "pubDate": "Wed, 25 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "deck": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "pubDate": "Wed, 25 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "headline": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
-      "deck": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-      "pubDate": "Wed, 25 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
-      "deck": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
-      "pubDate": "Wed, 25 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "headline": "The Best iPhone Duo Cases and Accessories (2026)",
-      "deck": "Protect and enhance your iPhone Duo with one of our favorite cases or accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-iphone-duo-cases-and-accessories/",
-      "pubDate": "Wed, 25 Nov 2026 10:45:00 +0000"
-    },
-    {
-      "headline": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
-      "deck": "Here are 11 independent stores WIRED editors love and the gifts we’d order from them on Shop.com.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/shop-small-gift-guide-2026/",
-      "pubDate": "Wed, 25 Nov 2026 10:32:00 +0000"
-    },
-    {
-      "headline": "The 6 Best Latte Machines for Automatic Espresso Drinks (2026)",
-      "deck": "Whether you want a cappuccino at the push of a button or an iced latte with cold foam, we found a machine that makes it easy.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-latte-and-cappuccino-machines/",
-      "pubDate": "Wed, 25 Nov 2026 10:17:00 +0000"
-    },
-    {
-      "headline": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-      "deck": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-      "pubDate": "Wed, 25 Nov 2026 10:01:00 +0000"
-    },
-    {
-      "headline": "AI is straining America’s open records systems",
-      "deck": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor",
-      "source": "MIT Tech Review",
-      "category": "tech",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
-      "deck": "Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
-      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "headline": "NordVPN Coupons: 75% Off + 3 Months Free",
-      "deck": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Wayfair Coupons: Up to 80% Off November 2026",
-      "deck": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-      "deck": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/noom-promo-code/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Klook Promo Code: 20% Off November 2026",
-      "deck": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/klook-promo-code/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Adidas Promo Code | 60% Off | November 2026",
-      "deck": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Uplift Promo Codes: $300 Off",
-      "deck": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
-      "source": "Wired",
-      "category": "tech",
-      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000"
-    },
-    {
-      "headline": "Late Chunking: Giving RAG Embeddings More Context",
-      "deck": "In a typical RAG pipeline, we split documents into chunks, create an embedding for each chunk, and store the results in a vector database&#x2026;Continue reading on Towards AI »",
-      "source": "Other",
-      "category": "tech",
-      "url": "https://pub.towardsai.net/late-chunking-giving-rag-embeddings-more-context-084b1c5fc934?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 03:47:17 GMT"
-    },
-    {
-      "headline": "Shrinking the KV Cache: An End-to-End Guide to KV Compression, with Deep Dives into TurboQuant and…",
+      "headline": "How a Reviewer Agent Found a Silent Bug in My LLM Eval",
       "deck": "",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/shrinking-the-kv-cache-an-end-to-end-guide-to-kv-compression-with-deep-dives-into-turboquant-and-756639756a1e?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 03:07:25 GMT"
+      "url": "https://pub.towardsai.net/how-a-reviewer-agent-found-a-silent-bug-in-my-llm-eval-a4dc2ed987bc?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 26 Nov 2026 12:31:02 GMT"
     },
     {
-      "headline": "Safe Against What? Evaluating LLM Harmlessness",
+      "headline": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
       "deck": "",
+      "source": "UX Collective",
+      "category": "ux",
+      "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
+      "pubDate": "Thu, 26 Nov 2026 12:18:31 GMT"
+    },
+    {
+      "headline": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
+      "deck": "The slim, convenient magnetic wallets you’ll actually want to stick to the back of your iPhone.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
+      "pubDate": "Thu, 26 Nov 2026 12:15:00 +0000"
+    },
+    {
+      "headline": "The Ultimate Programming Language",
+      "deck": "AI is changing how we write software, and English might be the final abstraction.Continue reading on Towards AI »",
       "source": "Other",
       "category": "tech",
-      "url": "https://pub.towardsai.net/safe-against-what-evaluating-llm-harmlessness-67553d60056d?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 03:07:20 GMT"
+      "url": "https://pub.towardsai.net/the-ultimate-programming-language-bfe64cb6e615?source=rss----98111c9905da---4",
+      "pubDate": "Thu, 26 Nov 2026 12:01:02 GMT"
     },
     {
-      "headline": "Why Do Prompt-Tuning Loops Keep Accepting Regressions?",
-      "deck": "When scores swing as much as real differences, keeping the top scorer mostly keeps a lucky draw, and loops repeat it each round.Continue reading on Towards AI »",
-      "source": "Other",
+      "headline": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "deck": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "source": "Wired",
       "category": "tech",
-      "url": "https://pub.towardsai.net/why-do-prompt-tuning-loops-keep-accepting-regressions-067d875204a7?source=rss----98111c9905da---4",
-      "pubDate": "Wed, 25 Nov 2026 03:07:16 GMT"
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-      "deck": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000"
+      "headline": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
+      "deck": "As a professional keyboard nerd, I’ve tested dozens and dozens of models. One of these eight picks should suit your needs—no matter your budget.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-keyboards/",
+      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000"
     },
     {
-      "headline": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "deck": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000"
+      "headline": "A First Drive With the Fiat Topolino in New York City",
+      "deck": "Fiat’s $15,000, 25-mph electric quadricycle is built for beach towns and gated communities. Naturally, I took it across the Manhattan Bridge.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+      "pubDate": "Thu, 26 Nov 2026 11:45:00 +0000"
     },
     {
-      "headline": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-      "deck": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "pubDate": "Tue, 24 Nov 2026 21:48:27 +0000"
+      "headline": "Best Gaming Mouse (2026): My Picks After Testing Dozens of Mice",
+      "deck": "From ergonomic to ultralight, we’ve tested dozens of the best gaming mice to find the absolute best for the style of gaming you prefer.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/best-gaming-mouse/",
+      "pubDate": "Thu, 26 Nov 2026 11:30:00 +0000"
     },
     {
-      "headline": "Even the best AI agents struggle with everyday life",
-      "deck": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "source": "TechCrunch",
-      "category": "ai",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000"
+      "headline": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
+      "deck": "Everyone loves Thuma bed frames for their Japanese-style joinery, but they’re pricey. We tested six less expensive frames with similar quality and performance.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
+      "pubDate": "Thu, 26 Nov 2026 11:15:00 +0000"
     },
     {
-      "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "deck": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "headline": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "deck": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "pubDate": "Thu, 26 Nov 2026 10:51:27 +0000"
+    },
+    {
+      "headline": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "deck": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-robot-vacuum/",
+      "pubDate": "Thu, 26 Nov 2026 10:44:00 +0000"
+    },
+    {
+      "headline": "How Do Cooking Pros Decide the ‘Best’ Recipe for Something?",
+      "deck": "It requires a lot of research, trial and error, and even some creative writing to afford you the best and most consistent results.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/how-do-cooking-pros-decide-what-the-best-recipe-is/",
+      "pubDate": "Thu, 26 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "headline": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
+      "deck": "Looking for the best bed frame? Our top recommendation is the Classic Bed from Thuma, but we’ve got options for all budgets and tastes.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/best-bed-frames/",
+      "pubDate": "Thu, 26 Nov 2026 10:19:00 +0000"
+    },
+    {
+      "headline": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
+      "deck": "This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.",
+      "source": "Wired",
+      "category": "tech",
+      "url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
+      "pubDate": "Thu, 26 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "headline": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "deck": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execut",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "deck": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "deck": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conserva",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31329",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "deck": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on stati",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "deck": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benc",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31346",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "deck": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31347",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "deck": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on ta",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "deck": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31427",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "Taxi: Analyzing Agents at (Real) Scale",
+      "deck": "arXiv:2611.31457v1 Announce Type: new Abstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to millions of steps efficiently. This is made ",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31457",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+      "deck": "arXiv:2611.31475v1 Announce Type: new Abstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal larg",
+      "source": "arXiv",
+      "category": "academic",
+      "url": "https://arxiv.org/abs/2611.31475",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500"
+    },
+    {
+      "headline": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+      "deck": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "source": "TechCrunch",
       "category": "ai",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000"
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000"
+    },
+    {
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "deck": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "pubDate": "Wed, 25 Nov 2026 20:03:27 +0000"
+    },
+    {
+      "headline": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+      "deck": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000"
+    },
+    {
+      "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "deck": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000"
+    },
+    {
+      "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "deck": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "source": "TechCrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000"
     }
   ]
 }
